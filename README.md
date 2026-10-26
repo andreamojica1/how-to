@@ -96,6 +96,54 @@ Registrar el dominio propio de tu organización para publicar tus landings con t
 
 - [Guía de Dominios](./dominios/dominios-guide.md)
 
+### [Data](./data/)
+
+Las herramientas para organizar, importar, descargar y analizar la información de tu organización.
+
+- [Guía de Tags](./data/tags-guide.md)
+- [Guía de Importaciones](./data/importaciones-guide.md)
+- [Guía de Descargas](./data/descargas-guide.md)
+- [Guía de Reporte general](./data/reporte-general-guide.md)
+
+### [AI](./ia/)
+
+Las herramientas de inteligencia artificial de Afrus: entrenamiento, envíos, chat, agentes, firmas, galería y plantillas.
+
+- [Guía de Entrenamiento (AI RAG)](./ia/entrenamiento-ai-guide.md)
+- [Guía de Blast de AI](./ia/blast-de-ai-guide.md)
+- [Guía de Chat con AI](./ia/chat-con-ai-guide.md)
+- [Guía de Agentes para la web](./ia/agentes-para-la-web-guide.md)
+- [Guía de Firmas de usuarios](./ia/firmas-de-usuarios-guide.md)
+- [Guía de Galería para AI](./ia/galeria-para-ai-guide.md)
+- [Guía de Plantillas AI Email](./ia/plantillas-ai-email-guide.md)
+
+### [Interacciones](./interacciones/)
+
+Los correos automáticos, los envíos masivos y las plantillas de tu organización.
+
+- [Guía de Autoresponders](./interacciones/autoresponders-guide.md)
+- [Guía de Blast](./interacciones/blast-guide.md)
+- [Guía de Plantillas Afrus](./interacciones/plantillas-afrus-guide.md)
+
+### [Trackers](./trackers/)
+
+Las pantallas para revisar qué está procesando Afrus y qué se envió.
+
+- [Guía de Procesos en ejecucion](./trackers/procesos-en-ejecucion-guide.md)
+- [Guía de Logs de interacciones](./trackers/logs-de-interacciones-guide.md)
+- [Guía de Logs de analytics](./trackers/logs-de-analytics-guide.md)
+- [Guía de Monitor de interacciones](./trackers/monitor-de-interacciones-guide.md)
+
+### [Configuración](./configuracion/)
+
+Los ajustes de tu organización: pasarelas de pago, moneda, campos personalizados, correo y cobros recurrentes.
+
+- [Guía de Pasarelas de pago](./configuracion/pasarelas-de-pago-guide.md)
+- [Guía de Moneda de la organización](./configuracion/moneda-de-organizacion-guide.md)
+- [Guía de Campos personalizados](./configuracion/campos-personalizados-guide.md)
+- [Guía de Automatización Onboarding](./configuracion/automatizacion-onboarding-guide.md)
+- [Guía de Servicio de recurrencia](./configuracion/servicio-de-recurrencia-guide.md)
+
 ---
 
 *Última actualización del índice: 2026-10-26*
