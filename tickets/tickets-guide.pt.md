@@ -37,7 +37,7 @@ Para vender tickets você precisa de duas coisas: a rifa (o Ticket, com sua faix
 ### Parte 1 — Crie a rifa
 
 1. **Abra Tickets.** Acesse **Fundraising > Tickets** e clique em "Crear Ticket" (Criar ticket).
-   <!-- captura pendente: como-criar-um-widget-de-produto-01 — lista de Tickets com o botão Crear Ticket -->
+   ![Tela Tickets com o botão Crear Ticket e a lista de tickets](img/como-crear-un-widget-de-producto-01.webp)
 
 2. **Dê um nome.** Preencha **Nombre** (Nome, no mínimo 3 caracteres).
 
@@ -79,7 +79,7 @@ Ao terminar, no widget o doador escolhe quantos tickets quer. Na página final, 
 
 1. **Abra o editor do seu autoresponder.** Acesse **Interacciones > Autoresponders** e abra o autoresponder.
 2. **Abra o mapa de merge tags.** Abra **Merge tags** (**Mapa de merge tags**) e procure a categoria **Merge Tags de Rifas** (Merge tags de rifas). Ao clicar em um cartão, o merge tag é copiado.
-   <!-- captura pendente: como-incluir-ticket-no-autoresponder-02 — categoria Merge Tags de Rifas no mapa -->
+   ![Mapa de merge tags com a categoria de rifas selecionada](img/como-incluir-ticket-en-autoresponder-02.webp)
 3. **Cole os merge tags no seu texto.** Escreva-os exatamente assim:
 
    | Merge tag | Nome no mapa | O que mostra |

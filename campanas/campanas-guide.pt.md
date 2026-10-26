@@ -64,7 +64,7 @@ Assim, todos os widgets da campanha podem levar o doador para a mesma página de
 
 1. **Abra a campanha.** Em **Fundraising > Campañas**, abra o menu de três pontos da linha e escolha **Editar**.
 2. **Vá até a aba Página de agradecimiento (Página de agradecimento).** Ela também aparece ao criar a campanha.
-   <!-- captura pendente: como-vincular-uma-pagina-de-agradecimento-a-uma-campanha-02 — aba Página de agradecimiento -->
+   ![Aba Página de agradecimiento da campanha com o tipo de página e a landing escolhida](img/como-vincular-una-pagina-de-agradecimiento-a-una-campana-02.webp)
 3. **Escolha o tipo de página.** Em **Tipo**, escolha **Experiences** ou **Landings**.
 4. **Escolha a página.** Em **Elegir una experiencia** (Escolher uma experiência) ou **Elegir una landing** (Escolher uma landing), selecione a página. Você verá uma prévia **Mobile**.
 5. **Clique em "Usar plantilla" (Usar modelo).** Esse botão não mostra mensagem de confirmação: para conferir se ficou salvo, recarregue a campanha e veja se a aba mostra a página escolhida.
@@ -101,7 +101,7 @@ E duas formas de definir a meta, em **Tipo de meta**:
 **Como configurar:**
 
 1. **Abra o configurador.** Em **Fundraising > Campañas**, abra o menu de três pontos da linha e escolha **Crowdfunding widget**.
-   <!-- captura pendente: o-que-e-o-crowdfunding-widget-01 — configurador do Crowdfunding widget -->
+   ![Configurador do Crowdfunding widget com Tipo de componente, Tipo de meta e o botão Copiar código de inserción](img/que-es-el-crowdfunding-widget-01.webp)
 2. **Configure a meta.** Na aba **Configuración** (Configuração), escolha **Tipo de componente** e **Tipo de meta**, e preencha os dados pedidos.
 3. **Ajuste o visual.** Na aba **Estilos**, escolha **Tipografía** (Fonte: Roboto, Arial, Open Sans ou Times New Roman), **Tamaño de tipografía** (Tamanho da fonte, de 12 a 20) e **Color primario** (Cor primária), para combinar com o seu site.
 4. **Salve.** Clique em "Guardar" (Salvar). Cada salvamento cria uma nova versão, que você pode escolher em **Versiones** (Versões).
@@ -118,7 +118,7 @@ E duas formas de definir a meta, em **Tipo de meta**:
 **Como configurar:**
 
 1. **Abra o configurador.** Em **Fundraising > Campañas**, abra o menu de três pontos da linha e escolha **Componente donantes**.
-   <!-- captura pendente: o-que-e-o-componente-de-doadores-01 — configurador do Componente donantes -->
+   ![Configurador do Componente donantes com o título, a tipografia, a cor e a pré-visualização](img/que-es-el-componente-donantes-01.webp)
 2. **Personalize.** Configure **Título**, **Tipografía** (Fonte), **Color primario** (Cor primária), o tema **Light** ou **Dark** e a chave **Activo** / **Inactivo** (Ativo / Inativo). A prévia usa nomes de exemplo, não seus doadores reais.
 3. **Salve.** Clique em "Guardar" (ou "Actualizar" — Atualizar — se já existia).
 4. **Copie o código** de incorporação e cole no seu site.
@@ -140,7 +140,7 @@ Na campanha, o centro de custos é a aba **Costos** (Custos): *"Agrega en esta s
 **Como registrar um custo:**
 
 1. **Abra a campanha** e vá até a aba **Costos**.
-   <!-- captura pendente: centro-de-custos-da-campanha-01 — aba Costos -->
+   ![Aba Costos com a lista de custos, o total e o botão Agregar costo](img/centro-de-costos-de-una-campana-01.webp)
 2. **Clique em "Agregar costo" (Adicionar custo).**
 3. **Preencha os dados.**
    - **Costo** (Custo): obrigatório, maior que 0.
@@ -163,7 +163,7 @@ Ao terminar, o custo aparece em **Lista de costos** (Lista de custos — colunas
 **Como abrir e usar:**
 
 1. **Abra o painel.** No detalhe da campanha, clique em "Ver Analytics".
-   <!-- captura pendente: analytics-de-campanhas-01 — painel de Analytics, aba Resumen -->
+   ![Painel de Analytics na aba Resumen com receita, custo e resultado](img/analytics-de-campanas-01.webp)
 2. **Escolha o período.** Na aba **Resumen** (Resumo), escolha o período (por padrão, todo o histórico). Os cartões de indicadores são recalculados para esse período.
 3. **Baixe os indicadores (opcional).** Clique em "Descargar KPIs" (Baixar KPIs) para baixar um arquivo CSV com todos os indicadores do período (colunas KPI, Valor e Unidade).
 4. **Veja um widget em detalhe.** Em **Rendimiento por Widget** (Desempenho por widget), clique em um widget para abrir o **Analytics del Widget**: os mesmos indicadores, só desse widget e dos custos dele.
@@ -225,7 +225,7 @@ Se ainda não houver assinaturas canceladas, a tela usa um valor de referência 
 **Como criar um KPI Transacional:**
 
 1. **Abra a aba.** Na campanha, vá até **KPI Merge Tag**, seção **KPI Transaccional** e clique em "Agregar KPI Merge Tag" (Adicionar KPI Merge Tag).
-   <!-- captura pendente: kpi-merge-tags-01 — construtor de fórmula -->
+   ![Formulário Crear KPI Merge Tag com o construtor de fórmula](img/kpi-merge-tags-01.webp)
 2. **Dê um nome.** Digite **Nombre del KPI** (Nome do KPI) e uma **Descripción** opcional. Em **Variable generada** (Variável gerada) você verá a tag que vai usar.
 3. **Monte a fórmula.** Em **Constructor de Fórmula** (Construtor de fórmula), alterne "Agregar Variable" (Adicionar variável) e "Agregar Operador" (Adicionar operador: +, -, ×, ÷). A variável disponível é **Monto**. Com "Agregar Variable Multiplicador" (Adicionar variável multiplicadora) você cria uma constante (**Nombre de la variable** e **Valor constante**) para usar na fórmula. "Limpiar" (Limpar) e "Quitar Último" (Remover último) ajudam a corrigir. A fórmula deve terminar em uma variável.
 4. **Clique em "Crear" (Criar)** (ou "Actualizar" se estiver editando).

@@ -39,7 +39,7 @@ Subscriptions themselves (the commitment to give every month) are not here: you 
 - at least one user with a signature set up in **AI > Firmas de usuarios** (User signatures). Only those users appear as senders.
 
 1. **Open the thank-you.** In **Transacciones**, open the three-dot menu at the start of the row and choose **Agradecimiento personalizado IA** (AI personalized thank-you). You can also use the sparkle-icon button next to the **Exitoso** status.
-   <!-- screenshot pending: how-to-create-an-ai-thank-you-from-transactions-01 — row menu with Agradecimiento personalizado IA -->
+   ![Three-dot menu of a transaction with the Agradecimiento personalizado IA option](img/como-crear-un-agradecimiento-con-ia-desde-transacciones-01.webp)
 2. **Choose the sender.** In the step **Seleccionar el remitente con el que enviarás el agradecimiento** (Select the sender), choose a user and click "Continuar" (Continue). The email is sent from that user's signature address.
 3. **Wait for the draft.** You will see *AI preparando tu mensaje* (AI preparing your message) while the AI writes the email.
 4. **Review and edit.** Adjust **Asunto** (Subject, up to 128 characters) and **Cuerpo del correo** (Email body, up to 1600). "Regenerar" (Regenerate) asks for another version of each field; "Volver" (Back) returns to the previous step.
@@ -59,7 +59,7 @@ When you finish you will see *Mensaje enviado* / *"El agradecimiento se ha envia
 - your user to have permission for banking operations on transactions. Without it the refund fails: ask an administrator in your organization to do it.
 
 1. **Open the row menu.** In **Transacciones**, find the donation, open the three-dot menu at the start of the row and choose **Reembolsar**.
-   <!-- screenshot pending: how-to-refund-a-donation-01 — row menu with Reembolsar -->
+   ![Three-dot menu of a successful transaction with the Reembolsar option](img/como-reembolsar-una-donacion-01.webp)
 2. **Confirm.** In the **Reembolsar Cargo** (Refund charge) dialog (*"Estas seguro que deseas reembolsar este cargo?"* — Are you sure you want to refund this charge?), click "Confirmar" (Confirm). To cancel, click "Cerrar" (Close).
 
 When you finish you will see *"Reembolsado con éxito."* (Refunded successfully) and the transaction changes to **Reembolsado** (Refunded). If the donation had a valid donation certificate, it is voided. If the gateway rejects the refund, you will see *"Error al reembolsar el cargo."* (Error refunding the charge) and the transaction does not change.
@@ -75,7 +75,7 @@ When you finish you will see *"Reembolsado con éxito."* (Refunded successfully)
 > **Important:** when you mark a transaction as fraud, **the people (donors) linked to it are deleted from your database**, even if they have other legitimate donations. Check carefully before confirming.
 
 1. **Select the transactions.** In the **Transacciones** table, tick the box of one or more rows on the page.
-   <!-- screenshot pending: how-to-mark-a-transaction-as-fraud-01 — selected rows and Acciones transacciones menu -->
+   ![Two selected transactions and the Acciones transacciones menu open with Marcar como Fraude](img/como-marcar-como-fraude-una-transaccion-01.webp)
 2. **Choose the action.** Click "Acciones transacciones" (Transaction actions) and choose **Marcar como Fraude** (Mark as fraud). It is disabled if nothing is selected.
 3. **Confirm.** In the **Marcar como fraude** dialog, read the warning (*"…Esta acción no se puede deshacer."* — This action cannot be undone) and click "Confirmar".
 
@@ -91,7 +91,7 @@ When you finish you will see *Transacciones marcadas como fraude* (Transactions 
 
 1. **Filter what you need.** Set the dates, search and filters (see "How to filter a group of transactions").
 2. **Select the transactions.** Tick the rows you want. To export everything filtered, tick the header box and click "Seleccionar las N transacciones de la base."
-   <!-- screenshot pending: how-to-download-a-group-of-transactions-02 — select whole database -->
+   ![Header checkbox checked and the link to select every transaction in the database](img/como-descargar-un-grupo-de-transacciones-02.webp)
 3. **Export.** Click "Acciones transacciones" and choose **Exportar** (Export). It is disabled if nothing is selected.
 4. **Confirm the file.** In the **Descargas** (Downloads) dialog, choose **Tipo de archivo** (File type) and click "Confirmar". You will see *Exportar archivo* (*"El proceso de exportacion ha comenzado…"* — the export has started and may take a few minutes).
 5. **Download the file.** Go to **Data > Descargas** and download it when it is ready.
@@ -105,7 +105,7 @@ You will get an Excel file. If you selected individual rows, it contains exactly
 ## How to filter a group of transactions
 
 1. **Choose the period.** In the date bar, click **1W**, **4W**, **1Y**, **MTD**, **QTD**, **YTD**, **ALL** or **PERSONALIZADO** (custom). The default is **MTD** (from the start of the month to today). The period applies to the transaction's **Fecha inicial** (Start date), in your time zone.
-   <!-- screenshot pending: how-to-filter-a-group-of-transactions-01 — date bar and filter row -->
+   ![Date bar with the periods and the Transacciones filter row](img/como-filtrar-un-grupo-de-transacciones-01.webp)
 2. **Search (optional).** Use **Buscar por** (Search by) with **Nombre** (Name), **Documento de identidad** (ID document), **Correo electrónico** (Email), **Teléfono** (Phone) or **ID de transaccion** (Transaction ID).
 3. **Apply filters.** In the row with the funnel icon choose:
    - **Tipo** (Type): **Unicas** (One-time) / **Cargos** (Charges)
@@ -125,7 +125,7 @@ The table and totals are recalculated. Filters are kept in the page address, so 
 The list has no reason column: the reason is in the transaction details.
 
 1. **Open the details.** In the row of a **Fallido** (Failed) or **Rechazada** (Rejected) transaction, open the three-dot menu and choose **Detalles** (Details), or click the **ID**. It opens in a new tab.
-   <!-- screenshot pending: how-to-find-out-why-a-transaction-failed-01 — details with the Resultado de suscripción card -->
+   ![Details of a failed transaction with the Resultado de suscripción card and the AI analysis](img/como-saber-la-razon-del-fallo-de-una-transaccion-01.webp)
 2. **Read the AI explanation.** The **Resultado de suscripción** card (**Analisis de la respuesta con IA** — AI analysis of the response) explains in plain language what the gateway answered. It requires an active **Business profile**; otherwise you will see *Activación necesaria para ver la respuesta con IA* (Activation required) and the "Ir a business profile" button.
 3. **Check the original response.** Under **Respuesta** > **Respuesta Gateway** (Gateway response) is the gateway's response, with the decline code or message it sent.
 

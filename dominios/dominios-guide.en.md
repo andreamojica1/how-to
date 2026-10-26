@@ -48,7 +48,7 @@ As the screen itself says: *"Asocia un dominio propio para que tus landing pages
 ### Part 2 — In Afrus
 
 3. **Open Domains.** Go to **Fundraising > Dominios**.
-   <!-- screenshot pending: how-to-add-and-set-up-my-domain-03 — Agregar dominio personalizado card -->
+   ![Agregar dominio personalizado card with the domain field and the Agregar dominio button](img/como-agregar-y-configurar-mi-dominio-03.webp)
 
 4. **Type your domain.** In the **Agregar dominio personalizado** (Add custom domain) card, in the field under *"¿Cuál es el dominio que te gustaría usar con afrus?"* (Which domain would you like to use with afrus?), type your domain without `http://`, `https://`, slashes or paths, for example `donate.myorganization.org`. The field turns everything into lowercase.
 

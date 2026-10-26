@@ -43,7 +43,7 @@ As pessoas marcadas como spam (veja **Follow up > Leads spam**) não são regist
 ## Como revisar e exportar as transações abandonadas
 
 1. **Abra a lista.** Acesse **Follow up > Transacciones abandonadas**.
-   <!-- captura pendente: transacciones-abandonadas-01 — lista de Transacciones abandonadas -->
+   ![Lista de Transacciones abandonadas com os botões Crear persona, Acciones e Ver procesos](img/transacciones-abandonadas-01.webp)
 2. **Escolha as datas.** Por padrão aparece o mês atual. O filtro usa a data em que o abandono foi registrado.
 3. **Selecione as linhas.** Marque as que quiser, ou selecione todas pelo aviso de seleção.
 4. **Exporte.** Clique em "Acciones" (Ações) e escolha **Exportar**. O arquivo é gerado em **Descargas**.

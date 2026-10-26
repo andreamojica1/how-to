@@ -66,7 +66,7 @@ O botão "Enviar blast masivo" (Enviar blast em massa) fica bloqueado até que d
 Para escrever primeiro a um contato pelo WhatsApp Business, você precisa de um modelo aprovado pela Meta.
 
 1. **Abra os modelos.** Em **WhatsApp Business > Blast**, seção **Plantillas de WhatsApp Meta**, clique em "Crear plantilla" (Criar modelo).
-   <!-- captura pendente: como-criar-um-modelo-do-whatsapp-business-01 — seção Plantillas de WhatsApp Meta -->
+   ![Seção Plantillas de WhatsApp Meta com o botão Crear plantilla](img/como-crear-una-plantilla-de-whatsapp-business-01.webp)
 
 2. **Preencha as informações básicas.** Em **Información básica**, digite o **Nombre de la plantilla** (nome do modelo: só letras minúsculas, números e sublinhados, começando com letra), escolha a **Categoría** (**Marketing**, **Utilidad** — Utilidade — ou **Autenticación** — Autenticação) e o **Idioma del mensaje** (idioma da mensagem). Clique em "Continuar".
 
@@ -95,7 +95,7 @@ Ao terminar, você verá *"Plantilla enviada para aprobación"* (Modelo enviado 
 ### Parte 1 — Crie o envio
 
 1. **Inicie o envio.** Em **WhatsApp Business > Blast**, clique em "Enviar blast masivo". A criação do envio abre com o canal **WhatsApp Business** já escolhido.
-   <!-- captura pendente: como-fazer-um-envio-em-massa-pelo-whatsapp-business-01 — botão Enviar blast masivo no painel -->
+   ![Painel do WhatsApp Business com o botão Enviar blast masivo](img/como-hacer-un-envio-masivo-por-whatsapp-business-01.webp)
 
 2. **Dê um nome e escolha os destinatários.** Preencha **Nombre del envío** (nome do envio), escolha o segmento em **Seleccionar segmento** (Selecionar segmento) e clique em "Continuar".
 

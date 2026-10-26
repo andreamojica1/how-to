@@ -38,7 +38,7 @@ O Business profile é criado com um assistente de 7 etapas: **URL**, **Contacto*
 > **Importante:** durante a criação, nada é salvo até você clicar em "Guardar" (Salvar) na última etapa. Se você sair antes, os dados preenchidos não ficam salvos.
 
 1. **Abra o Business profile.** No menu de perfil (canto superior), escolha **Business profile**. Acima do assistente você verá o **Estado** (Status); se ainda não criou, ele mostra **Incompleto**.
-   <!-- captura pendente: como-criar-o-business-profile-01 — menu de perfil com a opção Business profile -->
+   ![Menu de perfil aberto com a opção Business profile](img/como-crear-el-business-profile-01.webp)
 
 2. **Escolha sua URL.** Na etapa **URL**, digite a parte final do endereço no campo **URL del negocio** (URL do negócio) — o início do endereço é fixo — e clique em "Continuar". A Afrus verifica se ela está livre; se já estiver em uso, você verá *"La URL no está disponible"* (A URL não está disponível) e precisará escolher outra.
 
@@ -76,7 +76,7 @@ O Business profile não tem um seletor de widgets próprio. A página mostra aut
 Por isso, para mudar o que aparece na sua página, você escolhe qual widget é o padrão em **Widgets**.
 
 1. **Abra seus widgets.** Acesse **Fundraising > Widgets**.
-   <!-- captura pendente: como-configurar-os-widgets-do-business-profile-01 — lista de widgets -->
+   ![Lista Gestión de Widgets com o filtro Por defecto](img/como-configurar-los-widgets-del-business-profile-01.webp)
 
 2. **Encontre o widget que quer mostrar.** Você pode usar o filtro **Por defecto** (Padrão) / **No predeterminado** (Não padrão) para ver qual está marcado hoje. O widget padrão tem uma estrela ao lado do nome.
 

@@ -33,7 +33,7 @@ Depois de ler este guia, você vai saber o que é **Importaciones - itaú** (Imp
 ## Qual é o processo para criar uma importação
 
 1. **Abra Importações.** Acesse **Follow up > Importaciones - itaú** e clique em "Crear importación" (Criar importação).
-   <!-- captura pendente: como-criar-uma-importacao-itau-01 — lista Importaciones com o botão Crear importación -->
+   ![Lista Importaciones com o botão Crear importación](img/como-crear-una-importacion-itau-01.webp)
 
 2. **Confira o tipo.** Em **Tipo de importación** (Tipo de importação), deixe **Boleto** (é a única opção).
 

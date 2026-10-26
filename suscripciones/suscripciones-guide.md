@@ -33,7 +33,7 @@ Desde aquí puedes buscar y filtrar suscripciones, exportarlas, marcarlas como f
 ## Cómo filtrar un grupo de suscripciones
 
 1. **Abre el módulo.** Entra a **Suscripciones**.
-   <!-- captura pendiente: como-filtrar-un-grupo-de-suscripciones-01 — lista de suscripciones con la barra de fechas y la fila de filtros -->
+   ![Lista de suscripciones con la barra de fechas y la fila de filtros](img/como-filtrar-un-grupo-de-suscripciones-01.webp)
 
 2. **Elige el rango de fechas.** Usa la barra de fechas: **1W**, **4W**, **1Y**, **MTD**, **QTD**, **YTD**, **ALL** o **PERSONALIZADO** (con **DESDE** y **HASTA**). Por defecto verás el mes en curso (**MTD**).
 
@@ -64,7 +64,7 @@ Al terminar verás la tabla y el contador actualizados. Los filtros quedan guard
 2. **Elige qué vas a exportar.** "Exportar" está desactivado hasta que marques al menos una fila.
    - Para exportar solo algunas, marca su casilla.
    - Para exportar todo lo filtrado, marca la casilla de la cabecera (selecciona la página) y luego haz clic en **Seleccionar las N subscripciones de la base.** Verás *"Las N subscripciones de tu base estan seleccionadas"*.
-   <!-- captura pendiente: como-descargar-un-grupo-de-suscripciones-02 — mensaje de selección de toda la base -->
+   ![Mensaje para seleccionar todas las suscripciones de la base](img/como-descargar-un-grupo-de-suscripciones-02.webp)
 
 3. **Exporta.** Haz clic en "Acciones" y elige **Exportar**.
 
@@ -83,7 +83,7 @@ Al terminar tendrás un archivo Excel (.xlsx) con una fila por suscripción. Los
 ## Cómo cambiar la fecha de cobro de una suscripción
 
 1. **Abre la suscripción.** En **Suscripciones**, haz clic en el **ID** de la fila.
-   <!-- captura pendiente: como-cambiar-la-fecha-de-cobro-01 — detalle de la suscripción con los botones Enviar Mensaje, Modificar y Cancelar Suscripción -->
+   ![Detalle de la suscripción con los botones Enviar Mensaje, Modificar y Cancelar Suscripción](img/como-cambiar-la-fecha-de-cobro-01.webp)
 
 2. **Pulsa "Modificar".** Según cómo esté conectada la pasarela de esa suscripción, se abre una de estas tres ventanas:
 
@@ -120,7 +120,7 @@ Al terminar verás *"Suscripción actualizada correctamente."* o *"Suscripción 
 1. **Abre la suscripción.** En **Suscripciones**, haz clic en el **ID** de la fila.
 
 2. **Pulsa "Cancelar Suscripción".** Es el texto en rojo del detalle.
-   <!-- captura pendiente: como-cancelar-una-suscripcion-02 — botón Cancelar Suscripción en el detalle -->
+   ![Botón Cancelar Suscripción en el detalle de la suscripción](img/como-cancelar-una-suscripcion-02.webp)
 
 3. **Confirma.** En la ventana *"¿Estás seguro de que deseas cancelar tu suscripción?"*, pulsa "Confirmar" (o "Cerrar" para salir sin cancelar).
 
@@ -145,7 +145,7 @@ Al terminar verás *"La suscripción se ha cancelado correctamente"*. La suscrip
 1. **Selecciona las suscripciones.** En **Suscripciones**, marca la casilla de cada una. Sin ninguna marcada, las opciones de "Acciones" están desactivadas.
 
 2. **Elige la acción.** Haz clic en "Acciones" y elige **Marcar como Fraude**.
-   <!-- captura pendiente: como-marcar-como-fraude-una-suscripcion-02 — menú Acciones con Marcar como Fraude -->
+   ![Menú Acciones con la opción Marcar como Fraude](img/como-marcar-como-fraude-una-suscripcion-02.webp)
 
 3. **Confirma.** En la ventana **Marcar como fraude** pulsa "Confirmar". La ventana habla de "transacción(es)": es normal, aplica a las suscripciones que marcaste.
 

@@ -31,7 +31,7 @@ Es el último paso del recorrido de **Follow up > Boleto Itaú**: generas los bo
 ## Cuál es el proceso para crear una importación
 
 1. **Abre Importaciones.** Entra a **Follow up > Importaciones - itaú** y pulsa "Crear importación".
-   <!-- captura pendiente: como-crear-una-importacion-itau-01 — lista Importaciones con el botón Crear importación -->
+   ![Lista Importaciones con el botón Crear importación](img/como-crear-una-importacion-itau-01.webp)
 
 2. **Revisa el tipo.** En **Tipo de importación** deja **Boleto** (es la única opción).
 

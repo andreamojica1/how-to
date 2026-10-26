@@ -33,7 +33,7 @@ It is the last step of the **Follow up > Boleto Itaú** journey: you generate th
 ## What the process is to create an import
 
 1. **Open Imports.** Go to **Follow up > Importaciones - itaú** and click "Crear importación" (Create import).
-   <!-- screenshot pending: how-to-create-an-itau-import-01 — Importaciones list with the Crear importación button -->
+   ![Importaciones list with the Crear importación button](img/como-crear-una-importacion-itau-01.webp)
 
 2. **Check the type.** In **Tipo de importación** (Import type) leave **Boleto** (it's the only option).
 

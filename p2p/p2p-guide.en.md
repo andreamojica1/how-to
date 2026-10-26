@@ -49,7 +49,7 @@ There are two sets of images: the campaign's, which you set from the console, an
 Peer to peer must be turned on in the campaign: with the switch off, the image buttons are disabled.
 
 1. **Open the Peer to peer tab.** In **Fundraising > Campañas**, open the campaign and go to the **Peer to peer** tab.
-   <!-- screenshot pending: how-to-change-the-p2p-cover-images-01 — campaign Peer to peer tab with the image blocks -->
+   ![Campaign Peer to peer tab with the Subir foto de portada block](img/como-cambiar-las-imagenes-de-portada-p2p-01.webp)
 2. **Choose which image to change.** In **Subir foto de portada** (Upload cover photo — the first image in the top carousel of each page) or **Subir foto de campaña** (Upload campaign photo — the secondary image further down the page), click "Subir" (Upload) to choose a new file, or "Editar" (Edit) to re-crop the current image. "Editar" only appears if there is already an image.
 3. **Crop the image.** In the cropper you can choose the **Relación de aspecto** (Aspect ratio) — **9:16 (Vertical)**, **1:1 (Cuadrado)** (square), **4:3 (Estándar)** (standard) or **16:9 (Panorámico)** (widescreen) — and use "Rotar a la derecha" (Rotate right).
 4. **Save twice.** Click "Guardar" (Save). The first time it switches to the desktop preview (16:9); check it and click "Guardar" again to upload the image.
@@ -102,7 +102,7 @@ There are two different forms: the sign-up form, filled in by someone who wants 
 ### Part 1 — See who is fundraising
 
 1. **Open the dashboard.** Go to **Fundraising > Peer to peer fundraisers**.
-   <!-- screenshot pending: how-to-manage-p2p-fundraisers-01 — Peer to Peer dashboard with cards and Fundraisings table -->
+   ![Peer to Peer dashboard with the summary cards and the Fundraisings table](img/como-gestionar-recaudadores-p2p-01.webp)
 2. **Read the cards.** **Solicitudes pendientes** counts pages awaiting approval; **Total Campañas**, all pages in the list in any status; **Total Fundraisers**, how many different people have pages.
 3. **Check the Fundraisings table.** It is sorted newest first. You can sort it by **ID**, **Campaña** and **Meta**.
 
