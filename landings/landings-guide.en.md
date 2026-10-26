@@ -38,7 +38,7 @@ Each landing is published on the Afrus address (`web.afrus.org`) or on your orga
 ### Part 1 — Basic data
 
 1. **Open the module.** Go to **Fundraising > Landings** and click "Nueva landing" (New landing).
-   <!-- screenshot pending: how-to-create-a-landing-01 — landing list with the Nueva landing button -->
+   ![Landing list with the Nueva landing button](img/como-crear-una-landing-01.webp)
 
 2. **Fill in the basic data.** In the **Datos básicos** (Basic data) tab, fill in:
    - **Nombre interno** (internal name): only you see it; it helps you find the landing in the list.
@@ -87,7 +87,7 @@ Afrus adds the Google Analytics or Google Tag Manager code and the Meta Pixel to
 **Before you start:** the landing must have a saved design. Otherwise, saving shows *"Error al guardar datos avanzados"* (Error saving advanced data).
 
 1. **Open the landing.** In **Fundraising > Landings**, click the landing's pencil icon and go to the **Datos avanzados** tab.
-   <!-- screenshot pending: how-to-track-my-landing-with-analytics-01 — Datos avanzados tab, Analytics section -->
+   ![Datos avanzados tab with the Analytics section](img/como-hacer-seguimiento-con-analitica-a-mi-landing-01.webp)
 
 2. **Choose your analytics tool.** In the **Analytics** section, under **Analytics track**, choose **Google Analytics** or **Google Tag Manager V4** and type the ID in **Google Analytics ID** (format `G-XXXXXXXXXX` or `UA-XXXXX-Y`) or **Google Tag Manager V4 ID** (format `GTM-XXXXXX`).
 
@@ -112,7 +112,7 @@ If an ID's format is invalid, it is not saved and you will see *"ID de Google An
 1. **Open the visual editor.** In your landing's **Landing page** tab, create the page (**Página de cero** > "Crear página") or click "Editar" (Edit) on the existing design.
 
 2. **Choose the widget.** In the top bar, under **Seleccionar widget** (Select widget), choose the widget by name. Afrus copies its code and you will see *"Código del widget copiado al portapapeles"* (Widget code copied to clipboard).
-   <!-- screenshot pending: how-to-add-a-widget-to-a-landing-02 — editor bar with Seleccionar widget -->
+   ![Landing page editor bar with the Seleccionar widget selector](img/como-poner-un-widget-en-una-landing-02.webp)
 
 3. **Paste the code into an HTML block.** Drag an **HTML** block from the tools panel onto the canvas and paste the code there.
 
@@ -175,7 +175,7 @@ When you finish, after a successful donation the donor lands on your page with t
 1. **Open the landing.** In **Fundraising > Landings**, click the landing's pencil icon and go to the **Datos básicos** tab.
 
 2. **Change the address.** Edit the **Ruta**, the **Dominio**, or both. To use your own domain, register it first in **Fundraising > Dominios**. With your own domain you can use the path `/` so the landing is the domain's home page.
-   <!-- screenshot pending: how-to-change-my-landing-url-02 — Datos básicos with Dominio and Ruta -->
+   ![Datos básicos tab with the Dominio and Ruta fields](img/como-cambiar-la-url-de-mi-landing-02.webp)
 
 3. **Save.** Click "Guardar". You will see *"Datos actualizados con éxito"* (Data updated successfully).
 

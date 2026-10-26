@@ -28,7 +28,7 @@ These people are not deleted: they are kept in this list so your team can review
 ## How to review spam leads and restore a person
 
 1. **Open the list.** Go to **Follow up > Leads spam**.
-   <!-- screenshot pending: leads-spam-01 — Leads spam screen with the table -->
+   ![Leads spam screen with the search box, the date range and the table with the Motivo column](img/leads-spam-01.webp)
 
 2. **Choose the date range.** By default it shows the **current month**. The filter uses the date the person was created.
 

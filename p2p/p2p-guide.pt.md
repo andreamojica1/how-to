@@ -49,7 +49,7 @@ Há dois conjuntos de imagens: os da campanha, que você define pelo console, e 
 O Peer to peer precisa estar ativado na campanha: com a chave desligada, os botões de imagem ficam desabilitados.
 
 1. **Abra a aba Peer to peer.** Em **Fundraising > Campañas**, abra a campanha e vá até a aba **Peer to peer**.
-   <!-- captura pendente: como-trocar-as-imagens-de-capa-p2p-01 — aba Peer to peer de uma campanha com os blocos de imagens -->
+   ![Aba Peer to peer de uma campanha com o bloco Subir foto de portada](img/como-cambiar-las-imagenes-de-portada-p2p-01.webp)
 2. **Escolha qual imagem trocar.** Em **Subir foto de portada** (Enviar foto de capa — a primeira imagem do carrossel superior de cada página) ou em **Subir foto de campaña** (Enviar foto da campanha — a imagem secundária, mais abaixo na página), clique em "Subir" (Enviar) para escolher um arquivo novo, ou em "Editar" para recortar de novo a imagem atual. "Editar" só aparece se já houver uma imagem.
 3. **Recorte a imagem.** No recortador você pode escolher a **Relación de aspecto** (Proporção) — **9:16 (Vertical)**, **1:1 (Cuadrado)** (quadrado), **4:3 (Estándar)** (padrão) ou **16:9 (Panorámico)** (panorâmico) — e usar "Rotar a la derecha" (Girar para a direita).
 4. **Salve duas vezes.** Clique em "Guardar" (Salvar). Na primeira vez, muda para a pré-visualização de computador (16:9); confira e clique em "Guardar" de novo para enviar a imagem.
@@ -102,7 +102,7 @@ Existem dois formulários diferentes: o de cadastro, preenchido por quem quer se
 ### Parte 1 — Ver quem está captando
 
 1. **Abra o painel.** Acesse **Fundraising > Peer to peer fundraisers**.
-   <!-- captura pendente: como-gerenciar-captadores-p2p-01 — painel Peer to Peer com cartões e tabela Fundraisings -->
+   ![Painel Peer to Peer com os cartões de resumo e a tabela Fundraisings](img/como-gestionar-recaudadores-p2p-01.webp)
 2. **Leia os cartões.** **Solicitudes pendientes** conta as páginas aguardando aprovação; **Total Campañas**, todas as páginas da lista em qualquer status; **Total Fundraisers**, quantas pessoas diferentes têm páginas.
 3. **Confira a tabela Fundraisings.** Ela vem ordenada da mais nova para a mais antiga. Você pode ordenar por **ID**, **Campaña** e **Meta**.
 

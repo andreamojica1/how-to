@@ -48,7 +48,7 @@ Como diz a própria tela: *"Asocia un dominio propio para que tus landing pages 
 ### Parte 2 — Na Afrus
 
 3. **Abra Domínios.** Acesse **Fundraising > Dominios**.
-   <!-- captura pendente: como-adicionar-e-configurar-meu-dominio-03 — cartão Agregar dominio personalizado -->
+   ![Cartão Agregar dominio personalizado com o campo do domínio e o botão Agregar dominio](img/como-agregar-y-configurar-mi-dominio-03.webp)
 
 4. **Digite seu domínio.** No cartão **Agregar dominio personalizado** (Adicionar domínio personalizado), no campo abaixo de *"¿Cuál es el dominio que te gustaría usar con afrus?"* (Qual domínio você gostaria de usar com a afrus?), digite seu domínio sem `http://`, `https://`, barras nem caminhos, por exemplo `doe.minhaorganizacao.org`. O campo passa tudo para minúsculas.
 

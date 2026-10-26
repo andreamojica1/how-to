@@ -32,7 +32,7 @@ As páginas criadas aqui ficam apenas em **Fundraising > Experiences AI**: não 
 ## Como criar uma landing page com IA
 
 1. **Crie a experiência.** Acesse **Fundraising > Experiences AI** e clique em "Nueva experiencia" (Nova experiência). Nesse momento é criado um rascunho e o assistente se abre.
-   <!-- captura pendente: como-criar-uma-landing-page-com-ia-01 — lista de experiências com o botão Nueva experiencia -->
+   ![Lista de experiências com o botão Nueva experiencia](img/como-crear-una-landing-con-ia-01.webp)
 
 2. **Escolha o objetivo.** Na aba **Objetivo**, escolha **Donación** (Doação) ou **Agradecimiento** (Agradecimento). O assistente passa sozinho para a próxima aba.
 
@@ -64,7 +64,7 @@ Ao criar a experiência, a Afrus atribui ao acaso um dos modelos disponíveis pa
 
 1. **Abra o editor.** Em **Fundraising > Experiences AI**, clique no ícone de lápis da experiência.
 2. **Troque o design.** Na barra superior, clique em "Cambiar diseño" (Mudar design). Cada clique passa para o próximo modelo disponível do mesmo tipo (Doação ou Agradecimento); depois do último, volta ao primeiro. Os textos que você já tem são mantidos e se ajustam ao novo design.
-   <!-- captura pendente: como-mudar-o-modelo-01 — barra superior do editor com Cambiar diseño -->
+   ![Barra superior do editor com o botão Cambiar diseño](img/como-cambiar-la-plantilla-01.webp)
 3. **Publique.** Quando gostar do design, clique em "Publicar" para levá-lo à página pública.
 
 Ao terminar, você verá a página pública com o novo design. A troca de modelo fica salva na hora no editor, mas só aparece no ar quando você publica.
@@ -75,7 +75,7 @@ Ao terminar, você verá a página pública com o novo design. A troca de modelo
 
 1. **Abra o editor.** Na lista, clique no ícone de lápis da experiência.
 2. **Escolha uma cor base.** Na barra superior, clique em "Recolor", escolha uma cor no seletor e clique em "Aplicar". A partir dessa cor, a IA cria uma paleta completa (cor primária, secundária, de destaque e de texto) e aplica ao modelo. Fica salvo na hora.
-   <!-- captura pendente: como-mudar-os-estilos-02 — seletor de cor do Recolor -->
+   ![Seletor de cor do Recolor com o botão Aplicar](img/como-cambiar-los-estilos-02.webp)
 3. **Mostre ou oculte seções (só Doação).** Use as chaves **Compartir** (Compartilhar — seção para compartilhar a causa) e **Meta de recaudación** (Meta de arrecadação — barra de progresso) e clique em "Actualizar".
 4. **Confira no celular e no computador.** Use os ícones de celular e de monitor da pré-visualização.
 5. **Publique.** Clique em "Publicar" para levar as mudanças à página pública.

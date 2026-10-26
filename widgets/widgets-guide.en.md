@@ -214,7 +214,7 @@ With **Cover Your Cost**, donors can cover the gateway fee, so your organization
 **Before you start:** Afrus must turn on Cover Your Cost for your organization; it can't be turned on from the console. Until then, the section doesn't appear. It is set up **per gateway**, not inside the widget editor.
 
 1. **Open the gateway.** Go to **Configuración > Pagos > Pasarelas de pago** and open the gateway.
-   <!-- screenshot pending: cover-your-cost-01 — Cover Your Cost section of the gateway -->
+   ![Gateway window with the Cover Your Cost section and the Activar Cover Your Cost switch](img/cover-your-cost-01.webp)
 2. **Turn it on.** In the **Cover Your Cost** section, turn on **Activar Cover Your Cost**.
 3. **Set the fee.** Fill in **Comisión de pasarela (%)** (gateway fee, minimum 0.01). The **Comisión Afrus (%)** (Afrus fee) is read-only. Both together must be under 80%.
 4. **Choose whether it is preselected.** With **Preseleccionar la opción para el donante** (Preselect the option for the donor) on, donors see the switch on and can turn it off; with it off, they see it off and must turn it on.
@@ -268,7 +268,7 @@ When you finish:
 **Quick option (from the list):**
 
 1. **Open the code.** In **Fundraising > Widgets**, click the code icon on the widget's row. **Código del widget** (Widget code) opens.
-   <!-- screenshot pending: how-to-embed-a-widget-01 — Código del widget window -->
+   ![Código del widget window opened from the row code icon](img/como-insertar-un-widget-01.webp)
 2. **Copy the code.** Click "Copiar" (Copy).
 3. **Paste it on your page.** Paste it into an HTML block or component on your site. The widget will appear there.
 

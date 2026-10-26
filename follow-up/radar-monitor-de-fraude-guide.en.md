@@ -54,7 +54,7 @@ You'll see *"Transacciones marcadas como fraude"* (Transactions marked as fraud)
 ## How to review the Radar
 
 1. **Open the Radar.** Go to **Follow up > Radar - monitor de fraude**.
-   <!-- screenshot pending: radar-monitor-de-fraude-01 — Transacciones Fraudulentas list -->
+   ![Transacciones Fraudulentas list with the search box, the date range and the filters](img/radar-monitor-de-fraude-01.webp)
 2. **Choose the dates.** By default the current month is shown. Note: the filter uses the **transaction date**, not the date it was marked as fraud.
 3. **Filter or search.** Use the filters or the search box to find what you need. The table shows 25 rows per page.
 

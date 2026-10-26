@@ -54,7 +54,7 @@ Você verá *"Transacciones marcadas como fraude"* (Transações marcadas como f
 ## Como revisar o Radar
 
 1. **Abra o Radar.** Acesse **Follow up > Radar - monitor de fraude**.
-   <!-- captura pendente: radar-monitor-de-fraude-01 — lista de Transacciones Fraudulentas -->
+   ![Lista de Transacciones Fraudulentas com a busca, o intervalo de datas e os filtros](img/radar-monitor-de-fraude-01.webp)
 2. **Escolha as datas.** Por padrão aparece o mês atual. Atenção: o filtro usa a **data da transação**, não a data em que foi marcada como fraude.
 3. **Filtre ou busque.** Use os filtros ou a busca para encontrar o que precisa. A tabela mostra 25 linhas por página.
 

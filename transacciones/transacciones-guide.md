@@ -37,7 +37,7 @@ Las suscripciones en sí (el compromiso de donar cada mes) no están aquí: se v
 - al menos un usuario con firma configurada en **AI > Firmas de usuarios**. Solo esos usuarios aparecen como remitentes.
 
 1. **Abre el agradecimiento.** En **Transacciones**, abre el menú de tres puntos al inicio de la fila y elige **Agradecimiento personalizado IA**. También puedes usar el botón con el icono de destellos que aparece junto al estado **Exitoso**.
-   <!-- captura pendiente: como-crear-un-agradecimiento-con-ia-desde-transacciones-01 — menú de fila con Agradecimiento personalizado IA -->
+   ![Menú de tres puntos de una transacción con la opción Agradecimiento personalizado IA](img/como-crear-un-agradecimiento-con-ia-desde-transacciones-01.webp)
 2. **Elige el remitente.** En el paso **Seleccionar el remitente con el que enviarás el agradecimiento**, elige un usuario y pulsa "Continuar". El correo sale desde la dirección de su firma.
 3. **Espera el borrador.** Verás *AI preparando tu mensaje* mientras la IA redacta el correo.
 4. **Revisa y edita.** Ajusta **Asunto** (máximo 128 caracteres) y **Cuerpo del correo** (máximo 1600). Con "Regenerar" pides otra versión de cada campo; con "Volver" regresas al paso anterior.
@@ -57,7 +57,7 @@ Al terminar verás *Mensaje enviado* / *"El agradecimiento se ha enviado correct
 - que tu usuario tenga permiso para hacer operaciones bancarias con transacciones. Si no lo tiene, el reembolso falla: pide a un administrador de tu organización que lo haga.
 
 1. **Abre el menú de la fila.** En **Transacciones**, busca la donación, abre el menú de tres puntos al inicio de la fila y elige **Reembolsar**.
-   <!-- captura pendiente: como-reembolsar-una-donacion-01 — menú de fila con Reembolsar -->
+   ![Menú de tres puntos de una transacción exitosa con la opción Reembolsar](img/como-reembolsar-una-donacion-01.webp)
 2. **Confirma.** En el diálogo **Reembolsar Cargo** (*"Estas seguro que deseas reembolsar este cargo?"*), pulsa "Confirmar". Si te arrepientes, pulsa "Cerrar".
 
 Al terminar verás *"Reembolsado con éxito."* y la transacción pasará a **Reembolsado**. Si la donación tenía un certificado de donación vigente, se anula. Si la pasarela rechaza el reembolso, verás *"Error al reembolsar el cargo."* y la transacción no cambia.
@@ -73,7 +73,7 @@ Al terminar verás *"Reembolsado con éxito."* y la transacción pasará a **Ree
 > **Importante:** al marcar una transacción como fraude, **las personas (donantes) asociadas se eliminan de tu base**, aunque tengan otras donaciones legítimas. Revisa bien antes de confirmar.
 
 1. **Selecciona las transacciones.** En la tabla de **Transacciones**, marca la casilla de una o varias filas de la página.
-   <!-- captura pendiente: como-marcar-como-fraude-una-transaccion-01 — filas seleccionadas y menú Acciones transacciones -->
+   ![Dos transacciones seleccionadas y el menú Acciones transacciones abierto con Marcar como Fraude](img/como-marcar-como-fraude-una-transaccion-01.webp)
 2. **Elige la acción.** Pulsa "Acciones transacciones" y elige **Marcar como Fraude** (la opción está desactivada si no hay nada seleccionado).
 3. **Confirma.** En el diálogo **Marcar como fraude**, lee el aviso (*"…Esta acción no se puede deshacer."*) y pulsa "Confirmar".
 
@@ -89,7 +89,7 @@ Al terminar verás *Transacciones marcadas como fraude*. Cada transacción pasa 
 
 1. **Filtra lo que necesitas.** Ajusta las fechas, la búsqueda y los filtros (ver "Cómo filtrar un grupo de transacciones").
 2. **Selecciona las transacciones.** Marca las casillas de las filas que quieres. Para exportar todo lo filtrado, marca la casilla del encabezado y pulsa "Seleccionar las N transacciones de la base."
-   <!-- captura pendiente: como-descargar-un-grupo-de-transacciones-02 — selección de toda la base -->
+   ![Casilla del encabezado marcada y enlace para seleccionar todas las transacciones de la base](img/como-descargar-un-grupo-de-transacciones-02.webp)
 3. **Exporta.** Pulsa "Acciones transacciones" y elige **Exportar** (está desactivada si no hay nada seleccionado).
 4. **Confirma el archivo.** En el diálogo **Descargas**, elige **Tipo de archivo** y pulsa "Confirmar". Verás *Exportar archivo* (*"El proceso de exportacion ha comenzado, ten en cuenta que puede demorar unos minutos en completarse."*).
 5. **Descarga el archivo.** Entra a **Data > Descargas** y descárgalo cuando esté listo.
@@ -103,7 +103,7 @@ Al terminar tendrás un archivo de Excel. Si seleccionaste filas sueltas, trae e
 ## Cómo filtrar un grupo de transacciones
 
 1. **Elige el periodo.** En la barra de fechas, pulsa **1W**, **4W**, **1Y**, **MTD**, **QTD**, **YTD**, **ALL** o **PERSONALIZADO**. Por defecto es **MTD** (desde el inicio del mes hasta hoy). El periodo se aplica sobre la **Fecha inicial** de la transacción, en tu zona horaria.
-   <!-- captura pendiente: como-filtrar-un-grupo-de-transacciones-01 — barra de fechas y fila de filtros -->
+   ![Barra de fechas con los periodos y fila de filtros de Transacciones](img/como-filtrar-un-grupo-de-transacciones-01.webp)
 2. **Busca (opcional).** Usa **Buscar por** con **Nombre**, **Documento de identidad**, **Correo electrónico**, **Teléfono** o **ID de transaccion**.
 3. **Aplica filtros.** En la fila con el icono de embudo elige:
    - **Tipo** (**Unicas** / **Cargos**)
@@ -123,7 +123,7 @@ Al terminar, la tabla y los totales se recalculan. Los filtros quedan en la dire
 La lista no tiene una columna de motivo: la razón se ve en el detalle de la transacción.
 
 1. **Abre el detalle.** En la fila de una transacción **Fallido** o **Rechazada**, abre el menú de tres puntos y elige **Detalles**, o haz clic en el **ID**. Se abre en una pestaña nueva.
-   <!-- captura pendiente: como-saber-la-razon-del-fallo-de-una-transaccion-01 — detalle con la tarjeta Resultado de suscripción -->
+   ![Detalle de una transacción fallida con la tarjeta Resultado de suscripción y el análisis con IA](img/como-saber-la-razon-del-fallo-de-una-transaccion-01.webp)
 2. **Lee la explicación con IA.** En la tarjeta **Resultado de suscripción** (**Analisis de la respuesta con IA**) verás una explicación en lenguaje claro de lo que respondió la pasarela. Requiere tener activo el **Business profile**; si no lo está, verás *Activación necesaria para ver la respuesta con IA* y el botón "Ir a business profile".
 3. **Consulta la respuesta original.** En **Respuesta** > **Respuesta Gateway** está la respuesta de la pasarela, con el código o mensaje de rechazo que envió.
 

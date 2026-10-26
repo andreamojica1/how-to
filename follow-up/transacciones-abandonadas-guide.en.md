@@ -43,7 +43,7 @@ People marked as spam (see **Follow up > Leads spam**) are not recorded as aband
 ## How to review and export abandoned transactions
 
 1. **Open the list.** Go to **Follow up > Transacciones abandonadas**.
-   <!-- screenshot pending: transacciones-abandonadas-01 — Transacciones abandonadas list -->
+   ![Transacciones abandonadas list with the Crear persona, Acciones and Ver procesos buttons](img/transacciones-abandonadas-01.webp)
 2. **Choose the dates.** By default the current month is shown. The filter uses the date the abandonment was recorded.
 3. **Select the rows.** Tick the ones you want, or select them all with the selection notice.
 4. **Export.** Click "Acciones" (Actions) and choose **Exportar** (Export). The file is created in **Descargas**.

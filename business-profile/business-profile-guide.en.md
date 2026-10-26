@@ -38,7 +38,7 @@ The Business profile is created with a 7-step wizard: **URL**, **Contacto** (Con
 > **Important:** while creating the profile, nothing is saved until you click "Guardar" (Save) in the last step. If you leave before that, the data you entered is not saved.
 
 1. **Open the Business profile.** In the profile menu (top corner), choose **Business profile**. Above the wizard you will see the **Estado** (Status); if you haven't created it yet, it says **Incompleto** (Incomplete).
-   <!-- screenshot pending: how-to-create-the-business-profile-01 — profile menu with the Business profile option -->
+   ![Profile menu open with the Business profile option](img/como-crear-el-business-profile-01.webp)
 
 2. **Choose your URL.** In the **URL** step, type the last part of the address in the **URL del negocio** (Business URL) field (the start of the address is fixed) and click "Continuar" (Continue). Afrus checks that it is free; if it is taken, you will see *"La URL no está disponible"* (The URL is not available) and you need to choose another.
 
@@ -76,7 +76,7 @@ The Business profile has no widget selector of its own. The page automatically s
 So, to change what appears on your page, you choose which widget is the default in **Widgets**.
 
 1. **Open your widgets.** Go to **Fundraising > Widgets**.
-   <!-- screenshot pending: how-to-set-up-the-widgets-on-the-business-profile-01 — widget list -->
+   ![Gestión de Widgets list with the Por defecto filter](img/como-configurar-los-widgets-del-business-profile-01.webp)
 
 2. **Find the widget you want to show.** You can use the **Por defecto** (Default) / **No predeterminado** (Not default) filter to see which one is set today. The default widget has a star next to its name.
 

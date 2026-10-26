@@ -212,7 +212,7 @@ Con **Cover Your Cost**, el donante puede cubrir la comisión de la pasarela, pa
 **Antes de empezar:** Afrus tiene que activar Cover Your Cost para tu organización; no se puede activar desde la consola. Mientras no esté activo, la sección no aparece. Se configura **por pasarela**, no dentro del editor del widget.
 
 1. **Abre la pasarela.** Ve a **Configuración > Pagos > Pasarelas de pago** y abre la pasarela.
-   <!-- captura pendiente: cover-your-cost-01 — sección Cover Your Cost de la pasarela -->
+   ![Ventana de la pasarela con la sección Cover Your Cost y el interruptor Activar Cover Your Cost](img/cover-your-cost-01.webp)
 2. **Activa la opción.** En la sección **Cover Your Cost**, activa **Activar Cover Your Cost**.
 3. **Define la comisión.** Completa **Comisión de pasarela (%)** (mínimo 0.01). La **Comisión Afrus (%)** se muestra solo para lectura. La suma de ambas tiene que ser menor a 80 %.
 4. **Elige si viene preseleccionada.** Con **Preseleccionar la opción para el donante** activado, el donante ve el interruptor encendido y puede rechazarlo; desactivado, lo ve apagado y debe activarlo.
@@ -266,7 +266,7 @@ Al terminar:
 **Opción rápida (desde el listado):**
 
 1. **Abre el código.** En **Fundraising > Widgets**, haz clic en el icono de código de la fila del widget. Se abre **Código del widget**.
-   <!-- captura pendiente: como-insertar-un-widget-01 — ventana Código del widget -->
+   ![Ventana Código del widget abierta desde el icono de código de la fila](img/como-insertar-un-widget-01.webp)
 2. **Copia el código.** Haz clic en "Copiar".
 3. **Pégalo en tu página.** Pégalo en un bloque o componente HTML de tu sitio. El widget aparecerá ahí.
 

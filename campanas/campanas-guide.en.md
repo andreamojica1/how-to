@@ -64,7 +64,7 @@ This way every widget in the campaign can take the donor to the same page after 
 
 1. **Open the campaign.** In **Fundraising > Campañas**, open the row's three-dot menu and choose **Editar**.
 2. **Go to the Página de agradecimiento (Thank-you page) tab.** You also find it when creating the campaign.
-   <!-- screenshot pending: how-to-link-a-thank-you-page-to-a-campaign-02 — Página de agradecimiento tab -->
+   ![Campaign Página de agradecimiento tab with the page type and the selected landing](img/como-vincular-una-pagina-de-agradecimiento-a-una-campana-02.webp)
 3. **Choose the page type.** In **Tipo** (Type), choose **Experiences** or **Landings**.
 4. **Choose the page.** In **Elegir una experiencia** (Choose an experience) or **Elegir una landing** (Choose a landing), select the page. You will see a **Mobile** preview.
 5. **Click "Usar plantilla" (Use template).** This button shows no confirmation message: to check it was saved, reload the campaign and make sure the tab shows the chosen page.
@@ -101,7 +101,7 @@ And two ways to set the goal, in **Tipo de meta** (Goal type):
 **How to set it up:**
 
 1. **Open the configurator.** In **Fundraising > Campañas**, open the row's three-dot menu and choose **Crowdfunding widget**.
-   <!-- screenshot pending: what-is-the-crowdfunding-widget-01 — Crowdfunding widget configurator -->
+   ![Crowdfunding widget configurator with Tipo de componente, Tipo de meta and the Copiar código de inserción button](img/que-es-el-crowdfunding-widget-01.webp)
 2. **Set the goal.** In the **Configuración** (Settings) tab, choose **Tipo de componente** and **Tipo de meta**, and fill in the details it asks for.
 3. **Adjust the design.** In the **Estilos** (Styles) tab, choose **Tipografía** (Font: Roboto, Arial, Open Sans or Times New Roman), **Tamaño de tipografía** (Font size, 12 to 20) and **Color primario** (Primary color), to match your website.
 4. **Save.** Click "Guardar" (Save). Each save creates a new version, which you can choose in **Versiones** (Versions).
@@ -118,7 +118,7 @@ And two ways to set the goal, in **Tipo de meta** (Goal type):
 **How to set it up:**
 
 1. **Open the configurator.** In **Fundraising > Campañas**, open the row's three-dot menu and choose **Componente donantes**.
-   <!-- screenshot pending: what-is-the-donors-component-01 — Donors component configurator -->
+   ![Donors component configurator with the title, font, color and preview](img/que-es-el-componente-donantes-01.webp)
 2. **Customize it.** Set **Título** (Title), **Tipografía** (Font), **Color primario** (Primary color), the **Light** or **Dark** theme and the **Activo** / **Inactivo** (Active / Inactive) switch. The preview uses sample names, not your real donors.
 3. **Save.** Click "Guardar" (or "Actualizar" — Update — if it already existed).
 4. **Copy the embed code** and paste it into your website.
@@ -140,7 +140,7 @@ In the campaign, the cost center is the **Costos** (Costs) tab: *"Agrega en esta
 **How to record a cost:**
 
 1. **Open the campaign** and go to the **Costos** tab.
-   <!-- screenshot pending: campaign-cost-center-01 — Costos tab -->
+   ![Costos tab with the cost list, the total and the Agregar costo button](img/centro-de-costos-de-una-campana-01.webp)
 2. **Click "Agregar costo" (Add cost).**
 3. **Fill in the details.**
    - **Costo** (Cost): required, greater than 0.
@@ -163,7 +163,7 @@ When you finish, the cost appears in **Lista de costos** (Cost list — columns 
 **How to open and use it:**
 
 1. **Open the dashboard.** In the campaign detail, click "Ver Analytics".
-   <!-- screenshot pending: campaign-analytics-01 — Analytics dashboard, Resumen tab -->
+   ![Analytics dashboard on the Resumen tab with income, cost and result](img/analytics-de-campanas-01.webp)
 2. **Choose the period.** In the **Resumen** (Summary) tab, choose the date range (by default, all history). The indicator cards recalculate for that range.
 3. **Download the indicators (optional).** Click "Descargar KPIs" (Download KPIs) to get a CSV file with all indicators for the range (columns KPI, Value and Unit).
 4. **Look at one widget in detail.** In **Rendimiento por Widget** (Performance by widget), click a widget to open its **Analytics del Widget**: the same indicators, only for that widget and its costs.
@@ -225,7 +225,7 @@ If there are no cancelled subscriptions yet, the screen uses a 3% reference valu
 **How to create a Transactional KPI:**
 
 1. **Open the tab.** In the campaign, go to **KPI Merge Tag**, section **KPI Transaccional** and click "Agregar KPI Merge Tag" (Add KPI Merge Tag).
-   <!-- screenshot pending: kpi-merge-tags-01 — Formula builder -->
+   ![Crear KPI Merge Tag form with the formula builder](img/kpi-merge-tags-01.webp)
 2. **Name it.** Type **Nombre del KPI** (KPI name) and an optional **Descripción**. **Variable generada** (Generated variable) shows the tag you will use.
 3. **Build the formula.** In **Constructor de Fórmula** (Formula builder), alternate "Agregar Variable" (Add variable) and "Agregar Operador" (Add operator: +, -, ×, ÷). The available variable is **Monto**. With "Agregar Variable Multiplicador" (Add multiplier variable) you create a constant (**Nombre de la variable** and **Valor constante**) to use in the formula. "Limpiar" (Clear) and "Quitar Último" (Remove last) help you fix it. The formula must end with a variable.
 4. **Click "Crear" (Create)** (or "Actualizar" if editing).

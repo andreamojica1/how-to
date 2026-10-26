@@ -214,7 +214,7 @@ Com **Cover Your Cost**, o doador pode cobrir a taxa do gateway, para que sua or
 **Antes de começar:** a Afrus precisa ativar o Cover Your Cost para a sua organização; não dá para ativá-lo pelo console. Enquanto não estiver ativo, a seção não aparece. Ele é configurado **por gateway**, não dentro do editor do widget.
 
 1. **Abra o gateway.** Acesse **Configuración > Pagos > Pasarelas de pago** e abra o gateway.
-   <!-- captura pendente: cover-your-cost-01 — seção Cover Your Cost do gateway -->
+   ![Janela do gateway com a seção Cover Your Cost e a chave Activar Cover Your Cost](img/cover-your-cost-01.webp)
 2. **Ative a opção.** Na seção **Cover Your Cost**, ative **Activar Cover Your Cost**.
 3. **Defina a taxa.** Preencha **Comisión de pasarela (%)** (taxa do gateway, mínimo 0.01). A **Comisión Afrus (%)** (taxa Afrus) aparece só para leitura. A soma das duas precisa ser menor que 80%.
 4. **Escolha se vem pré-selecionada.** Com **Preseleccionar la opción para el donante** (Pré-selecionar a opção para o doador) ativado, o doador vê a chave ligada e pode desligá-la; desativado, ele a vê desligada e precisa ligá-la.
@@ -268,7 +268,7 @@ Ao terminar:
 **Opção rápida (pela lista):**
 
 1. **Abra o código.** Em **Fundraising > Widgets**, clique no ícone de código da linha do widget. Abre **Código del widget** (Código do widget).
-   <!-- captura pendente: como-inserir-um-widget-01 — janela Código del widget -->
+   ![Janela Código del widget aberta pelo ícone de código da linha](img/como-insertar-un-widget-01.webp)
 2. **Copie o código.** Clique em "Copiar".
 3. **Cole na sua página.** Cole em um bloco ou componente HTML do seu site. O widget aparecerá ali.
 

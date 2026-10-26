@@ -35,7 +35,7 @@ A partir daqui você pode buscar e filtrar assinaturas, exportá-las, marcá-las
 ## Como filtrar um grupo de assinaturas
 
 1. **Abra o módulo.** Acesse **Suscripciones**.
-   <!-- captura pendente: como-filtrar-um-grupo-de-assinaturas-01 — lista de assinaturas com a barra de datas e a linha de filtros -->
+   ![Lista de assinaturas com a barra de datas e a linha de filtros](img/como-filtrar-un-grupo-de-suscripciones-01.webp)
 
 2. **Escolha o período.** Use a barra de datas: **1W**, **4W**, **1Y**, **MTD**, **QTD**, **YTD**, **ALL** ou **PERSONALIZADO** (Personalizado, com **DESDE** (De) e **HASTA** (Até)). Por padrão você vê o mês atual (**MTD**).
 
@@ -66,7 +66,7 @@ Ao terminar, você verá a tabela e o contador atualizados. Os filtros ficam sal
 2. **Escolha o que vai exportar.** "Exportar" fica desativado até você marcar pelo menos uma linha.
    - Para exportar só algumas, marque a caixa delas.
    - Para exportar tudo o que foi filtrado, marque a caixa do cabeçalho (seleciona a página) e depois clique em **Seleccionar las N subscripciones de la base.** (Selecionar as N assinaturas da base). Você verá *"Las N subscripciones de tu base estan seleccionadas"* (As N assinaturas da sua base estão selecionadas).
-   <!-- captura pendente: como-baixar-um-grupo-de-assinaturas-02 — mensagem de seleção de toda a base -->
+   ![Mensagem para selecionar todas as assinaturas da base](img/como-descargar-un-grupo-de-suscripciones-02.webp)
 
 3. **Exporte.** Clique em "Acciones" (Ações) e escolha **Exportar**.
 
@@ -85,7 +85,7 @@ Ao terminar, você terá um arquivo Excel (.xlsx) com uma linha por assinatura. 
 ## Como mudar a data de cobrança de uma assinatura
 
 1. **Abra a assinatura.** Em **Suscripciones**, clique no **ID** da linha.
-   <!-- captura pendente: como-mudar-a-data-de-cobranca-01 — detalhe da assinatura com os botões Enviar Mensaje, Modificar e Cancelar Suscripción -->
+   ![Detalhe da assinatura com os botões Enviar Mensaje, Modificar e Cancelar Suscripción](img/como-cambiar-la-fecha-de-cobro-01.webp)
 
 2. **Clique em "Modificar".** Dependendo de como o gateway de pagamento da assinatura está conectado, abre-se uma destas três janelas:
 
@@ -122,7 +122,7 @@ Ao terminar, você verá *"Suscripción actualizada correctamente."* ou *"Suscri
 1. **Abra a assinatura.** Em **Suscripciones**, clique no **ID** da linha.
 
 2. **Clique em "Cancelar Suscripción" (Cancelar assinatura).** É o texto em vermelho do detalhe.
-   <!-- captura pendente: como-cancelar-uma-assinatura-02 — botão Cancelar Suscripción no detalhe -->
+   ![Botão Cancelar Suscripción no detalhe da assinatura](img/como-cancelar-una-suscripcion-02.webp)
 
 3. **Confirme.** Na janela *"¿Estás seguro de que deseas cancelar tu suscripción?"* (Tem certeza de que deseja cancelar sua assinatura?), clique em "Confirmar" (ou "Cerrar" (Fechar) para sair sem cancelar).
 
@@ -147,7 +147,7 @@ Ao terminar, você verá *"La suscripción se ha cancelado correctamente"* (A as
 1. **Selecione as assinaturas.** Em **Suscripciones**, marque a caixa de cada uma. Sem nenhuma marcada, as opções de "Acciones" ficam desativadas.
 
 2. **Escolha a ação.** Clique em "Acciones" e escolha **Marcar como Fraude**.
-   <!-- captura pendente: como-marcar-uma-assinatura-como-fraude-02 — menu Acciones com Marcar como Fraude -->
+   ![Menu Acciones com a opção Marcar como Fraude](img/como-marcar-como-fraude-una-suscripcion-02.webp)
 
 3. **Confirme.** Na janela **Marcar como fraude**, clique em "Confirmar". A janela fala em "transacción(es)" (transações): é normal, vale para as assinaturas que você marcou.
 

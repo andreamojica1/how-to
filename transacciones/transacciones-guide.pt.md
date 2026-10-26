@@ -39,7 +39,7 @@ As assinaturas em si (o compromisso de doar todo mês) não ficam aqui: elas apa
 - pelo menos um usuário com assinatura de e-mail configurada em **AI > Firmas de usuarios** (Assinaturas de usuários). Só esses usuários aparecem como remetentes.
 
 1. **Abra o agradecimento.** Em **Transacciones**, abra o menu de três pontos no início da linha e escolha **Agradecimiento personalizado IA** (Agradecimento personalizado com IA). Você também pode usar o botão com ícone de brilho ao lado do status **Exitoso**.
-   <!-- captura pendente: como-criar-um-agradecimento-com-ia-em-transacoes-01 — menu da linha com Agradecimiento personalizado IA -->
+   ![Menu de três pontos de uma transação com a opção Agradecimiento personalizado IA](img/como-crear-un-agradecimiento-con-ia-desde-transacciones-01.webp)
 2. **Escolha o remetente.** Na etapa **Seleccionar el remitente con el que enviarás el agradecimiento** (Selecionar o remetente), escolha um usuário e clique em "Continuar". O e-mail sai do endereço da assinatura dele.
 3. **Aguarde o rascunho.** Você verá *AI preparando tu mensaje* (A IA está preparando sua mensagem) enquanto a IA escreve o e-mail.
 4. **Revise e edite.** Ajuste **Asunto** (Assunto, até 128 caracteres) e **Cuerpo del correo** (Corpo do e-mail, até 1600). "Regenerar" pede outra versão de cada campo; "Volver" (Voltar) retorna à etapa anterior.
@@ -59,7 +59,7 @@ Ao terminar, você verá *Mensaje enviado* / *"El agradecimiento se ha enviado c
 - que seu usuário tenha permissão para operações bancárias com transações. Sem ela, o reembolso falha: peça a um administrador da sua organização.
 
 1. **Abra o menu da linha.** Em **Transacciones**, encontre a doação, abra o menu de três pontos no início da linha e escolha **Reembolsar**.
-   <!-- captura pendente: como-reembolsar-uma-doacao-01 — menu da linha com Reembolsar -->
+   ![Menu de três pontos de uma transação bem-sucedida com a opção Reembolsar](img/como-reembolsar-una-donacion-01.webp)
 2. **Confirme.** Na janela **Reembolsar Cargo** (Reembolsar cobrança) — *"Estas seguro que deseas reembolsar este cargo?"* (Tem certeza de que deseja reembolsar esta cobrança?) —, clique em "Confirmar". Para cancelar, clique em "Cerrar" (Fechar).
 
 Ao terminar, você verá *"Reembolsado con éxito."* (Reembolsado com sucesso) e a transação passará para **Reembolsado**. Se a doação tinha um certificado de doação válido, ele é anulado. Se o gateway recusar o reembolso, você verá *"Error al reembolsar el cargo."* (Erro ao reembolsar a cobrança) e a transação não muda.
@@ -75,7 +75,7 @@ Ao terminar, você verá *"Reembolsado con éxito."* (Reembolsado com sucesso) e
 > **Importante:** ao marcar uma transação como fraude, **as pessoas (doadores) vinculadas a ela são excluídas da sua base**, mesmo que tenham outras doações legítimas. Revise bem antes de confirmar.
 
 1. **Selecione as transações.** Na tabela de **Transacciones**, marque a caixa de uma ou mais linhas da página.
-   <!-- captura pendente: como-marcar-uma-transacao-como-fraude-01 — linhas selecionadas e menu Acciones transacciones -->
+   ![Duas transações selecionadas e o menu Acciones transacciones aberto com Marcar como Fraude](img/como-marcar-como-fraude-una-transaccion-01.webp)
 2. **Escolha a ação.** Clique em "Acciones transacciones" (Ações de transações) e escolha **Marcar como Fraude**. A opção fica desativada se nada estiver selecionado.
 3. **Confirme.** Na janela **Marcar como fraude**, leia o aviso (*"…Esta acción no se puede deshacer."* — Esta ação não pode ser desfeita) e clique em "Confirmar".
 
@@ -91,7 +91,7 @@ Ao terminar, você verá *Transacciones marcadas como fraude* (Transações marc
 
 1. **Filtre o que precisa.** Ajuste datas, busca e filtros (veja "Como filtrar um grupo de transações").
 2. **Selecione as transações.** Marque as linhas que quer. Para exportar tudo o que foi filtrado, marque a caixa do cabeçalho e clique em "Seleccionar las N transacciones de la base."
-   <!-- captura pendente: como-baixar-um-grupo-de-transacoes-02 — seleção da base inteira -->
+   ![Caixa do cabeçalho marcada e link para selecionar todas as transações da base](img/como-descargar-un-grupo-de-transacciones-02.webp)
 3. **Exporte.** Clique em "Acciones transacciones" e escolha **Exportar**. A opção fica desativada se nada estiver selecionado.
 4. **Confirme o arquivo.** Na janela **Descargas** (Downloads), escolha **Tipo de archivo** (Tipo de arquivo) e clique em "Confirmar". Você verá *Exportar archivo* (*"El proceso de exportacion ha comenzado…"* — a exportação começou e pode levar alguns minutos).
 5. **Baixe o arquivo.** Acesse **Data > Descargas** e baixe quando estiver pronto.
@@ -105,7 +105,7 @@ Você terá um arquivo Excel. Se selecionou linhas avulsas, ele traz exatamente 
 ## Como filtrar um grupo de transações
 
 1. **Escolha o período.** Na barra de datas, clique em **1W**, **4W**, **1Y**, **MTD**, **QTD**, **YTD**, **ALL** ou **PERSONALIZADO** (personalizado). O padrão é **MTD** (do início do mês até hoje). O período se aplica à **Fecha inicial** (Data inicial) da transação, no seu fuso horário.
-   <!-- captura pendente: como-filtrar-um-grupo-de-transacoes-01 — barra de datas e linha de filtros -->
+   ![Barra de datas com os períodos e linha de filtros de Transacciones](img/como-filtrar-un-grupo-de-transacciones-01.webp)
 2. **Busque (opcional).** Use **Buscar por** com **Nombre** (Nome), **Documento de identidad** (Documento), **Correo electrónico** (E-mail), **Teléfono** (Telefone) ou **ID de transaccion** (ID da transação).
 3. **Aplique filtros.** Na linha com o ícone de funil, escolha:
    - **Tipo**: **Unicas** (Únicas) / **Cargos** (Cobranças)
@@ -125,7 +125,7 @@ A tabela e os totais são recalculados. Os filtros ficam no endereço da página
 A lista não tem uma coluna de motivo: ele aparece no detalhe da transação.
 
 1. **Abra o detalhe.** Na linha de uma transação **Fallido** (Falhou) ou **Rechazada** (Recusada), abra o menu de três pontos e escolha **Detalles** (Detalhes), ou clique no **ID**. Ele abre em uma nova aba.
-   <!-- captura pendente: como-saber-o-motivo-da-falha-de-uma-transacao-01 — detalhe com o cartão Resultado de suscripción -->
+   ![Detalhe de uma transação com falha com o cartão Resultado de suscripción e a análise com IA](img/como-saber-la-razon-del-fallo-de-una-transaccion-01.webp)
 2. **Leia a explicação da IA.** O cartão **Resultado de suscripción** (**Analisis de la respuesta con IA** — Análise da resposta com IA) explica em linguagem simples o que o gateway respondeu. Exige o **Business profile** ativo; sem ele, você verá *Activación necesaria para ver la respuesta con IA* (Ativação necessária) e o botão "Ir a business profile".
 3. **Consulte a resposta original.** Em **Respuesta** > **Respuesta Gateway** (Resposta do gateway) está a resposta do gateway, com o código ou a mensagem de recusa que ele enviou.
 

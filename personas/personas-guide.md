@@ -49,7 +49,7 @@ Al terminar verás *"Lead creado con éxito"* y la persona aparecerá en la list
 ## Cómo filtrar un grupo de personas
 
 1. **Usa la barra de filtros.** Sobre la tabla tienes **Tags** (una etiqueta), **Tipo** (**Lead**, **Activo** o **Recurrente**), **Scoring** (un rango), **Campaña**, **Widgets**, **UtmCampaign** y el botón "Solo contactables".
-   <!-- captura pendiente: como-filtrar-un-grupo-de-personas-01 — barra de filtros de Personas -->
+   ![Barra de filtros de Personas con Tags, Tipo, Scoring, Campaña, Widgets, UtmCampaign y Solo contactables](img/como-filtrar-un-grupo-de-personas-01.webp)
 
 2. **Busca a alguien en concreto.** En el buscador, elige buscar por **Nombre**, **Documento de identidad**, **Correo electrónico**, **Teléfono** o **ID de Lead**.
 
@@ -71,7 +71,7 @@ Al terminar, la tabla y el texto *"Total de personas que coinciden: N."* se actu
 2. **Elige qué filas exportar (opcional).** Marca las filas que quieras. Si marcas toda la página, aparece el enlace **Seleccionar las N personas de la base.**
 
 3. **Abre la exportación.** Pulsa "Acciones" y elige "Exportar".
-   <!-- captura pendiente: como-descargar-un-grupo-de-personas-03 — ventana Descargar -->
+   ![Ventana Descargas con Fuente de datos y Tipo de archivo](img/como-descargar-un-grupo-de-personas-03.webp)
 
 4. **Elige la fuente de datos.** En **Fuente de datos**, elige **Base de datos en tiempo real** (datos actuales) o **Datos analizados** (*"Estos datos se actualizan cada 24 horas"*).
 
@@ -91,7 +91,7 @@ Al terminar verás *"El proceso de exportacion ha comenzado, ten en cuenta que p
 1. **Abre el perfil.** En **Personas**, haz clic en el **ID** de la persona.
 
 2. **Entra en la pestaña Eventos.** Arriba verás el **Estado opt-in / opt-out** de cada canal (*"Activo desde …"* o *"No registrado"*).
-   <!-- captura pendiente: como-ver-los-eventos-de-una-persona-02 — pestaña Eventos -->
+   ![Pestaña Eventos del perfil con el Estado opt-in / opt-out y el Registro de eventos](img/como-ver-los-eventos-de-una-persona-02.webp)
 
 3. **Recorre el historial.** En **Registro de eventos** verás el **Total de eventos**, agrupado por mes. Se cargan 10 eventos y aparecen más al desplazarte. Puedes filtrar por fechas.
 
@@ -102,7 +102,7 @@ Al terminar verás *"El proceso de exportacion ha comenzado, ten en cuenta que p
 ## Cómo activar o desactivar el opt-in
 
 1. **Abre la ventana de opt-in.** En el perfil de la persona, pulsa "Editar Opt In".
-   <!-- captura pendiente: como-activar-o-desactivar-el-opt-in-01 — ventana Editar Opt In -->
+   ![Ventana Editar Opt In con la aceptación universal y los canales de comunicación](img/como-activar-o-desactivar-el-opt-in-01.webp)
 
 2. **Marca o desmarca los consentimientos.**
    - **Aceptación de terminos y Condiciones Universal**: marca todo y bloquea el resto de opciones.
@@ -146,7 +146,7 @@ Verás *"El proceso de borrado de leads ha comenzado, ten en cuenta que puede de
 2. **Revisa el resumen.** En la pestaña **Contacto** verás las tarjetas **Total transacciones**, **Valor de transacciones**, **Valor Medio**, **Ingresos por suscripciones** y **Scoring**.
 
 3. **Abre la pestaña Transacciones.** Verás cada pago con **ID**, **Fecha**, **Tipo de frecuencia**, **Estado**, **Valor**, **Pasarela de pago**, **Metodo de pago**, **Email**, **Widget**, **Campaña**, **URL**, **Campaign Code** y **UTM campaign**. En el menú de cada fila, **Detalles** abre la transacción en otra pestaña y **Reembolsar** aparece solo en transacciones exitosas de pasarelas que permiten reembolsos.
-   <!-- captura pendiente: como-ver-las-transacciones-y-suscripciones-de-una-persona-03 — pestaña Transacciones del perfil -->
+   ![Pestaña Transacciones del perfil con la lista de pagos de la persona](img/como-ver-las-transacciones-y-suscripciones-de-una-persona-03.webp)
 
 4. **Abre la pestaña Subscripciones.** En la *"Lista de Subscripciones"* verás **ID de subscripción**, **Monto**, **Estado** y **Fecha de creación**.
 
@@ -179,7 +179,7 @@ Verás *"La nota se ha creado correctamente"*. La *"Lista de notas"* muestra **R
 **Antes de empezar:** tu organización necesita un Business profile con URL y un widget predeterminado de donación.
 
 1. **Abre el recuadro de link de pago.** En el perfil de la persona, pestaña **Contacto**, busca el recuadro **Link de pago**. El nombre y el correo de la persona ya vienen puestos.
-   <!-- captura pendiente: como-enviar-links-personalizados-01 — recuadro Link de pago en el perfil -->
+   ![Recuadro Link de pago en la pestaña Contacto del perfil](img/como-enviar-links-personalizados-01.webp)
 
 2. **Elige la frecuencia.** En **Seleccionar la frecuencia**, elige **Único** o **Mensual**.
 
