@@ -60,6 +60,12 @@ Los formularios de Afrus para recibir donaciones, registros y pagos desde tu sit
 
 - [Guía de Widgets](./widgets/widgets-guide.md)
 
+### [Incentivos](./incentivos/)
+
+Obsequios para quienes donan desde un monto mínimo, cupones, donaciones a nombre de otra persona y seguimiento de entregas.
+
+- [Guía de Incentivos](./incentivos/incentivos-guide.md)
+
 ### [Landings](./landings/)
 
 Crear y publicar páginas de campaña, donación o agradecimiento sin programar.
@@ -92,4 +98,4 @@ Registrar el dominio propio de tu organización para publicar tus landings con t
 
 ---
 
-*Última actualización del índice: 2026-10-20*
+*Última actualización del índice: 2026-10-26*
