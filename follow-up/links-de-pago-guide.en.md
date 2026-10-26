@@ -44,7 +44,7 @@ The **Follow up > Links de pago** screen has no create button: it is for viewing
 ## How to create a payment link
 
 1. **Open the Link de pago card.** On **Home**, or in the person's profile (**Personas**, **Contacto** tab).
-   <!-- screenshot pending: how-to-create-a-payment-link-01 — Link de pago card on Home -->
+   ![Link de pago card on a person's profile, with frequency, amount, custom message and the Enviar button](img/como-crear-un-link-de-pago-01.webp)
 
 2. **Enter the person's details.** From **Home**, fill in **Nombre** (first name), **Apellido** (last name) and **Correo electrónico** (email, required). From a person's profile, these come from their record.
 

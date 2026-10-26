@@ -29,7 +29,7 @@ You can add images in three ways: uploading them from your computer, finding the
 ### Add images
 
 1. **Open the gallery.** Go to **AI > Galería para AI**.
-   <!-- screenshot pending: galeria-para-ai-01 — IA Media screen with the search box, the cargar button, the filters and the images -->
+   ![IA Media screen with the search box, the cargar button, the filters and the images](img/galeria-para-ai-01.webp)
 
 2. **Open the upload window.** Click "cargar" (upload). The **Subir recursos** (Upload resources) window opens.
 
@@ -37,7 +37,7 @@ You can add images in three ways: uploading them from your computer, finding the
    - **Subir recursos** (Upload): first pick the attributes in "Seleccionar atributos" (Select attributes), then click "Subir" (Upload) and choose the file. It uploads as soon as you choose it.
    - **Banco de Imágenes** (Image bank): type what you are looking for (for example, "volunteers"), click "Buscar" (Search) and then click the photo you like.
    - **Generar Imagen** (Generate image): describe the image you want (or use one of the suggested ideas), click "Generar" (Generate) and then click the image to save it.
-   <!-- screenshot pending: galeria-para-ai-03 — Subir recursos window with the Subir recursos, Banco de Imágenes and Generar Imagen tabs -->
+   ![Subir recursos window with the Subir recursos, Banco de Imágenes and Generar Imagen tabs](img/galeria-para-ai-03.webp)
 
 When you finish you will see *"¡Archivo subido con éxito!"* or *"¡Imagen subida con éxito!"* (file / image uploaded successfully).
 
@@ -47,7 +47,7 @@ When you finish you will see *"¡Archivo subido con éxito!"* or *"¡Imagen subi
 
 1. **Find the image** in the gallery.
 2. **Choose its attributes.** On the image card, mark one or more. If you need a new one, click "+", type the **Nombre del atributo** (attribute name) and click "Crear atributo" (Create attribute).
-   <!-- screenshot pending: galeria-para-ai-05 — image card with its attributes and the + button -->
+   ![Image cards with the attribute selector and the + button](img/galeria-para-ai-05.webp)
 
 This way the AI knows which images to use in each kind of email.
 

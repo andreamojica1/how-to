@@ -31,7 +31,7 @@ This dashboard only counts mass emails. It doesn't include automatic emails (aut
 ### Part 1 — Check your account status
 
 1. **Open the monitor.** Go to **Trackers > Monitor de interacciones**. The **Monitor Email** tab opens.
-   <!-- screenshot pending: monitor-de-interacciones-01 — Monitor de interacciones screen with the account status, the Variable de notificación and the Indicadores principales -->
+   ![Monitor de interacciones screen with the account status, the Variable de notificación and the Indicadores principales](img/monitor-de-interacciones-01.webp)
 
 2. **Look at the Estado de la cuenta (Account status).** You'll see one of these labels:
 
@@ -66,7 +66,7 @@ The limits only apply from 1,000 emails sent. If you have fewer, you'll see: *"E
    - **Green:** below the alert limit.
    - **Yellow:** between the alert limit and the blocking limit.
    - **Red:** at the blocking limit or above.
-   <!-- screenshot pending: monitor-de-interacciones-06 — Lista de blast table with the rates in green, yellow and red -->
+   ![Lista de blast table with the color-coded Bounce Rate and Complaint Rate columns](img/monitor-de-interacciones-06.webp)
 
 7. **Open the send.** Click its **ID** to see the detail. The table shows 5 sends per page; you can change it to 10, 25 or 50.
 

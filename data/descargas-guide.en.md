@@ -42,12 +42,12 @@ The **Reporte general** (General report) is the exception: its "Descargar" (Down
    <!-- screenshot pending: descargas-01 — export started message in Personas, with the Ir a descargas link -->
 
 2. **Open Downloads.** Go to **Data > Descargas**. In **Personas** you can also use the "Ir a descargas" (Go to downloads) link in the message.
-   <!-- screenshot pending: descargas-02 — Descargas screen with the Registro de descargas card and several rows -->
+   ![Descargas screen with the Registro de descargas card and the file list](img/descargas-02.webp)
 
 3. **Wait until it's ready.** The list updates by itself when the file is done. It may take a few minutes.
 
 4. **Download it.** Click the download button in the row. You will see *"¡Archivo descargado con éxito!"* (File downloaded successfully!).
-   <!-- screenshot pending: descargas-04 — row with the download button ready -->
+   ![List row with the download button in the Acciones column](img/descargas-04.webp)
 
 Files come in Excel format (.xlsx).
 
@@ -55,7 +55,7 @@ Files come in Excel format (.xlsx).
 
 In the **Acciones** (Actions) column of each row you see an icon that tells you the file's status:
 
-<!-- screenshot pending: descargas-05 — list with rows in different states: download button, spinning circle, exclamation mark and clock -->
+![Acciones column with a file ready to download and another with the clock icon](img/descargas-05.webp)
 
 | What you see | What it means | What you can do |
 |---|---|---|

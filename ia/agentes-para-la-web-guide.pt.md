@@ -12,7 +12,7 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
 
 **Um agente é um chat com IA que você instala no seu próprio site.** O visitante deixa nome e e-mail e conversa com um assistente que responde com as informações que a sua organização enviou para a Afrus.
 
-<!-- captura pendente: agentes-para-la-web-01 — lista Agentes IA com o botão Nuevo agente -->
+![Lista Agentes IA com o botão Nuevo agente](img/agentes-para-la-web-01.webp)
 
 ## Para que servem
 
@@ -44,7 +44,7 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
    - **Descripción breve de la organización** (descrição breve da organização, obrigatória, até 200 caracteres).
    - **Comportamiento del agente** (comportamento do agente): **Cerrado** (Fechado) ou **Abierto** (Aberto).
    - **Instrucciones para el agente IA** (instruções para o agente de IA, obrigatórias): como você quer que ele fale e o que deve priorizar.
-   <!-- captura pendente: agentes-para-la-web-02 — formulário Configuración del Agente com a pré-visualização à direita -->
+   ![Formulário Configuración del Agente com a pré-visualização à direita](img/agentes-para-la-web-02.webp)
 
    > **Importante:** mesmo que a tela deixe salvar com **Texto call to action** vazio, a Afrus recusa. Escreva sempre um texto para o botão.
 
@@ -59,7 +59,7 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
 ### Parte 2 — Instale no seu site
 
 6. **Copie o código.** Na lista de agentes, clique em "Copiar codigo" (Copiar código) na linha do agente. Você verá *"Código copiado al portapapeles"* (Código copiado para a área de transferência). Também o encontra ao editar o agente, em "Copiar código de inserción" (Copiar código de incorporação).
-   <!-- captura pendente: agentes-para-la-web-06 — linha do agente com o botão Copiar codigo -->
+   ![Linha do agente com o botão Copiar codigo](img/agentes-para-la-web-06.webp)
 
 7. **Cole no seu site.** Entregue o código a quem administra o seu site para colá-lo nas páginas. A partir daí, o chat aparece para os seus visitantes.
 
@@ -84,7 +84,7 @@ Hoje as conversas não têm um botão no menu. Para vê-las, digite este endere�
 
 Lá você verá cada conversa com o e-mail, a data, o agente e um resumo. "Ver conversación" (Ver conversa) abre todas as mensagens e os dados de contato do visitante.
 
-<!-- captura pendente: agentes-para-la-web-08 — lista de conversas com ID, Email, Fecha, Agente e Resumen -->
+![Lista de conversas com ID, Email, Fecha, Agente e Resumen](img/agentes-para-la-web-08.webp)
 
 ---
 

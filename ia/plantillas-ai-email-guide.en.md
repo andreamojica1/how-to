@@ -32,7 +32,7 @@ There are two kinds:
 ### Turn a template on or off
 
 1. **Open templates.** Go to **AI > Plantillas AI Email**. You will see the list with **Estado** (Status), **Nombre** (Name), **Fecha** (Date) and whether it is **Propia** or **Global**.
-   <!-- screenshot pending: plantillas-ai-email-01 — template list with the Estado switch and the Propia / Global labels -->
+   ![Template list with the Estado switch and the Propia and Global labels](img/plantillas-ai-email-01.webp)
 
 2. **Use the switch.** In the **Estado** column, turn it on so the AI can use that template, or off so it doesn't. You will see *"Plantilla activada correctamente"* or *"Plantilla desactivada correctamente"* (template turned on / off).
 
@@ -43,12 +43,12 @@ For Afrus templates (**Global**), turning them on or off is the only thing you c
 1. **Start a new template.** Click "Nueva plantilla" (New template).
 
 2. **Name it.** In **Información general** (General information), type the **Nombre** (required) and, if you like, a **Descripción** (description). In **Estado**, choose **Habilitado** if you want it used right away, or **Borrador** (Draft) if you are still working on it.
-   <!-- screenshot pending: plantillas-ai-email-04 — Información general section with Nombre, Descripción and Estado -->
+   ![Información general section with Nombre, Descripción and Estado](img/plantillas-ai-email-04.webp)
 
 3. **Design the email.** In **Diseño del email** (Email design), click "Abrir editor visual" (Open visual editor) and build your design.
 
 4. **Add the spaces the AI fills in.** With the **Merge tags** button you can insert the spaces where the AI will put the title, paragraphs, button, main image, your logo or your social networks. Four are required: the title, the button text, the button link and the unsubscribe link. If any is missing, you will see *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* (Your template must include these required merge tags) with the list of the missing ones.
-   <!-- screenshot pending: plantillas-ai-email-05 — visual editor with the Merge tags menu open -->
+   ![Visual editor with the Merge Tags de Email window open and the required merge tags](img/plantillas-ai-email-05.webp)
 
 5. **Save the design** in the editor.
 

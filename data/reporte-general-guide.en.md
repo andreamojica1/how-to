@@ -27,7 +27,7 @@ The numbers are calculated on the spot, with the latest data, every time you ope
 ## How to analyze the Reporte general
 
 1. **Open the report.** Go to **Data > Reporte general**. When it opens, you will see the last full month (for example, if it is October, you will see September).
-   <!-- screenshot pending: general-report-01 — Vista general screen with the period selector and the Global zone -->
+   ![Vista general screen with the Presets selector and the Global section](img/reporte-general-01.webp)
 
 2. **Choose the period.** Use the filters at the top (we explain them in "What the Presets, Año and Mes filters are for").
 
@@ -41,10 +41,10 @@ The numbers are calculated on the spot, with the latest data, every time you ope
 | **04 Personas** (People) | How many new contacts you have | **Personas nuevas** (New people), **Leads**, **Donantes** and **Donantes recurrentes** |
 | **05 Comunicaciones** (Communications) | How much you communicated | **Emails enviados** (Emails sent) and **Mensajes WhatsApp enviados** (WhatsApp messages sent) |
 
-   <!-- screenshot pending: general-report-03 — Suscripciones and Transacciones zones with their indicators -->
+   ![Suscripciones and Transacciones sections with their indicators](img/reporte-general-03.webp)
 
 4. **See where they come from.** The "by origin" tables (**Nuevas suscripciones por origen**, **Transacciones por origen** and **Nuevos leads por origen**) split results **Por campaña** (By campaign), **Por widget**, **Por UTM campaign**, **Por UTM medium**, **Por UTM source** and **Por URL de landing** (By landing URL). This way you know which campaign or form brings you the most donors.
-   <!-- screenshot pending: general-report-04 — Transacciones por origen table with the Por campaña tab -->
+   ![Transacciones por origen table expanded, with Por campaña and Por widget](img/reporte-general-04.webp)
 
 **Some keys to read it well:**
 
@@ -70,7 +70,7 @@ They let you choose the period you want to see and download.
 
 **Año** (Year) and **Mes** (Month) let you choose a specific month or year, up to 8 years back. For example, to compare this year's December campaign with last year's, look at one December first and then the other.
 
-<!-- screenshot pending: presets-year-and-month-filters-01 — period selector with Presets, Año and Mes -->
+![Period selector with the Presets menu open and the Año and Mes selectors](img/para-que-son-los-filtros-presets-ano-y-mes-01.webp)
 
 > **Keep in mind:** there is no filter by campaign or currency, no free date range and no automatic comparison with the previous period.
 
@@ -79,7 +79,7 @@ They let you choose the period you want to see and download.
 - **The "Descargar" (Download) button at the top** downloads a CSV file (it opens in Excel or Google Sheets) with all the indicators for the chosen period. It has four columns: **Sección** (Section), **KPI**, **Actual** (Current) and **Unidad** (Unit).
 - **Each "by origin" table has its own "Descargar" button**, which downloads only that table.
 
-<!-- screenshot pending: what-the-download-button-downloads-01 — Descargar button at the top of the screen -->
+![Descargar button at the top of the report screen](img/que-descarga-el-boton-descargar-01.webp)
 
 > **Keep in mind:** if a "by origin" table has more than 5,000 rows, it can't be downloaded and you will see an error message. Choose a shorter period and try again.
 

@@ -39,12 +39,12 @@ The same screen can also send WhatsApp Business messages. This guide covers **em
 ### Part 1 — Choose who you are writing to
 
 1. **Create the send.** Go to **Interacciones > Blast** and click "Crear envío" (Create send).
-   <!-- screenshot pending: how-to-send-a-blast-01 — list of sends in Interacciones > Blast with the Crear envío button -->
+   ![List of sends in Interacciones > Blast with the Crear envío button](img/como-enviar-un-blast-01.webp)
 
 2. **Give it a name.** Type the **Nombre del envío** (Send name). Only you see it; it helps you find it later.
 
 3. **Choose the recipients.** In **Enviar a** (Send to), open the selector and choose your group in one of the tabs: **Segmentos** (groups Afrus already includes), **Mis segmentos** (the ones you saved) or **Etiquetas** (tags). Click "Aceptar" (Accept).
-   <!-- screenshot pending: how-to-send-a-blast-03 — Seleccionar segmento window with the Segmentos, Mis segmentos and Etiquetas tabs -->
+   ![Enviar a selector open with the Segmentos, Mis segmentos and Etiquetas tabs](img/como-enviar-un-blast-03.webp)
 
    You will see how many people can receive it, for example *"N entregables de M Destinatarios"* (N deliverable out of M recipients). Afrus leaves out anyone who can't receive emails (for example, people who unsubscribed or whose address doesn't exist).
 
@@ -139,7 +139,7 @@ You can see them in three places:
 1. **In each send's details.** In **Interacciones > Blast**, open "Detalles" and look at the **Tasa de Rebote** and the **Estados de emails**, with "Ver Eventos" for each person.
 
 2. **In the interactions monitor.** In **Trackers > Monitor de interacciones** you see the total **Hard bounces** and **Soft bounces** of all your sends, and a table with each send's bounces. That way you find which send had the most bounces. Click the **ID** to open its details.
-   <!-- screenshot pending: where-to-see-bounced-emails-02 — Monitor de interacciones with the indicators and the Lista de blast -->
+   ![Monitor de interacciones with the main indicators (Hard bounces, Soft bounces) and the Lista de blast table](img/donde-ver-los-correos-rebotados-02.webp)
 
 3. **In each person's profile.** In **Personas**, each person's email has an icon with its status. In the profile you will see *"Tiene Hard Bounce"* or *"Tiene Soft Bounce"* (Has hard / soft bounce), and in the **Eventos** (Events) tab, the details of each email.
 
@@ -169,7 +169,7 @@ Afrus looks after your email account. While a send is going out, it checks how m
 If your account gets blocked, you won't be able to send more until you contact support. That's why it pays to keep your database clean.
 
 1. **Check your account status.** Go to **Trackers > Monitor de interacciones**. **Estado de la cuenta** (Account status) tells you if it is **Activa** (Active), in **Alerta**, **Bloqueada** (Blocked) or with **Envío limitado** (Limited sending). Below, you see your bounce and complaint rates compared with the limit.
-   <!-- screenshot pending: how-to-clean-my-database-01 — Monitor de email card with Estado de la cuenta and Variable de notificación -->
+   ![Monitor de email card with the Estado de la cuenta and the Variable de notificación](img/como-limpiar-mi-base-01.webp)
 
 2. **Find the sends with problems.** In the **Lista de blast** table, the sends in yellow or red are the ones with the most bounces or complaints.
 
@@ -187,7 +187,7 @@ These are the actions Afrus lets you take to improve how your emails arrive:
    - At the top of **Interacciones > Blast** you will see if your domain is verified. If not, click "Configurar DNS" (Set up DNS). This screen opens in the previous version of Afrus, which is why it looks different.
    - Follow the 4 steps: type your domain and add the records the screen shows you at your domain provider. If you don't know how, ask whoever manages your website.
    - Verification can take up to 48 hours. "Comprobar estado" (Check status) checks again.
-   <!-- screenshot pending: how-to-keep-my-emails-out-of-spam-01 — sending domain card at the top of the Blast list -->
+   ![Dominio verificado card above the Blast Lista de envíos](img/como-evitar-que-mis-correos-lleguen-a-spam-01.webp)
 
 2. **Send from an address of your organization.** Once the domain is verified, you can choose as sender the email addresses of your organization's users with that domain.
 

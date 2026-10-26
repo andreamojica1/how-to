@@ -68,7 +68,7 @@ Fields are filled in:
 ## Where I can see it
 
 1. **In the person's profile.** Open the person in **Personas**, **Contacto** (Contact) tab, **Más información** (More information) card, **Información Personalizada** section. You'll see each field with its value, or "-" if empty. The section only appears if the person has a custom field.
-   <!-- screenshot pending: where-to-see-custom-fields-01 — person profile with the Custom information section -->
+   ![Person profile, Contacto tab, with the Información Personalizada section in the Más información card](img/donde-ver-los-campos-personalizados-01.webp)
 
 2. **In the people download.** When you download your list of people with **Base de datos en tiempo real** (Real-time database), each custom field comes out in its own column.
 

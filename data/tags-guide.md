@@ -26,12 +26,12 @@ Una persona puede tener varios tags. En la pantalla **Data > Tags** creas, cambi
 ## Cómo crear un nuevo tag
 
 1. **Abre los tags.** Ve a **Data > Tags**. Verás la pestaña **Tags** con la lista de tus etiquetas.
-   <!-- captura pendiente: como-crear-un-nuevo-tag-01 — pantalla Tags con la lista de etiquetas y el botón Nuevo tag -->
+   ![Pestaña Tags con la lista de etiquetas y el botón Nuevo tag](img/como-crear-un-nuevo-tag-01.webp)
 
 2. **Crea uno nuevo.** Haz clic en "Nuevo tag".
 
 3. **Completa los datos.** Escribe el **Nombre** (obligatorio). Si quieres, agrega una **Descripción (opcional)** de hasta 200 caracteres, para que tu equipo sepa para qué es. Elige un **Color** para reconocerlo fácil.
-   <!-- captura pendiente: como-crear-un-nuevo-tag-03 — formulario de nuevo tag con Nombre, Descripción y Color -->
+   ![Ventana Crear tag con Nombre, Descripción (opcional) y Color](img/como-crear-un-nuevo-tag-03.webp)
 
 4. **Guarda.** Verás *"Tag creado correctamente."*
 
@@ -42,7 +42,7 @@ Al terminar, el tag aparece en la lista y ya puedes ponérselo a tus contactos.
 ## Qué hacen los 3 íconos de cada tag
 
 En cada fila de la lista de tags hay tres íconos:
-<!-- captura pendiente: que-hacen-los-iconos-de-tags-01 — fila de un tag con los íconos Ver personas, editar (lápiz) y borrar (papelera) -->
+![Fila de un tag con los íconos Ver personas, editar (lápiz) y borrar (papelera)](img/que-hacen-los-iconos-de-tags-01.webp)
 
 | Ícono | Qué hace |
 |---|---|
@@ -78,7 +78,7 @@ La columna **Leads** te dice cuántas personas tiene cada tag. Puedes buscar un 
 
 1. **Abre la pestaña.** En **Data > Tags**, entra a **Analysis** (esta pestaña aparece en inglés).
 2. **Elige un tag.** Verás estos números:
-   <!-- captura pendiente: estadisticas-de-tags-02 — pestaña Analysis con las tarjetas de números de un tag -->
+   ![Pestaña Analysis con las tarjetas de números de un tag](img/estadisticas-de-tags-02.webp)
 
 | Número | Qué te dice |
 |---|---|

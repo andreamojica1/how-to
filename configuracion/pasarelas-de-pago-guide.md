@@ -12,7 +12,7 @@ Con esta guía vas a entender qué son las pasarelas de pago en Afrus, para qué
 
 Las pasarelas se configuran una vez para toda tu organización, en **Configuración > Pagos > Pasarelas de pago**. También llegas ahí desde el menú de perfil (esquina superior), opción **Ajustes de organización**.
 
-<!-- captura pendiente: que-son-las-pasarelas-de-pago-01 — pantalla Pasarelas de pago con la lista de pasarelas de la organización -->
+![Pantalla Pasarelas de pago con la lista de pasarelas, su estado y el botón Configurar](img/que-son-las-pasarelas-de-pago-01.webp)
 
 ## Para qué sirven
 
@@ -39,7 +39,7 @@ Con Cover Your Cost, el donante puede pagar un poco más para cubrir la comisió
 **Antes de empezar:** Afrus tiene que activar Cover Your Cost para tu organización. Si no ves la sección **Cover Your Cost** al abrir una pasarela, escríbenos para activarla.
 
 1. **Abre la pasarela.** Ve a **Configuración > Pagos > Pasarelas de pago** y abre la pasarela donde quieres ofrecerlo.
-   <!-- captura pendiente: como-activar-o-desactivar-cover-your-cost-01 — pasarela abierta con la sección Cover Your Cost -->
+   ![Ventana de la pasarela con la sección Cover Your Cost y el interruptor Activar Cover Your Cost](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Enciende la opción.** En la sección **Cover Your Cost**, activa **Activar Cover Your Cost**.
 

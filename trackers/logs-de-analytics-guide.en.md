@@ -31,7 +31,7 @@ If your form has none of those tools set up, nothing is sent and this screen sta
 1. **Make a test donation** in your form, or wait for real donations.
 
 2. **Open the screen.** Go to **Trackers > Logs de analytics** and choose a date range that includes your test. It opens on the current month.
-   <!-- screenshot pending: logs-de-analytics-02 — Logs de analytics screen with the date bar, search box, filters and table -->
+   ![Logs de analytics screen with the date bar, the search box, the Plataforma filter and the table](img/logs-de-analytics-02.webp)
 
 3. **Search for the person.** Type their email or ID in the search box and click the **magnifying glass**. Pressing Enter doesn't search.
 
@@ -41,7 +41,7 @@ If your form has none of those tools set up, nothing is sent and this screen sta
    - `GOOGLE-TAG-MANAGER-…` is Google Tag Manager.
 
 5. **Open the detail.** Click the eye icon on the row. The **Log** window shows what was sent and what the tool answered.
-   <!-- screenshot pending: logs-de-analytics-05 — Log window with what was sent and the response -->
+   ![Log window with what was sent (request) and the response](img/logs-de-analytics-05.webp)
 
 **Which event is which** (the last part of the **Descripción**):
 

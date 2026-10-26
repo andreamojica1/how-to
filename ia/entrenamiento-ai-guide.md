@@ -14,7 +14,7 @@ La IA usa todo eso para responder en **Chat con AI** y en los **Agentes para la 
 
 La pantalla tiene tres pestañas: **Documentos**, **Instrucciones** y **URL'S**.
 
-<!-- captura pendiente: entrenamiento-ai-01 — pantalla de Entrenamiento con las pestañas Documentos, Instrucciones y URL'S -->
+![Pantalla de Entrenamiento con las pestañas Documentos, Instrucciones y URL'S](img/entrenamiento-ai-01.webp)
 
 ## Para qué sirve
 
@@ -39,7 +39,7 @@ En **Documentos** subes los archivos que describen a tu organización: informes 
 > **Pendiente de confirmar:** si el límite de 10 MB se aplica siempre.
 
 1. **Abre la pestaña Documentos.** Entra a **AI > Entrenamiento [AI RAG]** y elige **Documentos**.
-   <!-- captura pendiente: entrenamiento-ai-02 — pestaña Documentos con la zona "Suelta aquí tus documentos" -->
+   ![Pestaña Documentos con la zona Suelta aquí tus documentos y el botón Nuevo](img/entrenamiento-ai-02.webp)
 
 2. **Elige tus archivos.** Arrástralos a **Suelta aquí tus documentos** o pulsa "Nuevo". Puedes elegir varios a la vez.
 
@@ -81,7 +81,7 @@ Las instrucciones valen para toda tu organización, y la IA las usa junto con lo
 En **URL'S** agregas páginas web de tu organización para que la IA las lea: por ejemplo la página "Quiénes somos", la de tus programas o la de una campaña.
 
 1. **Abre la pestaña URL'S.** En **AI > Entrenamiento [AI RAG]**, elige **URL'S** (sección **Fuentes Web**).
-   <!-- captura pendiente: entrenamiento-ai-05 — pestaña URL'S con el botón Agregar más URL -->
+   ![Pestaña URL'S, sección Fuentes Web, con el botón Agregar más URL](img/entrenamiento-ai-05.webp)
 
 2. **Agrega una dirección.** Pulsa "Agregar más URL" y haz clic en la fila nueva para abrirla.
 

@@ -32,7 +32,7 @@ Há dois tipos:
 ### Ativar ou desativar um modelo
 
 1. **Abra os modelos.** Acesse **AI > Plantillas AI Email**. Você verá a lista com **Estado** (Status), **Nombre** (Nome), **Fecha** (Data) e se é **Propia** ou **Global**.
-   <!-- captura pendente: plantillas-ai-email-01 — lista de modelos com a chave Estado e as etiquetas Propia / Global -->
+   ![Lista de modelos com a chave Estado e as etiquetas Propia e Global](img/plantillas-ai-email-01.webp)
 
 2. **Use a chave.** Na coluna **Estado**, ligue para que a IA possa usar esse modelo ou desligue para que não use. Você verá *"Plantilla activada correctamente"* ou *"Plantilla desactivada correctamente"* (modelo ativado / desativado).
 
@@ -43,12 +43,12 @@ Nos modelos da Afrus (**Global**), ativar ou desativar é a única coisa que voc
 1. **Comece um modelo novo.** Clique em "Nueva plantilla" (Novo modelo).
 
 2. **Dê um nome.** Em **Información general** (Informações gerais), digite o **Nombre** (obrigatório) e, se quiser, uma **Descripción** (descrição). Em **Estado**, escolha **Habilitado** se quiser que seja usado já, ou **Borrador** (Rascunho) se ainda estiver preparando.
-   <!-- captura pendente: plantillas-ai-email-04 — seção Información general com Nombre, Descripción e Estado -->
+   ![Seção Información general com Nombre, Descripción e Estado](img/plantillas-ai-email-04.webp)
 
 3. **Monte o e-mail.** Em **Diseño del email** (Layout do e-mail), clique em "Abrir editor visual" e monte seu layout.
 
 4. **Adicione os espaços que a IA preenche.** Com o botão **Merge tags**, você insere os espaços onde a IA vai colocar o título, os parágrafos, o botão, a imagem principal, seu logo ou suas redes. Quatro são obrigatórios: o título, o texto do botão, o link do botão e o link para cancelar a inscrição. Se faltar algum, você verá *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* (Seu modelo deve incluir estes merge tags obrigatórios) com a lista dos que faltam.
-   <!-- captura pendente: plantillas-ai-email-05 — editor visual com o menu Merge tags aberto -->
+   ![Editor visual com a janela Merge Tags de Email aberta e os merge tags obrigatórios](img/plantillas-ai-email-05.webp)
 
 5. **Salve o layout** no editor.
 

@@ -36,14 +36,14 @@ Importações, downloads e envios de e-mail não aparecem aqui.
 ## Que informação encontro ali e como analisá-la
 
 1. **Abra a tela.** Acesse **Trackers > Procesos en ejecucion**. Você também chega pelo botão "Ver procesos" (Ver processos) de **Personas**, **Transacciones**, **Suscripciones**, **Segmentos** e **Data > Tags**.
-   <!-- captura pendente: procesos-en-ejecucion-01 — tela Procesos com o campo de busca e a tabela de processos -->
+   ![Tela Procesos com o campo de busca e a tabela de processos](img/procesos-en-ejecucion-01.webp)
 
 2. **Encontre seu processo.** Para ver só os processos de uma pessoa da sua equipe, digite o e-mail dela em **Buscar por email** e pressione Enter ou a lupa.
 
 3. **Veja os mais recentes primeiro.** A lista começa pelos processos mais antigos. Clique no título da coluna **ID** ou **Creado en** (Criado em) para ver os mais novos primeiro.
 
 4. **Confira o andamento.** Compare **Total de leads** (quantas pessoas o grupo tinha) com **Total de leads procesados** (quantas já foram processadas). Quando termina, a coluna **Finalizado** mostra "Sí" (Sim); enquanto isso, mostra "No" (Não).
-   <!-- captura pendente: procesos-en-ejecucion-04 — linha de um processo com Total de leads, Total de leads procesados e Finalizado -->
+   ![Colunas Total de leads, Total de leads procesados e Finalizado da tabela de processos](img/procesos-en-ejecucion-04.webp)
 
 5. **Recarregue para ver mudanças.** A tela não se atualiza sozinha. Recarregue a página para ver o andamento.
 

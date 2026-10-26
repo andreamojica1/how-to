@@ -37,12 +37,12 @@ Desde la misma pantalla también se pueden hacer envíos por WhatsApp Business. 
 ### Parte 1 — Elige a quién le escribes
 
 1. **Crea el envío.** Ve a **Interacciones > Blast** y haz clic en "Crear envío".
-   <!-- captura pendiente: como-enviar-un-blast-01 — lista de envíos de Interacciones > Blast con el botón Crear envío -->
+   ![Lista de envíos de Interacciones > Blast con el botón Crear envío](img/como-enviar-un-blast-01.webp)
 
 2. **Ponle un nombre.** Escribe el **Nombre del envío**. Solo lo ves tú; te ayuda a encontrarlo después.
 
 3. **Elige los destinatarios.** En **Enviar a**, abre el selector y elige tu grupo en una de las pestañas: **Segmentos** (grupos que Afrus ya trae), **Mis segmentos** (los que guardaste) o **Etiquetas**. Haz clic en "Aceptar".
-   <!-- captura pendiente: como-enviar-un-blast-03 — ventana Seleccionar segmento con las pestañas Segmentos, Mis segmentos y Etiquetas -->
+   ![Selector de Enviar a abierto con las pestañas Segmentos, Mis segmentos y Etiquetas](img/como-enviar-un-blast-03.webp)
 
    Verás cuántas personas pueden recibirlo, por ejemplo *"N entregables de M Destinatarios"*. Afrus deja fuera a quien no puede recibir correos (por ejemplo, quien se dio de baja o tiene un correo que no existe).
 
@@ -137,7 +137,7 @@ Puedes verlos en tres lugares:
 1. **En el detalle de cada envío.** En **Interacciones > Blast**, abre "Detalles" y mira la **Tasa de Rebote** y los **Estados de emails**, con "Ver Eventos" para cada persona.
 
 2. **En el Monitor de interacciones.** En **Trackers > Monitor de interacciones** ves el total de **Hard bounces** y **Soft bounces** de todos tus envíos, y una tabla con los rebotes de cada envío. Así encuentras qué envío tuvo más rebotes. Haz clic en el **ID** para abrir su detalle.
-   <!-- captura pendiente: donde-ver-los-correos-rebotados-02 — Monitor de interacciones con los indicadores y la Lista de blast -->
+   ![Monitor de interacciones con los Indicadores principales (Hard bounces, Soft bounces) y la tabla Lista de blast](img/donde-ver-los-correos-rebotados-02.webp)
 
 3. **En el perfil de cada persona.** En **Personas**, el correo de cada persona tiene un ícono con su estado. En el perfil verás *"Tiene Hard Bounce"* o *"Tiene Soft Bounce"*, y en la pestaña **Eventos**, el detalle de cada correo.
 
@@ -167,7 +167,7 @@ Afrus cuida tu cuenta de correo. Mientras sale un envío, revisa cuántos correo
 Si tu cuenta queda bloqueada, no podrás hacer más envíos hasta escribir a soporte. Por eso conviene tener tu base limpia.
 
 1. **Revisa el estado de tu cuenta.** Ve a **Trackers > Monitor de interacciones**. **Estado de la cuenta** te dice si está **Activa**, en **Alerta**, **Bloqueada** o con **Envío limitado**. Debajo ves tu tasa de rebotes y de quejas comparada con el límite.
-   <!-- captura pendiente: como-limpiar-mi-base-01 — tarjeta Monitor de email con Estado de la cuenta y Variable de notificación -->
+   ![Tarjeta Monitor de email con el Estado de la cuenta y la Variable de notificación](img/como-limpiar-mi-base-01.webp)
 
 2. **Encuentra los envíos con problemas.** En la tabla **Lista de blast**, los envíos en amarillo o rojo son los que tuvieron más rebotes o quejas.
 
@@ -185,7 +185,7 @@ Estas son las acciones que Afrus te permite hacer para mejorar la llegada de tus
    - Arriba de **Interacciones > Blast** verás si tu dominio está verificado. Si no, haz clic en "Configurar DNS". Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.
    - Sigue los 4 pasos: escribe tu dominio y agrega en tu proveedor de dominio los registros que te muestra la pantalla. Si no sabes hacerlo, pídele ayuda a quien maneja tu sitio web.
    - La verificación puede tardar hasta 48 horas. Con "Comprobar estado" vuelves a revisar.
-   <!-- captura pendiente: como-evitar-que-mis-correos-lleguen-a-spam-01 — tarjeta del dominio de envío arriba de la lista de Blast -->
+   ![Tarjeta Dominio verificado arriba de la Lista de envíos de Blast](img/como-evitar-que-mis-correos-lleguen-a-spam-01.webp)
 
 2. **Envía desde una dirección de tu organización.** Una vez verificado el dominio, podrás elegir como remitente los correos de los usuarios de tu organización con ese dominio.
 

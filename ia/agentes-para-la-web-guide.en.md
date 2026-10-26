@@ -12,7 +12,7 @@ With this guide you will be able to create an AI chat for your website that answ
 
 **An agent is an AI chat you install on your own website.** The visitor leaves their name and email and talks with an assistant that answers with the information your organization uploaded to Afrus.
 
-<!-- screenshot pending: agentes-para-la-web-01 — Agentes IA list with the Nuevo agente button -->
+![Agentes IA list with the Nuevo agente button](img/agentes-para-la-web-01.webp)
 
 ## What they are for
 
@@ -44,7 +44,7 @@ With this guide you will be able to create an AI chat for your website that answ
    - **Descripción breve de la organización** (short description of the organization, required, up to 200 characters).
    - **Comportamiento del agente** (agent behavior): **Cerrado** (Closed) or **Abierto** (Open).
    - **Instrucciones para el agente IA** (instructions for the AI agent, required): how you want it to talk and what it should prioritize.
-   <!-- screenshot pending: agentes-para-la-web-02 — Configuración del Agente form with the preview on the right -->
+   ![Configuración del Agente form with the preview on the right](img/agentes-para-la-web-02.webp)
 
    > **Important:** even if the screen lets you save with **Texto call to action** empty, Afrus rejects it. Always write a button text.
 
@@ -59,7 +59,7 @@ With this guide you will be able to create an AI chat for your website that answ
 ### Part 2 — Install it on your website
 
 6. **Copy the code.** In the agents list, click "Copiar codigo" (Copy code) on the agent's row. You'll see *"Código copiado al portapapeles"* (Code copied to clipboard). You also find it when editing the agent, in "Copiar código de inserción" (Copy embed code).
-   <!-- screenshot pending: agentes-para-la-web-06 — agent row with the Copiar codigo button -->
+   ![Agent row with the Copiar codigo button](img/agentes-para-la-web-06.webp)
 
 7. **Paste it on your site.** Give the code to whoever manages your website so they paste it on the site. From then on, the chat appears to your visitors.
 
@@ -84,7 +84,7 @@ Today conversations don't have a menu button. To see them, type this address in 
 
 There you'll see each conversation with the email, date, agent and a summary. "Ver conversación" (View conversation) opens all the messages and the visitor's contact details.
 
-<!-- screenshot pending: agentes-para-la-web-08 — conversations list with ID, Email, Fecha, Agente and Resumen -->
+![Conversations list with ID, Email, Fecha, Agente and Resumen](img/agentes-para-la-web-08.webp)
 
 ---
 

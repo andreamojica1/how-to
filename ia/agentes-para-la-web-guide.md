@@ -10,7 +10,7 @@ Con esta guía vas a poder crear un chat con IA para tu sitio web, que responde 
 
 **Un agente es un chat con IA que instalas en tu propio sitio web.** El visitante deja su nombre y su correo, y conversa con un asistente que responde con la información que tu organización cargó en Afrus.
 
-<!-- captura pendiente: agentes-para-la-web-01 — lista Agentes IA con el botón Nuevo agente -->
+![Lista Agentes IA con el botón Nuevo agente](img/agentes-para-la-web-01.webp)
 
 ## Para qué sirven
 
@@ -42,7 +42,7 @@ Con esta guía vas a poder crear un chat con IA para tu sitio web, que responde 
    - **Descripción breve de la organización** (obligatoria, hasta 200 caracteres).
    - **Comportamiento del agente**: **Cerrado** o **Abierto**.
    - **Instrucciones para el agente IA** (obligatorias): cómo quieres que hable y qué debe priorizar.
-   <!-- captura pendiente: agentes-para-la-web-02 — formulario Configuración del Agente con la vista previa a la derecha -->
+   ![Formulario Configuración del Agente con la vista previa a la derecha](img/agentes-para-la-web-02.webp)
 
    > **Importante:** aunque la pantalla te deje guardar con **Texto call to action** vacío, Afrus lo rechaza. Escribe siempre un texto para el botón.
 
@@ -57,7 +57,7 @@ Con esta guía vas a poder crear un chat con IA para tu sitio web, que responde 
 ### Parte 2 — Instálalo en tu sitio web
 
 6. **Copia el código.** En la lista de agentes, pulsa "Copiar codigo" en la fila del agente. Verás *"Código copiado al portapapeles"*. También lo encuentras al editar el agente, en "Copiar código de inserción".
-   <!-- captura pendiente: agentes-para-la-web-06 — fila del agente con el botón Copiar codigo -->
+   ![Fila del agente con el botón Copiar codigo](img/agentes-para-la-web-06.webp)
 
 7. **Pégalo en tu sitio.** Entrégale el código a quien administra tu página web para que lo pegue en el sitio. A partir de ahí, el chat aparece para tus visitantes.
 
@@ -82,7 +82,7 @@ Hoy las conversaciones no tienen un botón en el menú. Para verlas, escribe est
 
 Ahí verás cada conversación con el correo, la fecha, el agente y un resumen. "Ver conversación" abre todos los mensajes y los datos de contacto del visitante.
 
-<!-- captura pendiente: agentes-para-la-web-08 — lista de conversaciones con ID, Email, Fecha, Agente y Resumen -->
+![Lista de conversaciones con ID, Email, Fecha, Agente y Resumen](img/agentes-para-la-web-08.webp)
 
 ---
 

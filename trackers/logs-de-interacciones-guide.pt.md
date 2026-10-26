@@ -29,7 +29,7 @@ Toda vez que a Afrus prepara uma mensagem para alguém (por exemplo, um e-mail a
 ### Parte 1 — Encontre a pessoa
 
 1. **Abra a tela.** Acesse **Trackers > Logs de interacciones**.
-   <!-- captura pendente: logs-de-interacciones-01 — tela Logs de interacciones com os cartões de totais, o campo de busca e a tabela -->
+   ![Tela Logs de interacciones com os cartões de totais, o campo de busca, os filtros e a tabela](img/logs-de-interacciones-01.webp)
 
 2. **Busque a pessoa.** No campo de busca, escolha **Lead ID**, **Correo electrónico** (e-mail) ou **Teléfono** (telefone) e digite o dado **completo e exato**. Se digitar só uma parte, ela não aparece.
 
@@ -38,7 +38,7 @@ Toda vez que a Afrus prepara uma mensagem para alguém (por exemplo, um e-mail a
 4. **Leia a coluna Estado.** Ela diz o que aconteceu com a mensagem (veja a tabela abaixo).
 
 5. **Veja a mensagem.** Clique em "Ver detalle" (Ver detalhe) para ver a data e a hora exatas e a prévia do e-mail ou do WhatsApp.
-   <!-- captura pendente: logs-de-interacciones-05 — detalhe de uma interação com a seção Detalles e a Previsualización -->
+   ![Detalhe de uma interação com a seção Detalles e a Previsualización](img/logs-de-interacciones-05.webp)
 
 **O que significa cada status:**
 

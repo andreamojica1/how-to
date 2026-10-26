@@ -28,12 +28,12 @@ Uma pessoa pode ter várias tags. Na tela **Data > Tags** você cria, altera e e
 ## Como criar uma nova tag
 
 1. **Abra as tags.** Acesse **Data > Tags**. Você verá a aba **Tags** com a lista das suas etiquetas.
-   <!-- captura pendente: como-criar-uma-nova-tag-01 — tela Tags com a lista de etiquetas e o botão Nuevo tag -->
+   ![Aba Tags com a lista de etiquetas e o botão Nuevo tag](img/como-crear-un-nuevo-tag-01.webp)
 
 2. **Crie uma nova.** Clique em "Nuevo tag" (Nova tag).
 
 3. **Preencha os dados.** Escreva o **Nombre** (Nome, obrigatório). Se quiser, adicione uma **Descripción (opcional)** (Descrição, opcional) de até 200 caracteres, para sua equipe saber para que serve. Escolha uma **Color** (Cor) para reconhecê-la fácil.
-   <!-- captura pendente: como-criar-uma-nova-tag-03 — formulário de nova tag com Nome, Descrição e Cor -->
+   ![Janela Crear tag com Nombre, Descripción (opcional) e Color](img/como-crear-un-nuevo-tag-03.webp)
 
 4. **Salve.** Você verá *"Tag creado correctamente."* (Tag criada com sucesso).
 
@@ -44,7 +44,7 @@ A tag aparece na lista e você já pode colocá-la nos seus contatos.
 ## O que fazem os 3 ícones de cada tag
 
 Em cada linha da lista de tags há três ícones:
-<!-- captura pendente: o-que-fazem-os-icones-das-tags-01 — linha de uma tag com os ícones Ver personas, editar (lápis) e excluir (lixeira) -->
+![Linha de uma tag com os ícones ver pessoas, editar (lápis) e apagar (lixeira)](img/que-hacen-los-iconos-de-tags-01.webp)
 
 | Ícone | O que faz |
 |---|---|
@@ -80,7 +80,7 @@ A coluna **Leads** mostra quantas pessoas cada tag tem. Você pode buscar uma ta
 
 1. **Abra a aba.** Em **Data > Tags**, entre em **Analysis** (essa aba aparece em inglês).
 2. **Escolha uma tag.** Você verá estes números:
-   <!-- captura pendente: estatisticas-das-tags-02 — aba Analysis com os cartões de números de uma tag -->
+   ![Aba Analysis com os cartões de números de uma tag](img/estadisticas-de-tags-02.webp)
 
 | Número | O que mostra |
 |---|---|

@@ -27,7 +27,7 @@ Alguns são da Afrus e estão disponíveis para todas as organizações. Outros 
 ## Quais tipos de modelos existem
 
 Ao entrar em **Interacciones > Plantillas Afrus** você verá uma tabela com todos os seus modelos.
-<!-- captura pendente: plantillas-afrus-01 — lista de Plantillas Afrus com as colunas Status, Nome, Tipo, Objetivo, Proprietário e Idioma -->
+![Lista de Plantillas Afrus com os filtros Tipo, Objetivo e Estado e as colunas Status, Nome, Tipo, Objetivo, Proprietário e Idioma](img/plantillas-afrus-01.webp)
 
 **Por tipo:**
 
@@ -45,7 +45,7 @@ Você pode filtrar a tabela por tipo, objetivo e status para encontrar o que pro
 ## Como criar um novo modelo
 
 1. **Abra os modelos.** Acesse **Interacciones > Plantillas Afrus** e clique em "Crear plantilla Afrus" (Criar modelo Afrus).
-   <!-- captura pendente: plantillas-afrus-02 — formulário Criar modelo Afrus -->
+   ![Formulário Crear plantilla Afrus com Información general: nome, status, tipo, objetivo e idioma do modelo](img/plantillas-afrus-02.webp)
 
 2. **Preencha as informações gerais.**
    - **Nombre de plantilla** (Nome do modelo, obrigatório): um nome que sua equipe reconheça.

@@ -34,14 +34,14 @@ Las importaciones, las descargas y los envíos de correos no aparecen aquí.
 ## Qué información encuentro allí y cómo analizarla
 
 1. **Abre la pantalla.** Entra a **Trackers > Procesos en ejecucion**. También llegas con el botón "Ver procesos" de **Personas**, **Transacciones**, **Suscripciones**, **Segmentos** y **Data > Tags**.
-   <!-- captura pendiente: procesos-en-ejecucion-01 — pantalla Procesos con el buscador y la tabla de procesos -->
+   ![Pantalla Procesos con el buscador y la tabla de procesos](img/procesos-en-ejecucion-01.webp)
 
 2. **Busca tu proceso.** Para ver solo los procesos que lanzó una persona de tu equipo, escribe su correo en **Buscar por email** y pulsa Enter o la lupa.
 
 3. **Ve los más recientes primero.** La lista empieza por los procesos más antiguos. Haz clic en el título de la columna **ID** o **Creado en** para ver primero los más nuevos.
 
 4. **Revisa el avance.** Compara **Total de leads** (cuántas personas tenía el grupo) con **Total de leads procesados** (cuántas lleva). Cuando terminó, la columna **Finalizado** dice "Sí"; mientras tanto dice "No".
-   <!-- captura pendiente: procesos-en-ejecucion-04 — fila de un proceso con Total de leads, Total de leads procesados y Finalizado -->
+   ![Columnas Total de leads, Total de leads procesados y Finalizado de la tabla de procesos](img/procesos-en-ejecucion-04.webp)
 
 5. **Recarga para ver cambios.** La pantalla no se actualiza sola. Para ver cómo avanza, recarga la página.
 

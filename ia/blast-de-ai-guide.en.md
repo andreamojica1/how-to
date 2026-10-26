@@ -14,7 +14,7 @@ With this guide you will be able to send a mass email where the AI writes the me
 
 You choose who receives it, the goal and what you want to say. The AI writes a different email for each person, using what you uploaded in **AI > Entrenamiento [AI RAG]**.
 
-<!-- screenshot pending: blast-de-ai-01 — "¿Qué es un Blast AI?" page with the Comenzar Blast AI button -->
+![¿Qué es un Blast AI? page with the Comenzar Blast AI button](img/blast-de-ai-01.webp)
 
 ## What it is for
 
@@ -41,7 +41,7 @@ You choose who receives it, the goal and what you want to say. The AI writes a d
 1. **Start the blast.** Go to **AI > Blast de AI** and click "Comenzar Blast AI" (Start AI Blast).
 
 2. **Give it a name and a goal.** Type the **Nombre del blast** (blast name) and choose the **Objetivo del blast** (blast goal): talk about your organization, ask for donations, talk about your cause, talk about your impact, share stories or promote a campaign.
-   <!-- screenshot pending: blast-de-ai-02 — Configuración step with name, goal and Enviar a -->
+   ![Configuración step with Nombre del blast, Objetivo del blast and Enviar a](img/blast-de-ai-02.webp)
 
 3. **Choose who receives it.** In **Enviar a** (Send to), use the **Segmentos Predefinidos** (Predefined segments) or **Etiquetas** (Tags) tab and choose **one** segment or **one** tag. Below you'll see how many people will receive it.
 

@@ -30,7 +30,7 @@ Hay dos tipos:
 ### Activar o desactivar una plantilla
 
 1. **Abre las plantillas.** Ve a **AI > Plantillas AI Email**. Verás la lista con el **Estado**, el **Nombre**, la **Fecha** y si es **Propia** o **Global**.
-   <!-- captura pendiente: plantillas-ai-email-01 — lista de plantillas con el interruptor Estado y las etiquetas Propia / Global -->
+   ![Lista de plantillas con el interruptor Estado y las etiquetas Propia y Global](img/plantillas-ai-email-01.webp)
 
 2. **Usa el interruptor.** En la columna **Estado**, enciéndelo para que la IA pueda usar esa plantilla o apágalo para que no la use. Verás *"Plantilla activada correctamente"* o *"Plantilla desactivada correctamente"*.
 
@@ -41,12 +41,12 @@ En las plantillas de Afrus (**Global**), activar o desactivar es lo único que p
 1. **Empieza una plantilla nueva.** Haz clic en "Nueva plantilla".
 
 2. **Ponle nombre.** En **Información general**, escribe el **Nombre** (obligatorio) y, si quieres, una **Descripción**. En **Estado**, elige **Habilitado** si quieres que se use ya, o **Borrador** si todavía la estás preparando.
-   <!-- captura pendiente: plantillas-ai-email-04 — sección Información general con Nombre, Descripción y Estado -->
+   ![Sección Información general con Nombre, Descripción y Estado](img/plantillas-ai-email-04.webp)
 
 3. **Diseña el correo.** En **Diseño del email**, haz clic en "Abrir editor visual" y arma tu diseño.
 
 4. **Agrega los espacios que rellena la IA.** Con el botón **Merge tags** puedes insertar los espacios donde la IA pondrá el título, los párrafos, el botón, la imagen principal, tu logo o tus redes. Hay cuatro que son obligatorios: el título, el texto del botón, el enlace del botón y el enlace para darse de baja. Si falta alguno, verás *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* con la lista de los que faltan.
-   <!-- captura pendiente: plantillas-ai-email-05 — editor visual con el menú Merge tags abierto -->
+   ![Editor visual con la ventana Merge Tags de Email abierta y los merge tags obligatorios](img/plantillas-ai-email-05.webp)
 
 5. **Guarda el diseño** en el editor.
 

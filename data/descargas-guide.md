@@ -40,12 +40,12 @@ El **Reporte general** es la excepción: su botón "Descargar" baja el archivo d
    <!-- captura pendiente: descargas-01 — mensaje de inicio de exportación en Personas, con el enlace Ir a descargas -->
 
 2. **Abre Descargas.** Ve a **Data > Descargas**. En **Personas** también puedes usar el enlace "Ir a descargas" del mensaje.
-   <!-- captura pendiente: descargas-02 — pantalla Descargas con la tarjeta Registro de descargas y varias filas -->
+   ![Pantalla Descargas con la tarjeta Registro de descargas y la lista de archivos](img/descargas-02.webp)
 
 3. **Espera a que esté listo.** La lista se actualiza sola cuando el archivo termina de prepararse. Puede tardar unos minutos.
 
 4. **Descárgalo.** Pulsa el botón de descarga de la fila. Verás *"¡Archivo descargado con éxito!"*.
-   <!-- captura pendiente: descargas-04 — fila con el botón de descarga listo -->
+   ![Fila de la lista con el botón de descarga en la columna Acciones](img/descargas-04.webp)
 
 Los archivos llegan en formato Excel (.xlsx).
 
@@ -53,7 +53,7 @@ Los archivos llegan en formato Excel (.xlsx).
 
 En la columna **Acciones** de cada fila ves un ícono que te dice en qué estado está el archivo:
 
-<!-- captura pendiente: descargas-05 — lista con filas en distintos estados: botón de descarga, círculo girando, exclamación y reloj -->
+![Columna Acciones con un archivo listo para descargar y otro con el ícono de reloj](img/descargas-05.webp)
 
 | Lo que ves | Qué significa | Qué puedes hacer |
 |---|---|---|

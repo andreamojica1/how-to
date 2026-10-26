@@ -29,7 +29,7 @@ Every time Afrus prepares a message for someone (for example, an automatic thank
 ### Part 1 — Find the person
 
 1. **Open the screen.** Go to **Trackers > Logs de interacciones**.
-   <!-- screenshot pending: logs-de-interacciones-01 — Logs de interacciones screen with the total cards, the search box and the table -->
+   ![Logs de interacciones screen with the total cards, the search box, the filters and the table](img/logs-de-interacciones-01.webp)
 
 2. **Search for the person.** In the search box choose **Lead ID**, **Correo electrónico** (email) or **Teléfono** (phone) and type the **full, exact** value. If you type only part of it, it won't be found.
 
@@ -38,7 +38,7 @@ Every time Afrus prepares a message for someone (for example, an automatic thank
 4. **Read the Estado column.** It tells you what happened to the message (see the table below).
 
 5. **Look at the message.** Click "Ver detalle" (View detail) to see the exact date and time and the preview of the email or WhatsApp message.
-   <!-- screenshot pending: logs-de-interacciones-05 — interaction detail with the Detalles section and the Previsualización -->
+   ![Interaction detail with the Detalles section and the Previsualización](img/logs-de-interacciones-05.webp)
 
 **What each status means:**
 

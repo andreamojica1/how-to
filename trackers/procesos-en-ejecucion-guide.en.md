@@ -36,14 +36,14 @@ Imports, downloads and email sends do not appear here.
 ## What information you find there and how to read it
 
 1. **Open the screen.** Go to **Trackers > Procesos en ejecucion**. You can also get there with the "Ver procesos" (View processes) button in **Personas**, **Transacciones**, **Suscripciones**, **Segmentos** and **Data > Tags**.
-   <!-- screenshot pending: procesos-en-ejecucion-01 — Procesos screen with the search box and the process table -->
+   ![Procesos screen with the search box and the process table](img/procesos-en-ejecucion-01.webp)
 
 2. **Find your process.** To see only the processes run by someone on your team, type their email in **Buscar por email** (Search by email) and press Enter or the magnifying glass.
 
 3. **See the newest first.** The list starts with the oldest processes. Click the **ID** or **Creado en** (Created on) column title to see the newest first.
 
 4. **Check the progress.** Compare **Total de leads** (how many people the group had) with **Total de leads procesados** (how many have been done). When it's done, the **Finalizado** (Finished) column says "Sí" (Yes); until then it says "No".
-   <!-- screenshot pending: procesos-en-ejecucion-04 — a process row with Total de leads, Total de leads procesados and Finalizado -->
+   ![Total de leads, Total de leads procesados and Finalizado columns of the process table](img/procesos-en-ejecucion-04.webp)
 
 5. **Reload to see changes.** The screen does not refresh by itself. Reload the page to see the progress.
 

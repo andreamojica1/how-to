@@ -35,7 +35,7 @@ Each user can have only one signature.
 ### Create or edit a signature
 
 1. **Open signatures.** Go to **AI > Firmas de usuarios**. You will see your organization's users and, next to each one, whether they are **Con firma** (with signature) or **Sin firma** (without signature). You can look someone up with "Buscar por nombre" (Search by name).
-   <!-- screenshot pending: firmas-de-usuarios-01 — Personalizar usuarios screen with the list, the search box and the Con firma / Sin firma labels -->
+   ![Personalizar usuarios screen with the search box and the Con firma and Sin firma labels](img/firmas-de-usuarios-01.webp)
 
 2. **Open the user's signature.** Click "Crear firma" (Create signature), or "Editar firma" (Edit signature) if they already have one.
 
@@ -44,7 +44,7 @@ Each user can have only one signature.
    - **Correo desde el que se enviarán los mensajes** (sending email): choose one of your organization's sending addresses.
    - **Cargo para firma** (job title).
    - **Reply to**: the email where you want to receive replies.
-   <!-- screenshot pending: firmas-de-usuarios-03 — signature form with name, sending email, job title and Reply to -->
+   ![Signature form with name, sending email, job title and Reply to](img/firmas-de-usuarios-03.webp)
 
 4. **Write the description, or let the AI write it.** The **Descripción de usuario** (user description) is also required, even though it has no asterisk. To have the AI write it:
    - choose the **Tono de comunicación** (tone), for example Formal, Cercano (friendly) or Inspirador (inspiring);
@@ -53,7 +53,7 @@ Each user can have only one signature.
    - click "Generar" (Generate).
 
    If you already have a text, "Mejorar" (Improve) rewrites it and "Regenerar" (Regenerate) creates a new version. You can also write it yourself.
-   <!-- screenshot pending: firmas-de-usuarios-04 — Descripción de usuario section with tone, style, length and the Generar, Mejorar and Regenerar buttons -->
+   ![Descripción de usuario section with tone, style, length and the Generar, Mejorar and Regenerar buttons](img/firmas-de-usuarios-04.webp)
 
 5. **Save.** Click "Crear firma" (or "Actualizar firma", Update signature). You will see *"Firma creada exitosamente"* or *"Firma actualizada exitosamente"* (signature created / updated successfully).
 

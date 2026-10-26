@@ -68,7 +68,7 @@ Os campos são preenchidos:
 ## Onde posso vê-las
 
 1. **No perfil da pessoa.** Abra a pessoa em **Personas**, aba **Contacto** (Contato), cartão **Más información** (Mais informações), seção **Información Personalizada**. Você verá cada campo com seu valor, ou "-" se estiver vazio. A seção só aparece se a pessoa tiver algum campo personalizado.
-   <!-- captura pendente: onde-ver-os-campos-personalizados-01 — perfil da pessoa com a seção Informação personalizada -->
+   ![Perfil de uma pessoa, aba Contacto, com a seção Información Personalizada no cartão Más información](img/donde-ver-los-campos-personalizados-01.webp)
 
 2. **No download de pessoas.** Ao baixar sua lista de pessoas com **Base de datos en tiempo real** (Base de dados em tempo real), cada campo personalizado sai em uma coluna própria.
 

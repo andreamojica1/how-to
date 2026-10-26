@@ -32,7 +32,7 @@ Al entrar verás los **Indicadores globales** (**Total de personas**, **Activos*
 ## Cómo crear una persona
 
 1. **Abre el formulario.** En **Personas**, pulsa "Crear persona".
-   <!-- captura pendiente: como-crear-una-persona-01 — formulario Crear Persona -->
+   ![Formulario Crear Persona con Información Básica, Más información, Etiquetas y Opt In](img/como-crear-una-persona-01.webp)
 
 2. **Completa los datos.** El **Correo electrónico** es obligatorio y debe tener un formato válido; **Nombre** y **Apellido** solo aceptan letras. También puedes llenar **Número de teléfono**, **Tipo de documento**, **Documento**, **Campaña**, **Widget**, fecha de nacimiento, país, estado, ciudad, código postal, zona horaria, dirección, empresa y **Etiquetas**. Cuantos más datos completes, mejor podrás segmentar después.
 

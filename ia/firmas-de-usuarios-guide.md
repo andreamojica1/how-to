@@ -33,7 +33,7 @@ Cada usuario puede tener una sola firma.
 ### Crear o editar una firma
 
 1. **Abre las firmas.** Ve a **AI > Firmas de usuarios**. Verás la lista de usuarios de tu organización y, al lado de cada uno, si está **Con firma** o **Sin firma**. Puedes buscar a alguien con "Buscar por nombre".
-   <!-- captura pendiente: firmas-de-usuarios-01 — pantalla Personalizar usuarios con la lista, el buscador y las etiquetas Con firma / Sin firma -->
+   ![Pantalla Personalizar usuarios con el buscador y las etiquetas Con firma y Sin firma](img/firmas-de-usuarios-01.webp)
 
 2. **Abre la firma del usuario.** Haz clic en "Crear firma" (o en "Editar firma" si ya tiene una).
 
@@ -42,7 +42,7 @@ Cada usuario puede tener una sola firma.
    - **Correo desde el que se enviarán los mensajes**: elige uno de los correos de envío de tu organización.
    - **Cargo para firma**.
    - **Reply to**: el correo donde quieres recibir las respuestas.
-   <!-- captura pendiente: firmas-de-usuarios-03 — formulario de firma con nombre, correo de envío, cargo y Reply to -->
+   ![Formulario de firma con nombre, correo de envío, cargo y Reply to](img/firmas-de-usuarios-03.webp)
 
 4. **Escribe la descripción, o deja que la IA la escriba.** La **Descripción de usuario** también es obligatoria, aunque no tenga asterisco. Para que la IA la escriba:
    - elige el **Tono de comunicación** (por ejemplo Formal, Cercano o Inspirador);
@@ -51,7 +51,7 @@ Cada usuario puede tener una sola firma.
    - haz clic en "Generar".
 
    Si ya tienes un texto, "Mejorar" lo reescribe, y "Regenerar" crea una versión nueva. También puedes escribirla tú.
-   <!-- captura pendiente: firmas-de-usuarios-04 — sección Descripción de usuario con tono, estilo, longitud y los botones Generar, Mejorar y Regenerar -->
+   ![Sección Descripción de usuario con tono, estilo, longitud y los botones Generar, Mejorar y Regenerar](img/firmas-de-usuarios-04.webp)
 
 5. **Guarda.** Haz clic en "Crear firma" (o "Actualizar firma"). Verás *"Firma creada exitosamente"* o *"Firma actualizada exitosamente"*.
 

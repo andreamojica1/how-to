@@ -37,14 +37,14 @@ You write the email once and Afrus sends it every time that event happens.
 ### Part 1 — Choose where and when it is sent
 
 1. **Open autoresponders.** Go to **Interacciones > Autoresponders**.
-   <!-- screenshot pending: autoresponders-01 — Autoresponders list with the Genérico, Por Campaña and Por widget tabs and the language selector -->
+   ![Autoresponders list with the Genérico, Por Campaña and Por widget tabs, the language selector and the Nuevo autoresponder button](img/autoresponders-01.webp)
 
 2. **Choose the language.** Above the list, choose **Español (ES)**, **Inglés (EN)** or **Portugués (PT)**. The autoresponder you create will be in that language.
 
 3. **Start a new one.** Click "Nuevo autoresponder" (New autoresponder).
 
 4. **Choose where it applies.** In **Contexto** (Context), choose **Genérico** (Generic, for the whole organization), **Por campaña** (By campaign, then pick the campaign) or **Por formulario** (By form, then pick the form). Click "Siguiente" (Next).
-   <!-- screenshot pending: autoresponders-04 — New autoresponder wizard, Context step -->
+   ![Nuevo autoresponder wizard on the Contexto step with the Genérico, Por campaña and Por formulario options](img/autoresponders-04.webp)
 
 5. **Choose the moment.** In **Evento** (Event), choose when it is sent, for example **Transacción registrada** (Transaction registered — "when a successful transaction is confirmed"). Only events that don't yet have an email in that language appear.
 
@@ -55,7 +55,7 @@ You write the email once and Afrus sends it every time that event happens.
 ### Part 2 — Fill in the email details
 
 8. **Choose the sender.** In **Correo de envío** (Sending email), choose which address it comes from.
-   <!-- screenshot pending: autoresponders-08 — autoresponder editor, Configuration step -->
+   ![Autoresponder editor on the Configuración step with Correo de envío, Asunto del correo and Archivo adjunto](img/autoresponders-08.webp)
 
 9. **Give it an internal name (optional).** In **Nombre interno** (Internal name), write a name only your team will see.
 
@@ -72,7 +72,7 @@ You write the email once and Afrus sends it every time that event happens.
     - **Galería de diseños** (Design gallery): start from a ready-made template.
     - **Autoresponders:** copy an email you already have.
     - **Editor con código** (Code editor): for people who work with HTML.
-    <!-- screenshot pending: autoresponders-13 — Design step with the four options -->
+    ![Diseño step with the Diseño en blanco, Galería de diseños, Autoresponders and Editor con código options](img/autoresponders-13.webp)
 
 14. **Publish it.** At the top right, turn on **Publicado** (Published).
 
@@ -98,7 +98,7 @@ If you prefer Afrus to write the email for you:
 - **Edit:** on the event's row, use the edit icon, change what you need and click "Guardar".
 - **Pause:** turn off the switch on the row. It becomes **Inactivo** (Inactive) and is not sent.
 - **See results:** the view icon opens **Ver detalles** (View details), with how many emails were sent, opened and clicked, and a preview of the email. "Ver log" (View log) shows each email sent or failed.
-  <!-- screenshot pending: autoresponders-ver-01 — View details screen with statistics -->
+  ![Ver detalles screen with messages sent, open rate, click rate and delivery metrics](img/autoresponders-ver-01.webp)
 - **Delete:** delete icon on the row.
 
 > **Can it be undone?** No. Deleting an autoresponder removes it instantly, without asking for confirmation. If you only want to stop sending it for a while, turn it off with the switch instead.

@@ -34,7 +34,7 @@ When you open it you will see the **Indicadores globales** (Global indicators: *
 ## How to create a person
 
 1. **Open the form.** In **Personas**, click "Crear persona" (Create person).
-   <!-- screenshot pending: how-to-create-a-person-01 — Crear Persona form -->
+   ![Crear Persona form with Información Básica, Más información, Etiquetas and Opt In](img/como-crear-una-persona-01.webp)
 
 2. **Fill in the details.** **Correo electrónico** (email) is required and must be a valid format; **Nombre** (first name) and **Apellido** (last name) only accept letters. You can also fill in **Número de teléfono** (phone), **Tipo de documento** (ID type), **Documento** (ID number), **Campaña** (campaign), **Widget**, date of birth, country, state, city, postal code, time zone, address, company and **Etiquetas** (tags). The more you fill in, the better you can segment later.
 
