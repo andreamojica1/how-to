@@ -51,7 +51,7 @@ When you finish you will see *"Lead creado con éxito"* (Lead created successful
 ## How to filter a group of people
 
 1. **Use the filter bar.** Above the table you have **Tags**, **Tipo** (Type: **Lead**, **Activo** — active — or **Recurrente** — recurring), **Scoring** (a range), **Campaña** (campaign), **Widgets**, **UtmCampaign** and the "Solo contactables" (Only contactable) button.
-   <!-- screenshot pending: how-to-filter-a-group-of-people-01 — People filter bar -->
+   ![People filter bar with Tags, Tipo, Scoring, Campaña, Widgets, UtmCampaign and Solo contactables](img/como-filtrar-un-grupo-de-personas-01.webp)
 
 2. **Search for someone specific.** In the search box, choose to search by **Nombre** (name), **Documento de identidad** (ID document), **Correo electrónico** (email), **Teléfono** (phone) or **ID de Lead** (lead ID).
 
@@ -73,7 +73,7 @@ When you finish, the table and the text *"Total de personas que coinciden: N."* 
 2. **Choose which rows to export (optional).** Check the rows you want. If you check the whole page, the link **Seleccionar las N personas de la base.** (Select all N people in the database) appears.
 
 3. **Open the export.** Click "Acciones" (Actions) and choose "Exportar" (Export).
-   <!-- screenshot pending: how-to-download-a-group-of-people-03 — Descargar window -->
+   ![Descargas window with Fuente de datos and Tipo de archivo](img/como-descargar-un-grupo-de-personas-03.webp)
 
 4. **Choose the data source.** In **Fuente de datos** (Data source), choose **Base de datos en tiempo real** (real-time database: current data) or **Datos analizados** (analyzed data: *"Estos datos se actualizan cada 24 horas"* — this data is updated every 24 hours).
 
@@ -93,7 +93,7 @@ When you finish you will see *"El proceso de exportacion ha comenzado, ten en cu
 1. **Open the profile.** In **Personas**, click the person's **ID**.
 
 2. **Go to the Eventos tab.** At the top you will see the **Estado opt-in / opt-out** (opt-in / opt-out status) per channel (*"Activo desde …"* — active since… — or *"No registrado"* — not registered).
-   <!-- screenshot pending: how-to-see-a-persons-events-02 — Eventos tab -->
+   ![Profile Eventos tab with Estado opt-in / opt-out and Registro de eventos](img/como-ver-los-eventos-de-una-persona-02.webp)
 
 3. **Browse the history.** In **Registro de eventos** (Event log) you will see the **Total de eventos** (total events), grouped by month. 10 events load and more appear as you scroll. You can filter by dates.
 
@@ -104,7 +104,7 @@ When you finish you will see *"El proceso de exportacion ha comenzado, ten en cu
 ## How to turn opt-in on or off
 
 1. **Open the opt-in window.** In the person's profile, click "Editar Opt In" (Edit opt-in).
-   <!-- screenshot pending: how-to-turn-opt-in-on-or-off-01 — Editar Opt In window -->
+   ![Editar Opt In window with the universal acceptance and the communication channels](img/como-activar-o-desactivar-el-opt-in-01.webp)
 
 2. **Check or uncheck the consents.**
    - **Aceptación de terminos y Condiciones Universal** (universal terms acceptance): checks everything and locks the other options.
@@ -148,7 +148,7 @@ You will see *"El proceso de borrado de leads ha comenzado, ten en cuenta que pu
 2. **Check the summary.** The **Contacto** tab shows the cards **Total transacciones** (total transactions), **Valor de transacciones** (transaction value), **Valor Medio** (average value), **Ingresos por suscripciones** (subscription revenue) and **Scoring**.
 
 3. **Open the Transacciones tab.** You will see each payment with **ID**, **Fecha** (date), **Tipo de frecuencia** (frequency type), **Estado** (status), **Valor** (value), **Pasarela de pago** (payment gateway), **Metodo de pago** (payment method), **Email**, **Widget**, **Campaña**, **URL**, **Campaign Code** and **UTM campaign**. In each row's menu, **Detalles** (Details) opens the transaction in a new tab, and **Reembolsar** (Refund) appears only on successful transactions in gateways that allow refunds.
-   <!-- screenshot pending: how-to-see-a-persons-transactions-and-subscriptions-03 — profile Transacciones tab -->
+   ![Profile Transacciones tab with the person's payment list](img/como-ver-las-transacciones-y-suscripciones-de-una-persona-03.webp)
 
 4. **Open the Subscripciones tab.** In *"Lista de Subscripciones"* (Subscription list) you will see **ID de subscripción** (subscription ID), **Monto** (amount), **Estado** (status) and **Fecha de creación** (creation date).
 
@@ -181,7 +181,7 @@ You will see *"La nota se ha creado correctamente"* (Note created successfully).
 **Before you start:** your organization needs a Business profile with a URL and a default donation widget.
 
 1. **Open the payment link box.** In the person's profile, **Contacto** tab, find the **Link de pago** (payment link) box. The person's name and email are already filled in.
-   <!-- screenshot pending: how-to-send-personalized-links-01 — Link de pago box in the profile -->
+   ![Link de pago box in the profile Contacto tab](img/como-enviar-links-personalizados-01.webp)
 
 2. **Choose the frequency.** In **Seleccionar la frecuencia** (Select frequency), choose **Único** (one-time) or **Mensual** (monthly).
 

@@ -47,7 +47,7 @@ Hay dos juegos de imágenes: las de la campaña, que defines tú desde el panel,
 Necesitas tener Peer to peer activado en la campaña: con el interruptor apagado, los botones de imágenes están deshabilitados.
 
 1. **Abre la pestaña Peer to peer.** En **Fundraising > Campañas**, abre la campaña y entra a la pestaña **Peer to peer**.
-   <!-- captura pendiente: como-cambiar-las-imagenes-de-portada-p2p-01 — pestaña Peer to peer de una campaña con los bloques de imágenes -->
+   ![Pestaña Peer to peer de una campaña con el bloque Subir foto de portada](img/como-cambiar-las-imagenes-de-portada-p2p-01.webp)
 2. **Elige qué imagen cambiar.** En **Subir foto de portada** (la primera imagen del carrusel superior de cada página) o en **Subir foto de campaña** (la imagen secundaria, más abajo en la página), pulsa "Subir" para elegir un archivo nuevo, o "Editar" para recortar de nuevo la imagen actual. "Editar" solo aparece si ya hay una imagen.
 3. **Recorta la imagen.** En el recortador puedes elegir la **Relación de aspecto** (**9:16 (Vertical)**, **1:1 (Cuadrado)**, **4:3 (Estándar)** o **16:9 (Panorámico)**) y usar "Rotar a la derecha".
 4. **Guarda dos veces.** Pulsa "Guardar". La primera vez cambia a la vista previa de PC (proporción 16:9); revísala y pulsa "Guardar" otra vez para subir la imagen.
@@ -100,7 +100,7 @@ Hay dos formularios distintos: el de registro, que llena quien quiere ser recaud
 ### Parte 1 — Ver quién está recaudando
 
 1. **Abre el panel.** Entra a **Fundraising > Peer to peer fundraisers**.
-   <!-- captura pendiente: como-gestionar-recaudadores-p2p-01 — panel Peer to Peer con tarjetas y tabla Fundraisings -->
+   ![Panel Peer to Peer con las tarjetas de resumen y la tabla Fundraisings](img/como-gestionar-recaudadores-p2p-01.webp)
 2. **Lee las tarjetas.** **Solicitudes pendientes** cuenta las páginas por aprobar; **Total Campañas**, todas las páginas de la lista en cualquier estado; **Total Fundraisers**, cuántas personas distintas tienen páginas.
 3. **Revisa la tabla Fundraisings.** Está ordenada de la más nueva a la más antigua. Puedes ordenarla por **ID**, **Campaña** y **Meta**.
 

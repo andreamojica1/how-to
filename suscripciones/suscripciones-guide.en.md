@@ -35,7 +35,7 @@ From here you can search and filter subscriptions, export them, mark them as fra
 ## How to filter a group of subscriptions
 
 1. **Open the module.** Go to **Suscripciones**.
-   <!-- screenshot pending: how-to-filter-a-group-of-subscriptions-01 — subscription list with date bar and filter row -->
+   ![Subscription list with the date bar and the filter row](img/como-filtrar-un-grupo-de-suscripciones-01.webp)
 
 2. **Choose the date range.** Use the date bar: **1W**, **4W**, **1Y**, **MTD**, **QTD**, **YTD**, **ALL** or **PERSONALIZADO** (Custom, with **DESDE** (From) and **HASTA** (To)). By default you see the current month (**MTD**).
 
@@ -66,7 +66,7 @@ When you finish you will see the table and counter updated. The filters are save
 2. **Choose what to export.** "Exportar" (Export) is disabled until you select at least one row.
    - To export only some, tick their boxes.
    - To export everything filtered, tick the header box (selects the page) and then click **Seleccionar las N subscripciones de la base.** (Select the N subscriptions in the database). You will see *"Las N subscripciones de tu base estan seleccionadas"* (The N subscriptions in your database are selected).
-   <!-- screenshot pending: how-to-download-a-group-of-subscriptions-02 — whole-database selection message -->
+   ![Message to select every subscription in the database](img/como-descargar-un-grupo-de-suscripciones-02.webp)
 
 3. **Export.** Click "Acciones" (Actions) and choose **Exportar**.
 
@@ -85,7 +85,7 @@ When you finish you will have an Excel (.xlsx) file with one row per subscriptio
 ## How to change a subscription's charge date
 
 1. **Open the subscription.** In **Suscripciones**, click the row's **ID**.
-   <!-- screenshot pending: how-to-change-the-charge-date-01 — subscription detail with Enviar Mensaje, Modificar and Cancelar Suscripción buttons -->
+   ![Subscription detail with the Enviar Mensaje, Modificar and Cancelar Suscripción buttons](img/como-cambiar-la-fecha-de-cobro-01.webp)
 
 2. **Click "Modificar" (Modify).** Depending on how the subscription's payment gateway is connected, one of these three windows opens:
 
@@ -122,7 +122,7 @@ When you finish you will see *"Suscripción actualizada correctamente."* or *"Su
 1. **Open the subscription.** In **Suscripciones**, click the row's **ID**.
 
 2. **Click "Cancelar Suscripción" (Cancel subscription).** It is the red text in the detail.
-   <!-- screenshot pending: how-to-cancel-a-subscription-02 — Cancelar Suscripción button in the detail -->
+   ![Cancelar Suscripción button in the subscription detail](img/como-cancelar-una-suscripcion-02.webp)
 
 3. **Confirm.** In the window *"¿Estás seguro de que deseas cancelar tu suscripción?"* (Are you sure you want to cancel your subscription?), click "Confirmar" (or "Cerrar" (Close) to leave without cancelling).
 
@@ -147,7 +147,7 @@ When you finish you will see *"La suscripción se ha cancelado correctamente"* (
 1. **Select the subscriptions.** In **Suscripciones**, tick the box of each one. With none selected, the "Acciones" options are disabled.
 
 2. **Choose the action.** Click "Acciones" and choose **Marcar como Fraude** (Mark as fraud).
-   <!-- screenshot pending: how-to-mark-a-subscription-as-fraud-02 — Acciones menu with Marcar como Fraude -->
+   ![Acciones menu with the Marcar como Fraude option](img/como-marcar-como-fraude-una-suscripcion-02.webp)
 
 3. **Confirm.** In the **Marcar como fraude** window, click "Confirmar". The window mentions "transacción(es)" (transactions): this is expected, it applies to the subscriptions you selected.
 

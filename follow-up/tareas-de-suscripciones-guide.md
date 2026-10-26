@@ -71,7 +71,7 @@ Además, cada tarea tiene un **Tipo**, que puedes cambiar a mano:
 ### Cómo revisar y filtrar las tareas
 
 1. **Abre la lista.** Entra a **Follow up > Tareas de suscripciones**.
-   <!-- captura pendiente: tareas-de-suscripciones-01 — lista de Tareas de Suscripciones -->
+   ![Lista de Tareas de Suscripciones con el rango de fechas, el filtro Responsable y el botón Acciones](img/tareas-de-suscripciones-01.webp)
 2. **Elige las fechas.** En la barra de fechas, elige el rango. Por defecto se muestra todo el historial. El filtro usa la fecha en que se creó la tarea: una tarea reabierta conserva su fecha original.
 3. **Busca o filtra.** Busca por **Nombre** de la tarea o filtra por **Responsable** para ver solo los casos de una persona del equipo.
 

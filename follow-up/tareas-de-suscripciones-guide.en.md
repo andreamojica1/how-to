@@ -73,7 +73,7 @@ Each task also has a **Tipo** (type), which you can change by hand:
 ### How to review and filter tasks
 
 1. **Open the list.** Go to **Follow up > Tareas de suscripciones**.
-   <!-- screenshot pending: tareas-de-suscripciones-01 — Tareas de Suscripciones list -->
+   ![Tareas de Suscripciones list with the date range, the Responsable filter and the Acciones button](img/tareas-de-suscripciones-01.webp)
 2. **Choose the dates.** In the date bar, choose the range. By default the whole history is shown. The filter uses the date the task was created: a reopened task keeps its original date.
 3. **Search or filter.** Search by task **Nombre** or filter by **Responsable** to see only one team member's cases.
 

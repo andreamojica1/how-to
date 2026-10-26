@@ -37,7 +37,7 @@ To sell tickets you need two things: the raffle (the Ticket, with its number ran
 ### Part 1 — Create the raffle
 
 1. **Open Tickets.** Go to **Fundraising > Tickets** and click "Crear Ticket" (Create Ticket).
-   <!-- screenshot pending: how-to-create-a-product-widget-01 — Tickets list with the Crear Ticket button -->
+   ![Tickets screen with the Crear Ticket button and the ticket list](img/como-crear-un-widget-de-producto-01.webp)
 
 2. **Name it.** Fill in **Nombre** (Name, at least 3 characters).
 
@@ -79,7 +79,7 @@ When you finish, donors choose how many tickets they want in the widget. On the 
 
 1. **Open your autoresponder editor.** Go to **Interacciones > Autoresponders** and open the autoresponder.
 2. **Open the merge tag map.** Open **Merge tags** (**Mapa de merge tags**) and find the **Merge Tags de Rifas** (Raffle merge tags) category. Clicking a card copies the merge tag.
-   <!-- screenshot pending: how-to-include-ticket-in-autoresponder-02 — Merge Tags de Rifas category in the map -->
+   ![Merge tag map with the raffle category selected](img/como-incluir-ticket-en-autoresponder-02.webp)
 3. **Paste the merge tags into your text.** Write them exactly like this:
 
    | Merge tag | Name in the map | What it shows |

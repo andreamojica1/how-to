@@ -45,7 +45,7 @@ The full journey has four moments:
 ### Part 1 — Generate the batch
 
 1. **Open Boleto Itaú.** Go to **Follow up > Boleto Itaú** and click "Crear Boleto Remessa" (Create remessa boleto). It takes you to **Segmentos** (Segments); you can also go straight to **Data > Segmentos > Básico**.
-   <!-- screenshot pending: boleto-itau-01 — Procesos de generación de boleto screen with the Crear Boleto Remessa button -->
+   ![Procesos de generación de boleto screen with the Crear Boleto Remessa button](img/boleto-itau-01.webp)
 
 2. **Choose the segment.** Select the segment and open **Acciones** (Actions) > **Generar Archivos de Remessa (Boleto Brasil)** (Generate remessa files). You can also do it from **Personas** (People): select the people and use the same option in **Acciones**.
 

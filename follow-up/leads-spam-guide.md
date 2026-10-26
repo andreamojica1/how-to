@@ -26,7 +26,7 @@ Estas personas no se borran: quedan guardadas en esta lista para que tu equipo l
 ## Cómo revisar los leads spam y restaurar una persona
 
 1. **Abre la lista.** Entra a **Follow up > Leads spam**.
-   <!-- captura pendiente: leads-spam-01 — pantalla Leads spam con la tabla -->
+   ![Pantalla Leads spam con la búsqueda, el rango de fechas y la tabla con la columna Motivo](img/leads-spam-01.webp)
 
 2. **Elige el rango de fechas.** Por defecto se muestra el **mes en curso**. El filtro usa la fecha de creación de la persona.
 

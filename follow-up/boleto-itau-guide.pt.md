@@ -45,7 +45,7 @@ O caminho completo tem quatro momentos:
 ### Parte 1 — Gerar o lote
 
 1. **Abra o Boleto Itaú.** Acesse **Follow up > Boleto Itaú** e clique em "Crear Boleto Remessa" (Criar boleto remessa). Ele leva a **Segmentos**; você também pode ir direto a **Data > Segmentos > Básico**.
-   <!-- captura pendente: boleto-itau-01 — tela Procesos de generación de boleto com o botão Crear Boleto Remessa -->
+   ![Tela Procesos de generación de boleto com o botão Crear Boleto Remessa](img/boleto-itau-01.webp)
 
 2. **Escolha o segmento.** Selecione o segmento e abra **Acciones** (Ações) > **Generar Archivos de Remessa (Boleto Brasil)** (Gerar arquivos de remessa). Também dá para fazer em **Personas** (Pessoas): selecione as pessoas e use a mesma opção em **Acciones**.
 

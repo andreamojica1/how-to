@@ -32,7 +32,7 @@ The pages you create here live only in **Fundraising > Experiences AI**: they ar
 ## How to create a landing page with AI
 
 1. **Create the experience.** Go to **Fundraising > Experiences AI** and click "Nueva experiencia" (New experience). A draft is created right away and the wizard opens.
-   <!-- screenshot pending: how-to-create-a-landing-page-with-ai-01 — experience list with the New experience button -->
+   ![Experience list with the Nueva experiencia button](img/como-crear-una-landing-con-ia-01.webp)
 
 2. **Choose the goal.** In the **Objetivo** (Goal) tab, choose **Donación** (Donation) or **Agradecimiento** (Thank you). The wizard moves to the next tab on its own.
 
@@ -64,7 +64,7 @@ When the experience is created, Afrus randomly assigns one of the templates avai
 
 1. **Open the editor.** In **Fundraising > Experiences AI**, click the experience's pencil icon.
 2. **Change the design.** In the top bar, click "Cambiar diseño" (Change design). Each click moves to the next available template of the same type (Donation or Thank you); after the last one, it goes back to the first. Your existing texts are kept and fit into the new design.
-   <!-- screenshot pending: how-to-change-the-template-01 — editor top bar with Cambiar diseño -->
+   ![Editor top bar with the Cambiar diseño button](img/como-cambiar-la-plantilla-01.webp)
 3. **Publish.** When you like the design, click "Publicar" to take it to the public page.
 
 When you finish you will see the public page with the new design. The template change is saved right away in the editor, but it doesn't show online until you publish.
@@ -75,7 +75,7 @@ When you finish you will see the public page with the new design. The template c
 
 1. **Open the editor.** In the list, click the experience's pencil icon.
 2. **Choose a base color.** In the top bar, click "Recolor", choose a color in the picker and click "Aplicar" (Apply). From that color, the AI creates a complete palette (primary, secondary, accent and text colors) and applies it to the template. It is saved right away.
-   <!-- screenshot pending: how-to-change-the-styles-02 — Recolor color picker -->
+   ![Recolor color picker with the Aplicar button](img/como-cambiar-los-estilos-02.webp)
 3. **Show or hide sections (Donation only).** Use the **Compartir** (Share — section for sharing the cause) and **Meta de recaudación** (Fundraising goal — progress bar) switches, and click "Actualizar".
 4. **Check mobile and desktop.** Use the phone and monitor icons in the preview.
 5. **Publish.** Click "Publicar" to take the changes to the public page.

@@ -36,7 +36,7 @@ Cada landing se publica en la dirección de Afrus (`web.afrus.org`) o en un domi
 ### Parte 1 — Datos básicos
 
 1. **Abre el módulo.** Entra a **Fundraising > Landings** y pulsa "Nueva landing".
-   <!-- captura pendiente: como-crear-una-landing-01 — lista de landings con el botón Nueva landing -->
+   ![Lista de landings con el botón Nueva landing](img/como-crear-una-landing-01.webp)
 
 2. **Completa los datos básicos.** En la pestaña **Datos básicos**, llena:
    - **Nombre interno**: solo lo ves tú; te ayuda a encontrar la landing en la lista.
@@ -85,7 +85,7 @@ Afrus agrega a tu página el código de Google Analytics o Google Tag Manager y 
 **Antes de empezar:** la landing debe tener un diseño guardado. Si no, al guardar verás *"Error al guardar datos avanzados"*.
 
 1. **Abre la landing.** En **Fundraising > Landings**, pulsa el lápiz de la landing y entra a la pestaña **Datos avanzados**.
-   <!-- captura pendiente: como-hacer-seguimiento-con-analitica-a-mi-landing-01 — pestaña Datos avanzados, sección Analytics -->
+   ![Pestaña Datos avanzados con la sección Analytics](img/como-hacer-seguimiento-con-analitica-a-mi-landing-01.webp)
 
 2. **Elige tu herramienta de analítica.** En la sección **Analytics**, en **Analytics track**, elige **Google Analytics** o **Google Tag Manager V4** y escribe el ID en **Google Analytics ID** (formato `G-XXXXXXXXXX` o `UA-XXXXX-Y`) o en **Google Tag Manager V4 ID** (formato `GTM-XXXXXX`).
 
@@ -110,7 +110,7 @@ Si el formato de un ID no es válido, no se guarda y verás *"ID de Google Analy
 1. **Abre el editor visual.** En la pestaña **Landing page** de tu landing, crea la página (**Página de cero** > "Crear página") o pulsa "Editar" sobre el diseño existente.
 
 2. **Elige el widget.** En la barra superior, en **Seleccionar widget**, elige el widget por su nombre. Afrus copia su código y verás *"Código del widget copiado al portapapeles"*.
-   <!-- captura pendiente: como-poner-un-widget-en-una-landing-02 — barra del editor con Seleccionar widget -->
+   ![Barra del editor de landing pages con el selector Seleccionar widget](img/como-poner-un-widget-en-una-landing-02.webp)
 
 3. **Pega el código en un bloque HTML.** Arrastra al lienzo un bloque **HTML** del panel de herramientas y pega ahí el código.
 
@@ -173,7 +173,7 @@ Al terminar, tras una donación exitosa, el donante llega a tu landing con sus d
 1. **Abre la landing.** En **Fundraising > Landings**, pulsa el lápiz de la landing y ve a la pestaña **Datos básicos**.
 
 2. **Cambia la dirección.** Modifica la **Ruta**, el **Dominio** o ambos. Si quieres usar tu propio dominio, regístralo antes en **Fundraising > Dominios**. Con un dominio propio puedes usar la ruta `/` para que la landing sea la página principal del dominio.
-   <!-- captura pendiente: como-cambiar-la-url-de-mi-landing-02 — Datos básicos con Dominio y Ruta -->
+   ![Pestaña Datos básicos con los campos Dominio y Ruta](img/como-cambiar-la-url-de-mi-landing-02.webp)
 
 3. **Guarda.** Pulsa "Guardar". Verás *"Datos actualizados con éxito"*.
 

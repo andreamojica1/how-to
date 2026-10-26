@@ -66,7 +66,7 @@ The "Enviar blast masivo" (Send bulk blast) button stays locked until two condit
 To message a contact first on WhatsApp Business you need a template approved by Meta.
 
 1. **Open the templates.** In **WhatsApp Business > Blast**, section **Plantillas de WhatsApp Meta**, click "Crear plantilla" (Create template).
-   <!-- screenshot pending: how-to-create-a-whatsapp-business-template-01 — Plantillas de WhatsApp Meta section -->
+   ![Plantillas de WhatsApp Meta section with the Crear plantilla button](img/como-crear-una-plantilla-de-whatsapp-business-01.webp)
 
 2. **Fill in the basic information.** In **Información básica** (Basic information), type the **Nombre de la plantilla** (template name: lowercase letters, numbers and underscores only, starting with a letter), choose the **Categoría** (category: **Marketing**, **Utilidad** — Utility — or **Autenticación** — Authentication) and the **Idioma del mensaje** (message language). Click "Continuar".
 
@@ -95,7 +95,7 @@ When you finish you will see *"Plantilla enviada para aprobación"* (Template se
 ### Part 1 — Create the send
 
 1. **Start the send.** In **WhatsApp Business > Blast**, click "Enviar blast masivo". Send creation opens with the **WhatsApp Business** channel already selected.
-   <!-- screenshot pending: how-to-send-a-whatsapp-business-blast-01 — Enviar blast masivo button on the dashboard -->
+   ![WhatsApp Business dashboard with the Enviar blast masivo button](img/como-hacer-un-envio-masivo-por-whatsapp-business-01.webp)
 
 2. **Name it and choose recipients.** Fill in **Nombre del envío** (send name), choose the segment in **Seleccionar segmento** (Select segment) and click "Continuar".
 
