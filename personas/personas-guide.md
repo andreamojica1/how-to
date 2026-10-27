@@ -137,7 +137,7 @@ Verás *"El proceso de borrado de leads ha comenzado, ten en cuenta que puede de
 
 > **¿Se puede deshacer?** No. *"Esta acción es irreversible. Eliminará permanentemente a la persona, junto con todas sus acciones, eventos, transacciones y suscripciones asociadas."* Si solo quieres dejar de comunicarte con ella, desactiva su opt-in en lugar de borrarla.
 
-> **Pendiente de confirmar:** si al borrar varias personas desde la lista también se cancelan sus suscripciones en la pasarela, y qué pasa con las suscripciones en pasarelas distintas de Débito Recurrente Bancario y Recurrent Payments.
+> **Importante:** evita eliminar personas que tengan o hayan tenido transacciones o suscripciones: esas transacciones y suscripciones quedarán huérfanas y se pierde su trazabilidad.
 
 ## Cómo ver las transacciones y suscripciones de una persona
 
@@ -234,8 +234,6 @@ Verás *"La subscripción se ha creado correctamente"* y la suscripción aparece
 
 > **Importante:** en esta ventana, las opciones **Modo enhanced** y **Modo de reintentos** no se guardan: la suscripción se crea sin ellas. Por ahora no hay una alternativa dentro de esta ventana.
 
-> **Pendiente de confirmar:** qué pasarelas permiten crear transacciones electrónicas y suscripciones con tarjeta guardada; depende de la configuración de cada pasarela.
-
 ---
 
 ## Datos y estados
@@ -246,7 +244,7 @@ Verás *"La subscripción se ha creado correctamente"* y la suscripción aparece
 | Estado del correo | **No verificado**, **Verificado**, **Soft Bounce**, **Hard Bounce**, **Opt Out**, **Deshabilitado** |
 | Columnas de la lista | **ID**, **Nombre**, **Correo electrónico**, **Fecha**, **Tipo**, **Scoring**, **Total de transacciones ($)**, **Campaña**, **Widget de origen**, **UTM Campaign de origen**, **Tags** |
 
-> **Pendiente de confirmar:** la regla exacta que convierte a una persona en **Lead**, **Activo** o **Recurrente**.
+> **Qué significa cada tipo:** **Lead** es una persona que no tiene ninguna transacción; **Activo** es una persona que tiene al menos una transacción; y **Recurrente** es una persona que tiene una suscripción.
 
 Si el correo rebotó, el perfil muestra *"Tiene Hard Bounce"* o *"Tiene Soft Bounce"*. Si la persona fue marcada como spam, el perfil muestra *"Esta persona fue marcada como spam y está oculta de listas, segmentos, exportaciones y envíos."* con el botón "No es spam".
 
@@ -278,4 +276,4 @@ No. Eliminar es permanente e incluye sus eventos, transacciones y suscripciones.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

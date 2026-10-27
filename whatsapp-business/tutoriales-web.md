@@ -114,6 +114,7 @@ Relacionados: que-es-whatsapp-business, como-crear-una-plantilla-de-whatsapp-bus
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿La conexión vence?</strong> Sí. AFRUS avisa con <em>"Tu conexión expirará en N días"</em>; cuando vence, pulsa "Reconectar con Facebook".</p>
 <p><strong>¿Cómo agrego otro número?</strong> Desde el Administrador de Teléfonos de Meta. Luego pulsa "Sincronizar con Meta" en AFRUS.</p>
+<p><strong>¿Qué hago si aparece el error "This phone number is not eligible to register or migrate"?</strong> El número sigue asociado a otra cuenta de WhatsApp. Si tiene WhatsApp o WhatsApp Business en un celular, en la app ve a Configuración &gt; Cuenta &gt; Eliminar cuenta (no basta con desinstalar la app). Si estuvo conectado con otro proveedor de WhatsApp API o en otra cuenta de Meta, pide que lo desconecten y que desactiven el PIN de verificación en dos pasos. Luego espera unos minutos y vuelve a intentarlo desde AFRUS.</p>
 === FIN ===
 ```
 
@@ -427,6 +428,7 @@ Relacionados: what-is-whatsapp-business, how-to-create-a-whatsapp-business-templ
 <h2>Frequently asked questions</h2>
 <p><strong>Does the connection expire?</strong> Yes. AFRUS warns you with <em>"Tu conexión expirará en N días"</em>; when it expires, click "Reconectar con Facebook".</p>
 <p><strong>How do I add another number?</strong> In Meta's Phone Manager. Then click "Sincronizar con Meta" (Sync with Meta) in AFRUS.</p>
+<p><strong>What do I do if I see the error "This phone number is not eligible to register or migrate"?</strong> The number is still linked to another WhatsApp account. If it has WhatsApp or WhatsApp Business on a phone, in the app go to Settings &gt; Account &gt; Delete account (uninstalling the app is not enough). If it was connected to another WhatsApp API provider or to another Meta account, ask them to disconnect it and turn off the two-step verification PIN. Then wait a few minutes and try again from AFRUS.</p>
 === FIN ===
 ```
 
@@ -740,6 +742,7 @@ Relacionados: o-que-e-o-whatsapp-business, como-criar-um-modelo-do-whatsapp-busi
 <h2>Perguntas frequentes</h2>
 <p><strong>A conexão expira?</strong> Sim. A AFRUS avisa com <em>"Tu conexión expirará en N días"</em>; quando expirar, clique em "Reconectar con Facebook".</p>
 <p><strong>Como adiciono outro número?</strong> No Gerenciador de Telefones da Meta. Depois clique em "Sincronizar con Meta" na AFRUS.</p>
+<p><strong>O que faço se aparecer o erro "This phone number is not eligible to register or migrate"?</strong> O número ainda está associado a outra conta do WhatsApp. Se ele tem WhatsApp ou WhatsApp Business em um celular, no app vá em Configurações &gt; Conta &gt; Apagar conta (não basta desinstalar o app). Se esteve conectado a outro provedor de WhatsApp API ou a outra conta da Meta, peça que o desconectem e desativem o PIN de verificação em duas etapas. Depois espere alguns minutos e tente de novo pela AFRUS.</p>
 === FIN ===
 ```
 

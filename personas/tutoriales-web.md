@@ -26,7 +26,7 @@ Relacionados: para-que-sirve-personas, como-crear-una-persona, como-descargar-un
 <h2>El perfil de cada persona</h2>
 <p>Al hacer clic en el <strong>ID</strong> de una persona se abre su perfil, con las pestañas <strong>Contacto</strong>, <strong>Transacciones</strong>, <strong>Subscripciones</strong>, <strong>Recordatorios</strong>, <strong>Notas</strong> y <strong>Eventos</strong>.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Qué significa el Tipo de una persona?</strong> Cada persona aparece como <strong>Lead</strong>, <strong>Activo</strong> o <strong>Recurrente</strong>. La regla exacta que asigna cada tipo está pendiente de confirmar.</p>
+<p><strong>¿Qué significa el Tipo de una persona?</strong> Cada persona aparece como <strong>Lead</strong>, <strong>Activo</strong> o <strong>Recurrente</strong>. <strong>Lead</strong> es una persona que no tiene ninguna transacción; <strong>Activo</strong>, una persona que tiene al menos una transacción; y <strong>Recurrente</strong>, una persona que tiene una suscripción.</p>
 === FIN ===
 ```
 
@@ -382,7 +382,7 @@ Relacionados: what-is-people-for, how-to-create-a-person, how-to-download-a-grou
 <h2>Each person's profile</h2>
 <p>Clicking a person's <strong>ID</strong> opens their profile, with the tabs <strong>Contacto</strong> (Contact), <strong>Transacciones</strong> (Transactions), <strong>Subscripciones</strong> (Subscriptions), <strong>Recordatorios</strong> (Reminders), <strong>Notas</strong> (Notes) and <strong>Eventos</strong> (Events).</p>
 <h2>Frequently asked questions</h2>
-<p><strong>What does a person's Type mean?</strong> Each person appears as <strong>Lead</strong>, <strong>Activo</strong> (Active) or <strong>Recurrente</strong> (Recurring). The exact rule that assigns each type is pending confirmation.</p>
+<p><strong>What does a person's Type mean?</strong> Each person appears as <strong>Lead</strong>, <strong>Activo</strong> (Active) or <strong>Recurrente</strong> (Recurring). <strong>Lead</strong> is a person with no transactions; <strong>Activo</strong>, a person with at least one transaction; and <strong>Recurrente</strong>, a person with a subscription.</p>
 === FIN ===
 ```
 
@@ -760,7 +760,7 @@ Relacionados: para-que-serve-personas, como-criar-uma-pessoa, como-baixar-um-gru
 <h2>O perfil de cada pessoa</h2>
 <p>Ao clicar no <strong>ID</strong> de uma pessoa, abre-se o perfil dela, com as abas <strong>Contacto</strong> (Contato), <strong>Transacciones</strong> (Transações), <strong>Subscripciones</strong> (Assinaturas), <strong>Recordatorios</strong> (Lembretes), <strong>Notas</strong> e <strong>Eventos</strong>.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>O que significa o Tipo de uma pessoa?</strong> Cada pessoa aparece como <strong>Lead</strong>, <strong>Activo</strong> (Ativo) ou <strong>Recurrente</strong> (Recorrente). A regra exata que define cada tipo está pendente de confirmação.</p>
+<p><strong>O que significa o Tipo de uma pessoa?</strong> Cada pessoa aparece como <strong>Lead</strong>, <strong>Activo</strong> (Ativo) ou <strong>Recurrente</strong> (Recorrente). <strong>Lead</strong> é uma pessoa sem nenhuma transação; <strong>Activo</strong>, uma pessoa com pelo menos uma transação; e <strong>Recurrente</strong>, uma pessoa com uma assinatura.</p>
 === FIN ===
 ```
 

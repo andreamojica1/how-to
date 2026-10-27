@@ -139,7 +139,7 @@ You will see *"El proceso de borrado de leads ha comenzado, ten en cuenta que pu
 
 > **Can it be undone?** No. *"Esta acción es irreversible. Eliminará permanentemente a la persona, junto con todas sus acciones, eventos, transacciones y suscripciones asociadas."* (This action is irreversible. It will permanently delete the person, with all their actions, events, transactions and subscriptions.) If you only want to stop contacting them, turn off their opt-in instead.
 
-> **Pending confirmation:** whether deleting several people from the list also cancels their subscriptions in the payment gateway, and what happens to subscriptions in gateways other than Débito Recurrente Bancario and Recurrent Payments.
+> **Important:** avoid deleting people who have or have had transactions or subscriptions: those transactions and subscriptions will be left orphaned and you lose their traceability.
 
 ## How to see a person's transactions and subscriptions
 
@@ -236,8 +236,6 @@ You will see *"La subscripción se ha creado correctamente"* (Subscription creat
 
 > **Important:** in this window, the **Modo enhanced** (enhanced mode) and **Modo de reintentos** (retry mode) options are not saved: the subscription is created without them. For now there is no alternative in this window.
 
-> **Pending confirmation:** which payment gateways allow electronic transactions and subscriptions with a saved card; it depends on each gateway's configuration.
-
 ---
 
 ## Data and statuses
@@ -248,7 +246,7 @@ You will see *"La subscripción se ha creado correctamente"* (Subscription creat
 | Email status | **No verificado** (Not verified), **Verificado** (Verified), **Soft Bounce**, **Hard Bounce**, **Opt Out**, **Deshabilitado** (Disabled) |
 | List columns | **ID**, **Nombre**, **Correo electrónico**, **Fecha**, **Tipo**, **Scoring**, **Total de transacciones ($)**, **Campaña**, **Widget de origen**, **UTM Campaign de origen**, **Tags** |
 
-> **Pending confirmation:** the exact rule that makes a person **Lead**, **Activo** or **Recurrente**.
+> **What each type means:** **Lead** is a person with no transactions; **Activo** (Active) is a person with at least one transaction; and **Recurrente** (Recurring) is a person with a subscription.
 
 If the email bounced, the profile shows *"Tiene Hard Bounce"* or *"Tiene Soft Bounce"*. If the person was marked as spam, the profile shows *"Esta persona fue marcada como spam y está oculta de listas, segmentos, exportaciones y envíos."* (This person was marked as spam and is hidden from lists, segments, exports and sends.) with the "No es spam" (Not spam) button.
 
@@ -280,4 +278,4 @@ No. Deleting is permanent and includes their events, transactions and subscripti
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

@@ -139,7 +139,7 @@ Você verá *"El proceso de borrado de leads ha comenzado, ten en cuenta que pue
 
 > **Dá para desfazer?** Não. *"Esta acción es irreversible. Eliminará permanentemente a la persona, junto con todas sus acciones, eventos, transacciones y suscripciones asociadas."* (Esta ação é irreversível. Excluirá permanentemente a pessoa, com todas as suas ações, eventos, transações e assinaturas.) Se você só quer parar de se comunicar com ela, desative o opt-in em vez de excluí-la.
 
-> **Pendente de confirmação:** se, ao excluir várias pessoas pela lista, as assinaturas delas também são canceladas no gateway, e o que acontece com assinaturas em gateways diferentes de Débito Recurrente Bancario e Recurrent Payments.
+> **Importante:** evite excluir pessoas que tenham ou tenham tido transações ou assinaturas: essas transações e assinaturas ficarão órfãs e você perde a rastreabilidade delas.
 
 ## Como ver as transações e assinaturas de uma pessoa
 
@@ -236,8 +236,6 @@ Você verá *"La subscripción se ha creado correctamente"* (Assinatura criada c
 
 > **Importante:** nesta janela, as opções **Modo enhanced** e **Modo de reintentos** (modo de novas tentativas) não são salvas: a assinatura é criada sem elas. Por enquanto não há alternativa nesta janela.
 
-> **Pendente de confirmação:** quais gateways permitem criar transações eletrônicas e assinaturas com cartão salvo; depende da configuração de cada gateway.
-
 ---
 
 ## Dados e status
@@ -248,7 +246,7 @@ Você verá *"La subscripción se ha creado correctamente"* (Assinatura criada c
 | Status do e-mail | **No verificado** (Não verificado), **Verificado**, **Soft Bounce**, **Hard Bounce**, **Opt Out**, **Deshabilitado** (Desativado) |
 | Colunas da lista | **ID**, **Nombre**, **Correo electrónico**, **Fecha**, **Tipo**, **Scoring**, **Total de transacciones ($)**, **Campaña**, **Widget de origen**, **UTM Campaign de origen**, **Tags** |
 
-> **Pendente de confirmação:** a regra exata que torna uma pessoa **Lead**, **Activo** ou **Recurrente**.
+> **O que significa cada tipo:** **Lead** é uma pessoa sem nenhuma transação; **Activo** (Ativo) é uma pessoa com pelo menos uma transação; e **Recurrente** (Recorrente) é uma pessoa com uma assinatura.
 
 Se o e-mail voltou, o perfil mostra *"Tiene Hard Bounce"* ou *"Tiene Soft Bounce"*. Se a pessoa foi marcada como spam, o perfil mostra *"Esta persona fue marcada como spam y está oculta de listas, segmentos, exportaciones y envíos."* (Esta pessoa foi marcada como spam e está oculta de listas, segmentos, exportações e envios.) com o botão "No es spam" (Não é spam).
 
@@ -280,4 +278,4 @@ Não. A exclusão é permanente e inclui eventos, transações e assinaturas.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

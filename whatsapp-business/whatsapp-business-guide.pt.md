@@ -50,6 +50,16 @@ Ao terminar, você verá no painel o chip **Conectado** e o nome do seu negócio
 
 **Para adicionar um número novo:** adicione no Gerenciador de Telefones da Meta e depois clique em "Actualizar números" (Atualizar números) ou "Sincronizar con Meta" (Sincronizar com a Meta) na AFRUS.
 
+### Se aparecer o erro "This phone number is not eligible to register or migrate"
+
+![Erro da Meta: This phone number is not eligible to register or migrate](img/errorWhatsapp.png)
+
+Esse erro indica que o número ainda está associado a outra conta do WhatsApp. Para liberá-lo:
+
+1. **Se o número tem WhatsApp ou WhatsApp Business em um celular:** no app, vá em Configurações > Conta > Apagar conta. Não basta desinstalar o app.
+2. **Se esteve conectado a outro provedor de WhatsApp API ou a outra conta da Meta:** peça que o desconectem e desativem o PIN de verificação em duas etapas.
+3. **Tente de novo.** Espere alguns minutos e conecte o número novamente pela AFRUS.
+
 ### Habilitar o botão de envio em massa
 
 O botão "Enviar blast masivo" (Enviar blast em massa) fica bloqueado até que duas condições sejam cumpridas:
