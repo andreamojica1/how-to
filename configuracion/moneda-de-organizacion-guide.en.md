@@ -2,7 +2,7 @@
 
 This guide explains what your organization's currency is and where AFRUS uses it.
 
-*Module: Settings · Menu: **Configuración > Organización > Moneda predeterminada** (Settings > Organization > Default currency) · Audience: admin and fundraising teams*
+*Module: Settings · Menu: **Ajustes de Organización > Moneda predeterminada** (Organization settings > Default currency) · Audience: admin and fundraising teams*
 
 > **About the labels in this guide:** buttons, fields and menus are written as they appear in the Spanish version of the console, with an English explanation where it helps.
 
@@ -12,7 +12,7 @@ This guide explains what your organization's currency is and where AFRUS uses it
 
 **It is your organization's main currency in AFRUS.** AFRUS uses it to show your totals, goals and reports in a single currency, even if you receive donations in several.
 
-You find it in **Configuración > Organización > Moneda predeterminada**. This screen opens in the previous version of AFRUS, which is why it looks different.
+You find it in **Ajustes de Organización > Moneda predeterminada**.
 
 <!-- screenshot pending: what-is-the-organization-currency-01 — Default currency screen -->
 
@@ -28,11 +28,10 @@ You find it in **Configuración > Organización > Moneda predeterminada**. This 
 
 ---
 
-## What you'll find and how to edit it
-
-> **Pending confirmation:** what the **Moneda predeterminada** screen shows, whether the currency can be changed there, who can do it, and what happens to donations already recorded if it changes. If you need to change it, write to AFRUS support.
-
 ## Frequently asked questions
+
+**Can I change my organization's currency?**
+No. It can't be changed after the first transaction.
 
 **Can I receive donations in other currencies?**
 Yes. Each country of your form has its own currency. AFRUS converts those amounts to your organization's currency to show your totals.

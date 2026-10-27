@@ -2,7 +2,7 @@
 
 Com este guia você vai entender o que é a moeda da sua organização e em quais partes da AFRUS ela é usada.
 
-*Módulo: Configurações · Menu: **Configuración > Organización > Moneda predeterminada** (Configurações > Organização > Moeda padrão) · Público: administração e equipes de captação*
+*Módulo: Configurações · Menu: **Ajustes de Organización > Moneda predeterminada** (Ajustes da organização > Moeda padrão) · Público: administração e equipes de captação*
 
 > **Sobre os nomes de tela neste guia:** botões, campos e menus estão escritos como aparecem na versão em espanhol do console, com a explicação em português quando ajuda.
 
@@ -12,7 +12,7 @@ Com este guia você vai entender o que é a moeda da sua organização e em quai
 
 **É a moeda principal da sua organização na AFRUS.** A AFRUS a usa para mostrar seus totais, metas e relatórios em uma única moeda, mesmo que você receba doações em várias.
 
-Ela fica em **Configuración > Organización > Moneda predeterminada**. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
+Ela fica em **Ajustes de Organización > Moneda predeterminada**.
 
 <!-- captura pendente: o-que-e-a-moeda-da-organizacao-01 — tela Moneda predeterminada -->
 
@@ -28,11 +28,10 @@ Ela fica em **Configuración > Organización > Moneda predeterminada**. Esta tel
 
 ---
 
-## Que informação você encontra e como editá-la
-
-> **Pendente de confirmação:** o que a tela **Moneda predeterminada** mostra, se a moeda pode ser alterada ali, quem pode fazer isso e o que acontece com as doações já registradas se ela mudar. Se precisar alterá-la, escreva para o suporte da AFRUS.
-
 ## Perguntas frequentes
+
+**Posso mudar a moeda da minha organização?**
+Não. Depois da primeira transação, ela não pode mais ser alterada.
 
 **Posso receber doações em outras moedas?**
 Sim. Cada país do seu formulário tem sua própria moeda. A AFRUS converte esses valores para a moeda da sua organização para mostrar seus totais.
