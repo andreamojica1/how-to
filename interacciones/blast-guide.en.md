@@ -41,9 +41,9 @@ The same screen can also send WhatsApp Business messages. This guide covers **em
 1. **Create the send.** Go to **Interacciones > Blast** and click "Crear envío" (Create send).
    <!-- screenshot pending: how-to-send-a-blast-01 — list of sends in Interacciones > Blast with the Crear envío button -->
 
-2. **Give it a name.** Type the **Nombre del envío** (Send name). Only you see it; it helps you find it later.
+2. **Give it a name.** The screen shows one row per item (**Nombre**, **Canal**, **Destinatario**, **Campaña (Opcional)** and **Etiqueta (Opcional)**), each with its own "Agregar" (Add) button. In **Nombre**, click "Agregar" and type the **Nombre del envío** (Send name). Only you see it; it helps you find it later.
 
-3. **Choose the recipients.** In **Enviar a** (Send to), open the selector and choose your group in one of the tabs: **Segmentos** (groups Afrus already includes), **Mis segmentos** (the ones you saved) or **Etiquetas** (tags). Click "Aceptar" (Accept).
+3. **Choose the recipients.** In **Destinatario** (Recipient), click "Agregar". In **Enviar a** (Send to), open **Seleccionar segmento** (Select segment) and choose your group in one of the tabs: **Segmentos** (groups Afrus already includes), **Mis segmentos** (the ones you saved) or **Etiquetas** (tags). Click "Aceptar" (Accept).
    <!-- screenshot pending: how-to-send-a-blast-03 — Seleccionar segmento window with the Segmentos, Mis segmentos and Etiquetas tabs -->
 
    You will see how many people can receive it, for example *"N entregables de M Destinatarios"* (N deliverable out of M recipients). Afrus leaves out anyone who can't receive emails (for example, people who unsubscribed or whose address doesn't exist).
@@ -83,7 +83,7 @@ When you finish you will see *"¡Envío realizado satisfactoriamente!"* (Send co
 
 ## How to see a Blast's statistics
 
-1. **Find your send.** In **Interacciones > Blast**, look at the **Lista de envíos** (list of sends). The list opens with **today's** sends: to see older ones, change the dates at the top.
+1. **Find your send.** In **Interacciones > Blast**, look at the **Lista de envíos** (list of sends). The list opens with the sends of the current month (**MTD**, month to date): to see older ones, change the dates at the top.
 
 2. **Open the details.** In the send's row, click "Detalles" (Details).
    <!-- screenshot pending: how-to-see-blast-statistics-02 — send details with Resumen de Audiencia, Interacción de Destinatarios and Métricas de Entrega -->

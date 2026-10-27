@@ -28,7 +28,7 @@ Una persona puede tener varios tags. En la pantalla **Data > Tags** creas, cambi
 1. **Abre los tags.** Ve a **Data > Tags**. Verás la pestaña **Tags** con la lista de tus etiquetas.
    <!-- captura pendiente: como-crear-un-nuevo-tag-01 — pantalla Tags con la lista de etiquetas y el botón Nuevo tag -->
 
-2. **Crea uno nuevo.** Haz clic en "Nuevo tag".
+2. **Crea uno nuevo.** Haz clic en "Nuevo tag". Se abre la ventana **Crear tag**.
 
 3. **Completa los datos.** Escribe el **Nombre** (obligatorio). Si quieres, agrega una **Descripción (opcional)** de hasta 200 caracteres, para que tu equipo sepa para qué es. Elige un **Color** para reconocerlo fácil.
    <!-- captura pendiente: como-crear-un-nuevo-tag-03 — formulario de nuevo tag con Nombre, Descripción y Color -->

@@ -30,7 +30,7 @@ Uma pessoa pode ter várias tags. Na tela **Data > Tags** você cria, altera e e
 1. **Abra as tags.** Acesse **Data > Tags**. Você verá a aba **Tags** com a lista das suas etiquetas.
    <!-- captura pendente: como-criar-uma-nova-tag-01 — tela Tags com a lista de etiquetas e o botão Nuevo tag -->
 
-2. **Crie uma nova.** Clique em "Nuevo tag" (Nova tag).
+2. **Crie uma nova.** Clique em "Nuevo tag" (Nova tag). Abre a janela **Crear tag** (Criar tag).
 
 3. **Preencha os dados.** Escreva o **Nombre** (Nome, obrigatório). Se quiser, adicione uma **Descripción (opcional)** (Descrição, opcional) de até 200 caracteres, para sua equipe saber para que serve. Escolha uma **Color** (Cor) para reconhecê-la fácil.
    <!-- captura pendente: como-criar-uma-nova-tag-03 — formulário de nova tag com Nome, Descrição e Cor -->

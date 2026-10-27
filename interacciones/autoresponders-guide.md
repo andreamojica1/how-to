@@ -57,7 +57,7 @@ Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento.
 
 9. **Ponle un nombre interno (opcional).** En **Nombre interno** escribe un nombre que solo verá tu equipo.
 
-10. **Escribe el asunto.** En **Asunto del correo** escribe lo que verá la persona en su bandeja. Con "Mapa de mergetags" puedes agregar datos de la persona, como su nombre, para que el correo sea más cercano.
+10. **Escribe el asunto.** En **Asunto del correo** escribe lo que verá la persona en su bandeja. Con "Mapa de mergetags" puedes agregar datos de la persona, como su nombre, para que el correo sea más cercano. Debajo está el **Evento disparador**: viene puesto desde el asistente, así que solo revisa que sea el correcto.
 
 11. **Adjunta un archivo (opcional).** En **Archivo adjunto** puedes elegir uno. Por defecto no lleva adjunto.
 

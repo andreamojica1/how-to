@@ -71,7 +71,7 @@ Relacionados: que-es-el-reporte-general, para-que-son-los-filtros-presets-ano-y-
 <li><strong>04 Personas:</strong> <strong>Personas nuevas</strong>, <strong>Leads</strong>, <strong>Donantes</strong> y <strong>Donantes recurrentes</strong>.</li>
 <li><strong>05 Comunicaciones:</strong> <strong>Emails enviados</strong> y <strong>Mensajes WhatsApp enviados</strong>.</li>
 </ul></li>
-<li><strong>Mira de dónde vienen.</strong> Las tablas por origen separan los resultados <strong>Por campaña</strong>, <strong>Por widget</strong>, por UTM y <strong>Por URL de landing</strong>. Así sabes qué te trae más donantes.</li>
+<li><strong>Mira de dónde vienen.</strong> Las tablas por origen (cerradas: haz clic en su título para abrirlas) separan los resultados en bloques, cada uno con su botón "Descargar": <strong>Por campaña</strong>, <strong>Por widget</strong>, por UTM y <strong>Por URL de landing</strong>. Así sabes qué te trae más donantes.</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Qué diferencia hay entre Total fallidas y Cargos fallidos?</strong> <strong>Total fallidas</strong> cuenta solo las donaciones únicas que fallaron; los cobros mensuales que fallaron están en <strong>Cargos fallidos</strong>.</p>
@@ -199,7 +199,7 @@ Relacionados: what-is-the-general-report, what-the-presets-year-and-month-filter
 <li><strong>04 Personas</strong> (People): <strong>Personas nuevas</strong> (New people), <strong>Leads</strong>, <strong>Donantes</strong> and <strong>Donantes recurrentes</strong>.</li>
 <li><strong>05 Comunicaciones</strong> (Communications): <strong>Emails enviados</strong> (Emails sent) and <strong>Mensajes WhatsApp enviados</strong> (WhatsApp messages sent).</li>
 </ul></li>
-<li><strong>See where they come from.</strong> The "by origin" tables split results <strong>Por campaña</strong> (By campaign), <strong>Por widget</strong>, by UTM and <strong>Por URL de landing</strong> (By landing URL). This way you know what brings you the most donors.</li>
+<li><strong>See where they come from.</strong> The "by origin" tables (closed at first: click a title to open it) split results into blocks, each with its own "Descargar" (Download) button: <strong>Por campaña</strong> (By campaign), <strong>Por widget</strong>, by UTM and <strong>Por URL de landing</strong> (By landing URL). This way you know what brings you the most donors.</li>
 </ol>
 <h2>Frequently asked questions</h2>
 <p><strong>What's the difference between Total fallidas and Cargos fallidos?</strong> <strong>Total fallidas</strong> (Total failed) counts only one-time donations that failed; monthly charges that failed are in <strong>Cargos fallidos</strong> (Failed charges).</p>
@@ -327,7 +327,7 @@ Relacionados: o-que-e-o-relatorio-geral, para-que-servem-os-filtros-presets-ano-
 <li><strong>04 Personas</strong> (Pessoas): <strong>Personas nuevas</strong> (Pessoas novas), <strong>Leads</strong>, <strong>Donantes</strong> e <strong>Donantes recurrentes</strong>.</li>
 <li><strong>05 Comunicaciones</strong> (Comunicações): <strong>Emails enviados</strong> (E-mails enviados) e <strong>Mensajes WhatsApp enviados</strong> (Mensagens de WhatsApp enviadas).</li>
 </ul></li>
-<li><strong>Veja de onde vêm.</strong> As tabelas por origem separam os resultados <strong>Por campaña</strong> (Por campanha), <strong>Por widget</strong>, por UTM e <strong>Por URL de landing</strong>. Assim você sabe o que traz mais doadores.</li>
+<li><strong>Veja de onde vêm.</strong> As tabelas por origem (fechadas: clique no título para abri-las) separam os resultados em blocos, cada um com seu botão "Descargar" (Baixar): <strong>Por campaña</strong> (Por campanha), <strong>Por widget</strong>, por UTM e <strong>Por URL de landing</strong>. Assim você sabe o que traz mais doadores.</li>
 </ol>
 <h2>Perguntas frequentes</h2>
 <p><strong>Qual a diferença entre Total fallidas e Cargos fallidos?</strong> <strong>Total fallidas</strong> (Total com falha) conta só as doações únicas que falharam; as cobranças mensais que falharam ficam em <strong>Cargos fallidos</strong> (Cobranças com falha).</p>

@@ -59,7 +59,7 @@ Você escreve o e-mail uma vez e a Afrus o envia sempre que esse evento acontece
 
 9. **Dê um nome interno (opcional).** Em **Nombre interno** (Nome interno), escreva um nome que só sua equipe verá.
 
-10. **Escreva o assunto.** Em **Asunto del correo** (Assunto do e-mail), escreva o que a pessoa verá na caixa de entrada. Com "Mapa de mergetags" você pode adicionar dados da pessoa, como o nome, para deixar o e-mail mais próximo.
+10. **Escreva o assunto.** Em **Asunto del correo** (Assunto do e-mail), escreva o que a pessoa verá na caixa de entrada. Com "Mapa de mergetags" você pode adicionar dados da pessoa, como o nome, para deixar o e-mail mais próximo. Logo abaixo fica o **Evento disparador** (Evento gatilho): ele já vem preenchido pelo assistente, então só confira se é o correto.
 
 11. **Anexe um arquivo (opcional).** Em **Archivo adjunto** (Anexo) você pode escolher um. Por padrão, não há anexo.
 

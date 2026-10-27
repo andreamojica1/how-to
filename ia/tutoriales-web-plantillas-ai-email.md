@@ -69,7 +69,7 @@ Relacionados: que-son-las-plantillas-ai-email, para-que-sirven-las-plantillas-ai
 <li><strong>Empieza una nueva.</strong> Haz clic en "Nueva plantilla".</li>
 <li><strong>Ponle nombre.</strong> Escribe el <strong>Nombre</strong> y elige <strong>Habilitado</strong> (se usa ya) o <strong>Borrador</strong>.</li>
 <li><strong>Diseña el correo.</strong> Haz clic en "Abrir editor visual".</li>
-<li><strong>Agrega los espacios que rellena la IA.</strong> Con el botón <strong>Merge tags</strong>, inserta como mínimo el título, el texto del botón, el enlace del botón y el enlace para darse de baja.</li>
+<li><strong>Agrega los espacios que rellena la IA.</strong> Haz clic en <strong>Merge tags</strong>, copia cada espacio que necesites y pégalo en tu diseño. Incluye como mínimo el título, el texto del botón, el enlace del botón y el enlace para darse de baja.</li>
 <li><strong>Guarda el diseño</strong> en el editor y después haz clic en "Guardar".</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
@@ -146,7 +146,7 @@ Relacionados: what-are-ai-email-templates, what-are-ai-email-templates-for
 <li><strong>Start a new one.</strong> Click "Nueva plantilla" (New template).</li>
 <li><strong>Name it.</strong> Type the <strong>Nombre</strong> (Name) and choose <strong>Habilitado</strong> (used right away) or <strong>Borrador</strong> (Draft).</li>
 <li><strong>Design the email.</strong> Click "Abrir editor visual" (Open visual editor).</li>
-<li><strong>Add the spaces the AI fills in.</strong> With the <strong>Merge tags</strong> button, insert at least the title, the button text, the button link and the unsubscribe link.</li>
+<li><strong>Add the spaces the AI fills in.</strong> Click <strong>Merge tags</strong>, copy each space you need and paste it into your design. Include at least the title, the button text, the button link and the unsubscribe link.</li>
 <li><strong>Save the design</strong> in the editor, then click "Guardar" (Save).</li>
 </ol>
 <h2>Frequently asked questions</h2>
@@ -223,7 +223,7 @@ Relacionados: o-que-sao-os-modelos-de-email-com-ia, para-que-servem-os-modelos-d
 <li><strong>Comece um novo.</strong> Clique em "Nueva plantilla" (Novo modelo).</li>
 <li><strong>Dê um nome.</strong> Digite o <strong>Nombre</strong> (Nome) e escolha <strong>Habilitado</strong> (usado já) ou <strong>Borrador</strong> (Rascunho).</li>
 <li><strong>Monte o e-mail.</strong> Clique em "Abrir editor visual".</li>
-<li><strong>Adicione os espaços que a IA preenche.</strong> Com o botão <strong>Merge tags</strong>, insira no mínimo o título, o texto do botão, o link do botão e o link para cancelar a inscrição.</li>
+<li><strong>Adicione os espaços que a IA preenche.</strong> Clique em <strong>Merge tags</strong>, copie cada espaço de que precisa e cole no seu design. Inclua no mínimo o título, o texto do botão, o link do botão e o link para cancelar a inscrição.</li>
 <li><strong>Salve o layout</strong> no editor e depois clique em "Guardar" (Salvar).</li>
 </ol>
 <h2>Perguntas frequentes</h2>

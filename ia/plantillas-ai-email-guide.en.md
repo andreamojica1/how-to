@@ -47,7 +47,7 @@ For Afrus templates (**Global**), turning them on or off is the only thing you c
 
 3. **Design the email.** In **Diseño del email** (Email design), click "Abrir editor visual" (Open visual editor) and build your design.
 
-4. **Add the spaces the AI fills in.** With the **Merge tags** button you can insert the spaces where the AI will put the title, paragraphs, button, main image, your logo or your social networks. Four are required: the title, the button text, the button link and the unsubscribe link. If any is missing, you will see *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* (Your template must include these required merge tags) with the list of the missing ones.
+4. **Add the spaces the AI fills in.** Click the **Merge tags** button: the **Merge Tags de Email** window opens. Click the one you need to copy it, then paste it into your design. These are the spaces where the AI will put the title, paragraphs, button, main image, your logo or your social networks. Four are required: the title, the button text, the button link and the unsubscribe link. If any is missing, you will see *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* (Your template must include these required merge tags) with the list of the missing ones.
    <!-- screenshot pending: plantillas-ai-email-05 — visual editor with the Merge tags menu open -->
 
 5. **Save the design** in the editor.

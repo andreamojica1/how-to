@@ -41,9 +41,9 @@ Na mesma tela também é possível fazer envios por WhatsApp Business. Este guia
 1. **Crie o envio.** Acesse **Interacciones > Blast** e clique em "Crear envío" (Criar envio).
    <!-- captura pendente: como-enviar-um-blast-01 — lista de envios de Interacciones > Blast com o botão Crear envío -->
 
-2. **Dê um nome.** Escreva o **Nombre del envío** (nome do envio). Só você vê; ele ajuda a encontrar o envio depois.
+2. **Dê um nome.** A tela mostra uma linha por dado (**Nombre**, **Canal**, **Destinatario**, **Campaña (Opcional)** e **Etiqueta (Opcional)**), cada uma com seu botão "Agregar" (Adicionar). Em **Nombre**, clique em "Agregar" e escreva o **Nombre del envío** (nome do envio). Só você vê; ele ajuda a encontrar o envio depois.
 
-3. **Escolha os destinatários.** Em **Enviar a** (Enviar para), abra o seletor e escolha seu grupo em uma das abas: **Segmentos** (grupos que a Afrus já traz), **Mis segmentos** (os que você salvou) ou **Etiquetas**. Clique em "Aceptar" (Aceitar).
+3. **Escolha os destinatários.** Em **Destinatario** (Destinatário), clique em "Agregar". Em **Enviar a** (Enviar para), abra **Seleccionar segmento** (Selecionar segmento) e escolha seu grupo em uma das abas: **Segmentos** (grupos que a Afrus já traz), **Mis segmentos** (os que você salvou) ou **Etiquetas**. Clique em "Aceptar" (Aceitar).
    <!-- captura pendente: como-enviar-um-blast-03 — janela Seleccionar segmento com as abas Segmentos, Mis segmentos e Etiquetas -->
 
    Você verá quantas pessoas podem recebê-lo, por exemplo *"N entregables de M Destinatarios"* (N entregáveis de M destinatários). A Afrus deixa de fora quem não pode receber e-mails (por exemplo, quem cancelou a inscrição ou tem um e-mail que não existe).
@@ -83,7 +83,7 @@ Ao terminar, você verá *"¡Envío realizado satisfactoriamente!"* (Envio reali
 
 ## Como ver as estatísticas de um Blast
 
-1. **Encontre seu envio.** Em **Interacciones > Blast**, veja a **Lista de envíos** (lista de envios). A lista abre com os envios de **hoje**: para ver envios anteriores, mude as datas no topo.
+1. **Encontre seu envio.** Em **Interacciones > Blast**, veja a **Lista de envíos** (lista de envios). A lista abre com os envios do mês atual (**MTD**): para ver envios anteriores, mude as datas no topo.
 
 2. **Abra o detalhe.** Na linha do envio, clique em "Detalles" (Detalhes).
    <!-- captura pendente: como-ver-as-estatisticas-de-um-blast-02 — detalhe de um envio com Resumen de Audiencia, Interacción de Destinatarios e Métricas de Entrega -->

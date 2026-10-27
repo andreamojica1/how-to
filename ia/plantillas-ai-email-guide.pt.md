@@ -47,7 +47,7 @@ Nos modelos da Afrus (**Global**), ativar ou desativar é a única coisa que voc
 
 3. **Monte o e-mail.** Em **Diseño del email** (Layout do e-mail), clique em "Abrir editor visual" e monte seu layout.
 
-4. **Adicione os espaços que a IA preenche.** Com o botão **Merge tags**, você insere os espaços onde a IA vai colocar o título, os parágrafos, o botão, a imagem principal, seu logo ou suas redes. Quatro são obrigatórios: o título, o texto do botão, o link do botão e o link para cancelar a inscrição. Se faltar algum, você verá *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* (Seu modelo deve incluir estes merge tags obrigatórios) com a lista dos que faltam.
+4. **Adicione os espaços que a IA preenche.** Clique no botão **Merge tags**: abre a janela **Merge Tags de Email**. Clique no que você precisa para copiá-lo e cole no seu design. São os espaços onde a IA vai colocar o título, os parágrafos, o botão, a imagem principal, seu logo ou suas redes. Quatro são obrigatórios: o título, o texto do botão, o link do botão e o link para cancelar a inscrição. Se faltar algum, você verá *"Tu plantilla debe incluir los siguientes merge tags obligatorios:"* (Seu modelo deve incluir estes merge tags obrigatórios) com a lista dos que faltam.
    <!-- captura pendente: plantillas-ai-email-05 — editor visual com o menu Merge tags aberto -->
 
 5. **Salve o layout** no editor.
