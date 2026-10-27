@@ -72,11 +72,6 @@ AFRUS combina varias protecciones. Algunas dependen de la configuración de cada
 
 ---
 
-## Limitaciones conocidas
-
-- **Filtro de fechas:** usa la fecha de la transacción. Una transacción de un mes anterior marcada hoy no aparece con el rango por defecto; amplía el rango de fechas para verla.
-- **Marcar como fraude es definitivo** y borra a las personas asociadas.
-
 ## Preguntas frecuentes
 
 **¿Puedo quitar la marca de fraude a una transacción?**

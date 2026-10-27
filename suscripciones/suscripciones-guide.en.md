@@ -191,15 +191,6 @@ In addition, in **Configuración > Pagos > Servicio de recurrencia** (Settings >
 
 **Revisión pendiente:** a pencil appears next to the status. Click it, fill in **Número de documento** (Document number), **Tipo de documento** (Document type), **Número de cuenta** (Account number), **Banco** (Bank), **Tipo de cuenta** (Account type) and **Monto** (Amount) in **Editar datos del pagador** (Edit payer details), and click "Guardar y reenviar" (Save and resend). You will see *"Datos del pagador actualizados y reenvío iniciado"* (Payer details updated and resend started).
 
-## Known limitations
-
-- **Marking as fraud deletes the donor** from your Personas database. Use it only when you are sure.
-- **The export file is always Excel (.xlsx)**, even if you choose CSV.
-- **Exported totals may not match the table** if you don't choose statuses, or if you use **Lapsed** or the search box. Choose the statuses in the filter and clear the search box before exporting.
-- **Some statuses appear in English in the table** (**PRENOTIFICATION_OK**, **TRIALING**, **LAPSED**), although the filter shows them translated.
-- **Reintentando and Expirada in the Estados filter** always give an empty list, because the list doesn't show those statuses.
-- **Cohorts, Evolution and "Exportar del datawarehouse"** have been disabled since September 22, 2026.
-
 ## Frequently asked questions
 
 **Why can't I find a subscription I know exists?**

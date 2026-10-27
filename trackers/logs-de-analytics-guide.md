@@ -60,18 +60,6 @@ Si tienes activa la conversión de Meta desde AFRUS, también verás filas `FACE
 
 ---
 
-## Limitaciones conocidas
-
-- **El filtro de Google Analytics no muestra nada.** En el filtro **Plataforma**, la opción **Google Analytics** no trae resultados. Para ver solo los eventos de GA4, no uses ese filtro: escribe en el buscador `google` y el evento (por ejemplo `google purchase`) y pulsa la lupa.
-- **Algunos tipos de evento siempre salen vacíos.** En **Tipo de evento**, solo encuentran resultados **Start** / **View Content**, **Add to Cart**, **Begin Checkout** / **Initiate Checkout**, **Add Payment Info** y **Purchase**. Las demás opciones salen vacías porque los formularios no envían eventos con esos nombres.
-- **La hora no dice si es de mañana o de tarde.** Se muestra en formato de 12 horas sin AM/PM.
-- **La columna ID de Campaña siempre aparece vacía.**
-- **Al usar un filtro, las fechas pasan a "ALL"** (todas las fechas).
-- **Si cambias un segundo filtro y la lista no cambia,** pulsa la lupa para recargar.
-- **La lista empieza por los eventos más antiguos** del rango elegido.
-- **Si borras un formulario,** sus eventos dejan de registrarse aquí.
-- **La pantalla no se actualiza sola.**
-
 ## Preguntas frecuentes
 
 **No veo ninguna fila de mi formulario. ¿Qué pasa?**

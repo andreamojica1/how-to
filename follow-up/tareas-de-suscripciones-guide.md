@@ -92,12 +92,6 @@ La tabla muestra 25 tareas por página (puedes cambiarlo a 10, 50 o 100), de la 
 
 ---
 
-## Limitaciones conocidas
-
-- **Solo se ven algunas pasarelas.** La pantalla lista las tareas de suscripciones con pasarela **Recurrent Payments** o **PTESA**. Las de otras pasarelas no aparecen aquí; revísalas desde **Suscripciones**.
-- **La Razón de fallo puede aparecer vacía** ("-"). En ese caso, busca el cobro fallido en **Transacciones** y abre su detalle: ahí se ve la razón del fallo.
-- **No hay filtro por estado.** La lista muestra juntas las tareas **Pendiente** y **Completada**; ordénalas o expórtalas para separarlas.
-
 ## Preguntas frecuentes
 
 **¿Se crean tareas para donaciones únicas que fallan?**

@@ -118,16 +118,6 @@ Verás *"Dominio eliminado con exito"*. Ten en cuenta:
 
 Usa **Filtrar por estado** (Todos / Activos / Inactivos) para encontrar tus dominios.
 
-## Limitaciones conocidas
-
-- **Solo se indica un registro CNAME.** La pantalla no ofrece una alternativa para usar el dominio principal (`miorganizacion.org`); por eso recomendamos un subdominio.
-- **`www.miorganizacion.org` y `miorganizacion.org` son dominios distintos:** cada uno se registra por separado y necesita su propio registro DNS.
-- **Reactivar no repite la comprobación.** Si el dominio pasó a inactivo porque falló la comprobación, volver a encender el interruptor lo marca como activo, pero no vuelve a solicitar el certificado.
-
-  > **Pendiente de confirmar:** cómo volver a lanzar la comprobación en ese caso. Mientras tanto, escríbenos a soporte.
-- **Los dominios "Classic"** no aparecen en el selector de dominio de las landings actuales.
-- **Mensajes de error técnicos.** Si falla la eliminación o la carga de la lista, el mensaje puede verse como un texto técnico. Recarga la pantalla y, si persiste, escríbenos a soporte.
-
 ## Preguntas frecuentes
 
 **¿AFRUS me vende el dominio?**

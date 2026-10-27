@@ -99,12 +99,6 @@ Se muestran en inglés tal cual: `created` (creado), `queued` (en cola), `pendin
 - **La pantalla no se refresca sola.** Carga al abrirla y al cambiar de página.
 - **Los indicadores de cobro** cambian cuando se carga el archivo de retorno del banco en **Follow up > Importaciones - itaú**.
 
-## Limitaciones conocidas
-
-- **Solo para organizaciones de Brasil**, aunque el menú aparece para todas.
-- **Los estados del lote se muestran en inglés.**
-- **Al generar no se puede elegir campaña ni widget.** La campaña y el widget se eligen después, al cargar el archivo de retorno.
-
 ## Preguntas frecuentes
 
 **¿AFRUS envía el archivo al banco?**

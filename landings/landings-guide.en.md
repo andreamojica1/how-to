@@ -201,15 +201,6 @@ When you finish, the page is published at the new address `https://<domain><path
 - **CSS personalizado** (Custom CSS): create styles and assign them to the landing. Also requires reloading.
 - **Indicadores de impacto** (Impact indicators): lists the KPIs set up in your campaigns with a variable in square brackets that you copy and paste into the design; on the published page it is replaced with the calculated value. KPIs are created in the campaign settings.
 
-## Known limitations
-
-- **A deactivated landing may become visible again when you edit it.** If you save its design or its **Datos avanzados**, or change the title or favicon, the page becomes visible again even though **Status** is still off. After editing, turn the switch off again.
-- **Merge tags that don't work.** When editing the design of an already saved landing, the editor's merge tag list shows "User Name", "Company" and "Current Date", which don't work on the published page. Type the thank-you variables from the table by hand.
-- **The "Merge tags" button only copies.** It inserts nothing and shows email variables that don't work on landings.
-- **Untranslated text.** In the template gallery, the title and some buttons may show in English (for example "Gallery"); the **Analytics**, **SEO** and **Custom Code** texts are also in English.
-- **Different favicon formats.** Creating accepts jpg, png and svg; editing also accepts gif and webp.
-- **No per-landing statistics inside AFRUS.** Visits are measured in Google Analytics, Google Tag Manager or Meta. The only results comparison in AFRUS is "Experimentos".
-
 ## Frequently asked questions
 
 **Do I need to click a button to publish?**

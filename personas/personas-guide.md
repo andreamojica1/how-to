@@ -260,14 +260,6 @@ Si el correo rebotó, el perfil muestra *"Tiene Hard Bounce"* o *"Tiene Soft Bou
 | Exportación y borrado masivo | En segundo plano; puede tardar unos minutos |
 | Recordatorios | AFRUS los revisa cada 10 minutos |
 
-## Limitaciones conocidas
-
-- **"Solo contactables" no se aplica a la exportación.** El archivo puede incluir personas no contactables aunque el filtro esté activo.
-- **Nueva suscripción:** **Modo enhanced** y **Modo de reintentos** no se guardan.
-- **Correo duplicado:** el error puede aparecer como `already_exists_email`; significa que ese correo ya existe en tu organización.
-- **Recordatorio con estado vacío:** si el envío de un recordatorio falló, aparece con el **Estado** vacío.
-- **Nombres de canal en inglés:** en "Editar Opt In" los canales aparecen como email, sms, whatsapp, voice y direct_mail.
-
 ## Preguntas frecuentes
 
 **¿Por qué la lista muestra menos personas de las que esperaba?**

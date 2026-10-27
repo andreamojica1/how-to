@@ -120,16 +120,6 @@ You will see *"Dominio eliminado con exito"* (Domain deleted successfully). Keep
 
 Use **Filtrar por estado** (Filter by status: Todos / Activos / Inactivos) to find your domains.
 
-## Known limitations
-
-- **Only a CNAME record is shown.** The screen offers no alternative for using the main domain (`myorganization.org`); that's why we recommend a subdomain.
-- **`www.myorganization.org` and `myorganization.org` are different domains:** each is registered separately and needs its own DNS record.
-- **Turning it back on doesn't repeat the check.** If the domain became inactive because the check failed, turning the switch on marks it active but doesn't request the certificate again.
-
-  > **Pending confirmation:** how to run the check again in that case. In the meantime, contact support.
-- **"Classic" domains** don't appear in the domain selector of current landings.
-- **Technical error messages.** If deleting or loading the list fails, the message may show as technical text. Reload the screen and, if it persists, contact support.
-
 ## Frequently asked questions
 
 **Does AFRUS sell me the domain?**

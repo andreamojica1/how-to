@@ -88,12 +88,6 @@ The import is finished when every line has been processed.
 - **Processing runs in the background** and takes a few minutes, according to the on-screen message.
 - **The screen doesn't refresh by itself.** Reload it to see progress.
 
-## Known limitations
-
-- **The "Importación en proceso" dialog appears even if the upload failed.** Check that the import appears in the list.
-- **Import statuses are shown in English.**
-- **Only for Itaú boletos (Brazil)**, although the menu appears for every organization.
-
 ## Frequently asked questions
 
 **What happens to boletos the bank rejected?**

@@ -70,11 +70,6 @@ On **Propia** templates you can:
 
 ---
 
-## Known limitations
-
-- **You can't choose which template each send uses.** AFRUS picks at random among the active ones. If you want only one to be used, leave only that one active.
-- **AFRUS templates (Global)** can't be edited, duplicated or deleted.
-
 ## Frequently asked questions
 
 **Do I need the AI turned on to use this screen?**

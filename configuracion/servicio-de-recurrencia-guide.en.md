@@ -62,12 +62,6 @@ There you choose, for example, how often a donation is charged and what to do wh
 
 ---
 
-## Known limitations
-
-- **Gateways that charge on their own:** with Stripe, PayU or Pagar.me, the gateway decides when to charge; this screen does not change those charges.
-- **Effect on real charges:** it is not yet confirmed that these settings change the charges. Check with the AFRUS team before making changes.
-- **Frequencies other than monthly and yearly:** it is not confirmed how **Trimestral** and **Semestral** are calculated.
-
 ## Frequently asked questions
 
 **At what time are charges made?**

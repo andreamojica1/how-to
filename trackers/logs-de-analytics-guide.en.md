@@ -62,18 +62,6 @@ If you have Meta conversions from AFRUS turned on, you'll also see `FACEBOOK-…
 
 ---
 
-## Known limitations
-
-- **The Google Analytics filter shows nothing.** In the **Plataforma** (Platform) filter, the **Google Analytics** option returns no results. To see only GA4 events, don't use that filter: type `google` and the event in the search box (for example `google purchase`) and click the magnifying glass.
-- **Some event types always come back empty.** In **Tipo de evento** (Event type), only **Start** / **View Content**, **Add to Cart**, **Begin Checkout** / **Initiate Checkout**, **Add Payment Info** and **Purchase** find results. The other options are empty because the forms don't send events with those names.
-- **The time doesn't say whether it's morning or afternoon.** It's shown in 12-hour format without AM/PM.
-- **The ID de Campaña (Campaign ID) column is always empty.**
-- **When you use a filter, the dates switch to "ALL"** (all dates).
-- **If you change a second filter and the list doesn't change,** click the magnifying glass to reload.
-- **The list starts with the oldest events** in the chosen range.
-- **If you delete a form,** its events stop being recorded here.
-- **The screen doesn't refresh by itself.**
-
 ## Frequently asked questions
 
 **I don't see any rows for my form. What's wrong?**

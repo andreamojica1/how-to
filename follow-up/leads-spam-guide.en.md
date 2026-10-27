@@ -67,11 +67,6 @@ If a person in quarantine completes a confirmed donation, AFRUS restores them au
 - **Automatic restoration** of anyone who completes a confirmed donation.
 - **Anti-fraud controls on forms**, such as anti-bot verification. See the **Radar - monitor de fraude** guide for more.
 
-## Known limitations
-
-- **The Motivo column shows technical codes in English**, untranslated. Use the table in this guide to read them.
-- **There are no bulk actions** on this screen: the review is person by person.
-
 ## Frequently asked questions
 
 **Are the people in Leads spam deleted?**

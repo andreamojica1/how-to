@@ -88,13 +88,6 @@ Lá você verá cada conversa com o e-mail, a data, o agente e um resumo. "Ver c
 
 ---
 
-## Limitações conhecidas
-
-- **As conversas não têm link no menu.** Use o endereço indicado acima.
-- **Texto do botão:** o contador diz 20 caracteres, mas a mensagem de erro fala em 30. Use 20 ou menos.
-- **Se um agente não carregar ao editá-lo,** a tela não volta sozinha para a lista: use "Volver a agentes" (Voltar para agentes).
-- **As pessoas que chegam pelo chat** são criadas sem aceite dos termos e ficam associadas ao seu formulário e à sua campanha padrão.
-
 ## Perguntas frequentes
 
 **O que o visitante vê se eu desativar o agente?**

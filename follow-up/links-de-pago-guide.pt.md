@@ -84,14 +84,6 @@ Ao terminar, você verá *"¡Link de pago creado con éxito!"* (Link de pagament
 
 A lista mostra **ID**, e-mail, valor (ou "Abierto" — Aberto — se for de valor aberto), data de criação, **Enviado** (Si/No), **Language Code**, **Estado** e ações.
 
-## Limitações conhecidas
-
-- **Só por e-mail.** WhatsApp e **Mensaje de texto** (Mensagem de texto) aparecem desativados.
-- **Vencimento em outro mês:** se você escolher uma data de vencimento em um mês posterior, mas em um dia do mês menor que o de hoje (por exemplo, vence no dia 5 do mês seguinte e hoje é dia 11), o link pode ser marcado ou mostrado como **Expirado** antes da hora. O mesmo pode acontecer com a hora escolhida. Por enquanto não há uma alternativa dentro da AFRUS, a não ser enviar o link sem data de vencimento.
-- **Hora de criação na lista:** no lugar dos minutos aparece o mês. Use a data como referência.
-- **A opção "Caducar enalce"** tem um erro de digitação na tela: é a opção para o link expirar.
-- **Se a doação falhar,** o link continua como **Creado**.
-
 ## Perguntas frequentes
 
 **Posso enviar o link pelo WhatsApp?**

@@ -83,12 +83,6 @@ Sirven para elegir el período que quieres ver y descargar.
 
 ---
 
-## Limitaciones conocidas
-
-- **Pequeñas diferencias cerca de la medianoche.** **Ingresos totales** y los promedios cuentan los días con una hora distinta a la de **Confirmadas** y **Otras**, así que, si hubo donaciones cerca del cambio de día, los totales pueden variar un poco.
-- **MRR y ARR con donaciones que no son mensuales.** Si tienes suscripciones trimestrales, semestrales o anuales, el MRR y el ARR pueden verse más altos de lo real, porque las cuentan como si fueran mensuales.
-- **No muestra la hora de la última actualización,** aunque los datos se calculan en el momento.
-
 ## Preguntas frecuentes
 
 **¿Los números están al día?**

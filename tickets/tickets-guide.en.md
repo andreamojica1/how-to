@@ -117,18 +117,6 @@ You'll see one row per number, with **ID de Ticket** (Ticket ID), **Nombre**, **
 | **Cantidad** | Always 1 per row: each ticket bought is one row |
 | **Tickets vendidos** (Tickets sold, widget dashboard) | Tickets sold in **successful** purchases in the period |
 
-## Known limitations
-
-- **Check before the draw.** Numbers are also assigned to purchases whose payment was declined; those numbers stay taken. Check each transaction's status with the **ID de Donación** link. That's why **Tickets vendidos** (successful purchases only) may not match the list.
-- **Repeated numbers.** If two purchases happen almost at the same time, they may get the same number. Before the draw, check for repeated numbers in **Tickets generados por transacción**.
-- **Sales don't stop on their own at the end number.** Numbers above the range can be assigned. Control the product stock in the widget.
-- **Stock del producto** is one less than the real number of tickets in the range (1 to 100 shows 99).
-- **Inactivo doesn't stop sales.** To stop selling, remove the product from the widget or deactivate the widget.
-- **Each raffle has its own numbering.** Always identify a ticket by raffle and number.
-- **Price in US$.** The **Precio** column of **Tickets generados por transacción** always shows the dollar sign, whatever the widget's currency.
-- **Only the 10 most recent raffles.** **Seleccionar Ticket** shows only the 10 most recently created raffles; older ones can't be chosen.
-- **A raffle can't be deleted**, only edited. You can edit the range even after numbers have been sold.
-
 ## Frequently asked questions
 
 **Can I sell event tickets with QR codes?**

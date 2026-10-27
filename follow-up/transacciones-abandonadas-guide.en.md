@@ -52,11 +52,6 @@ On this screen, "Acciones" only offers export: you can't add tags or delete.
 
 ---
 
-## Known limitations
-
-- **Minutes in the date:** the date column shows the minutes incorrectly (the month number appears instead). If you need the exact time, there is currently no alternative on this screen.
-- **"Ver procesos" button** (View processes): it currently leads to a page that doesn't exist. To follow your export, go directly to **Data > Descargas**.
-
 ## Frequently asked questions
 
 **If the donation fails, does the person appear here?**

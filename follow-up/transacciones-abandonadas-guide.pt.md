@@ -52,11 +52,6 @@ Nesta tela, "Acciones" só oferece exportar: não permite atribuir etiquetas nem
 
 ---
 
-## Limitações conhecidas
-
-- **Minutos da data:** a coluna de data mostra os minutos de forma errada (no lugar aparece o número do mês). Se você precisa do horário exato, por enquanto não há alternativa nesta tela.
-- **Botão "Ver procesos"** (Ver processos): hoje ele leva a uma página que não existe. Para acompanhar sua exportação, acesse diretamente **Data > Descargas**.
-
 ## Perguntas frequentes
 
 **Se a doação falha, a pessoa aparece aqui?**

@@ -84,16 +84,6 @@ In **Interacciones > Blast**, your AI Blasts have the **AI** label. Click "Detal
 
 ---
 
-## Known limitations
-
-- **Email only.** The WhatsApp option isn't available for now.
-- **Only predefined segments or tags.** Advanced segments can't be used.
-- **If something fails when saving or sending, no message appears:** the screen simply doesn't move forward. If it happens, check that all fields are filled in and contact us.
-- **When editing an AI Blast** you have to type the link and instructions again.
-- **An AI Blast can't be duplicated.**
-- **With Plantillas AI Email, upload images to Galería para AI.** If it's empty, the email's main image appears broken.
-- **The goals list** sometimes shows the English name next to the description.
-
 ## Frequently asked questions
 
 **Can I see the email each person will get before sending it?**

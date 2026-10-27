@@ -79,15 +79,6 @@ If no row appears, AFRUS didn't prepare any message for that person.
 
 ---
 
-## Known limitations
-
-- **WhatsApp Business > Blast** sends don't appear here. Their status (**Entregado**, **Leído** — Delivered, Read) is in that blast's detail.
-- **One value per filter.** If you check two options in the same filter (for example **Email** and **WhatsApp**), only the first is used; if you check all of them, the filter is removed. To see both channels, leave **Canal** unchecked.
-- **Search needs the exact value.** Type the full email or phone number.
-- **The Fecha (Date) column doesn't show the time.** The time is in "Ver detalle".
-- **There is no date filter:** the list covers the whole history, newest first.
-- **The screen doesn't refresh by itself:** reload it to see changes.
-
 ## Frequently asked questions
 
 **Does "Procesado" mean the person received the email?**

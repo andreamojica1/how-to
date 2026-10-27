@@ -125,16 +125,6 @@ Las preguntas frecuentes de la página son las del paso **Preguntas Frecuentes**
 
 > **Pendiente de confirmar:** si al deshabilitar o eliminar una experiencia la página pública deja de verse.
 
-## Limitaciones conocidas
-
-- **Meta y moneda:** no se pueden definir ni cambiar desde este módulo. La experiencia guarda una meta por defecto de 10.000. Por ahora no hay una alternativa dentro de AFRUS.
-- **Solo dos tipos:** puedes crear **Donación** o **Agradecimiento**. Aunque "Registro" aparece en algunos textos y en el filtro **Tipos**, no se puede crear; y el filtro **Tipos** no tiene opción para Agradecimiento.
-- **Etiqueta en Agradecimiento:** en la pestaña **Configuracion** de una experiencia de Agradecimiento, la etiqueta superior dice "Registro".
-- **"Editar con IA" en Agradecimiento:** no genera nada y la vista previa puede quedarse cargando. Recarga la página y edita el texto a mano.
-- **Columna de tipo en inglés:** la lista muestra `donation` o `gratitude`.
-- **Textos sin traducir:** algunos botones del editor se ven igual en todos los idiomas ("Recolor", "Aplicar", "Logo", "Widget afrus:", "Google tag manager", "Editar con IA", "Copiar link", "Descargar QR", "Eliminar").
-- **Misma dirección que un landing:** si publicas un landing del módulo **Landings** y una experiencia en el mismo dominio y la misma ruta, la última publicación reemplaza a la otra. Usa rutas distintas.
-
 ## Preguntas frecuentes
 
 **¿Mi experiencia aparece en el módulo Landings?**

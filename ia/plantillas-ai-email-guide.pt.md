@@ -70,11 +70,6 @@ Nos modelos **Propia**, você pode:
 
 ---
 
-## Limitações conhecidas
-
-- **Não é possível escolher qual modelo cada envio usa.** A AFRUS escolhe ao acaso entre os ativos. Se quiser que só um seja usado, deixe apenas esse ativo.
-- **Os modelos da AFRUS (Global)** não podem ser editados, duplicados nem excluídos.
-
 ## Perguntas frequentes
 
 **Preciso ter a IA ativada para usar esta tela?**

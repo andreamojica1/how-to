@@ -67,10 +67,6 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 
 ---
 
-## Known limitations
-
-- When you don't have conversations yet, the sidebar may show technical text instead of "No hay conversaciones" (No conversations). It doesn't affect the chat.
-
 ## Frequently asked questions
 
 **Does the AI know my donors?**

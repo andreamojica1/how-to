@@ -74,11 +74,6 @@ AFRUS combines several protections. Some depend on each organization's setup:
 
 ---
 
-## Known limitations
-
-- **Date filter:** it uses the transaction date. A transaction from a previous month marked today doesn't appear with the default range; widen the date range to see it.
-- **Marking as fraud is permanent** and deletes the linked people.
-
 ## Frequently asked questions
 
 **Can I remove the fraud mark from a transaction?**

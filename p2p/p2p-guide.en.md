@@ -158,18 +158,6 @@ Every new page starts as **Pendiente** and needs your approval: there is no auto
 | **Rechazada** (Rejected) | Not shown | Rejected; its published page was deleted | End |
 | **Finalizada** (Ended) | Finalizada | Closed by your organization; its published page was deleted | Nothing |
 
-## Known limitations
-
-- **Total raised in the console:** each page's details always show $0, and the fundraiser's dashboard shows 0 donations and $0. To see what was raised, open the public page with "Ver página".
-- **No search or status filter** in the console list: you can only sort by **ID**, **Campaña** and **Meta**.
-- **"$" symbol:** the **Meta** column and the **Total recaudado** block in the console always use "$", whatever your organization's currency.
-- **Goal "(en USD)":** the sign-up form asks for the goal in USD, but the public page shows and compares it in your organization's currency.
-- **Fecha Inicio** in the list is your campaign's creation date. The fundraiser's actual sign-up date is in the details, under **Fecha creación de la campaña**.
-- **Already published pages:** later changes to the campaign's images or widget don't reach them, and the fundraiser cannot edit their page after publishing.
-- **Incomplete details:** the **Widget** field usually shows *No proporcionado* (Not provided) and **Detalle de la fuente** opens empty.
-- **Error messages:** if cropping an image fails, the message may appear as technical text; if approving, rejecting or ending fails, the message may be in English.
-- **Approval and rejection emails** to fundraisers are always sent in Spanish.
-
 ## Frequently asked questions
 
 **Do I have to approve every page?**

@@ -117,18 +117,6 @@ Você verá uma linha por número, com **ID de Ticket**, **Nombre**, **Precio**,
 | **Cantidad** | Sempre 1 por linha: cada ticket comprado é uma linha |
 | **Tickets vendidos** (painel do widget) | Tickets vendidos em compras **aprovadas** no período |
 
-## Limitações conhecidas
-
-- **Confira antes do sorteio.** Também são atribuídos números a compras com pagamento recusado; esses números ficam ocupados. Confira o status de cada transação pelo link **ID de Donación**. Por isso **Tickets vendidos** (só compras aprovadas) pode não bater com a lista.
-- **Números repetidos.** Se duas compras acontecerem quase ao mesmo tempo, elas podem receber o mesmo número. Antes do sorteio, confira se não há números repetidos em **Tickets generados por transacción**.
-- **A venda não para sozinha no Número Final.** Podem ser atribuídos números acima da faixa. Controle o estoque do produto no widget.
-- **Stock del producto** é uma unidade menor que a quantidade real da faixa (do 1 ao 100 mostra 99).
-- **Inactivo não interrompe a venda.** Para parar de vender, retire o produto do widget ou desative o widget.
-- **Cada rifa tem sua própria numeração.** Identifique um ticket sempre pela rifa e pelo número.
-- **Preço em US$.** A coluna **Precio** de **Tickets generados por transacción** sempre mostra o símbolo de dólar, seja qual for a moeda do widget.
-- **Só as 10 rifas mais recentes.** **Seleccionar Ticket** mostra só as 10 rifas criadas mais recentemente; as mais antigas não podem ser escolhidas.
-- **Não é possível excluir uma rifa**, só editá-la. Você pode editar a faixa mesmo depois de vender números.
-
 ## Perguntas frequentes
 
 **Posso vender ingressos para eventos com QR code?**

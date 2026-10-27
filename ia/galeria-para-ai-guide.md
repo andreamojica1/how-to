@@ -59,12 +59,6 @@ Así la IA sabe qué imágenes usar en cada tipo de correo.
 
 ---
 
-## Limitaciones conocidas
-
-- **Solo imágenes, de hasta 5 MB.** La ventana de carga dice que acepta hasta 64 MB y deja elegir documentos (PDF, Word, PowerPoint), pero la galería solo guarda imágenes de hasta 5 MB. Si subes otra cosa, verás un error.
-- **El buscador y los filtros solo revisan lo que ya está en pantalla.** Si no encuentras una imagen, haz clic en "Cargar más" hasta ver todas y vuelve a buscar.
-- **Arrastrar un archivo solo abre la ventana de carga.** Después tienes que elegir el archivo de nuevo.
-
 ## Preguntas frecuentes
 
 **¿Crear imágenes con IA consume créditos?**

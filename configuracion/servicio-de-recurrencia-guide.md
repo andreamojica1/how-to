@@ -60,12 +60,6 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 
 ---
 
-## Limitaciones conocidas
-
-- **Pasarelas que cobran por su cuenta:** con Stripe, PayU o Pagar.me, la pasarela decide cuándo cobra; esta pantalla no cambia esos cobros.
-- **Efecto en los cobros reales:** todavía no está confirmado que esta configuración cambie los cobros. Consulta con el equipo de AFRUS antes de hacer cambios.
-- **Periodicidades distintas a mensual y anual:** no está confirmado cómo se calculan **Trimestral** y **Semestral**.
-
 ## Preguntas frecuentes
 
 **¿A qué hora se hacen los cobros?**

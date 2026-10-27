@@ -120,16 +120,6 @@ Você verá *"Dominio eliminado con exito"* (Domínio excluído com sucesso). Le
 
 Use **Filtrar por estado** (Filtrar por status: Todos / Activos / Inactivos) para encontrar seus domínios.
 
-## Limitações conhecidas
-
-- **Só é indicado um registro CNAME.** A tela não oferece alternativa para usar o domínio principal (`minhaorganizacao.org`); por isso recomendamos um subdomínio.
-- **`www.minhaorganizacao.org` e `minhaorganizacao.org` são domínios diferentes:** cada um é cadastrado separadamente e precisa do seu próprio registro DNS.
-- **Religar não repete a verificação.** Se o domínio ficou inativo porque a verificação falhou, ligar a chave de novo o marca como ativo, mas não solicita o certificado outra vez.
-
-  > **Pendente de confirmação:** como refazer a verificação nesse caso. Enquanto isso, fale com o suporte.
-- **Os domínios "Classic"** não aparecem no seletor de domínio das landings atuais.
-- **Mensagens de erro técnicas.** Se a exclusão ou o carregamento da lista falhar, a mensagem pode aparecer como texto técnico. Recarregue a tela e, se continuar, fale com o suporte.
-
 ## Perguntas frequentes
 
 **A AFRUS me vende o domínio?**

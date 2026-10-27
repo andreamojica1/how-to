@@ -199,15 +199,6 @@ Al terminar, la página se publica en la nueva dirección `https://<dominio><rut
 - **CSS personalizado:** crea estilos y asígnalos a la landing. También requiere recargar.
 - **Indicadores de impacto:** lista los KPI configurados en tus campañas con una variable entre corchetes que copias y pegas en el diseño; en la página publicada se reemplaza por el valor calculado. Los KPI se crean en la configuración de la campaña.
 
-## Limitaciones conocidas
-
-- **Una landing desactivada puede volver a verse al editarla.** Si guardas su diseño, sus **Datos avanzados**, o cambias el título o el favicon, la página vuelve a estar visible aunque el **Status** siga apagado. Después de editar, vuelve a apagar el interruptor.
-- **Merge tags que no funcionan.** Al editar el diseño de una landing ya guardada, la lista de merge tags del editor muestra "User Name", "Company" y "Current Date", que no funcionan en la página publicada. Escribe a mano las variables de la tabla de agradecimiento.
-- **El botón "Merge tags" solo copia.** No inserta nada y muestra variables de email que no funcionan en landings.
-- **Textos sin traducir.** En la galería de plantillas, el título y algunos botones pueden verse en inglés (por ejemplo "Gallery"); los textos de **Analytics**, **SEO** y **Custom Code** también están en inglés.
-- **Formatos de favicon distintos.** Al crear se aceptan jpg, png y svg; al editar, además gif y webp.
-- **No hay estadísticas por landing dentro de AFRUS.** Las visitas se miden en Google Analytics, Google Tag Manager o Meta. La única comparación de resultados en AFRUS es la de "Experimentos".
-
 ## Preguntas frecuentes
 
 **¿Tengo que pulsar un botón para publicar?**

@@ -72,14 +72,6 @@ Os limites só se aplicam a partir de 1.000 e-mails enviados. Se você tiver men
 
 ---
 
-## Limitações conhecidas
-
-- **Conta só e-mails em massa.** Não inclui autoresponders, e-mails de transações nem WhatsApp.
-- **As devoluções temporárias (soft) também aumentam a sua taxa de devoluções.**
-- **Alguns textos estão em inglês** (**Monitor Email**, **Hard Bounces**, **Bounce Rate (%)**…).
-- **Clicar nos títulos ID ou Nombre (Nome) não muda a ordem da tabela.** Ela sempre mostra primeiro o envio mais recente.
-- **A tela não se atualiza sozinha:** recarregue para ver mudanças.
-
 ## Perguntas frequentes
 
 **Minha conta está em Alerta. Posso enviar?**

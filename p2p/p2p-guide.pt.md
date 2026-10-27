@@ -158,18 +158,6 @@ Toda página nova começa como **Pendiente** e precisa da sua aprovação: não 
 | **Rechazada** (Rejeitada) | Não aparece | Rejeitada; a página publicada foi excluída | Encerrar |
 | **Finalizada** (Encerrada) | Finalizada | Encerrada pela sua organização; a página publicada foi excluída | Nada |
 
-## Limitações conhecidas
-
-- **Total arrecadado no console:** os detalhes de cada página mostram sempre $0, e o painel do captador mostra 0 doações e $0. Para ver o valor arrecadado, abra a página pública com "Ver página".
-- **Sem busca nem filtro por status** na lista do console: só dá para ordenar por **ID**, **Campaña** e **Meta**.
-- **Símbolo "$":** a coluna **Meta** e o bloco **Total recaudado** do console usam sempre "$", seja qual for a moeda da sua organização.
-- **Meta "(en USD)":** o formulário de cadastro pede a meta em USD, mas a página pública a mostra e compara na moeda da sua organização.
-- **Fecha Inicio** na lista é a data de criação da sua campanha. A data real do cadastro do captador está nos detalhes, em **Fecha creación de la campaña**.
-- **Páginas já publicadas:** mudanças posteriores nas imagens ou no widget da campanha não chegam a elas, e o captador não pode editar a página depois de publicar.
-- **Detalhes incompletos:** o campo **Widget** costuma mostrar *No proporcionado* (Não informado) e **Detalle de la fuente** abre vazio.
-- **Mensagens de erro:** se o recorte de uma imagem falhar, o aviso pode aparecer como texto técnico; se aprovar, rejeitar ou encerrar falhar, a mensagem pode sair em inglês.
-- **E-mails de aprovação e rejeição** para o captador são sempre enviados em espanhol.
-
 ## Perguntas frequentes
 
 **Preciso aprovar cada página?**

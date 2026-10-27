@@ -62,12 +62,6 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 
 ---
 
-## Limitações conhecidas
-
-- **Gateways que cobram por conta própria:** com Stripe, PayU ou Pagar.me, o gateway decide quando cobrar; esta tela não muda essas cobranças.
-- **Efeito nas cobranças reais:** ainda não está confirmado que esta configuração muda as cobranças. Fale com a equipe da AFRUS antes de fazer mudanças.
-- **Periodicidades diferentes de mensal e anual:** não está confirmado como **Trimestral** e **Semestral** são calculadas.
-
 ## Perguntas frequentes
 
 **A que horas as cobranças são feitas?**

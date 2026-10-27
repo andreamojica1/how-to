@@ -127,16 +127,6 @@ As perguntas frequentes da página são as da etapa **Preguntas Frecuentes** (Pe
 
 > **Pendente de confirmação:** se a página pública deixa de aparecer quando você desabilita ou exclui uma experiência.
 
-## Limitações conhecidas
-
-- **Meta e moeda:** não podem ser definidas nem alteradas neste módulo. A experiência guarda uma meta padrão de 10.000. Por enquanto não há alternativa dentro da AFRUS.
-- **Só dois tipos:** você pode criar **Donación** ou **Agradecimiento**. Embora "Registro" (Cadastro) apareça em alguns textos e no filtro **Tipos**, não é possível criá-lo; e o filtro **Tipos** não tem opção para Agradecimento.
-- **Rótulo no Agradecimento:** na aba **Configuracion** de uma experiência de Agradecimento, o rótulo superior diz "Registro".
-- **"Editar con IA" no Agradecimento:** não gera nada e a pré-visualização pode ficar carregando. Recarregue a página e edite o texto à mão.
-- **Coluna de tipo em inglês:** a lista mostra `donation` ou `gratitude`.
-- **Textos sem tradução:** alguns botões do editor aparecem iguais em todos os idiomas ("Recolor", "Aplicar", "Logo", "Widget afrus:", "Google tag manager", "Editar con IA", "Copiar link", "Descargar QR", "Eliminar").
-- **Mesmo endereço de uma landing:** se você publicar uma landing do módulo **Landings** e uma experiência no mesmo domínio e caminho, a última publicação substitui a outra. Use caminhos diferentes.
-
 ## Perguntas frequentes
 
 **Minha experiência aparece no módulo Landings?**

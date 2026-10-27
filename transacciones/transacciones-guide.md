@@ -156,16 +156,6 @@ La suscripción en sí (el registro "madre", **Recurrente**) no aparece en esta 
 
 Las transacciones en **Fraude**, **Cancelada** o **Contracargo** no aparecen en **Transacciones**. Las de fraude se ven en **Follow up > Radar - monitor de fraude**.
 
-## Limitaciones conocidas
-
-- **Fraude elimina personas:** las personas asociadas se borran de tu base, aunque tengan otras donaciones válidas.
-- **Fraude solo en la página actual:** "Seleccionar las N transacciones de la base." no aplica a **Marcar como Fraude**.
-- **Exportación siempre en Excel** (.xlsx), aunque elijas otro tipo de archivo, y sin el filtro **CYC**.
-- **Unicas + Cargos a la vez** muestra solo las únicas; deja **Tipo** vacío para ver todo.
-- **Merge tags en el agradecimiento con IA** se envían como texto literal.
-- **Reembolsos** siempre por el monto total y sin opción de deshacer.
-- **"PRENOTIFICATION_OK"** aparece como texto técnico sin traducir.
-
 ## Preguntas frecuentes
 
 **¿Puedo hacer un reembolso parcial?**

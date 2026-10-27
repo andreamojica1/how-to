@@ -207,16 +207,6 @@ Images, videos, audio and documents a contact sends you are shown in the chat, b
 |---|---|
 | **Límite alcanzado** (Limit reached) | Your Meta portfolio's daily limit was reached. The send retries automatically when quota is available |
 
-## Known limitations
-
-- **Blasts with video templates can't be sent.** Alternative: image templates or an **Ir al sitio web** button linking to the video.
-- **Templates with media from Conversaciones** are sent without the file and may fail. Use text-only templates in Conversaciones.
-- **The test that enables Blasts only uses templates with no variables or media.** Keep at least one such template.
-- **The gallery and templates don't share files:** what you upload when creating a template doesn't appear in the gallery.
-- **You can't attach files in Conversaciones.**
-- **There is no "new conversation" button.**
-- **Numbers are added in Meta**, not in AFRUS.
-
 ## Frequently asked questions
 
 **Can I be penalized?**

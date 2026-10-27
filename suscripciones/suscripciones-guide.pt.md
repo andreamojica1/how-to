@@ -191,15 +191,6 @@ Além disso, em **Configuración > Pagos > Servicio de recurrencia** (Configura�
 
 **Revisión pendiente:** ao lado do status aparece um lápis. Clique nele, preencha **Número de documento**, **Tipo de documento**, **Número de cuenta** (Número da conta), **Banco**, **Tipo de cuenta** (Tipo de conta) e **Monto** (Valor) em **Editar datos del pagador** (Editar dados do pagador) e clique em "Guardar y reenviar" (Salvar e reenviar). Você verá *"Datos del pagador actualizados y reenvío iniciado"* (Dados do pagador atualizados e reenvio iniciado).
 
-## Limitações conhecidas
-
-- **Marcar como fraude exclui a pessoa doadora** da sua base de Personas. Use só quando tiver certeza.
-- **O arquivo de exportação é sempre Excel (.xlsx)**, mesmo se você escolher CSV.
-- **Os totais exportados podem não coincidir com a tabela** se você não escolher status, ou se usar **Lapsed** ou a busca. Escolha os status no filtro e limpe a busca antes de exportar.
-- **Alguns status aparecem em inglês na tabela** (**PRENOTIFICATION_OK**, **TRIALING**, **LAPSED**), embora no filtro apareçam traduzidos.
-- **Reintentando e Expirada no filtro Estados** sempre dão uma lista vazia, porque a lista não mostra esses status.
-- **Cohorts, Evolution e "Exportar del datawarehouse"** estão desativados desde 22 de setembro de 2026.
-
 ## Perguntas frequentes
 
 **Por que não encontro uma assinatura que sei que existe?**

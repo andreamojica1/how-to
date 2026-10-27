@@ -67,7 +67,7 @@ Relacionados: que-es-la-automatizacion-onboarding, para-que-sirve-la-automatizac
 </ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre la configuración.</strong> En <strong>Interacciones &gt; Autoresponders</strong> o <strong>Interacciones &gt; Blast</strong>, haz clic en "Configurar DNS" en la tarjeta del dominio. La pantalla se abre en la versión anterior de AFRUS.</li>
+<li><strong>Abre la configuración.</strong> En <strong>Interacciones &gt; Autoresponders</strong> o <strong>Interacciones &gt; Blast</strong>, haz clic en "Configurar DNS" en la tarjeta del dominio.</li>
 <li><strong>Escribe tu dominio.</strong> En <strong>Configurar dominio</strong>, escribe tu <strong>Dominio</strong>, haz clic en "Iniciar autenticación" y luego en "Continuar".</li>
 <li><strong>Indica tu proveedor.</strong> Responde <em>"¿Cuál es tu proveedor de DNS?"</em>, sigue las instrucciones y haz clic en "Continuar".</li>
 <li><strong>Crea los registros DKIM.</strong> Copia los 3 registros <strong>CNAME</strong> que muestra la pantalla y créalos en tu proveedor. Haz clic en "Continuar".</li>
@@ -145,7 +145,7 @@ Relacionados: what-is-onboarding-automation, what-is-onboarding-automation-for
 </ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the setup.</strong> In <strong>Interacciones &gt; Autoresponders</strong> or <strong>Interacciones &gt; Blast</strong>, click "Configurar DNS" (Set up DNS) on the domain card. The screen opens in the previous version of AFRUS.</li>
+<li><strong>Open the setup.</strong> In <strong>Interacciones &gt; Autoresponders</strong> or <strong>Interacciones &gt; Blast</strong>, click "Configurar DNS" (Set up DNS) on the domain card.</li>
 <li><strong>Enter your domain.</strong> In <strong>Configurar dominio</strong> (Set up domain), type your <strong>Dominio</strong> (Domain), click "Iniciar autenticación" (Start authentication) and then "Continuar" (Continue).</li>
 <li><strong>Choose your provider.</strong> Answer <em>"¿Cuál es tu proveedor de DNS?"</em> (Who is your DNS provider?), follow the instructions and click "Continuar".</li>
 <li><strong>Create the DKIM records.</strong> Copy the 3 <strong>CNAME</strong> records shown on screen and create them at your provider. Click "Continuar".</li>
@@ -223,7 +223,7 @@ Relacionados: o-que-e-a-automacao-onboarding, para-que-serve-a-automacao-onboard
 </ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra a configuração.</strong> Em <strong>Interacciones &gt; Autoresponders</strong> ou <strong>Interacciones &gt; Blast</strong>, clique em "Configurar DNS" no cartão do domínio. A tela abre na versão anterior da AFRUS.</li>
+<li><strong>Abra a configuração.</strong> Em <strong>Interacciones &gt; Autoresponders</strong> ou <strong>Interacciones &gt; Blast</strong>, clique em "Configurar DNS" no cartão do domínio.</li>
 <li><strong>Digite seu domínio.</strong> Em <strong>Configurar dominio</strong> (Configurar domínio), digite seu <strong>Dominio</strong> (Domínio), clique em "Iniciar autenticación" (Iniciar autenticação) e depois em "Continuar".</li>
 <li><strong>Informe seu provedor.</strong> Responda <em>"¿Cuál es tu proveedor de DNS?"</em> (Qual é o seu provedor de DNS?), siga as instruções e clique em "Continuar".</li>
 <li><strong>Crie os registros DKIM.</strong> Copie os 3 registros <strong>CNAME</strong> da tela e crie-os no seu provedor. Clique em "Continuar".</li>

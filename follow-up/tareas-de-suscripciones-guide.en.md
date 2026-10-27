@@ -94,12 +94,6 @@ The table shows 25 tasks per page (you can change it to 10, 50 or 100), newest f
 
 ---
 
-## Known limitations
-
-- **Only some gateways are shown.** The screen lists tasks for subscriptions with the **Recurrent Payments** or **PTESA** gateway. Others don't appear here; check them from **Suscripciones**.
-- **The failure reason may be empty** ("-"). In that case, find the failed charge in **Transacciones** (Transactions) and open its detail: the failure reason is shown there.
-- **No status filter.** The list shows **Pendiente** and **Completada** tasks together; sort or export them to separate them.
-
 ## Frequently asked questions
 
 **Are tasks created for one-time donations that fail?**

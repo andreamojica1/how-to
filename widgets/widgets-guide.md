@@ -297,13 +297,6 @@ Al terminar:
 
 > **¿Se puede deshacer?** Eliminar un widget no se puede deshacer. Un widget con donaciones asociadas no se puede eliminar: archívalo o desactívalo en su lugar.
 
-## Limitaciones conocidas
-
-- **El editor está en la versión anterior de AFRUS.** "Nuevo widget" y "Editar" abren una pestaña nueva del navegador.
-- **Textos sin traducir.** Algunos textos del editor aparecen siempre igual, en cualquier idioma: el botón "set default", los títulos **Recaptcha**, **Google Tag Manager 4**, **Protocolo de medición**, **Facebook Capi** y los campos **Measurement Id**, **Api secret**, **Pixel id** y **Access Token**.
-- **Contador de la descripción de imagen por monto.** El contador muestra "/144", pero el límite real es de 150 caracteres. Guíate por 144 para no pasarte.
-- **Cambiar la moneda de un país borra su Medio de pago.** Vuelve a configurarlo después del cambio.
-
 ## Preguntas frecuentes
 
 **¿Por qué el editor se ve distinto al resto de la consola?**

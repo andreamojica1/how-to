@@ -14,8 +14,6 @@ This guide helps you set up your DNS so AFRUS sends your emails with your organi
 
 Until you set it up, your emails are sent from an AFRUS account.
 
-The screen is called **Dominios de correo electrónico** (Email domains) and opens in the previous version of AFRUS, which is why it looks different.
-
 ## What it is for
 
 - **Sending from your own email address.** Donors receive emails from an address of your organization, for example `donations@yourorg.org`.
@@ -68,21 +66,13 @@ When you finish, the screen shows your domain and its status: **Pendiente** (Pen
 
 ---
 
-## Known limitations
-
-- If your organization never set up a domain, the card may show **Error en registros DNS** instead of "No tienes un dominio verificado". In that case, just follow the steps in this guide.
-- The status doesn't update by itself while the screen is open: use "Comprobar estado".
-
 ## Frequently asked questions
 
 **How long does verification take?**
 Up to 48 hours, although it is usually much faster.
 
 **Does AFRUS let me know when it's done?**
-> **Pending confirmation:** whether AFRUS sends an email when validation finishes.
-
-**Where is "Onboarding automation" in the menu?**
-> **Pending confirmation:** whether there is a menu option with that name. Today you reach this screen with the "Configurar DNS" button.
+No, it doesn't. You need to check whether the domain was validated: once it is, you will see the verified domain in **Interacciones > Blast** or in **Interacciones > Autoresponders**.
 
 ---
 

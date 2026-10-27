@@ -262,14 +262,6 @@ If the email bounced, the profile shows *"Tiene Hard Bounce"* or *"Tiene Soft Bo
 | Export and bulk delete | In the background; may take a few minutes |
 | Reminders | AFRUS checks them every 10 minutes |
 
-## Known limitations
-
-- **"Solo contactables" is not applied to the export.** The file may include non-contactable people even when the filter is on.
-- **New subscription:** **Modo enhanced** and **Modo de reintentos** are not saved.
-- **Duplicate email:** the error may appear as `already_exists_email`; it means that email already exists in your organization.
-- **Reminder with an empty status:** if a reminder failed to send, it appears with an empty **Estado**.
-- **Channel names:** in "Editar Opt In" channels appear as email, sms, whatsapp, voice and direct_mail.
-
 ## Frequently asked questions
 
 **Why does the list show fewer people than I expected?**

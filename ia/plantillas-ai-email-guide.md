@@ -68,11 +68,6 @@ En las plantillas **Propia** puedes:
 
 ---
 
-## Limitaciones conocidas
-
-- **No puedes elegir qué plantilla usa cada envío.** AFRUS elige al azar entre las activas. Si quieres que se use una sola, deja solo esa activa.
-- **Las plantillas de AFRUS (Global)** no se pueden editar, duplicar ni borrar.
-
 ## Preguntas frecuentes
 
 **¿Tengo que tener la IA activada para usar esta pantalla?**

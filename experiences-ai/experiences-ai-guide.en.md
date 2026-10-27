@@ -127,16 +127,6 @@ The page's frequently asked questions are the ones in the **Preguntas Frecuentes
 
 > **Pending confirmation:** whether the public page stops showing when you disable or delete an experience.
 
-## Known limitations
-
-- **Goal and currency:** they can't be set or changed from this module. The experience stores a default goal of 10,000. For now there is no alternative within AFRUS.
-- **Only two types:** you can create **Donación** or **Agradecimiento**. Although "Registro" (Registration) appears in some texts and in the **Tipos** (Types) filter, it can't be created; and the **Tipos** filter has no option for Thank you.
-- **Label on Thank you pages:** in the **Configuracion** tab of a Thank you experience, the top label says "Registro".
-- **"Editar con IA" on Thank you pages:** it doesn't generate anything and the preview may keep loading. Reload the page and edit the text by hand.
-- **Type column in English:** the list shows `donation` or `gratitude`.
-- **Untranslated texts:** some editor buttons look the same in every language ("Recolor", "Aplicar", "Logo", "Widget afrus:", "Google tag manager", "Editar con IA", "Copiar link", "Descargar QR", "Eliminar").
-- **Same address as a landing:** if you publish a landing from the **Landings** module and an experience on the same domain and path, the latest publication replaces the other one. Use different paths.
-
 ## Frequently asked questions
 
 **Does my experience show up in the Landings module?**

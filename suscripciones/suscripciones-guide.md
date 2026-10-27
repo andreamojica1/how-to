@@ -189,15 +189,6 @@ Además, en **Configuración > Pagos > Servicio de recurrencia** (pantalla **Con
 
 **Revisión pendiente:** junto al estado aparece un lápiz. Haz clic, completa **Número de documento**, **Tipo de documento**, **Número de cuenta**, **Banco**, **Tipo de cuenta** y **Monto** en **Editar datos del pagador**, y pulsa "Guardar y reenviar". Verás *"Datos del pagador actualizados y reenvío iniciado"*.
 
-## Limitaciones conocidas
-
-- **Marcar como fraude elimina a la persona donante** de tu base de Personas. Úsalo solo cuando estés seguro.
-- **El archivo de exportación siempre es Excel (.xlsx)**, aunque elijas CSV.
-- **Los totales exportados pueden no coincidir con la tabla** si no eliges estados, si usas **Lapsed** o el buscador. Elige los estados en el filtro y limpia el buscador antes de exportar.
-- **Algunos estados aparecen en inglés en la tabla** (**PRENOTIFICATION_OK**, **TRIALING**, **LAPSED**), aunque en el filtro salen traducidos.
-- **Reintentando y Expirada en el filtro Estados** siempre dan una lista vacía, porque la lista no muestra esos estados.
-- **Cohorts, Evolution y "Exportar del datawarehouse"** están desactivados desde el 22 de septiembre de 2026.
-
 ## Preguntas frecuentes
 
 **¿Por qué no encuentro una suscripción que sé que existe?**

@@ -61,12 +61,6 @@ Assim a IA sabe quais imagens usar em cada tipo de e-mail.
 
 ---
 
-## Limitações conhecidas
-
-- **Só imagens, de até 5 MB.** A janela de envio diz que aceita até 64 MB e deixa escolher documentos (PDF, Word, PowerPoint), mas a galeria só guarda imagens de até 5 MB. Se você enviar outra coisa, verá um erro.
-- **A busca e os filtros só olham o que já está na tela.** Se não encontrar uma imagem, clique em "Cargar más" até ver todas e busque de novo.
-- **Arrastar um arquivo só abre a janela de envio.** Depois você precisa escolher o arquivo de novo.
-
 ## Perguntas frequentes
 
 **Criar imagens com IA consome créditos?**

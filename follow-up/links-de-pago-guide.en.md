@@ -84,14 +84,6 @@ When you finish you will see *"¡Link de pago creado con éxito!"* (Payment link
 
 The list shows **ID**, email, amount (or "Abierto" — Open — for open amounts), creation date, **Enviado** (Sent: Si/No), **Language Code**, **Estado** and actions.
 
-## Known limitations
-
-- **Email only.** WhatsApp and **Mensaje de texto** (Text message) appear disabled.
-- **Expiry in another month:** if you choose an expiry date in a later month but on a lower day of the month than today (for example, it expires on the 5th of next month and today is the 11th), the link may be marked or shown as **Expirado** too early. The same can happen with the chosen time. For now there is no alternative within AFRUS, other than sending the link without an expiry date.
-- **Creation time in the list:** the month is shown instead of the minutes. Use the date as reference.
-- **The "Caducar enalce" option** has a typo on screen: it is the option to make the link expire.
-- **If the donation fails,** the link stays in **Creado**.
-
 ## Frequently asked questions
 
 **Can I send the link by WhatsApp?**

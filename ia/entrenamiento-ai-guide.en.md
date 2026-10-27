@@ -110,12 +110,6 @@ In **URL'S** you add your organization's web pages for the AI to read: for examp
 
 ---
 
-## Known limitations
-
-- The **Documentos guardados** search doesn't filter.
-- Conversation shortcuts don't appear in the chat.
-- Some errors when uploading or deleting documents appear as technical text. If you see one, contact us.
-
 ## Frequently asked questions
 
 **How long until the AI uses a new document?**

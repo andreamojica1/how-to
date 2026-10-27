@@ -50,11 +50,6 @@ En esta pantalla, "Acciones" solo ofrece exportar: no permite asignar etiquetas 
 
 ---
 
-## Limitaciones conocidas
-
-- **Minutos de la fecha:** la columna de fecha muestra mal los minutos (en su lugar aparece el número del mes). Si necesitas la hora exacta, por ahora no hay una alternativa dentro de esta pantalla.
-- **Botón "Ver procesos":** hoy lleva a una página que no existe. Para seguir tu exportación, entra directamente a **Data > Descargas**.
-
 ## Preguntas frecuentes
 
 **¿Si la donación falla, la persona aparece aquí?**

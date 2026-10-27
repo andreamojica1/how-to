@@ -77,15 +77,6 @@ Si no aparece ninguna fila, AFRUS no preparó ningún mensaje para esa persona.
 
 ---
 
-## Limitaciones conocidas
-
-- Los envíos de **WhatsApp Business > Blast** no aparecen aquí. Su estado (**Entregado**, **Leído**) se ve en el detalle de ese blast.
-- **Un solo valor por filtro.** Si marcas dos opciones en el mismo filtro (por ejemplo **Email** y **WhatsApp**), solo se usa la primera; si marcas todas, el filtro se quita. Para ver los dos canales, deja **Canal** sin marcar.
-- **La búsqueda necesita el dato exacto.** Escribe el correo o el teléfono completos.
-- **La columna Fecha no muestra la hora.** La hora está en "Ver detalle".
-- **No hay filtro de fechas:** la lista recorre todo el historial, del más reciente al más antiguo.
-- **La pantalla no se actualiza sola:** recárgala para ver cambios.
-
 ## Preguntas frecuentes
 
 **¿"Procesado" quiere decir que la persona recibió el correo?**

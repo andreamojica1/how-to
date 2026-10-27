@@ -158,16 +158,6 @@ The subscription itself (the "parent" record, **Recurrente**) does not appear in
 
 Transactions in **Fraude**, **Cancelada** or **Contracargo** (Fraud, Cancelled, Chargeback) do not appear in **Transacciones**. Fraud ones are in **Follow up > Radar - monitor de fraude**.
 
-## Known limitations
-
-- **Fraud deletes people:** linked people are removed from your database, even if they have other valid donations.
-- **Fraud only on the current page:** "Seleccionar las N transacciones de la base." does not apply to **Marcar como Fraude**.
-- **Exports are always Excel** (.xlsx), whatever file type you choose, and without the **CYC** filter.
-- **Unicas + Cargos together** shows only one-time donations; leave **Tipo** empty to see everything.
-- **Merge tags in the AI thank-you** are sent as literal text.
-- **Refunds** are always for the full amount and cannot be undone.
-- **"PRENOTIFICATION_OK"** appears as untranslated technical text.
-
 ## Frequently asked questions
 
 **Can I make a partial refund?**

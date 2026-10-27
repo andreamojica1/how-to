@@ -80,12 +80,6 @@ Si después de recargar **Finalizado** sigue en "No" y **Total de leads procesad
 
 ---
 
-## Limitaciones conocidas
-
-- **Una etiqueta puede quedar en "No" para siempre.** Si alguna persona del grupo no se pudo procesar (por ejemplo, porque se borró mientras tanto), el proceso puede quedarse en **Finalizado** "No" aunque todas las demás personas sí tengan la etiqueta. Para comprobarlo, revisa la etiqueta en **Data > Tags**.
-- **La columna Tipo está en inglés.**
-- **Solo aparecen las cuatro acciones de esta guía.** Las importaciones, descargas y envíos tienen sus propias pantallas.
-
 ## Preguntas frecuentes
 
 **¿La pantalla se actualiza sola?**

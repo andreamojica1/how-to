@@ -207,16 +207,6 @@ As imagens, vídeos, áudios e documentos que um contato envia aparecem no chat,
 |---|---|
 | **Límite alcanzado** (Limite atingido) | O limite diário do seu portfólio da Meta foi atingido. O envio é retomado automaticamente quando há cota |
 
-## Limitações conhecidas
-
-- **Não é possível enviar Blasts com modelos de vídeo.** Alternativa: modelos com imagem ou um botão **Ir al sitio web** com link para o vídeo.
-- **Modelos com mídia enviados por Conversaciones** saem sem o arquivo e podem falhar. Use modelos só de texto em Conversaciones.
-- **O teste que habilita os Blasts só usa modelos sem variáveis nem mídia.** Tenha pelo menos um modelo assim.
-- **A galeria e os modelos não compartilham arquivos:** o que você envia ao criar o modelo não aparece na galeria.
-- **Em Conversaciones não é possível anexar arquivos.**
-- **Não existe botão de "nova conversa".**
-- **Os números são adicionados na Meta**, não na AFRUS.
-
 ## Perguntas frequentes
 
 **Posso ser penalizado?**

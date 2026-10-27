@@ -299,13 +299,6 @@ When you finish:
 
 > **Can it be undone?** Deleting a widget can't be undone. A widget with linked donations can't be deleted: archive or deactivate it instead.
 
-## Known limitations
-
-- **The editor is in the previous version of AFRUS.** "Nuevo widget" and "Editar" open a new browser tab.
-- **Untranslated texts.** Some editor texts always appear the same, in any language: the "set default" button, the titles **Recaptcha**, **Google Tag Manager 4**, **Protocolo de medición**, **Facebook Capi** and the fields **Measurement Id**, **Api secret**, **Pixel id** and **Access Token**.
-- **Image description counter per amount.** The counter shows "/144", but the real limit is 150 characters. Stick to 144 to stay within it.
-- **Changing a country's currency deletes its payment method settings.** Set them up again after the change.
-
 ## Frequently asked questions
 
 **Why does the editor look different from the rest of the console?**

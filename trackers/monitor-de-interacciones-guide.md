@@ -70,14 +70,6 @@ Los límites solo se aplican a partir de 1.000 correos enviados. Si tienes menos
 
 ---
 
-## Limitaciones conocidas
-
-- **Solo cuenta correos masivos.** No incluye autoresponders, correos de transacciones ni WhatsApp.
-- **Los rebotes blandos también suben tu tasa de rebotes.**
-- **Algunos textos están en inglés** (**Monitor Email**, **Hard Bounces**, **Bounce Rate (%)**…).
-- **Al hacer clic en los títulos ID o Nombre, la tabla no cambia de orden.** Siempre muestra primero el envío más reciente.
-- **La pantalla no se actualiza sola:** recárgala para ver cambios.
-
 ## Preguntas frecuentes
 
 **Mi cuenta está en Alerta. ¿Puedo enviar?**

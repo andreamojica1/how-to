@@ -12,8 +12,6 @@ Con esta guía vas a configurar tus DNS para que AFRUS envíe tus correos con el
 
 Mientras no lo configures, tus correos salen desde una cuenta de AFRUS.
 
-La pantalla se llama **Dominios de correo electrónico** y se abre en la versión anterior de AFRUS, por eso se ve distinta.
-
 ## Para qué sirve
 
 - **Enviar desde tu propio correo.** Tus donantes reciben los correos desde una dirección de tu organización, por ejemplo `donaciones@tuorg.org`.
@@ -66,21 +64,13 @@ Al terminar, la pantalla muestra tu dominio y su estado: **Pendiente**, **Exitos
 
 ---
 
-## Limitaciones conocidas
-
-- Si tu organización nunca configuró un dominio, la tarjeta puede mostrar **Error en registros DNS** en lugar de "No tienes un dominio verificado". En ese caso, sigue igual los pasos de esta guía.
-- El estado no se actualiza solo mientras tienes la pantalla abierta: usa "Comprobar estado".
-
 ## Preguntas frecuentes
 
 **¿Cuánto tarda la verificación?**
 Puede tardar hasta 48 horas, aunque por lo general es mucho más rápido.
 
 **¿AFRUS me avisa cuando termina?**
-> **Pendiente de confirmar:** si AFRUS envía un correo cuando termina la validación.
-
-**¿Dónde está "Automatización Onboarding" en el menú?**
-> **Pendiente de confirmar:** si existe una opción de menú con ese nombre. Hoy llegas a esta pantalla con el botón "Configurar DNS".
+No, no te avisa. Debes revisar si el dominio quedó validado: cuando lo esté, verás el dominio verificado en **Interacciones > Blast** o en **Interacciones > Autoresponders**.
 
 ---
 

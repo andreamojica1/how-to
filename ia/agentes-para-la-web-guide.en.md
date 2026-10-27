@@ -88,13 +88,6 @@ There you'll see each conversation with the email, date, agent and a summary. "V
 
 ---
 
-## Known limitations
-
-- **Conversations have no menu link.** Use the address above.
-- **Button text:** the counter says 20 characters, but the error message mentions 30. Use 20 or fewer.
-- **If an agent doesn't load when editing it,** the screen doesn't go back to the list by itself: use "Volver a agentes" (Back to agents).
-- **People who come through the chat** are created without terms acceptance and are linked to your default form and default campaign.
-
 ## Frequently asked questions
 
 **What does the visitor see if I turn the agent off?**

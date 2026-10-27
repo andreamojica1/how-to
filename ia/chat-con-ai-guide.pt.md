@@ -67,10 +67,6 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 
 ---
 
-## Limitações conhecidas
-
-- Quando você ainda não tem conversas, a barra lateral pode mostrar um texto técnico em vez de "No hay conversaciones" (Não há conversas). Isso não afeta o uso do chat.
-
 ## Perguntas frequentes
 
 **A IA conhece meus doadores?**

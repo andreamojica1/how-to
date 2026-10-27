@@ -158,16 +158,6 @@ A assinatura em si (o registro "mãe", **Recurrente**) não aparece nesta lista:
 
 Transações em **Fraude**, **Cancelada** ou **Contracargo** (Chargeback) não aparecem em **Transacciones**. As de fraude ficam em **Follow up > Radar - monitor de fraude**.
 
-## Limitações conhecidas
-
-- **Fraude exclui pessoas:** as pessoas vinculadas são removidas da sua base, mesmo com outras doações válidas.
-- **Fraude só na página atual:** "Seleccionar las N transacciones de la base." não se aplica a **Marcar como Fraude**.
-- **Exportação sempre em Excel** (.xlsx), qualquer que seja o tipo escolhido, e sem o filtro **CYC**.
-- **Unicas + Cargos juntos** mostra só as únicas; deixe **Tipo** vazio para ver tudo.
-- **Merge tags no agradecimento com IA** são enviadas como texto literal.
-- **Reembolsos** sempre pelo valor total e sem opção de desfazer.
-- **"PRENOTIFICATION_OK"** aparece como texto técnico sem tradução.
-
 ## Perguntas frequentes
 
 **Posso fazer um reembolso parcial?**

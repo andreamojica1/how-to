@@ -262,14 +262,6 @@ Se o e-mail voltou, o perfil mostra *"Tiene Hard Bounce"* ou *"Tiene Soft Bounce
 | Exportação e exclusão em massa | Em segundo plano; pode levar alguns minutos |
 | Lembretes | A AFRUS verifica a cada 10 minutos |
 
-## Limitações conhecidas
-
-- **"Solo contactables" não é aplicado à exportação.** O arquivo pode incluir pessoas não contatáveis mesmo com o filtro ativo.
-- **Nova assinatura:** **Modo enhanced** e **Modo de reintentos** não são salvos.
-- **E-mail duplicado:** o erro pode aparecer como `already_exists_email`; significa que esse e-mail já existe na sua organização.
-- **Lembrete com status vazio:** se o envio de um lembrete falhou, ele aparece com o **Estado** vazio.
-- **Nomes de canal:** em "Editar Opt In" os canais aparecem como email, sms, whatsapp, voice e direct_mail.
-
 ## Perguntas frequentes
 
 **Por que a lista mostra menos pessoas do que eu esperava?**

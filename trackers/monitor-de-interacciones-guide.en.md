@@ -72,14 +72,6 @@ The limits only apply from 1,000 emails sent. If you have fewer, you'll see: *"E
 
 ---
 
-## Known limitations
-
-- **It only counts mass emails.** It doesn't include autoresponders, transaction emails or WhatsApp.
-- **Soft bounces also raise your bounce rate.**
-- **Some texts are in English** (**Monitor Email**, **Hard Bounces**, **Bounce Rate (%)**…).
-- **Clicking the ID or Nombre (Name) titles doesn't change the table order.** It always shows the most recent send first.
-- **The screen doesn't refresh by itself:** reload it to see changes.
-
 ## Frequently asked questions
 
 **My account is on Alerta. Can I send?**

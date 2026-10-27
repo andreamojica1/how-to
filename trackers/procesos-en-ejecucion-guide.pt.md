@@ -82,12 +82,6 @@ Se, depois de recarregar, **Finalizado** continua em "No" e **Total de leads pro
 
 ---
 
-## Limitações conhecidas
-
-- **Uma etiqueta pode ficar em "No" para sempre.** Se alguma pessoa do grupo não pôde ser processada (por exemplo, porque foi excluída nesse meio-tempo), o processo pode ficar em **Finalizado** "No" mesmo que todas as outras tenham recebido a etiqueta. Para conferir, veja a etiqueta em **Data > Tags**.
-- **A coluna Tipo está em inglês.**
-- **Só aparecem as quatro ações deste guia.** Importações, downloads e envios têm suas próprias telas.
-
 ## Perguntas frequentes
 
 **A tela se atualiza sozinha?**

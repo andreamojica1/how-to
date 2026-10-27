@@ -84,16 +84,6 @@ Em **Interacciones > Blast**, seus Blasts de IA têm a etiqueta **AI**. Clique e
 
 ---
 
-## Limitações conhecidas
-
-- **Só por e-mail.** A opção de WhatsApp não está disponível por enquanto.
-- **Só segmentos predefinidos ou etiquetas.** Segmentos avançados não podem ser usados.
-- **Se algo falhar ao salvar ou enviar, nenhum aviso aparece:** a tela simplesmente não avança. Se acontecer, confira se todos os campos estão preenchidos e fale com a gente.
-- **Ao editar um Blast de IA** você precisa escrever de novo o link e as instruções.
-- **Não é possível duplicar** um Blast de IA.
-- **Com Plantillas AI Email, envie imagens para a Galería para AI.** Se ela estiver vazia, a imagem principal do e-mail aparece quebrada.
-- **A lista de objetivos** às vezes mostra o nome em inglês ao lado da descrição.
-
 ## Perguntas frequentes
 
 **Posso ver o e-mail que cada pessoa vai receber antes de enviar?**

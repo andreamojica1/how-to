@@ -61,12 +61,6 @@ This way the AI knows which images to use in each kind of email.
 
 ---
 
-## Known limitations
-
-- **Images only, up to 5 MB.** The upload window says it accepts up to 64 MB and lets you pick documents (PDF, Word, PowerPoint), but the gallery only keeps images up to 5 MB. If you upload anything else, you will see an error.
-- **Search and filters only check what is already on screen.** If you can't find an image, click "Cargar más" until you see them all and search again.
-- **Dragging a file only opens the upload window.** You then need to choose the file again.
-
 ## Frequently asked questions
 
 **Does creating images with AI use credits?**

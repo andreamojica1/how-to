@@ -205,16 +205,6 @@ Las imágenes, videos, audios y documentos que te envía un contacto se ven en e
 |---|---|
 | **Límite alcanzado** | Se alcanzó el límite diario de tu portafolio de Meta. El envío se reintenta automáticamente cuando hay cuota disponible |
 
-## Limitaciones conocidas
-
-- **No se pueden enviar Blasts con plantillas de video.** Alternativa: plantillas con imagen o un botón **Ir al sitio web** que enlace al video.
-- **Plantillas con multimedia desde Conversaciones:** se envían sin el archivo y pueden fallar. Usa plantillas solo de texto en Conversaciones.
-- **La prueba que habilita los Blasts solo usa plantillas sin variables ni multimedia.** Ten al menos una plantilla así.
-- **La galería y las plantillas no comparten archivos:** lo que subes al crear la plantilla no aparece en la galería.
-- **En Conversaciones no se pueden adjuntar archivos.**
-- **No hay botón de "nueva conversación".**
-- **Los números se agregan desde Meta**, no desde AFRUS.
-
 ## Preguntas frecuentes
 
 **¿Me pueden penalizar?**

@@ -65,10 +65,6 @@ Responde con la información que tu organización cargó en **AI > Entrenamiento
 
 ---
 
-## Limitaciones conocidas
-
-- Cuando aún no tienes conversaciones, la barra lateral puede mostrar un texto técnico en lugar de "No hay conversaciones". No afecta el uso del chat.
-
 ## Preguntas frecuentes
 
 **¿La IA conoce a mis donantes?**

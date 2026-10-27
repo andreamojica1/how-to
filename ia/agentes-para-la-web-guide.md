@@ -86,13 +86,6 @@ Ahí verás cada conversación con el correo, la fecha, el agente y un resumen. 
 
 ---
 
-## Limitaciones conocidas
-
-- **Las conversaciones no tienen enlace en el menú.** Usa la dirección indicada arriba.
-- **Texto del botón:** el contador dice 20 caracteres, pero el mensaje de error habla de 30. Usa 20 o menos.
-- **Si un agente no carga al editarlo,** la pantalla no vuelve sola a la lista: usa "Volver a agentes".
-- **Las personas que llegan por el chat** se crean sin aceptación de términos y quedan asociadas a tu formulario y tu campaña por defecto.
-
 ## Preguntas frecuentes
 
 **¿Qué ve el visitante si desactivo el agente?**

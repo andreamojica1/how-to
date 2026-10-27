@@ -82,12 +82,6 @@ If, after reloading, **Finalizado** still says "No" and **Total de leads procesa
 
 ---
 
-## Known limitations
-
-- **A tag can stay on "No" forever.** If someone in the group couldn't be processed (for example, because they were deleted in the meantime), the process can stay on **Finalizado** "No" even though everyone else got the tag. To check, look at the tag in **Data > Tags**.
-- **The Tipo column is in English.**
-- **Only the four actions in this guide appear.** Imports, downloads and sends have their own screens.
-
 ## Frequently asked questions
 
 **Does the screen refresh by itself?**

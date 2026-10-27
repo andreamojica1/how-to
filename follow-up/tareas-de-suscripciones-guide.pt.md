@@ -94,12 +94,6 @@ A tabela mostra 25 tarefas por página (você pode mudar para 10, 50 ou 100), da
 
 ---
 
-## Limitações conhecidas
-
-- **Só alguns gateways aparecem.** A tela lista as tarefas de assinaturas com gateway **Recurrent Payments** ou **PTESA**. As de outros gateways não aparecem aqui; confira em **Suscripciones**.
-- **O motivo da falha pode aparecer vazio** ("-"). Nesse caso, procure a cobrança que falhou em **Transacciones** (Transações) e abra o detalhe: o motivo da falha aparece ali.
-- **Não há filtro por status.** A lista mostra juntas as tarefas **Pendiente** e **Completada**; ordene ou exporte para separá-las.
-
 ## Perguntas frequentes
 
 **São criadas tarefas para doações únicas que falham?**

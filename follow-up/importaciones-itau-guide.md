@@ -86,12 +86,6 @@ La importación queda finalizada cuando todas las líneas terminaron de procesar
 - **El procesamiento es en segundo plano** y tarda unos minutos, según el mensaje de la pantalla.
 - **La pantalla no se refresca sola.** Vuelve a cargarla para ver el avance.
 
-## Limitaciones conocidas
-
-- **El diálogo "Importación en proceso" aparece aunque la subida haya fallado.** Comprueba que la importación figure en la lista.
-- **Los estados de la importación se muestran en inglés.**
-- **Solo sirve para boletos Itaú (Brasil)**, aunque el menú aparece para todas las organizaciones.
-
 ## Preguntas frecuentes
 
 **¿Qué pasa con los boletos que el banco rechazó?**

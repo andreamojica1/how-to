@@ -67,11 +67,6 @@ Se uma pessoa em quarentena concluir uma doação confirmada, a AFRUS a restaura
 - **Restauração automática** de quem conclui uma doação confirmada.
 - **Controles antifraude nos formulários**, como a verificação anti-robôs. Veja mais no guia do **Radar - monitor de fraude**.
 
-## Limitações conhecidas
-
-- **A coluna Motivo mostra códigos técnicos em inglês**, sem tradução. Use a tabela deste guia para interpretá-los.
-- **Não há ações em massa** nesta tela: a revisão é pessoa por pessoa.
-
 ## Perguntas frequentes
 
 **As pessoas em Leads spam são excluídas?**

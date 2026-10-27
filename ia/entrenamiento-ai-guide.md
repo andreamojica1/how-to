@@ -108,12 +108,6 @@ En **URL'S** agregas páginas web de tu organización para que la IA las lea: po
 
 ---
 
-## Limitaciones conocidas
-
-- El buscador de **Documentos guardados** no filtra.
-- Los atajos de conversación no aparecen en el chat.
-- Algunos errores al subir o borrar documentos aparecen con texto técnico. Si ves uno, escríbenos.
-
 ## Preguntas frecuentes
 
 **¿Cuánto tarda la IA en usar un documento nuevo?**

@@ -156,18 +156,6 @@ Toda página nueva nace en **Pendiente** y necesita tu aprobación: no hay aprob
 | **Rechazada** | No se muestra | Rechazada; su página publicada se eliminó | Finalizar |
 | **Finalizada** | Finalizada | Cerrada por tu organización; su página publicada se eliminó | Nada |
 
-## Limitaciones conocidas
-
-- **Total recaudado en el panel:** el detalle de cada página muestra siempre $0 y el panel del recaudador muestra 0 donaciones y $0. Para ver lo recaudado, abre la página pública con "Ver página".
-- **Sin buscador ni filtro por estado** en la lista del panel: solo puedes ordenar por **ID**, **Campaña** y **Meta**.
-- **Símbolo "$":** la columna **Meta** y el bloque **Total recaudado** del panel usan siempre "$", sea cual sea la moneda de tu organización.
-- **Objetivo "(en USD)":** el formulario de registro pide el objetivo en USD, pero la página pública lo muestra y lo compara en la moneda de tu organización.
-- **Fecha Inicio** en la lista es la fecha de creación de tu campaña. La fecha real de registro del recaudador está en el detalle, en **Fecha creación de la campaña**.
-- **Páginas ya publicadas:** los cambios posteriores en las imágenes o en el widget de la campaña no les llegan, y el recaudador no puede editar su página después de publicarla.
-- **Detalle incompleto:** el campo **Widget** del detalle normalmente muestra *No proporcionado* y **Detalle de la fuente** se despliega sin contenido.
-- **Mensajes de error:** si falla el recorte de una imagen, el aviso puede mostrarse como un texto técnico; si falla aprobar, rechazar o finalizar, el mensaje puede salir en inglés.
-- **Emails al recaudador** de aprobación y rechazo se envían siempre en español.
-
 ## Preguntas frecuentes
 
 **¿Tengo que aprobar cada página?**

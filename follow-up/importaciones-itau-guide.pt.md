@@ -88,12 +88,6 @@ A importação fica finalizada quando todas as linhas terminam de ser processada
 - **O processamento acontece em segundo plano** e leva alguns minutos, segundo a mensagem da tela.
 - **A tela não se atualiza sozinha.** Recarregue para ver o avanço.
 
-## Limitações conhecidas
-
-- **O diálogo "Importación en proceso" aparece mesmo que o envio tenha falhado.** Confira se a importação aparece na lista.
-- **Os status da importação aparecem em inglês.**
-- **Só serve para boletos Itaú (Brasil)**, embora o menu apareça para todas as organizações.
-
 ## Perguntas frequentes
 
 **O que acontece com os boletos que o banco rejeitou?**

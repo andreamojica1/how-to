@@ -101,12 +101,6 @@ Shown in English as is: `created`, `queued`, `pending` (in progress), `succeeded
 - **The screen doesn't refresh by itself.** It loads when you open it and when you change page.
 - **The collection indicators** change when the bank's return file is uploaded in **Follow up > Importaciones - itaú**.
 
-## Known limitations
-
-- **Brazilian organizations only**, although the menu appears for all.
-- **Batch statuses are shown in English.**
-- **You can't choose a campaign or widget when generating.** The campaign and widget are chosen later, when uploading the return file.
-
 ## Frequently asked questions
 
 **Does AFRUS send the file to the bank?**
