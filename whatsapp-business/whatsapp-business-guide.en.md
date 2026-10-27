@@ -115,7 +115,7 @@ When you finish you will see *"Plantilla enviada para aprobación"* (Template se
 
 When you finish, AFRUS sends the messages one by one. In the send's detail you see each recipient's status: **En cola** (Queued), **Enviado** (Sent), **Entregado** (Delivered), **Leído** (Read), **Error** or **No enviado** (Not sent).
 
-> **Can it be undone?** Pending confirmation whether a send can be stopped once started. Always check the message with "Enviar prueba" before sending.
+> **Important:** always check the message with "Enviar prueba" before sending.
 
 **Who receives the message:** only contacts in the segment who have a phone number. AFRUS leaves out those who rejected the WhatsApp Business channel and numbers Meta reported as "not on WhatsApp" (for 90 days; the exclusion lifts automatically if the person writes to you). If no one in the segment qualifies, you will see *"No hay destinatarios entregables en este segmento..."* (No deliverable recipients in this segment).
 

@@ -115,7 +115,7 @@ Ao terminar, você verá *"Plantilla enviada para aprobación"* (Modelo enviado 
 
 Ao terminar, a AFRUS envia as mensagens uma a uma. No detalhe do envio você vê o status de cada destinatário: **En cola** (Na fila), **Enviado**, **Entregado** (Entregue), **Leído** (Lido), **Error** (Erro) ou **No enviado** (Não enviado).
 
-> **Dá para desfazer?** Pendente de confirmação se um envio pode ser interrompido depois de iniciado. Sempre confira a mensagem com "Enviar prueba" antes de enviar.
+> **Importante:** sempre confira a mensagem com "Enviar prueba" antes de enviar.
 
 **Quem recebe a mensagem:** só os contatos do segmento que têm telefone. A AFRUS deixa de fora quem recusou o canal WhatsApp Business e os números que a Meta informou como "não está no WhatsApp" (por 90 dias; a exclusão termina sozinha se a pessoa escrever para você). Se ninguém do segmento se encaixar, você verá *"No hay destinatarios entregables en este segmento..."* (Não há destinatários válidos neste segmento).
 
