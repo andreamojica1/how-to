@@ -88,11 +88,8 @@ No. Recárgala para ver el avance.
 **¿Por qué no veo mi importación aquí?**
 Porque las importaciones no se muestran en esta pantalla. Esta lista solo muestra etiquetas, borrados, cambios de permiso e inscripciones en flujos.
 
-**¿Cuánto tiempo se guarda el historial?**
-> **Pendiente de confirmar:** cuánto tiempo se conserva el historial de procesos.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

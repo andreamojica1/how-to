@@ -62,19 +62,23 @@ If you have Meta conversions from AFRUS turned on, you'll also see `FACEBOOK-…
 
 ---
 
+## Learn more about analytics tracking
+
+To understand in depth how AFRUS records your donors' actions and how to set up your analytics tools, check these tutorials:
+
+- [How does AFRUS record your donors' actions? (Part 1 of 3)](https://www.afrus.ai/en/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3)
+- [GTM, setup and deduplication (Part 2 of 3)](https://www.afrus.ai/en/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3)
+- [Benefits, verification and FAQ (Part 3 of 3)](https://www.afrus.ai/en/howto/beneficios-verificacion-y-faq-parte-3-de-3)
+
+---
+
 ## Frequently asked questions
 
 **I don't see any rows for my form. What's wrong?**
 Most likely the form doesn't have Google Analytics 4, the Meta Pixel or Google Tag Manager set up. Without that setup nothing is sent.
 
-**How long does an event take to appear?**
-> **Pending confirmation:** there is no fixed time.
-
-**How long are these records kept?**
-> **Pending confirmation:** how long the history is kept.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

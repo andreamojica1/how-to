@@ -60,19 +60,23 @@ Si tienes activa la conversión de Meta desde AFRUS, también verás filas `FACE
 
 ---
 
+## Aprende más sobre el tracking de analytics
+
+Si quieres entender a fondo cómo AFRUS registra las acciones de tus donantes y cómo configurar tus herramientas de analítica, revisa estos tutoriales:
+
+- [¿Cómo registra AFRUS las acciones de tus donantes? (Parte 1 de 3)](https://www.afrus.ai/es/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3)
+- [GTM, configuración y deduplicación (Parte 2 de 3)](https://www.afrus.ai/es/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3)
+- [Beneficios, verificación y preguntas frecuentes (Parte 3 de 3)](https://www.afrus.ai/es/howto/beneficios-verificacion-y-faq-parte-3-de-3)
+
+---
+
 ## Preguntas frecuentes
 
 **No veo ninguna fila de mi formulario. ¿Qué pasa?**
 Lo más probable es que el formulario no tenga configurado Google Analytics 4, el Pixel de Meta ni Google Tag Manager. Sin esa configuración no se envía nada.
 
-**¿Cuánto tarda en aparecer un evento?**
-> **Pendiente de confirmar:** no hay un tiempo fijo.
-
-**¿Cuánto tiempo se guardan estos registros?**
-> **Pendiente de confirmar:** cuánto tiempo se conserva el historial.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

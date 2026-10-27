@@ -85,13 +85,10 @@ Se não aparecer nenhuma linha, a AFRUS não preparou nenhuma mensagem para essa
 Não. Quer dizer que a AFRUS entregou ao serviço de envio sem erro. Para saber se chegou, foi aberto ou voltou, veja a aba **Eventos** do perfil da pessoa.
 
 **Quanto tempo uma mensagem leva para passar de "En cola" a "Procesado"?**
-> **Pendente de confirmação:** não há um tempo fixo; depende de quantas mensagens estão esperando.
-
-**Por quanto tempo esses registros são guardados?**
-> **Pendente de confirmação:** por quanto tempo o histórico é mantido.
+Não há um tempo fixo; depende de quantas mensagens estão esperando.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

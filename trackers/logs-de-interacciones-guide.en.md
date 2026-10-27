@@ -85,13 +85,10 @@ If no row appears, AFRUS didn't prepare any message for that person.
 No. It means AFRUS handed it to the sending service without errors. To know whether it arrived, was opened or bounced, check the **Eventos** tab in the person's profile.
 
 **How long does a message take to go from "En cola" to "Procesado"?**
-> **Pending confirmation:** there is no fixed time; it depends on how many messages are waiting.
-
-**How long are these records kept?**
-> **Pending confirmation:** how long the history is kept.
+There is no fixed time; it depends on how many messages are waiting.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

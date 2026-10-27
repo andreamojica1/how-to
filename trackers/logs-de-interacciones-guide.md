@@ -83,13 +83,10 @@ Si no aparece ninguna fila, AFRUS no preparó ningún mensaje para esa persona.
 No. Quiere decir que AFRUS lo entregó al servicio de envío sin error. Para saber si llegó, se abrió o rebotó, revisa la pestaña **Eventos** del perfil de la persona.
 
 **¿Cuánto tarda un mensaje en pasar de "En cola" a "Procesado"?**
-> **Pendiente de confirmar:** no hay un tiempo fijo; depende de cuántos mensajes estén esperando.
-
-**¿Cuánto tiempo se guardan estos registros?**
-> **Pendiente de confirmar:** cuánto tiempo se conserva el historial.
+No hay un tiempo fijo; depende de cuántos mensajes estén esperando.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

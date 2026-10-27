@@ -78,11 +78,8 @@ Sí, pero estás en riesgo de bloqueo. Antes del próximo envío, quita de tus l
 **¿Cuáles son los límites de AFRUS?**
 Los ves en la sección **Variable de notificación**, junto a tu tasa actual. Son los mismos para todas las organizaciones.
 
-**¿Cuánto tarda en aparecer un rebote?**
-> **Pendiente de confirmar:** no hay un tiempo fijo.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

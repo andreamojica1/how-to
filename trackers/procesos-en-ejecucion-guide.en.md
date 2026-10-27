@@ -90,11 +90,8 @@ No. Reload it to see the progress.
 **Why don't I see my import here?**
 Because imports are not shown on this screen. This list only shows tags, deletions, permission changes and workflow enrollments.
 
-**How long is the history kept?**
-> **Pending confirmation:** how long the process history is kept.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

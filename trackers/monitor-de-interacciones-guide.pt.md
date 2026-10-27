@@ -80,11 +80,8 @@ Sim, mas você está em risco de bloqueio. Antes do próximo envio, tire das sua
 **Quais são os limites da AFRUS?**
 Você os vê na seção **Variable de notificación**, ao lado da sua taxa atual. São os mesmos para todas as organizações.
 
-**Quanto tempo uma devolução leva para aparecer?**
-> **Pendente de confirmação:** não há um tempo fixo.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

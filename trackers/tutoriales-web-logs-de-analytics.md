@@ -76,6 +76,9 @@ Relacionados: que-es-logs-de-analytics, para-que-sirve-logs-de-analytics
 <h2>Preguntas frecuentes</h2>
 <p><strong>El filtro Google Analytics no muestra nada.</strong> Es un problema conocido. Escribe en el buscador <em>google</em> y el evento (por ejemplo <em>google purchase</em>) y pulsa la lupa.</p>
 <p><strong>¿Por qué la hora no dice si es de mañana o de tarde?</strong> Se muestra en formato de 12 horas sin AM/PM.</p>
+<h2>Aprende más sobre el tracking de analytics</h2>
+<p>Si quieres entender a fondo cómo AFRUS registra las acciones de tus donantes y cómo configurar tus herramientas de analítica, revisa estos tutoriales:</p>
+<ul><li><a href="https://www.afrus.ai/es/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3">¿Cómo registra AFRUS las acciones de tus donantes? (Parte 1 de 3)</a></li><li><a href="https://www.afrus.ai/es/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3">GTM, configuración y deduplicación (Parte 2 de 3)</a></li><li><a href="https://www.afrus.ai/es/howto/beneficios-verificacion-y-faq-parte-3-de-3">Beneficios, verificación y preguntas frecuentes (Parte 3 de 3)</a></li></ul>
 === FIN ===
 ```
 
@@ -153,6 +156,9 @@ Relacionados: what-is-logs-de-analytics, what-is-logs-de-analytics-for
 <h2>Frequently asked questions</h2>
 <p><strong>The Google Analytics filter shows nothing.</strong> It's a known problem. Type <em>google</em> and the event (for example <em>google purchase</em>) in the search box and click the magnifying glass.</p>
 <p><strong>Why doesn't the time say morning or afternoon?</strong> It's shown in 12-hour format without AM/PM.</p>
+<h2>Learn more about analytics tracking</h2>
+<p>To understand in depth how AFRUS records your donors' actions and how to set up your analytics tools, check these tutorials:</p>
+<ul><li><a href="https://www.afrus.ai/en/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3">How does AFRUS record your donors' actions? (Part 1 of 3)</a></li><li><a href="https://www.afrus.ai/en/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3">GTM, setup and deduplication (Part 2 of 3)</a></li><li><a href="https://www.afrus.ai/en/howto/beneficios-verificacion-y-faq-parte-3-de-3">Benefits, verification and FAQ (Part 3 of 3)</a></li></ul>
 === FIN ===
 ```
 
@@ -230,5 +236,8 @@ Relacionados: o-que-e-logs-de-analytics, para-que-serve-logs-de-analytics
 <h2>Perguntas frequentes</h2>
 <p><strong>O filtro Google Analytics não mostra nada.</strong> É um problema conhecido. Digite <em>google</em> e o evento (por exemplo <em>google purchase</em>) no campo de busca e clique na lupa.</p>
 <p><strong>Por que a hora não diz se é de manhã ou de tarde?</strong> Ela aparece no formato de 12 horas sem AM/PM.</p>
+<h2>Saiba mais sobre o tracking de analytics</h2>
+<p>Para entender a fundo como a AFRUS registra as ações dos seus doadores e como configurar suas ferramentas de analytics, veja estes tutoriais:</p>
+<ul><li><a href="https://www.afrus.ai/pt-br/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3">Como a AFRUS registra as ações dos seus doadores? (Parte 1 de 3)</a></li><li><a href="https://www.afrus.ai/pt-br/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3">GTM, configuração e deduplicação (Parte 2 de 3)</a></li><li><a href="https://www.afrus.ai/pt-br/howto/beneficios-verificacion-y-faq-parte-3-de-3">Benefícios, verificação e perguntas frequentes (Parte 3 de 3)</a></li></ul>
 === FIN ===
 ```

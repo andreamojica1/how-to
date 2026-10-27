@@ -80,11 +80,8 @@ Yes, but you are at risk of being blocked. Before the next send, remove invalid 
 **What are AFRUS's limits?**
 You can see them in the **Variable de notificación** section, next to your current rate. They are the same for every organization.
 
-**How long does a bounce take to appear?**
-> **Pending confirmation:** there is no fixed time.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

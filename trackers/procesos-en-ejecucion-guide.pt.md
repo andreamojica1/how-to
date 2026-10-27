@@ -90,11 +90,8 @@ Não. Recarregue para ver o andamento.
 **Por que não vejo minha importação aqui?**
 Porque as importações não aparecem nesta tela. Esta lista mostra só etiquetas, exclusões, mudanças de permissão e inscrições em fluxos.
 
-**Por quanto tempo o histórico é guardado?**
-> **Pendente de confirmação:** por quanto tempo o histórico de processos é mantido.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

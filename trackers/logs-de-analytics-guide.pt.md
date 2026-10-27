@@ -62,19 +62,23 @@ Se você tem a conversão da Meta pela AFRUS ativada, também verá linhas `FACE
 
 ---
 
+## Saiba mais sobre o tracking de analytics
+
+Para entender a fundo como a AFRUS registra as ações dos seus doadores e como configurar suas ferramentas de analytics, veja estes tutoriais:
+
+- [Como a AFRUS registra as ações dos seus doadores? (Parte 1 de 3)](https://www.afrus.ai/pt-br/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3)
+- [GTM, configuração e deduplicação (Parte 2 de 3)](https://www.afrus.ai/pt-br/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3)
+- [Benefícios, verificação e perguntas frequentes (Parte 3 de 3)](https://www.afrus.ai/pt-br/howto/beneficios-verificacion-y-faq-parte-3-de-3)
+
+---
+
 ## Perguntas frequentes
 
 **Não vejo nenhuma linha do meu formulário. O que está acontecendo?**
 O mais provável é que o formulário não tenha configurado o Google Analytics 4, o Pixel da Meta nem o Google Tag Manager. Sem essa configuração, nada é enviado.
 
-**Quanto tempo um evento leva para aparecer?**
-> **Pendente de confirmação:** não há um tempo fixo.
-
-**Por quanto tempo esses registros são guardados?**
-> **Pendente de confirmação:** por quanto tempo o histórico é mantido.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*
