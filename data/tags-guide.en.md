@@ -110,7 +110,7 @@ If you check several categories, the tag goes to anyone who meets **any** of the
 ## Frequently asked questions
 
 **Can I have two tags with the same name?**
-> **Pending confirmation:** whether AFRUS allows two tags with the same name. We recommend using different names to avoid confusion.
+Yes.
 
 **Where do I see a person's tags?**
 In their profile, under **Etiquetas**, and in the **Tags** column of **Personas**.
@@ -119,4 +119,4 @@ In their profile, under **Etiquetas**, and in the **Tags** column of **Personas*
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

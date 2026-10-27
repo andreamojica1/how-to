@@ -167,7 +167,7 @@ Depende de la pasarela de pago de cada suscripción:
 | Recurrent Payments | La pasarela | La pantalla informa: el primer día hábil de cada mes; si falla, reintento semanal hasta que sea exitoso |
 | Suscripciones que cobra el motor de AFRUS | AFRUS | Puedes elegir el día de cobro con "Modificar" (ver "Cómo cambiar la fecha de cobro") |
 
-Además, en **Configuración > Pagos > Servicio de recurrencia** (pantalla **Configuración del Motor de Recurrencia**) tu organización puede elegir **Modo mejorado** (Standard o Charities), **Periodicidad** (Mensual, Trimestral, Semestral o Anual) y **Modo de reintento** (Standard retries, Charities retries o Custom). La pantalla indica: *"Los cambios se aplicarán a los próximos ciclos de cobro."*
+Además, en **Ajustes de Organización > Servicio de recurrencia** (pantalla **Configuración del Motor de Recurrencia**) tu organización puede elegir **Modo mejorado** (Standard o Charities), **Periodicidad** (Mensual, Trimestral, Semestral o Anual) y **Modo de reintento** (Standard retries, Charities retries o Custom). La pantalla indica: *"Los cambios se aplicarán a los próximos ciclos de cobro."*
 
 > **Pendiente de confirmar:** el horario exacto de cobro del motor de AFRUS, cuántos reintentos hace cuando un cobro falla, cuándo se cancela sola una suscripción por fallos, y si las periodicidades Trimestral y Semestral y la configuración de **Servicio de recurrencia** ya se aplican a los cobros reales.
 

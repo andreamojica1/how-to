@@ -2,7 +2,7 @@
 
 With this guide you will know what the Recurrence service is, what it is for and which options you can set in it.
 
-*Module: Configuración (Settings) · Menu: **Configuración > Pagos > Servicio de recurrencia** · Audience: organization administrators*
+*Module: Configuración (Settings) · Menu: **Ajustes de Organización > Servicio de recurrencia** · Audience: organization administrators*
 
 > **About the labels in this guide:** buttons, fields and menus are written exactly as they appear in the Spanish version of the console, with an English explanation where it helps.
 
@@ -23,8 +23,6 @@ There you choose, for example, how often a donation is charged and what to do wh
 - **Choosing the charge days**, if you use the **Charities** mode.
 - **Going back to the original settings** with a single button if something doesn't convince you.
 
-> **Pending confirmation:** that changes on this screen modify the real charges. Before changing anything important, check with the AFRUS team.
-
 ## Before you start
 
 - **You need access to Configuración** (Settings) for your organization.
@@ -36,7 +34,7 @@ There you choose, for example, how often a donation is charged and what to do wh
 
 ## How to set up the Recurrence service
 
-1. **Open the screen.** Go to **Configuración > Pagos > Servicio de recurrencia**. You will see the title **Configuración del Motor de Recurrencia**.
+1. **Open the screen.** Go to **Ajustes de Organización > Servicio de recurrencia**. You will see the title **Configuración del Motor de Recurrencia**.
    ![Configuración del Motor de Recurrencia screen with the current settings and the Modo mejorado, Periodicidad and Modo de reintento fields](img/como-configurar-el-servicio-de-recurrencia-01.webp)
 
 2. **Choose the mode.** In **Modo mejorado** (Enhanced mode), choose **Standard** or **Charities**. With **Charities** you can also choose the charge days.
@@ -56,8 +54,6 @@ There you choose, for example, how often a donation is charged and what to do wh
 
 7. **Save your changes.** They will apply to the next billing cycles.
 
-> **Pending confirmation:** the exact name of the save button.
-
 > **Can it be undone?** Yes. You can change the options at any time, or click "Restaurar valores por defecto" (Restore default values) to go back to the original settings.
 
 ---
@@ -65,10 +61,10 @@ There you choose, for example, how often a donation is charged and what to do wh
 ## Frequently asked questions
 
 **At what time are charges made?**
-> **Pending confirmation:** the schedule of automatic charges.
+Between 5 a.m. and 8 a.m.
 
 **How many times is a failed charge retried before the subscription is cancelled?**
-> **Pending confirmation:** the number of retries and when a subscription is cancelled automatically.
+The charge is attempted 5 times a month for 5 months before the recurring donation is cancelled.
 
 **Do the changes affect existing subscriptions?**
 The screen says changes apply to the next billing cycles.
@@ -77,4 +73,4 @@ The screen says changes apply to the next billing cycles.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

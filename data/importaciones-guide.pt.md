@@ -17,8 +17,6 @@ Em **Data > Importaciones** (Importações) você pode subir dois tipos de lista
 - **Leads:** seus contatos (pessoas).
 - **Transacciones** (Transações): doações que você recebeu antes ou fora da AFRUS.
 
-Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.
-
 > Se sua organização está no Brasil e você quer subir o arquivo de boletos pagos do banco, isso é feito em outra tela. Veja o [guia de Importaciones - itaú](../follow-up/importaciones-itau-guide.pt.md).
 
 ## Para que servem
@@ -82,12 +80,18 @@ Se faltar o e-mail, a tela deixa você continuar, mas todas as linhas falham. Co
 
 **Sobre nomes, telefones e documentos:**
 
-- **Nome e sobrenome:** você pode usar uma só coluna com o nome completo ou colunas separadas para nome e sobrenome. A AFRUS aceita as duas formas.
-  > **Pendente de confirmação:** se é melhor separar nome e sobrenome para a AFRUS guardá-los melhor.
-- **Telefones:**
-  > **Pendente de confirmação:** em que formato devem estar os telefones (por exemplo, com o código do país e o sinal "+").
-- **Tipo de documento:**
-  > **Pendente de confirmação:** como deve ser escrito o tipo de documento (por exemplo, com um número ou código equivalente).
+- **Nome e sobrenome:** você pode usar uma só coluna com o nome completo ou colunas separadas para nome e sobrenome. A AFRUS aceita as duas formas. Para que as informações fiquem salvas corretamente na AFRUS, o melhor é sempre enviar nome e sobrenome em colunas separadas.
+- **Telefones:** devem ter o código do país e o sinal "+".
+- **Tipo de documento:** escreva o número que corresponde a cada tipo:
+  - National Identification Document: **4**
+  - CPF: **8** (Brasil)
+  - CNPJ: **9**
+  - NIE: **13** (Espanha)
+  - NIF: **14** (Espanha)
+  - Passport: **1**
+  - Cédula de ciudadanía: **16**
+  - Cédula de extranjería: **17**
+  - RUC: **18**
 
 **Pessoas repetidas:**
 
@@ -130,11 +134,7 @@ Cada usuário vê só as importações que ele fez. Se não encontrar uma, pergu
 ## Perguntas frequentes
 
 **Quantas linhas posso subir?**
-O arquivo pode ter até 20 MB.
-> **Pendente de confirmação:** se há um limite de linhas.
-
-**Os contatos importados recebem meus e-mails automáticos?**
-> **Pendente de confirmação:** se as pessoas ou doações importadas ativam seus autoresponders ou fluxos de trabalho.
+O arquivo pode ter até 20 MB. Não há limite de linhas.
 
 **Recebo um e-mail quando a importação termina?**
 Não. O aviso *"Importación finalizada"* aparece dentro do console.
@@ -143,4 +143,4 @@ Não. O aviso *"Importación finalizada"* aparece dentro do console.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

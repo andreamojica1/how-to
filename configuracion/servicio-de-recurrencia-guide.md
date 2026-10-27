@@ -2,7 +2,7 @@
 
 Con esta guía sabrás qué es el Servicio de recurrencia, para qué sirve y qué opciones puedes configurar en él.
 
-*Módulo: Configuración · Menú: **Configuración > Pagos > Servicio de recurrencia** · Audiencia: administradores de la organización*
+*Módulo: Configuración · Menú: **Ajustes de Organización > Servicio de recurrencia** · Audiencia: administradores de la organización*
 
 ---
 
@@ -21,8 +21,6 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 - **Elegir los días de cobro**, si usas el modo **Charities**.
 - **Volver a la configuración original** con un solo botón si algo no te convence.
 
-> **Pendiente de confirmar:** que los cambios de esta pantalla modifiquen los cobros reales. Antes de cambiar algo importante, consulta con el equipo de AFRUS.
-
 ## Antes de empezar
 
 - **Necesitas acceso a Configuración** de tu organización.
@@ -34,7 +32,7 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 
 ## Cómo configurar el Servicio de recurrencia
 
-1. **Abre la pantalla.** Ve a **Configuración > Pagos > Servicio de recurrencia**. Verás el título **Configuración del Motor de Recurrencia**.
+1. **Abre la pantalla.** Ve a **Ajustes de Organización > Servicio de recurrencia**. Verás el título **Configuración del Motor de Recurrencia**.
    ![Pantalla Configuración del Motor de Recurrencia con Configuración actual y los campos Modo mejorado, Periodicidad y Modo de reintento](img/como-configurar-el-servicio-de-recurrencia-01.webp)
 
 2. **Elige el modo.** En **Modo mejorado**, elige **Standard** o **Charities**. Con **Charities** podrás elegir además los días de cobro.
@@ -54,8 +52,6 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 
 7. **Guarda los cambios.** Se aplicarán a los próximos ciclos de cobro.
 
-> **Pendiente de confirmar:** el nombre exacto del botón para guardar.
-
 > **¿Se puede deshacer?** Sí. Puedes cambiar las opciones cuando quieras, o pulsar "Restaurar valores por defecto" para volver a la configuración original.
 
 ---
@@ -63,10 +59,10 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 ## Preguntas frecuentes
 
 **¿A qué hora se hacen los cobros?**
-> **Pendiente de confirmar:** el horario de los cobros automáticos.
+Entre las 5 a. m. y las 8 a. m.
 
 **¿Cuántas veces se reintenta un cobro fallido antes de cancelar la suscripción?**
-> **Pendiente de confirmar:** el número de reintentos y cuándo se cancela sola una suscripción.
+Se intenta cobrar 5 veces por mes durante 5 meses antes de cancelar la recurrencia.
 
 **¿Los cambios afectan a las suscripciones que ya existen?**
 La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.
@@ -75,4 +71,4 @@ La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

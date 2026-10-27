@@ -22,7 +22,6 @@ Relacionados: para-que-sirven-las-importaciones, como-importar-un-archivo, que-t
 <li><strong>Leads:</strong> tus contactos (personas).</li>
 <li><strong>Transacciones:</strong> donaciones que recibiste antes o por fuera de AFRUS.</li>
 </ul>
-<p>Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.</p>
 <p>Si tu organización está en Brasil y quieres subir el archivo de boletos pagados del banco, eso se hace en <strong>Follow up &gt; Importaciones - itaú</strong>.</p>
 === FIN ===
 ```
@@ -67,7 +66,7 @@ Relacionados: que-son-las-importaciones, que-tener-en-cuenta-al-importar, result
 </ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre las importaciones.</strong> Ve a <strong>Data &gt; Importaciones</strong> y haz clic en "Importar". Esta pantalla se ve distinta porque es de la versión anterior de AFRUS.</li>
+<li><strong>Abre las importaciones.</strong> Ve a <strong>Data &gt; Importaciones</strong> y haz clic en "Importar".</li>
 <li><strong>Elige qué vas a importar.</strong> Elige <strong>Leads</strong> (contactos) o <strong>Transacciones</strong> (donaciones) y haz clic en "Continuar".</li>
 <li><strong>Sube tu archivo.</strong> Haz clic en "Añadir archivos" o arrástralo.</li>
 <li><strong>Confirma el permiso de tus contactos (solo Leads).</strong> Marca la casilla de consentimiento y haz clic en "Importar".</li>
@@ -114,7 +113,7 @@ Relacionados: que-son-las-importaciones, como-importar-un-archivo, resultados-de
 <h2>Permisos de contacto</h2>
 <p>Al importar, AFRUS marca a cada persona como que <strong>acepta recibir comunicaciones por todos los canales</strong>, incluso si antes se había dado de baja. Incluye solo a personas que te dieron su permiso.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Cómo escribo los teléfonos y el tipo de documento?</strong> Este dato está pendiente de confirmar. Mientras tanto, consulta con tu contacto en AFRUS antes de importar.</p>
+<p><strong>¿Cómo escribo los teléfonos y el tipo de documento?</strong> Los teléfonos van con el indicativo del país y el signo "+". Para el tipo de documento, escribe el número que corresponde:</p><ul><li>National Identification Document: <strong>4</strong></li><li>CPF: <strong>8</strong> (Brasil)</li><li>CNPJ: <strong>9</strong></li><li>NIE: <strong>13</strong> (España)</li><li>NIF: <strong>14</strong> (España)</li><li>Passport: <strong>1</strong></li><li>Cédula de ciudadanía: <strong>16</strong></li><li>Cédula de extranjería: <strong>17</strong></li><li>RUC: <strong>18</strong></li></ul>
 === FIN ===
 ```
 
@@ -167,7 +166,6 @@ Relacionados: what-are-imports-for, how-to-import-a-file, what-to-check-before-i
 <li><strong>Leads:</strong> your contacts (people).</li>
 <li><strong>Transacciones</strong> (Transactions): donations you received earlier or outside AFRUS.</li>
 </ul>
-<p>This screen opens in the previous version of AFRUS, so it looks different.</p>
 <p>If your organization is in Brazil and you want to upload the bank's file of paid boletos, that is done in <strong>Follow up &gt; Importaciones - itaú</strong>.</p>
 === FIN ===
 ```
@@ -213,7 +211,7 @@ Relacionados: what-are-imports, what-to-check-before-importing, import-results
 </ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open imports.</strong> Go to <strong>Data &gt; Importaciones</strong> and click "Importar" (Import). This screen looks different because it is from the previous version of AFRUS.</li>
+<li><strong>Open imports.</strong> Go to <strong>Data &gt; Importaciones</strong> and click "Importar" (Import).</li>
 <li><strong>Choose what you will import.</strong> Choose <strong>Leads</strong> (contacts) or <strong>Transacciones</strong> (donations) and click "Continuar" (Continue).</li>
 <li><strong>Upload your file.</strong> Click "Añadir archivos" (Add files) or drag it in.</li>
 <li><strong>Confirm your contacts' permission (Leads only).</strong> Check the consent box and click "Importar".</li>
@@ -260,7 +258,7 @@ Relacionados: what-are-imports, how-to-import-a-file, import-results
 <h2>Contact permissions</h2>
 <p>When importing, AFRUS marks each person as <strong>accepting communications on all channels</strong>, even if they had unsubscribed before. Include only people who gave you their permission.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>How do I write phone numbers and document type?</strong> This is pending confirmation. In the meantime, check with your AFRUS contact before importing.</p>
+<p><strong>How do I write phone numbers and document type?</strong> Phone numbers must include the country code and the "+" sign. For the document type, write the matching number:</p><ul><li>National Identification Document: <strong>4</strong></li><li>CPF: <strong>8</strong> (Brazil)</li><li>CNPJ: <strong>9</strong></li><li>NIE: <strong>13</strong> (Spain)</li><li>NIF: <strong>14</strong> (Spain)</li><li>Passport: <strong>1</strong></li><li>Cédula de ciudadanía: <strong>16</strong></li><li>Cédula de extranjería: <strong>17</strong></li><li>RUC: <strong>18</strong></li></ul>
 === FIN ===
 ```
 
@@ -313,7 +311,6 @@ Relacionados: para-que-servem-as-importacoes, como-importar-um-arquivo, o-que-co
 <li><strong>Leads:</strong> seus contatos (pessoas).</li>
 <li><strong>Transacciones</strong> (Transações): doações que você recebeu antes ou fora da AFRUS.</li>
 </ul>
-<p>Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.</p>
 <p>Se você quer subir o arquivo de boletos pagos do banco, isso é feito em <strong>Follow up &gt; Importaciones - itaú</strong>.</p>
 === FIN ===
 ```
@@ -359,7 +356,7 @@ Relacionados: o-que-sao-as-importacoes, o-que-considerar-ao-importar, resultados
 </ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra as importações.</strong> Acesse <strong>Data &gt; Importaciones</strong> e clique em "Importar". Esta tela tem outra aparência porque é da versão anterior da AFRUS.</li>
+<li><strong>Abra as importações.</strong> Acesse <strong>Data &gt; Importaciones</strong> e clique em "Importar".</li>
 <li><strong>Escolha o que vai importar.</strong> Escolha <strong>Leads</strong> (contatos) ou <strong>Transacciones</strong> (doações) e clique em "Continuar".</li>
 <li><strong>Suba seu arquivo.</strong> Clique em "Añadir archivos" (Adicionar arquivos) ou arraste-o.</li>
 <li><strong>Confirme a permissão dos seus contatos (só Leads).</strong> Marque a caixa de consentimento e clique em "Importar".</li>
@@ -406,7 +403,7 @@ Relacionados: o-que-sao-as-importacoes, como-importar-um-arquivo, resultados-de-
 <h2>Permissões de contato</h2>
 <p>Ao importar, a AFRUS marca cada pessoa como <strong>aceitando comunicações por todos os canais</strong>, mesmo que antes tenha pedido para sair. Inclua só pessoas que deram permissão.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Como escrevo os telefones e o tipo de documento?</strong> Este dado está pendente de confirmação. Enquanto isso, consulte seu contato na AFRUS antes de importar.</p>
+<p><strong>Como escrevo os telefones e o tipo de documento?</strong> Os telefones devem ter o código do país e o sinal "+". Para o tipo de documento, escreva o número correspondente:</p><ul><li>National Identification Document: <strong>4</strong></li><li>CPF: <strong>8</strong> (Brasil)</li><li>CNPJ: <strong>9</strong></li><li>NIE: <strong>13</strong> (Espanha)</li><li>NIF: <strong>14</strong> (Espanha)</li><li>Passport: <strong>1</strong></li><li>Cédula de ciudadanía: <strong>16</strong></li><li>Cédula de extranjería: <strong>17</strong></li><li>RUC: <strong>18</strong></li></ul>
 === FIN ===
 ```
 

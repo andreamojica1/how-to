@@ -87,7 +87,6 @@ Não. Peça de novo na tela onde você a fez.
 
 **Os arquivos são apagados depois de 7 dias?**
 Depois de 7 dias você não consegue mais baixá-los por esta tela.
-> **Pendente de confirmação:** se os arquivos são apagados depois desse prazo.
 
 **Os dados de Pessoas estão atualizados?**
 Ao exportar Pessoas você escolhe a fonte: **Base de datos en tiempo real** (Banco de dados em tempo real) traz os dados atuais, e **Datos analizados** (Dados analisados) são atualizados a cada 24 horas.
@@ -96,4 +95,4 @@ Ao exportar Pessoas você escolhe a fonte: **Base de datos en tiempo real** (Ban
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

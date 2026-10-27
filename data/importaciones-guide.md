@@ -15,8 +15,6 @@ En **Data > Importaciones** puedes subir dos tipos de listas:
 - **Leads:** tus contactos (personas).
 - **Transacciones:** donaciones que recibiste antes o por fuera de AFRUS.
 
-Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
-
 > Si tu organización está en Brasil y quieres subir el archivo de boletos pagados del banco, eso se hace en otra pantalla. Mira la [Guía de Importaciones - itaú](../follow-up/importaciones-itau-guide.md).
 
 ## Para qué sirven
@@ -80,12 +78,18 @@ Si falta el correo, la pantalla te deja seguir, pero todas las filas fallan. Rev
 
 **Sobre los nombres, teléfonos y documentos:**
 
-- **Nombre y apellido:** puedes usar una sola columna con el nombre completo o columnas separadas para nombre y apellido. AFRUS acepta las dos formas.
-  > **Pendiente de confirmar:** si conviene separar nombre y apellido para que AFRUS los guarde mejor.
-- **Teléfonos:**
-  > **Pendiente de confirmar:** en qué formato deben ir los teléfonos (por ejemplo, con el indicativo del país y el signo "+").
-- **Tipo de documento:**
-  > **Pendiente de confirmar:** cómo debe escribirse el tipo de documento (por ejemplo, con un número o código equivalente).
+- **Nombre y apellido:** puedes usar una sola columna con el nombre completo o columnas separadas para nombre y apellido. AFRUS acepta las dos formas. Para que la información quede guardada correctamente en AFRUS, es mejor subir siempre el nombre y el apellido en columnas separadas.
+- **Teléfonos:** deben ir con el indicativo del país y el signo "+".
+- **Tipo de documento:** escribe el número que corresponde a cada tipo:
+  - National Identification Document: **4**
+  - CPF: **8** (Brasil)
+  - CNPJ: **9**
+  - NIE: **13** (España)
+  - NIF: **14** (España)
+  - Passport: **1**
+  - Cédula de ciudadanía: **16**
+  - Cédula de extranjería: **17**
+  - RUC: **18**
 
 **Personas repetidas:**
 
@@ -128,11 +132,7 @@ Cada usuario ve solo las importaciones que hizo él. Si no encuentras una, preg�
 ## Preguntas frecuentes
 
 **¿Cuántas filas puedo subir?**
-El archivo puede pesar hasta 20 MB.
-> **Pendiente de confirmar:** si hay un límite de filas.
-
-**¿Los contactos importados reciben mis correos automáticos?**
-> **Pendiente de confirmar:** si las personas o donaciones importadas activan tus autoresponders o flujos de trabajo.
+El archivo puede pesar hasta 20 MB. No hay un límite de filas.
 
 **¿Me llega un correo cuando termina la importación?**
 No. El aviso *"Importación finalizada"* aparece dentro de la consola.
@@ -141,4 +141,4 @@ No. El aviso *"Importación finalizada"* aparece dentro de la consola.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

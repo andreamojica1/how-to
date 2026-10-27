@@ -17,8 +17,6 @@ In **Data > Importaciones** (Imports) you can upload two kinds of lists:
 - **Leads:** your contacts (people).
 - **Transacciones** (Transactions): donations you received earlier or outside AFRUS.
 
-This screen opens in the previous version of AFRUS, so it looks different.
-
 > If your organization is in Brazil and you want to upload the bank's file of paid boletos, that is done on another screen. See the [Importaciones - itaú guide](../follow-up/importaciones-itau-guide.en.md).
 
 ## What imports are for
@@ -82,12 +80,18 @@ If the email is missing, the screen lets you continue, but every row fails. Make
 
 **About names, phones and documents:**
 
-- **First and last name:** you can use one column with the full name or separate columns for first and last name. AFRUS accepts both.
-  > **Pending confirmation:** whether it is better to separate first and last name so AFRUS stores them better.
-- **Phones:**
-  > **Pending confirmation:** what format phone numbers should have (for example, with the country code and a "+" sign).
-- **Document type:**
-  > **Pending confirmation:** how the document type should be written (for example, as an equivalent number or code).
+- **First and last name:** you can use one column with the full name or separate columns for first and last name. AFRUS accepts both. For the information to be stored correctly in AFRUS, it is always best to upload first and last name in separate columns.
+- **Phones:** they must include the country code and the "+" sign.
+- **Document type:** write the number that matches each type:
+  - National Identification Document: **4**
+  - CPF: **8** (Brazil)
+  - CNPJ: **9**
+  - NIE: **13** (Spain)
+  - NIF: **14** (Spain)
+  - Passport: **1**
+  - Cédula de ciudadanía: **16**
+  - Cédula de extranjería: **17**
+  - RUC: **18**
 
 **Repeated people:**
 
@@ -130,11 +134,7 @@ Each user only sees the imports they did. If you can't find one, ask the person 
 ## Frequently asked questions
 
 **How many rows can I upload?**
-The file can be up to 20 MB.
-> **Pending confirmation:** whether there is a row limit.
-
-**Do imported contacts receive my automatic emails?**
-> **Pending confirmation:** whether imported people or donations trigger your autoresponders or workflows.
+The file can be up to 20 MB. There is no row limit.
 
 **Do I get an email when the import finishes?**
 No. The *"Importación finalizada"* notice appears inside the console.
@@ -143,4 +143,4 @@ No. The *"Importación finalizada"* notice appears inside the console.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

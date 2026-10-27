@@ -85,7 +85,6 @@ No. Vuelve a pedirla desde la pantalla donde la hiciste.
 
 **¿Los archivos se borran después de 7 días?**
 Después de 7 días ya no los puedes bajar desde esta pantalla.
-> **Pendiente de confirmar:** si los archivos se borran después de ese plazo.
 
 **¿Los datos de Personas están al día?**
 Al exportar Personas eliges la fuente: **Base de datos en tiempo real** trae los datos actuales y **Datos analizados** se actualizan cada 24 horas.
@@ -94,4 +93,4 @@ Al exportar Personas eliges la fuente: **Base de datos en tiempo real** trae los
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

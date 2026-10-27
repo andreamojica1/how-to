@@ -87,7 +87,6 @@ No. Request it again from the screen where you made it.
 
 **Are files deleted after 7 days?**
 After 7 days you can no longer download them from this screen.
-> **Pending confirmation:** whether files are deleted after that period.
 
 **Is the People data up to date?**
 When you export People you choose the source: **Base de datos en tiempo real** (Real-time database) brings current data, and **Datos analizados** (Analyzed data) is updated every 24 hours.
@@ -96,4 +95,4 @@ When you export People you choose the source: **Base de datos en tiempo real** (
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

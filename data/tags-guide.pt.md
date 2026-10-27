@@ -110,7 +110,7 @@ Se você marcar várias categorias, a tag vai para quem cumprir **qualquer** uma
 ## Perguntas frequentes
 
 **Posso ter duas tags com o mesmo nome?**
-> **Pendente de confirmação:** se a AFRUS permite duas tags com o mesmo nome. Recomendamos usar nomes diferentes para não se confundir.
+Sim.
 
 **Onde vejo as tags de uma pessoa?**
 No perfil dela, seção **Etiquetas**, e na coluna **Tags** de **Personas**.
@@ -119,4 +119,4 @@ No perfil dela, seção **Etiquetas**, e na coluna **Tags** de **Personas**.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

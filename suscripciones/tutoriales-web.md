@@ -192,7 +192,7 @@ Relacionados: que-es-suscripciones, como-descargar-un-grupo-de-suscripciones, co
 <li><strong>Suscripciones que cobra el motor de AFRUS:</strong> puedes elegir el día de cobro desde el botón "Modificar" del detalle de la suscripción.</li>
 </ul>
 <h2>Configuración de la recurrencia</h2>
-<p>En <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong> tu organización puede elegir <strong>Modo mejorado</strong> (Standard o Charities), <strong>Periodicidad</strong> (Mensual, Trimestral, Semestral o Anual) y <strong>Modo de reintento</strong> (Standard retries, Charities retries o Custom). La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.</p>
+<p>En <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> tu organización puede elegir <strong>Modo mejorado</strong> (Standard o Charities), <strong>Periodicidad</strong> (Mensual, Trimestral, Semestral o Anual) y <strong>Modo de reintento</strong> (Standard retries, Charities retries o Custom). La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿A qué hora cobra AFRUS y cuántas veces reintenta?</strong> Estamos confirmando este dato con nuestro equipo y lo publicaremos aquí.</p>
 === FIN ===
@@ -421,7 +421,7 @@ Relacionados: what-is-subscriptions, how-to-download-a-group-of-subscriptions, h
 <li><strong>Subscriptions charged by the AFRUS engine:</strong> you can choose the charge day with the "Modificar" (Modify) button in the subscription detail.</li>
 </ul>
 <h2>Recurrence settings</h2>
-<p>In <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong> (Settings &gt; Payments &gt; Recurrence service) your organization can choose <strong>Modo mejorado</strong> (Enhanced mode: Standard or Charities), <strong>Periodicidad</strong> (Frequency: monthly, quarterly, semi-annual or annual) and <strong>Modo de reintento</strong> (Retry mode: Standard retries, Charities retries or Custom). The screen says changes apply to the next billing cycles.</p>
+<p>In <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Organization settings &gt; Recurrence service) your organization can choose <strong>Modo mejorado</strong> (Enhanced mode: Standard or Charities), <strong>Periodicidad</strong> (Frequency: monthly, quarterly, semi-annual or annual) and <strong>Modo de reintento</strong> (Retry mode: Standard retries, Charities retries or Custom). The screen says changes apply to the next billing cycles.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>What time does AFRUS charge and how many times does it retry?</strong> We are confirming this with our team and will publish it here.</p>
 === FIN ===
@@ -650,7 +650,7 @@ Relacionados: o-que-e-assinaturas, como-baixar-um-grupo-de-assinaturas, como-fil
 <li><strong>Assinaturas cobradas pelo motor da AFRUS:</strong> você pode escolher o dia de cobrança pelo botão "Modificar" no detalhe da assinatura.</li>
 </ul>
 <h2>Configuração da recorrência</h2>
-<p>Em <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong> (Configurações &gt; Pagamentos &gt; Serviço de recorrência) sua organização pode escolher <strong>Modo mejorado</strong> (Modo aprimorado: Standard ou Charities), <strong>Periodicidad</strong> (Periodicidade: mensal, trimestral, semestral ou anual) e <strong>Modo de reintento</strong> (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa que as mudanças se aplicam aos próximos ciclos de cobrança.</p>
+<p>Em <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Ajustes da organização &gt; Serviço de recorrência) sua organização pode escolher <strong>Modo mejorado</strong> (Modo aprimorado: Standard ou Charities), <strong>Periodicidad</strong> (Periodicidade: mensal, trimestral, semestral ou anual) e <strong>Modo de reintento</strong> (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa que as mudanças se aplicam aos próximos ciclos de cobrança.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>A que horas a AFRUS cobra e quantas vezes tenta de novo?</strong> Estamos confirmando essa informação com nossa equipe e vamos publicá-la aqui.</p>
 === FIN ===
