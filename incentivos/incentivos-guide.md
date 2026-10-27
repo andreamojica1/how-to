@@ -10,7 +10,7 @@ Con esta guía vas a poder regalar algo a quienes donan desde cierto monto, crea
 
 **Un incentivo es un regalo que tu organización ofrece a quien dona desde un monto mínimo.** Por ejemplo: un libro, un calendario o un certificado digital.
 
-Los incentivos se configuran dentro de una campaña y aparecen en tus formularios de donación (widgets). En AFRUS también los vas a ver con el nombre de **obsequio**, **regalo** o **recompensa**: todos son lo mismo.
+Los incentivos se configuran dentro de una campaña y aparecen en tus Widgets de Transacción. En AFRUS también los vas a ver con el nombre de **obsequio**, **regalo** o **recompensa**: todos son lo mismo.
 
 Hay dos tipos:
 
@@ -117,7 +117,7 @@ Como los regalos aparecen apenas guardas, lo más seguro es probarlos con una co
 
 > **Importante:** la página de prueba es real. Si completas una donación ahí, se cobra. Para revisar el diseño basta con mirar y cambiar montos.
 
-**¿No aparecen los regalos?** Revisa que el interruptor **Incentivos** esté encendido, que el formulario esté marcado y guardado, que sea un formulario de donación y que haya al menos un regalo activo, con foto y con unidades disponibles.
+**¿No aparecen los regalos?** Revisa que el interruptor **Incentivos** esté encendido, que el formulario esté marcado y guardado, que sea un Widget de Transacción y que haya al menos un regalo activo, con foto y con unidades disponibles.
 
 ## Para qué son los cupones
 
@@ -248,7 +248,7 @@ Para crearlo:
 
 ## Lo que ve el donante
 
-![Formulario de donación con montos, barra de regalos, regalo elegido, cupón y opción de donar en nombre de otra persona](img/lo-que-ve-el-donante-01.webp)
+![Widget de Transacción con montos, barra de regalos, regalo elegido, cupón y opción de donar en nombre de otra persona](img/lo-que-ve-el-donante-01.webp)
 
 *Imagen de referencia con datos de ejemplo: tu pantalla puede verse un poco distinta.*
 

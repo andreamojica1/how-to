@@ -12,7 +12,7 @@ Com este guia, você vai poder dar um presente a quem doa a partir de um certo v
 
 **Um incentivo é um presente que sua organização oferece a quem doa a partir de um valor mínimo.** Por exemplo: um livro, um calendário ou um certificado digital.
 
-Os incentivos são configurados dentro de uma campanha e aparecem nos seus formulários de doação (widgets). Na AFRUS, você também vai vê-los com o nome de **brinde**, **presente** ou **recompensa**: é tudo a mesma coisa.
+Os incentivos são configurados dentro de uma campanha e aparecem nos seus widgets de Transacción (Transação). Na AFRUS, você também vai vê-los com o nome de **brinde**, **presente** ou **recompensa**: é tudo a mesma coisa.
 
 Existem dois tipos:
 
@@ -119,7 +119,7 @@ Como os presentes aparecem assim que você salva, o mais seguro é testá-los co
 
 > **Importante:** a página de teste é real. Se você concluir uma doação ali, ela é cobrada. Para revisar o visual, basta olhar e mudar os valores.
 
-**Os presentes não aparecem?** Confira se a chave **Incentivos** está ligada, se o formulário está marcado e salvo, se é um formulário de doação e se há pelo menos um presente ativo, com foto e com unidades disponíveis.
+**Os presentes não aparecem?** Confira se a chave **Incentivos** está ligada, se o formulário está marcado e salvo, se é um widget de Transacción (Transação) e se há pelo menos um presente ativo, com foto e com unidades disponíveis.
 
 ## Para que servem os cupons
 
@@ -250,7 +250,7 @@ Para criá-lo:
 
 ## O que o doador vê
 
-![Formulário de doação com valores, barra de presentes, presente escolhido, cupom e opção de doar em nome de outra pessoa](img/lo-que-ve-el-donante-01.webp)
+![Widget de Transacción (Transação) com valores, barra de presentes, presente escolhido, cupom e opção de doar em nome de outra pessoa](img/lo-que-ve-el-donante-01.webp)
 
 *Imagem de referência com dados de exemplo: sua tela pode ser um pouco diferente.*
 

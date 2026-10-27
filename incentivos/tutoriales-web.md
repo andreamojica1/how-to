@@ -17,7 +17,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-sirven-los-incentivos, como-crear-incentivos, para-que-son-los-cupones-de-incentivos, como-configurar-un-incentivo-para-un-tercero, que-widgets-pueden-tener-incentivos, cuantos-incentivos-puedo-configurar, para-que-crear-un-workflow-en-los-incentivos, que-incentivos-requieren-un-workflow, ocasiones-para-donar-un-incentivo-a-terceros, que-pasa-si-un-incentivo-no-tiene-stock, como-hacer-seguimiento-a-los-incentivos-donados
 --- CUERPO (HTML) ---
 <p><strong>Un incentivo es un regalo que tu organización ofrece a quien dona desde un monto mínimo.</strong> Por ejemplo: un libro, un calendario o un certificado digital.</p>
-<p>Los incentivos se configuran dentro de una campaña y aparecen en tus formularios de donación (widgets). En AFRUS también los vas a ver con el nombre de <strong>obsequio</strong>, <strong>regalo</strong> o <strong>recompensa</strong>: todos son lo mismo.</p>
+<p>Los incentivos se configuran dentro de una campaña y aparecen en tus Widgets de Transacción. En AFRUS también los vas a ver con el nombre de <strong>obsequio</strong>, <strong>regalo</strong> o <strong>recompensa</strong>: todos son lo mismo.</p>
 <h2>Hay dos tipos</h2>
 <ul>
 <li><strong>Físico:</strong> algo que envías a una dirección, como un libro o una camiseta.</li>
@@ -344,7 +344,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-incentives-for, how-to-create-incentives, what-are-incentive-coupons-for, how-to-set-up-an-incentive-for-a-third-party, which-widgets-can-have-incentives, how-many-incentives-can-i-set-up, why-create-a-workflow-for-incentives, which-incentives-require-a-workflow, third-party-occasions-for-donating-an-incentive, what-happens-when-an-incentive-is-out-of-stock, how-to-track-donated-incentives
 --- CUERPO (HTML) ---
 <p><strong>An incentive is a gift your organization offers to people who donate from a minimum amount.</strong> For example: a book, a calendar or a digital certificate.</p>
-<p>Incentives are set up inside a campaign and appear on your donation forms (widgets). In AFRUS you will also see them called <strong>gift</strong> or <strong>reward</strong>: they are all the same thing.</p>
+<p>Incentives are set up inside a campaign and appear on your Transacción (Transaction) widgets. In AFRUS you will also see them called <strong>gift</strong> or <strong>reward</strong>: they are all the same thing.</p>
 <h2>Two types of gifts</h2>
 <ul>
 <li><strong>Physical:</strong> something you send to an address, like a book or a T-shirt.</li>
@@ -665,7 +665,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-servem-os-incentivos, como-criar-incentivos, para-que-servem-os-cupons-de-incentivos, como-configurar-um-incentivo-para-um-terceiro, quais-widgets-podem-ter-incentivos, quantos-incentivos-posso-configurar, para-que-criar-um-workflow-nos-incentivos, quais-incentivos-exigem-um-workflow, ocasioes-para-doar-um-incentivo-a-terceiros, o-que-acontece-se-o-incentivo-ficar-sem-estoque, como-acompanhar-os-incentivos-doados
 --- CUERPO (HTML) ---
 <p><strong>Um incentivo é um presente que sua organização oferece a quem doa a partir de um valor mínimo.</strong> Por exemplo: um livro, um calendário ou um certificado digital.</p>
-<p>Os incentivos são configurados dentro de uma campanha e aparecem nos seus formulários de doação (widgets). Na AFRUS, você também vai vê-los com o nome de brinde, presente ou recompensa: é tudo a mesma coisa.</p>
+<p>Os incentivos são configurados dentro de uma campanha e aparecem nos seus widgets de Transacción (Transação). Na AFRUS, você também vai vê-los com o nome de brinde, presente ou recompensa: é tudo a mesma coisa.</p>
 <h2>Os dois tipos</h2>
 <ul>
 <li><strong>Físico:</strong> algo que você envia para um endereço, como um livro ou uma camiseta.</li>

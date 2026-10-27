@@ -12,7 +12,7 @@ This guide shows you how to give a gift to people who donate from a certain amou
 
 **An incentive is a gift your organization offers to people who donate from a minimum amount.** For example: a book, a calendar or a digital certificate.
 
-Incentives are set up inside a campaign and appear on your donation forms (widgets). In AFRUS you will also see them called **gift** or **reward**: they are all the same thing.
+Incentives are set up inside a campaign and appear on your Transacción (Transaction) widgets. In AFRUS you will also see them called **gift** or **reward**: they are all the same thing.
 
 There are two types:
 
@@ -119,7 +119,7 @@ Since gifts appear as soon as you save, the safest way is to test them with a co
 
 > **Important:** the test page is real. If you complete a donation there, it is charged. To check the design, just look and change amounts.
 
-**Gifts not showing?** Check that the **Incentives** switch is on, that the form is checked and saved, that it's a donation form, and that there is at least one active gift with a photo and units available.
+**Gifts not showing?** Check that the **Incentives** switch is on, that the form is checked and saved, that it's a Transacción (Transaction) widget, and that there is at least one active gift with a photo and units available.
 
 ## What coupons are for
 
@@ -250,7 +250,7 @@ To create it:
 
 ## What the donor sees
 
-![Donation form with amounts, gift bar, chosen gift, coupon and the option to donate in someone else's name](img/lo-que-ve-el-donante-01.webp)
+![Transacción (Transaction) widget with amounts, gift bar, chosen gift, coupon and the option to donate in someone else's name](img/lo-que-ve-el-donante-01.webp)
 
 *Reference image with sample data: your screen may look slightly different.*
 
