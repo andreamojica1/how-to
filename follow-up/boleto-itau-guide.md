@@ -53,8 +53,6 @@ El recorrido completo tiene cuatro momentos:
 
 Verás *"El archivo de Remessa se está generando. En unos minutos podrás descargar el archivo."* con el botón "Ver procesos". Se crea un lote en **Procesos de generación de boleto**.
 
-> **¿Se puede deshacer?** **Pendiente de confirmar:** si un lote generado se puede anular. Revisa bien el segmento, el monto y el vencimiento antes de crear el archivo.
-
 ### Parte 2 — Descargar y seguir el lote
 
 5. **Espera a que el lote termine.** En **Follow up > Boleto Itaú** verás el lote con su estado y su **%** de avance. La pantalla no se refresca sola: vuelve a cargarla para ver el avance.

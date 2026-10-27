@@ -55,8 +55,6 @@ The full journey has four moments:
 
 You will see *"El archivo de Remessa se está generando. En unos minutos podrás descargar el archivo."* (The remessa file is being generated. In a few minutes you will be able to download it.) with the "Ver procesos" (View processes) button. A batch is created in **Procesos de generación de boleto** (Boleto generation processes).
 
-> **Can it be undone?** **Pending confirmation:** whether a generated batch can be cancelled. Check the segment, amount and due date carefully before creating the file.
-
 ### Part 2 — Download and track the batch
 
 5. **Wait for the batch to finish.** In **Follow up > Boleto Itaú** you will see the batch with its status and **%** progress. The screen doesn't refresh by itself: reload it to see progress.
