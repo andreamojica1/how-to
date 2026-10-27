@@ -164,8 +164,6 @@ Al terminar, tras una donación exitosa, el donante llega a tu landing con sus d
 - Solo las landings 2.0 se personalizan; las clásicas no.
 - Si desactivas la landing o le cambias la ruta, el donante no la verá. Si pegaste el link en el widget, actualízalo.
 
-> **Pendiente de confirmar:** si la personalización funciona con pagos que quedan pendientes en el momento (por ejemplo boleto o Pix), y si la página de agradecimiento de la campaña aplica también a widgets de registro.
-
 ## Cómo cambiar la URL de mi landing
 
 **Antes de empezar:** la landing debe ser 2.0 y tener un diseño guardado. Si nunca guardaste un diseño, verás *"Error al actualizar datos"* y no se publica nada.
@@ -216,13 +214,8 @@ No. Usa "Clonar a 2.0" para crear una copia editable.
 **Cambié la URL y el link viejo ya no funciona, ¿es normal?**
 Sí. La página se retira de la dirección anterior y no redirige. Comparte el link nuevo.
 
-**¿Los botones "Generar mi historia con IA" de SEO funcionan siempre?**
-Usan la IA de tu organización.
-
-> **Pendiente de confirmar:** qué configuración necesita la organización para que funcionen. Si ves *"Error al generar el Meta Title"*, escribe los textos a mano.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

@@ -166,8 +166,6 @@ When you finish, after a successful donation the donor lands on your page with t
 - Only 2.0 landings can be personalized; classic ones can't.
 - If you deactivate the landing or change its path, donors won't see it. If you pasted the link in the widget, update it.
 
-> **Pending confirmation:** whether personalization works with payments that stay pending at that moment (for example boleto or Pix), and whether the campaign's thank-you page also applies to registration widgets.
-
 ## How to change my landing's URL
 
 **Before you start:** the landing must be 2.0 and have a saved design. If a design was never saved, you will see *"Error al actualizar datos"* (Error updating data) and nothing is published.
@@ -218,13 +216,8 @@ No. Use "Clonar a 2.0" to create an editable copy.
 **I changed the URL and the old link no longer works. Is that normal?**
 Yes. The page is removed from the previous address and doesn't redirect. Share the new link.
 
-**Do the SEO "Generar mi historia con IA" (Generate with AI) buttons always work?**
-They use your organization's AI.
-
-> **Pending confirmation:** what setup the organization needs for them to work. If you see *"Error al generar el Meta Title"*, write the texts by hand.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*
