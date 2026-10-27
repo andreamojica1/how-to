@@ -136,7 +136,7 @@ Ao terminar, você verá *"La suscripción se ha cancelado correctamente"* (A as
 >
 > Nos dois casos, escreva para o suporte da AFRUS com o ID da assinatura.
 
-> **Pendente de confirmação:** a janela diz que o doador será notificado, mas não está confirmado que um aviso seja enviado. Se quiser ter certeza, avise o doador você mesmo.
+> **Atenção:** embora a janela diga que o doador será notificado, o aviso depende do banco emissor dele, que é quem pode informá-lo sobre a reversão. Por isso, é melhor que sua organização avise o doador.
 
 ## Como marcar uma assinatura como fraude
 
@@ -171,7 +171,9 @@ Depende do gateway de pagamento de cada assinatura:
 
 Além disso, em **Ajustes de Organización > Servicio de recurrencia** (Ajustes da organização > Serviço de recorrência; tela **Configuración del Motor de Recurrencia**) sua organização pode escolher **Modo mejorado** (Modo aprimorado: Standard ou Charities), **Periodicidad** (Periodicidade: Mensual, Trimestral, Semestral ou Anual) e **Modo de reintento** (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (As mudanças serão aplicadas aos próximos ciclos de cobrança.)
 
-> **Pendente de confirmação:** o horário exato de cobrança do motor da AFRUS, quantas novas tentativas ele faz quando uma cobrança falha, quando uma assinatura é cancelada sozinha por falhas, e se as periodicidades Trimestral e Semestral e a configuração de **Servicio de recurrencia** já se aplicam às cobranças reais.
+> **Novas tentativas e cancelamento:**
+> - **Recurrent Payments:** são feitas de 7 a 10 tentativas de cobrança por mês, e a cobrança é mensal, sem limite, até que sua organização cancele a assinatura.
+> - **Cartões de crédito:** são feitas 5 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura.
 
 ## Status de uma assinatura
 
@@ -209,4 +211,4 @@ Não. O doador precisará criar uma nova doação recorrente.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

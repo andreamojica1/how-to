@@ -61,10 +61,10 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 ## Perguntas frequentes
 
 **A que horas as cobranças são feitas?**
-Entre 5h e 8h da manhã.
+Começam às 5h da manhã, mas são processadas em filas e o horário pode variar um pouco.
 
 **Quantas vezes uma cobrança que falhou é tentada de novo antes de a assinatura ser cancelada?**
-A cobrança é tentada 5 vezes por mês durante 5 meses antes de a recorrência ser cancelada.
+A cobrança é tentada 5 vezes por mês durante 12 meses antes de a recorrência ser cancelada.
 
 **As mudanças afetam as assinaturas que já existem?**
 A tela indica que as mudanças valem para os próximos ciclos de cobrança.

@@ -136,7 +136,7 @@ When you finish you will see *"La suscripción se ha cancelado correctamente"* (
 >
 > In both cases, contact AFRUS support with the subscription ID.
 
-> **Pending confirmation:** the window says the donor will be notified, but it is not confirmed that a notice is sent. If you want to be sure, let the donor know yourself.
+> **Keep in mind:** although the window says the donor will be notified, the notice depends on the donor's issuing bank, which is the one that can inform them of the reversal. That's why it's best for your organization to let the donor know.
 
 ## How to mark a subscription as fraud
 
@@ -171,7 +171,9 @@ It depends on each subscription's payment gateway:
 
 In addition, in **Ajustes de Organización > Servicio de recurrencia** (Organization settings > Recurrence service; screen **Configuración del Motor de Recurrencia**) your organization can choose **Modo mejorado** (Enhanced mode: Standard or Charities), **Periodicidad** (Frequency: Mensual, Trimestral, Semestral or Anual — monthly, quarterly, semi-annual or annual) and **Modo de reintento** (Retry mode: Standard retries, Charities retries or Custom). The screen says: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (Changes will apply to the next billing cycles.)
 
-> **Pending confirmation:** the exact charge time of the AFRUS engine, how many retries it makes when a charge fails, when a subscription is cancelled automatically after failures, and whether the quarterly and semi-annual frequencies and the **Servicio de recurrencia** settings already apply to real charges.
+> **Retries and cancellation:**
+> - **Recurrent Payments:** 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription.
+> - **Credit cards:** 5 retries are made over 12 consecutive months before the subscription is cancelled.
 
 ## Subscription statuses
 
@@ -209,4 +211,4 @@ No. The donor will need to create a new recurring donation.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

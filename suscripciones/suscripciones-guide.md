@@ -134,7 +134,7 @@ Al terminar verás *"La suscripción se ha cancelado correctamente"*. La suscrip
 >
 > En ambos casos, escribe a soporte de AFRUS con el ID de la suscripción.
 
-> **Pendiente de confirmar:** la ventana dice que se notificará al donante, pero no está confirmado que se le envíe un aviso. Si quieres asegurarte, avísale tú.
+> **Ten en cuenta:** aunque la ventana dice que se notificará al donante, el aviso depende de su banco emisor, que es quien puede informarle de la reversión. Por eso es mejor que tu organización le avise.
 
 ## Cómo marcar como fraude una suscripción
 
@@ -169,7 +169,9 @@ Depende de la pasarela de pago de cada suscripción:
 
 Además, en **Ajustes de Organización > Servicio de recurrencia** (pantalla **Configuración del Motor de Recurrencia**) tu organización puede elegir **Modo mejorado** (Standard o Charities), **Periodicidad** (Mensual, Trimestral, Semestral o Anual) y **Modo de reintento** (Standard retries, Charities retries o Custom). La pantalla indica: *"Los cambios se aplicarán a los próximos ciclos de cobro."*
 
-> **Pendiente de confirmar:** el horario exacto de cobro del motor de AFRUS, cuántos reintentos hace cuando un cobro falla, cuándo se cancela sola una suscripción por fallos, y si las periodicidades Trimestral y Semestral y la configuración de **Servicio de recurrencia** ya se aplican a los cobros reales.
+> **Reintentos y cancelación:**
+> - **Recurrent Payments:** se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción.
+> - **Tarjetas de crédito:** se hacen 5 reintentos durante 12 meses seguidos antes de cancelar la suscripción.
 
 ## Estados de una suscripción
 
@@ -207,4 +209,4 @@ No. El donante tendrá que crear una nueva donación recurrente.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

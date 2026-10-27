@@ -59,10 +59,10 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 ## Preguntas frecuentes
 
 **¿A qué hora se hacen los cobros?**
-Entre las 5 a. m. y las 8 a. m.
+Inician a las 5 a. m., pero se procesan en colas y la hora puede variar un poco.
 
 **¿Cuántas veces se reintenta un cobro fallido antes de cancelar la suscripción?**
-Se intenta cobrar 5 veces por mes durante 5 meses antes de cancelar la recurrencia.
+Se intenta cobrar 5 veces por mes durante 12 meses antes de cancelar la recurrencia.
 
 **¿Los cambios afectan a las suscripciones que ya existen?**
 La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.

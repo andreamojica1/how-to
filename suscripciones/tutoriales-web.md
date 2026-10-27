@@ -194,7 +194,7 @@ Relacionados: que-es-suscripciones, como-descargar-un-grupo-de-suscripciones, co
 <h2>Configuración de la recurrencia</h2>
 <p>En <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> tu organización puede elegir <strong>Modo mejorado</strong> (Standard o Charities), <strong>Periodicidad</strong> (Mensual, Trimestral, Semestral o Anual) y <strong>Modo de reintento</strong> (Standard retries, Charities retries o Custom). La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿A qué hora cobra AFRUS y cuántas veces reintenta?</strong> Estamos confirmando este dato con nuestro equipo y lo publicaremos aquí.</p>
+<p><strong>¿Cuántas veces se reintenta un cobro?</strong> En Recurrent Payments se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción. Con tarjetas de crédito se hacen 5 reintentos durante 12 meses seguidos antes de cancelar la suscripción.</p>
 === FIN ===
 ```
 
@@ -423,7 +423,7 @@ Relacionados: what-is-subscriptions, how-to-download-a-group-of-subscriptions, h
 <h2>Recurrence settings</h2>
 <p>In <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Organization settings &gt; Recurrence service) your organization can choose <strong>Modo mejorado</strong> (Enhanced mode: Standard or Charities), <strong>Periodicidad</strong> (Frequency: monthly, quarterly, semi-annual or annual) and <strong>Modo de reintento</strong> (Retry mode: Standard retries, Charities retries or Custom). The screen says changes apply to the next billing cycles.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>What time does AFRUS charge and how many times does it retry?</strong> We are confirming this with our team and will publish it here.</p>
+<p><strong>How many times is a charge retried?</strong> With Recurrent Payments, 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription. With credit cards, 5 retries are made over 12 consecutive months before the subscription is cancelled.</p>
 === FIN ===
 ```
 
@@ -652,7 +652,7 @@ Relacionados: o-que-e-assinaturas, como-baixar-um-grupo-de-assinaturas, como-fil
 <h2>Configuração da recorrência</h2>
 <p>Em <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Ajustes da organização &gt; Serviço de recorrência) sua organização pode escolher <strong>Modo mejorado</strong> (Modo aprimorado: Standard ou Charities), <strong>Periodicidad</strong> (Periodicidade: mensal, trimestral, semestral ou anual) e <strong>Modo de reintento</strong> (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa que as mudanças se aplicam aos próximos ciclos de cobrança.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>A que horas a AFRUS cobra e quantas vezes tenta de novo?</strong> Estamos confirmando essa informação com nossa equipe e vamos publicá-la aqui.</p>
+<p><strong>Quantas vezes uma cobrança é tentada de novo?</strong> No Recurrent Payments, são feitas de 7 a 10 tentativas de cobrança por mês, e a cobrança é mensal, sem limite, até que sua organização cancele a assinatura. Com cartões de crédito, são feitas 5 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura.</p>
 === FIN ===
 ```
 

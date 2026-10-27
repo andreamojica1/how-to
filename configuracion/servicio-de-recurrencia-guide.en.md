@@ -61,10 +61,10 @@ There you choose, for example, how often a donation is charged and what to do wh
 ## Frequently asked questions
 
 **At what time are charges made?**
-Between 5 a.m. and 8 a.m.
+They start at 5 a.m., but they are processed in queues, so the time may vary a little.
 
 **How many times is a failed charge retried before the subscription is cancelled?**
-The charge is attempted 5 times a month for 5 months before the recurring donation is cancelled.
+The charge is attempted 5 times a month for 12 months before the recurring donation is cancelled.
 
 **Do the changes affect existing subscriptions?**
 The screen says changes apply to the next billing cycles.
