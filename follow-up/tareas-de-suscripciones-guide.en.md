@@ -61,8 +61,6 @@ Each task also has a **Tipo** (type), which you can change by hand:
 | **Fallo Mensual** (Monthly failure) | A label you can use to classify the case by hand. |
 | **Cancelada por el Sistema** (Cancelled by the system) | A label you can use to classify the case by hand. |
 
-> **Pending confirmation:** whether any AFRUS process assigns the **Fallo Mensual** and **Cancelada por el Sistema** types automatically.
-
 ## What I can do in each status
 
 | Status | What you can do |
@@ -109,4 +107,4 @@ Users with the owner or admin role in your organization, with a notification in 
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

@@ -61,8 +61,6 @@ Cada tarefa também tem um **Tipo**, que você pode mudar manualmente:
 | **Fallo Mensual** (Falha mensal) | Etiqueta disponível para classificar o caso manualmente. |
 | **Cancelada por el Sistema** (Cancelada pelo sistema) | Etiqueta disponível para classificar o caso manualmente. |
 
-> **Pendente de confirmação:** se algum processo da AFRUS atribui automaticamente os tipos **Fallo Mensual** e **Cancelada por el Sistema**.
-
 ## O que posso fazer em cada status
 
 | Status | O que você pode fazer |
@@ -109,4 +107,4 @@ Os usuários com papel owner ou admin da sua organização, com uma notificaçã
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*
