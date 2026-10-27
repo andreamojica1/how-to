@@ -12,8 +12,6 @@ Depois de ler este guia, você vai saber o que são os Tickets de rifa na AFRUS,
 
 **Um Ticket é uma rifa com uma faixa de números, por exemplo do 1 ao 500.** Quando você a vincula a um widget de produto, cada comprador recebe um número de ticket consecutivo para cada unidade que compra.
 
-> **Importante:** a venda de ingressos para eventos com QR code ainda não está disponível. Hoje, **Tickets** é usado para rifas.
-
 ## Para que serve
 
 - **Vender números de rifa on-line.** Você os vende por um widget, com preço por ticket.
@@ -57,8 +55,6 @@ Para vender tickets você precisa de duas coisas: a rifa (o Ticket, com sua faix
 
 8. **Escolha o objetivo Produto.** Em **Objetivo**, escolha **Producto**. Só os widgets com esse objetivo atribuem números de ticket.
 
-   > **Pendente de confirmação:** em que tela exata do editor se escolhe o objetivo e se adiciona o bloco **Producto**.
-
 9. **Adicione o produto.** Adicione o bloco **Producto** e clique em "Agregar Producto" (Adicionar produto). Em **Tipo de Producto** (Tipo de produto), escolha **Ticket**.
 
 10. **Escolha a rifa.** Em **Seleccionar Ticket** (Selecionar ticket), escolha sua rifa. O **Nombre del producto** (nome do produto), a **Descripción del producto** (descrição), o **Límite Inicial**, o **Límite Final** e o **Stock del producto** (estoque) são preenchidos sozinhos e não podem ser editados.
@@ -96,8 +92,6 @@ Quando o e-mail ou o WhatsApp é enviado, cada merge tag é substituído pelo da
 
 > **Importante:** o mapa também mostra "Número de Ticket" e "Fecha de Sorteo" (data do sorteio), mas eles não correspondem a nenhum merge tag real de rifas. Use apenas os da tabela.
 
-> **Pendente de confirmação:** se, com algum tipo de pagamento, o autoresponder pode sair antes de os números existirem. Faça uma compra de teste para conferir sua mensagem.
-
 ## Como ver quem comprou cada número
 
 1. **Abra a rifa.** Em **Fundraising > Tickets**, clique no **ID** da rifa. Abre **Tickets generados por transacción**.
@@ -119,9 +113,6 @@ Você verá uma linha por número, com **ID de Ticket**, **Nombre**, **Precio**,
 
 ## Perguntas frequentes
 
-**Posso vender ingressos para eventos com QR code?**
-Ainda não. Essa função está em desenvolvimento.
-
 **Existe um merge tag com a quantidade de tickets comprados?**
 Não. Use `{{ticket_id}}`, que lista todos os números da compra.
 
@@ -132,4 +123,4 @@ Não. Cada widget aceita uma única rifa.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

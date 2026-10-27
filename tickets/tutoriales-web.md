@@ -20,7 +20,6 @@ Relacionados: para-que-sirven-los-tickets, cada-cuanto-se-actualizan-los-tickets
 <p>Los encuentras en <strong>Fundraising &gt; Tickets</strong>. Desde ahí creas la rifa con su <strong>Nombre</strong>, <strong>Descripción</strong>, <strong>Estado</strong> y <strong>Rango</strong> (<strong>Número Inicial</strong> y <strong>Número Final</strong>), y ves quién compró cada número.</p>
 <p>Cada número se muestra con ceros a la izquierda hasta el largo del Número Final: con un rango hasta 500, el ticket 42 se ve como 042.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo vender entradas para eventos con QR?</strong> Todavía no. Esa función está en desarrollo; hoy Tickets se usa para rifas.</p>
 === FIN ===
 ```
 
@@ -156,7 +155,6 @@ Relacionados: what-are-tickets-for, how-often-do-tickets-update, how-to-create-a
 <p>You'll find them in <strong>Fundraising &gt; Tickets</strong>. There you create the raffle with its <strong>Nombre</strong> (Name), <strong>Descripción</strong> (Description), <strong>Estado</strong> (Status) and <strong>Rango</strong> (Range: <strong>Número Inicial</strong> and <strong>Número Final</strong>), and see who bought each number. Labels are shown as they appear in the Spanish version of the console.</p>
 <p>Each number is shown with leading zeros up to the length of the end number: with a range up to 500, ticket 42 shows as 042.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I sell event tickets with QR codes?</strong> Not yet. That feature is in development; today Tickets is used for raffles.</p>
 === FIN ===
 ```
 
@@ -292,7 +290,6 @@ Relacionados: para-que-servem-os-tickets, com-que-frequencia-os-tickets-sao-atua
 <p>Você os encontra em <strong>Fundraising &gt; Tickets</strong>. Ali você cria a rifa com <strong>Nombre</strong> (Nome), <strong>Descripción</strong> (Descrição), <strong>Estado</strong> (Status) e <strong>Rango</strong> (Faixa: <strong>Número Inicial</strong> e <strong>Número Final</strong>), e vê quem comprou cada número. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <p>Cada número aparece com zeros à esquerda até o tamanho do Número Final: com uma faixa até 500, o ticket 42 aparece como 042.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso vender ingressos para eventos com QR code?</strong> Ainda não. Essa função está em desenvolvimento; hoje Tickets é usado para rifas.</p>
 === FIN ===
 ```
 

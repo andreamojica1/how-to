@@ -54,6 +54,19 @@ Para crear un widget del tipo que necesitas:
 
 Si falta algo, "Guardar Widget" muestra un botón rojo **Errores** con el motivo, por ejemplo *"Debe seleccionar al menos una campaña en la pestaña de configuración"* o *"Debe configurar los términos y condiciones para poder guardar el widget"*.
 
+## Cómo crear un widget de producto
+
+Un widget de producto sirve para vender productos o tickets de rifa con precio y stock.
+
+1. **Crea el widget con el objetivo Producto.** En **Fundraising > Widgets**, haz clic en "Nuevo widget" y, en la pestaña nueva, en "Nuevo formulario". Escribe el **Nombre del formulario**, elige el **Objetivo** **Producto** y haz clic en "Crear". El editor agrega solos los snippets **Información personal**, **Producto**, **Términos y condiciones**, **Medio de pago** y **Botón**.
+2. **Vincula una campaña.** En el panel **Renderización**, elige al menos una campaña en **Elige tus campañas**. Es obligatorio para poder guardar.
+3. **Agrega el producto.** Abre el snippet **Producto** y haz clic en "Agregar Producto".
+4. **Elige el tipo de producto y completa sus datos.** En **Tipo de Producto**, elige qué vas a vender y completa el nombre, la descripción, el precio y el stock del producto. Si vas a vender números de una rifa, elige **Ticket** y luego tu rifa en **Seleccionar Ticket**: el nombre, la descripción y el stock se completan solos y solo debes escribir el **Precio del producto** (el precio de cada ticket). Antes debes haber creado la rifa en **Fundraising > Tickets** (ver la [Guía de Tickets](../tickets/tickets-guide.md)).
+5. **Confirma el producto.** Haz clic en "Agregar Producto". Verás *"¡Producto agregado satisfactoriamente!"*.
+6. **Completa el resto y guarda.** Configura **Términos y condiciones** y **Medio de pago** (ver "Cómo configurar los métodos de pago en tu widget"), guarda cada snippet con **Guardar Snippet** y el widget con "Guardar Widget". Luego activa el interruptor **Estado**.
+
+> **Importante:** en un mismo snippet **Producto** no se pueden mezclar productos normales con tickets (*"No se pueden mezclar tipos de productos"*), y cada widget admite una sola rifa.
+
 ## Cómo cambiar los estilos del widget
 
 1. **Abre el editor del widget.** En **Fundraising > Widgets**, haz clic en "Editar" en la fila del widget. Se abre en una pestaña nueva.

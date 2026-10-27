@@ -56,6 +56,19 @@ To create a widget of the type you need:
 
 If something is missing, "Guardar Widget" shows a red **Errores** (Errors) button with the reason, for example *"Debe seleccionar al menos una campaña en la pestaña de configuración"* (You must select at least one campaign) or *"Debe configurar los términos y condiciones para poder guardar el widget"* (You must set up terms and conditions to save the widget).
 
+## How to create a product widget
+
+A product widget is used to sell products or raffle tickets with a price and stock.
+
+1. **Create the widget with the Producto goal.** In **Fundraising > Widgets**, click "Nuevo widget" and, in the new tab, "Nuevo formulario" (New form). Type the **Nombre del formulario** (Form name), choose the **Objetivo** (Goal) **Producto** (Product) and click "Crear" (Create). The editor adds the **Información personal** (Personal information), **Producto**, **Términos y condiciones** (Terms and conditions), **Medio de pago** (Payment method) and **Botón** (Button) snippets on its own.
+2. **Link a campaign.** In the **Renderización** panel, choose at least one campaign in **Elige tus campañas** (Choose your campaigns). It is required to save.
+3. **Add the product.** Open the **Producto** snippet and click "Agregar Producto" (Add product).
+4. **Choose the product type and fill in its details.** In **Tipo de Producto** (Product type), choose what you are selling and fill in the product's name, description, price and stock. If you are selling raffle numbers, choose **Ticket** and then your raffle in **Seleccionar Ticket** (Select ticket): the name, description and stock fill in on their own, and you only need to type the **Precio del producto** (Product price, the price of each ticket). You must have created the raffle first in **Fundraising > Tickets** (see the [Tickets guide](../tickets/tickets-guide.en.md)).
+5. **Confirm the product.** Click "Agregar Producto". You will see *"¡Producto agregado satisfactoriamente!"* (Product added successfully).
+6. **Finish the rest and save.** Set up **Términos y condiciones** and **Medio de pago** (see "How to set up payment methods in your widget"), save each snippet with **Guardar Snippet** and the widget with "Guardar Widget". Then turn on the **Estado** switch.
+
+> **Important:** a single **Producto** snippet can't mix regular products with tickets (*"No se pueden mezclar tipos de productos"*, product types can't be mixed), and each widget allows only one raffle.
+
 ## How to change the widget's styles
 
 1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar" on the widget's row. It opens in a new tab.

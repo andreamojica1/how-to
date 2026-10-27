@@ -80,6 +80,33 @@ Relacionados: que-es-un-widget, para-que-sirve-un-widget, como-cambiar-los-estil
 ```text
 === TUTORIAL ===
 Idioma: es
+Título: Cómo crear un widget de producto
+Slug: como-vender-productos-con-un-widget
+Categoría: Widgets
+Resumen: Aprende a crear un widget con objetivo Producto para vender productos o tickets de rifa con precio y stock.
+Tiempo de lectura: 2 min
+Video: no
+Imagen de portada: pendiente
+Relacionados: tipos-de-widgets-en-afrus, como-configurar-los-metodos-de-pago-del-widget, como-crear-un-widget-de-producto
+--- CUERPO (HTML) ---
+<p>Un widget de producto sirve para vender productos o tickets de rifa con precio y stock.</p>
+<h2>Paso a paso</h2>
+<ol>
+<li><strong>Crea el widget con el objetivo Producto.</strong> En <strong>Fundraising &gt; Widgets</strong>, haz clic en "Nuevo widget" y luego en "Nuevo formulario". Escribe el <strong>Nombre del formulario</strong>, elige el <strong>Objetivo</strong> <strong>Producto</strong> y haz clic en "Crear".</li>
+<li><strong>Vincula una campaña.</strong> En <strong>Renderización</strong>, elige al menos una en <strong>Elige tus campañas</strong>. Es obligatorio.</li>
+<li><strong>Agrega el producto.</strong> Abre el snippet <strong>Producto</strong> y haz clic en "Agregar Producto".</li>
+<li><strong>Elige el tipo y completa los datos.</strong> En <strong>Tipo de Producto</strong>, elige qué vas a vender y completa el nombre, la descripción, el precio y el stock. Para una rifa, elige <strong>Ticket</strong>, selecciona tu rifa en <strong>Seleccionar Ticket</strong> y escribe el <strong>Precio del producto</strong>.</li>
+<li><strong>Confirma el producto.</strong> Haz clic en "Agregar Producto". Verás <em>"¡Producto agregado satisfactoriamente!"</em>.</li>
+<li><strong>Completa y activa.</strong> Configura <strong>Términos y condiciones</strong> y <strong>Medio de pago</strong>, haz clic en "Guardar Widget" y activa el interruptor <strong>Estado</strong>.</li>
+</ol>
+<h2>Preguntas frecuentes</h2>
+<p><strong>¿Puedo mezclar productos y tickets en el mismo widget?</strong> No. En un mismo snippet <strong>Producto</strong> no se pueden mezclar productos normales con tickets, y cada widget admite una sola rifa.</p>
+=== FIN ===
+```
+
+```text
+=== TUTORIAL ===
+Idioma: es
 Título: Cómo cambiar los estilos del widget
 Slug: como-cambiar-los-estilos-del-widget
 Categoría: Widgets
@@ -472,6 +499,33 @@ Relacionados: what-is-a-widget, what-is-a-widget-for, how-to-change-the-widget-s
 ```text
 === TUTORIAL ===
 Idioma: en
+Título: How to create a product widget
+Slug: how-to-sell-products-with-a-widget
+Categoría: Widgets
+Resumen: Learn how to create a widget with the Producto goal to sell products or raffle tickets with a price and stock.
+Tiempo de lectura: 2 min
+Video: no
+Imagen de portada: pendiente
+Relacionados: widget-types-in-afrus, how-to-set-up-widget-payment-methods, how-to-create-a-product-widget
+--- CUERPO (HTML) ---
+<p>A product widget is used to sell products or raffle tickets with a price and stock.</p>
+<h2>Step by step</h2>
+<ol>
+<li><strong>Create the widget with the Producto goal.</strong> In <strong>Fundraising &gt; Widgets</strong>, click "Nuevo widget" and then "Nuevo formulario" (New form). Type the <strong>Nombre del formulario</strong> (Form name), choose the <strong>Objetivo</strong> (Goal) <strong>Producto</strong> (Product) and click "Crear" (Create).</li>
+<li><strong>Link a campaign.</strong> In <strong>Renderización</strong>, choose at least one in <strong>Elige tus campañas</strong> (Choose your campaigns). It is required.</li>
+<li><strong>Add the product.</strong> Open the <strong>Producto</strong> snippet and click "Agregar Producto" (Add product).</li>
+<li><strong>Choose the type and fill in the details.</strong> In <strong>Tipo de Producto</strong> (Product type), choose what you are selling and fill in the name, description, price and stock. For a raffle, choose <strong>Ticket</strong>, select your raffle in <strong>Seleccionar Ticket</strong> (Select ticket) and type the <strong>Precio del producto</strong> (Product price).</li>
+<li><strong>Confirm the product.</strong> Click "Agregar Producto". You will see <em>"¡Producto agregado satisfactoriamente!"</em> (Product added successfully).</li>
+<li><strong>Finish and activate.</strong> Set up <strong>Términos y condiciones</strong> (Terms and conditions) and <strong>Medio de pago</strong> (Payment method), click "Guardar Widget" and turn on the <strong>Estado</strong> switch.</li>
+</ol>
+<h2>Frequently asked questions</h2>
+<p><strong>Can I mix products and tickets in the same widget?</strong> No. A single <strong>Producto</strong> snippet can't mix regular products with tickets, and each widget allows only one raffle.</p>
+=== FIN ===
+```
+
+```text
+=== TUTORIAL ===
+Idioma: en
 Título: How to change the widget's styles
 Slug: how-to-change-the-widget-styles
 Categoría: Widgets
@@ -858,6 +912,33 @@ Relacionados: o-que-e-um-widget, para-que-serve-um-widget, como-mudar-os-estilos
 </ol>
 <h2>Perguntas frequentes</h2>
 <p><strong>Por que não consigo salvar?</strong> "Guardar Widget" mostra um botão vermelho <strong>Errores</strong> (Erros) com o motivo, por exemplo falta de campanha ou de termos e condições.</p>
+=== FIN ===
+```
+
+```text
+=== TUTORIAL ===
+Idioma: pt
+Título: Como criar um widget de produto
+Slug: como-vender-produtos-com-um-widget
+Categoría: Widgets
+Resumen: Aprenda a criar um widget com o objetivo Producto para vender produtos ou tickets de rifa com preço e estoque.
+Tiempo de lectura: 2 min
+Video: no
+Imagen de portada: pendiente
+Relacionados: tipos-de-widget-na-afrus, como-configurar-os-metodos-de-pagamento-do-widget, como-criar-um-widget-de-produto
+--- CUERPO (HTML) ---
+<p>Um widget de produto serve para vender produtos ou tickets de rifa com preço e estoque.</p>
+<h2>Passo a passo</h2>
+<ol>
+<li><strong>Crie o widget com o objetivo Producto.</strong> Em <strong>Fundraising &gt; Widgets</strong>, clique em "Nuevo widget" e depois em "Nuevo formulario" (Novo formulário). Escreva o <strong>Nombre del formulario</strong> (Nome do formulário), escolha o <strong>Objetivo</strong> <strong>Producto</strong> (Produto) e clique em "Crear" (Criar).</li>
+<li><strong>Vincule uma campanha.</strong> Em <strong>Renderización</strong>, escolha pelo menos uma em <strong>Elige tus campañas</strong> (Escolha suas campanhas). É obrigatório.</li>
+<li><strong>Adicione o produto.</strong> Abra o snippet <strong>Producto</strong> e clique em "Agregar Producto" (Adicionar produto).</li>
+<li><strong>Escolha o tipo e preencha os dados.</strong> Em <strong>Tipo de Producto</strong> (Tipo de produto), escolha o que você vai vender e preencha o nome, a descrição, o preço e o estoque. Para uma rifa, escolha <strong>Ticket</strong>, selecione sua rifa em <strong>Seleccionar Ticket</strong> (Selecionar ticket) e escreva o <strong>Precio del producto</strong> (Preço do produto).</li>
+<li><strong>Confirme o produto.</strong> Clique em "Agregar Producto". Você verá <em>"¡Producto agregado satisfactoriamente!"</em> (Produto adicionado com sucesso).</li>
+<li><strong>Complete e ative.</strong> Configure <strong>Términos y condiciones</strong> (Termos e condições) e <strong>Medio de pago</strong> (Meio de pagamento), clique em "Guardar Widget" e ative o botão <strong>Estado</strong>.</li>
+</ol>
+<h2>Perguntas frequentes</h2>
+<p><strong>Posso misturar produtos e tickets no mesmo widget?</strong> Não. Em um mesmo snippet <strong>Producto</strong> não é possível misturar produtos comuns com tickets, e cada widget aceita uma só rifa.</p>
 === FIN ===
 ```
 
