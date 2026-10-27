@@ -153,6 +153,7 @@ To see all the bounces of a send together:
 3. **Check the list.** **Eventos de emails** (Email events) opens, a screen with everyone the email was sent to, their status and the date.
 4. **Filter by Estado (Status).** Open **Estado**, check **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** or **Sent** and click "Aplicar" (Apply). For example, check **Hard Bounce** to see only hard bounces.
    ![Eventos de emails screen with the Estado filter open](img/donde-ver-los-correos-rebotados-05.webp)
+5. **Export the data if you want to analyze it.** Click **Exportar datos** (Export data) to download the list of people the email was sent to, with their different statuses. This makes it easier to analyze and decide what actions to take, which you can then bring back into AFRUS.
 
 ## How to remove soft and hard bounces
 

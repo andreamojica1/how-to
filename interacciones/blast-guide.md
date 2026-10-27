@@ -151,6 +151,7 @@ Para ver todos los rebotes de un envío juntos:
 3. **Revisa el listado.** Se abre **Eventos de emails**, una pantalla con todas las personas a las que se les envió el correo, su estado y la fecha.
 4. **Filtra por Estado.** Abre **Estado**, marca **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** o **Sent** y pulsa "Aplicar". Por ejemplo, marca **Hard Bounce** para ver solo los rebotes duros.
    ![Pantalla Eventos de emails con el filtro Estado abierto](img/donde-ver-los-correos-rebotados-05.webp)
+5. **Exporta la base si quieres analizarla.** Pulsa **Exportar datos** para descargar la base de las personas a las que se envió el correo, con sus distintos estados. Así la analizas más fácilmente y decides qué acciones tomar para luego llevarlas a AFRUS.
 
 ## Cómo eliminar los soft y hard bounces
 

@@ -153,6 +153,7 @@ Para ver todas as devoluções de um envio juntas:
 3. **Confira a lista.** Abre **Eventos de emails** (Eventos de e-mails), uma tela com todas as pessoas para quem o e-mail foi enviado, o status e a data.
 4. **Filtre por Estado (Status).** Abra **Estado**, marque **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** ou **Sent** e clique em "Aplicar". Por exemplo, marque **Hard Bounce** para ver só as devoluções permanentes.
    ![Tela Eventos de emails com o filtro Estado aberto](img/donde-ver-los-correos-rebotados-05.webp)
+5. **Exporte a base se quiser analisá-la.** Clique em **Exportar datos** (Exportar dados) para baixar a base das pessoas para quem o e-mail foi enviado, com seus diferentes status. Assim você a analisa com mais facilidade e decide quais ações tomar para depois levá-las à AFRUS.
 
 ## Como remover soft e hard bounces
 
