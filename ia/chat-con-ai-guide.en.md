@@ -45,15 +45,7 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 
 5. **Pick up a conversation.** Your conversations are saved on the left, in **Historial de conversaciones** (Conversation history).
 
-**Extra options:** next to the message box you can choose the AI model and turn on "Interacción avanzada" (Advanced interaction).
-
-> **Pending confirmation:** what exactly "Interacción avanzada" changes.
-
 **Tip:** be specific. "Write a 150-word email asking for donations for our scholarship campaign, in a warm tone" works better than "write an email".
-
-## Which languages it has
-
-> **Pending confirmation:** which languages AI Chat answers in and whether it answers in the language you write in.
 
 ## What restrictions it has
 
@@ -76,10 +68,10 @@ No. It only uses what you uploaded in **Entrenamiento [AI RAG]**.
 No. Each user sees their own.
 
 **Does using the chat cost anything?**
-> **Pending confirmation:** whether chat use is deducted from any balance of your organization.
+Yes, you need to buy tokens. For more information, write to us at billing@afrus.ai.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

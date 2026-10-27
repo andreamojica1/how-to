@@ -54,8 +54,6 @@ With this guide you will be able to create an AI chat for your website that answ
 
 5. **Save.** Leave **Activar configuración** (Activate setup) on and click "Guardar" (Save). The button becomes active when the required fields are filled in. You'll see *"Configuración creada correctamente"* (Setup created successfully).
 
-> **Pending confirmation:** what changes between **Cerrado** and **Abierto**, and whether the chat on your site uses each agent's instructions and description.
-
 ### Part 2 — Install it on your website
 
 6. **Copy the code.** In the agents list, click "Copiar codigo" (Copy code) on the agent's row. You'll see *"Código copiado al portapapeles"* (Code copied to clipboard). You also find it when editing the agent, in "Copiar código de inserción" (Copy embed code).
@@ -91,10 +89,7 @@ There you'll see each conversation with the email, date, agent and a summary. "V
 ## Frequently asked questions
 
 **What does the visitor see if I turn the agent off?**
-> **Pending confirmation.**
-
-**Do conversations use credits?**
-> **Pending confirmation.**
+Nothing: the chat simply disappears from your site.
 
 **Can the same person have several conversations?**
 No. Each person has one conversation per agent.
@@ -103,4 +98,4 @@ No. Each person has one conversation per agent.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

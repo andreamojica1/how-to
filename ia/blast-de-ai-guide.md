@@ -74,7 +74,7 @@ Al terminar verás *"Blast IA enviado con éxito"* y el botón "Ver blast IA". L
 
 > **¿Se puede deshacer?** Revisa todo antes de pulsar "Finalizar".
 >
-> **Pendiente de confirmar:** si se puede cancelar un Blast de AI programado antes de su hora.
+> Un Blast de AI programado no se puede eliminar, ni siquiera antes de su hora.
 
 ### Cómo ver los resultados
 
@@ -87,14 +87,14 @@ En **Interacciones > Blast**, tus Blast de AI llevan la etiqueta **AI**. Pulsa "
 **¿Puedo ver el correo que recibirá cada persona antes de enviarlo?**
 No. La IA lo escribe en el momento del envío.
 
-**¿Cuesta algo adicional?**
-> **Pendiente de confirmar:** si cada correo escrito con IA tiene un costo extra.
-
 **¿Se excluyen las personas que no se pueden contactar?**
-> **Pendiente de confirmar.**
+Sí.
+
+**¿Con qué plantilla se envía mi correo?**
+Con alguna de las plantillas que tengas habilitadas en **AI > Plantillas AI Email**.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

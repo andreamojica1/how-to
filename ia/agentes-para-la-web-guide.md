@@ -52,8 +52,6 @@ Con esta guía vas a poder crear un chat con IA para tu sitio web, que responde 
 
 5. **Guarda.** Deja encendido **Activar configuración** y pulsa "Guardar". El botón se activa cuando completas los campos obligatorios. Verás *"Configuración creada correctamente"*.
 
-> **Pendiente de confirmar:** qué cambia entre **Cerrado** y **Abierto**, y si el chat de tu sitio usa las instrucciones y la descripción de cada agente.
-
 ### Parte 2 — Instálalo en tu sitio web
 
 6. **Copia el código.** En la lista de agentes, pulsa "Copiar codigo" en la fila del agente. Verás *"Código copiado al portapapeles"*. También lo encuentras al editar el agente, en "Copiar código de inserción".
@@ -89,10 +87,7 @@ Ahí verás cada conversación con el correo, la fecha, el agente y un resumen. 
 ## Preguntas frecuentes
 
 **¿Qué ve el visitante si desactivo el agente?**
-> **Pendiente de confirmar.**
-
-**¿Las conversaciones gastan créditos?**
-> **Pendiente de confirmar.**
+No ve nada: el chat simplemente desaparece de tu sitio.
 
 **¿La misma persona puede tener varias conversaciones?**
 No. Cada persona tiene una sola conversación por agente.
@@ -101,4 +96,4 @@ No. Cada persona tiene una sola conversación por agente.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

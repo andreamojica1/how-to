@@ -91,8 +91,6 @@ In **URL'S** you add your organization's web pages for the AI to read: for examp
 
 4. **Save.** Click "Guardar cambios" (Save changes). You will see *"¡URL guardada con éxito!"* (URL saved successfully!)
 
-> **Pending confirmation:** whether the AI reads only that page or also the pages linked under it. For now, add your most important pages one by one.
-
 **Keep in mind:** if you click "Guardar cambios" without changing anything, a notice with technical text may appear. Nothing is wrong: your information was already saved.
 
 ## How to see what you uploaded
@@ -118,11 +116,8 @@ It can use it as soon as the upload finishes.
 **What if I upload a document without choosing a topic?**
 It is used for all topics.
 
-**Do labels change how the AI answers?**
-> **Pending confirmation:** they are saved today, but it isn't confirmed that they change the answers.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

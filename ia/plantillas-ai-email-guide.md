@@ -71,13 +71,13 @@ En las plantillas **Propia** puedes:
 ## Preguntas frecuentes
 
 **¿Tengo que tener la IA activada para usar esta pantalla?**
-> **Pendiente de confirmar.**
+Sí.
 
-**¿Cuántas plantillas de AFRUS hay?**
-> **Pendiente de confirmar.**
+**¿Hay un límite de plantillas que pueda crear?**
+No.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

@@ -91,8 +91,6 @@ Em **URL'S** você adiciona páginas web da sua organização para a IA ler: por
 
 4. **Salve.** Clique em "Guardar cambios" (Salvar alterações). Você verá *"¡URL guardada con éxito!"* (URL salva com sucesso!)
 
-> **Pendente de confirmação:** se a IA lê só essa página ou também as páginas que estão abaixo dela. Por enquanto, adicione uma a uma as páginas mais importantes.
-
 **Fique atento:** se você clicar em "Guardar cambios" sem ter mudado nada, pode aparecer um aviso com texto técnico. Não há problema: suas informações já estavam salvas.
 
 ## Como ver o que enviei
@@ -118,11 +116,8 @@ Ela pode usá-lo assim que o envio termina.
 **O que acontece se eu enviar um documento sem escolher tema?**
 Ele serve para todos os temas.
 
-**As etiquetas mudam como a IA responde?**
-> **Pendente de confirmação:** hoje elas são salvas, mas não está confirmado que mudam as respostas.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

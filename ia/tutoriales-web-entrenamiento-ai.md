@@ -122,8 +122,6 @@ Relacionados: que-es-el-entrenamiento-ai, para-que-sirve-el-entrenamiento-ai, qu
 <li><strong>Completa los datos.</strong> Escribe la dirección en <strong>URL:</strong> (obligatoria). Si quieres, elige <strong>Atributos</strong> y etiquetas.</li>
 <li><strong>Guarda.</strong> Pulsa "Guardar cambios". Verás <em>"¡URL guardada con éxito!"</em></li>
 </ol>
-<h2>Preguntas frecuentes</h2>
-<p><strong>¿La IA lee también las páginas que cuelgan de esa dirección?</strong> Está pendiente de confirmar. Por ahora, agrega una por una las páginas más importantes.</p>
 === FIN ===
 ```
 
@@ -276,8 +274,6 @@ Relacionados: what-is-ai-training, what-is-ai-training-for, which-documents-to-u
 <li><strong>Fill in the details.</strong> Type the address in <strong>URL:</strong> (required). If you want, choose <strong>Atributos</strong> and labels.</li>
 <li><strong>Save.</strong> Click "Guardar cambios" (Save changes). You'll see <em>"¡URL guardada con éxito!"</em></li>
 </ol>
-<h2>Frequently asked questions</h2>
-<p><strong>Does the AI also read the pages under that address?</strong> Pending confirmation. For now, add your most important pages one by one.</p>
 === FIN ===
 ```
 
@@ -431,8 +427,6 @@ Relacionados: o-que-e-o-treinamento-da-ia, para-que-serve-o-treinamento-da-ia, q
 <li><strong>Preencha os dados.</strong> Escreva o endereço em <strong>URL:</strong> (obrigatório). Se quiser, escolha <strong>Atributos</strong> e etiquetas.</li>
 <li><strong>Salve.</strong> Clique em "Guardar cambios" (Salvar alterações). Você verá <em>"¡URL guardada con éxito!"</em></li>
 </ol>
-<h2>Perguntas frequentes</h2>
-<p><strong>A IA também lê as páginas abaixo desse endereço?</strong> Pendente de confirmação. Por enquanto, adicione uma a uma as páginas mais importantes.</p>
 === FIN ===
 ```
 

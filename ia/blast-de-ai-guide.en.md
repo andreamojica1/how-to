@@ -76,7 +76,7 @@ When you finish you'll see *"Blast IA enviado con éxito"* (AI Blast sent succes
 
 > **Can it be undone?** Check everything before clicking "Finalizar".
 >
-> **Pending confirmation:** whether a scheduled AI Blast can be cancelled before its time.
+> A scheduled AI Blast can't be deleted, not even before its time.
 
 ### How to see the results
 
@@ -89,14 +89,14 @@ In **Interacciones > Blast**, your AI Blasts have the **AI** label. Click "Detal
 **Can I see the email each person will get before sending it?**
 No. The AI writes it at the moment of sending.
 
-**Does it cost extra?**
-> **Pending confirmation:** whether each AI-written email has an extra cost.
-
 **Are people who can't be contacted left out?**
-> **Pending confirmation.**
+Yes.
+
+**Which template is my email sent with?**
+With one of the templates you have enabled in **AI > Plantillas AI Email**.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

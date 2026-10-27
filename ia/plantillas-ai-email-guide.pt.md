@@ -73,13 +73,13 @@ Nos modelos **Propia**, você pode:
 ## Perguntas frequentes
 
 **Preciso ter a IA ativada para usar esta tela?**
-> **Pendente de confirmação.**
+Sim.
 
-**Quantos modelos da AFRUS existem?**
-> **Pendente de confirmação.**
+**Existe um limite de modelos que posso criar?**
+Não.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

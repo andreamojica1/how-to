@@ -45,15 +45,7 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 
 5. **Retome uma conversa.** Suas conversas ficam salvas à esquerda, em **Historial de conversaciones** (Histórico de conversas).
 
-**Opções extras:** ao lado da caixa de mensagem você pode escolher o modelo de IA e ativar "Interacción avanzada" (Interação avançada).
-
-> **Pendente de confirmação:** o que exatamente muda com a "Interacción avanzada".
-
 **Dica:** seja específico. "Escreva um e-mail de 150 palavras pedindo doações para nossa campanha de bolsas, em tom próximo" funciona melhor que "escreva um e-mail".
-
-## Quais idiomas tem
-
-> **Pendente de confirmação:** em quais idiomas o Chat com IA responde e se ele responde no idioma em que você escreve.
 
 ## Quais restrições tem
 
@@ -76,10 +68,10 @@ Não. Ela só usa o que você enviou em **Entrenamiento [AI RAG]**.
 Não. Cada usuário vê as suas.
 
 **Usar o chat tem custo?**
-> **Pendente de confirmação:** se o uso do chat é descontado de algum saldo da sua organização.
+Sim, você precisa adquirir tokens. Para mais informações, escreva para billing@afrus.ai.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

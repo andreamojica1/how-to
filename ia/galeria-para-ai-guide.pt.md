@@ -63,17 +63,14 @@ Assim a IA sabe quais imagens usar em cada tipo de e-mail.
 
 ## Perguntas frequentes
 
-**Criar imagens com IA consome créditos?**
-> **Pendente de confirmação.**
-
 **Existe um limite de imagens?**
-> **Pendente de confirmação.**
+Não, não existe limite de imagens.
 
-**Essas imagens são usadas nas mensagens de WhatsApp escritas pela IA?**
-> **Pendente de confirmação.**
+**Em quais lugares essas imagens são usadas?**
+Em muitos lugares, por exemplo nas landings, nos blasts (tanto de e-mail quanto de WhatsApp), nos autoresponders e nos fluxos de trabalho.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

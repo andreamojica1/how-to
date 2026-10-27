@@ -63,17 +63,14 @@ This way the AI knows which images to use in each kind of email.
 
 ## Frequently asked questions
 
-**Does creating images with AI use credits?**
-> **Pending confirmation.**
-
 **Is there a limit on the number of images?**
-> **Pending confirmation.**
+No, there is no limit on the number of images.
 
-**Are these images used in the WhatsApp messages the AI writes?**
-> **Pending confirmation.**
+**Where are these images used?**
+In many places, for example in landings, blasts (both email and WhatsApp), autoresponders and workflows.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

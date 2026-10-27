@@ -73,6 +73,7 @@ Relacionados: que-es-el-blast-de-ai, para-que-sirve-el-blast-de-ai
 <p><strong>¿Puedo ver el texto final antes de enviarlo?</strong> No. La prueba muestra el diseño, pero la IA escribe el texto de cada persona en el momento del envío.</p>
 <p><strong>¿A qué hora sale si lo programo?</strong> Según la hora de tu computador, aunque la pantalla muestre la de Bogotá. Si estás en otra zona horaria, ajusta la hora.</p>
 <p><strong>¿Puedo enviarlo por WhatsApp?</strong> Por ahora solo por correo.</p>
+<p><strong>¿Con qué plantilla se envía mi correo?</strong> Con alguna de las plantillas que tengas habilitadas en <strong>AI &gt; Plantillas AI Email</strong>.</p>
 === FIN ===
 ```
 
@@ -150,6 +151,7 @@ Relacionados: what-is-an-ai-blast, what-is-an-ai-blast-for
 <p><strong>Can I see the final text before sending?</strong> No. The test shows the design, but the AI writes each person's text at the moment of sending.</p>
 <p><strong>What time does it go out if I schedule it?</strong> According to your computer's time, even though the screen shows Bogotá time. If you're in another time zone, adjust the time.</p>
 <p><strong>Can I send it by WhatsApp?</strong> For now, email only.</p>
+<p><strong>Which template is my email sent with?</strong> With one of the templates you have enabled in <strong>AI &gt; Plantillas AI Email</strong>.</p>
 === FIN ===
 ```
 
@@ -227,5 +229,6 @@ Relacionados: o-que-e-o-blast-de-ia, para-que-serve-o-blast-de-ia
 <p><strong>Posso ver o texto final antes de enviar?</strong> Não. O teste mostra o design, mas a IA escreve o texto de cada pessoa no momento do envio.</p>
 <p><strong>A que horas sai se eu agendar?</strong> De acordo com o horário do seu computador, mesmo que a tela mostre o de Bogotá. Se você estiver em outro fuso horário, ajuste a hora.</p>
 <p><strong>Posso enviar por WhatsApp?</strong> Por enquanto, só por e-mail.</p>
+<p><strong>Com qual modelo meu e-mail é enviado?</strong> Com algum dos modelos que você tem habilitados em <strong>AI &gt; Plantillas AI Email</strong>.</p>
 === FIN ===
 ```

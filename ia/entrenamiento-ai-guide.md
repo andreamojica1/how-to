@@ -89,8 +89,6 @@ En **URL'S** agregas páginas web de tu organización para que la IA las lea: po
 
 4. **Guarda.** Pulsa "Guardar cambios". Verás *"¡URL guardada con éxito!"*
 
-> **Pendiente de confirmar:** si la IA lee solo esa página o también las páginas que cuelgan de ella. Por ahora, agrega una por una las páginas más importantes.
-
 **Ten en cuenta:** si pulsas "Guardar cambios" sin haber cambiado nada, puede aparecer un aviso con texto técnico. No pasa nada: tu información ya estaba guardada.
 
 ## Cómo ver lo que he subido
@@ -116,11 +114,8 @@ Lo puede usar apenas termina la carga.
 **¿Qué pasa si subo un documento sin elegir tema?**
 Sirve para todos los temas.
 
-**¿Las etiquetas cambian cómo responde la IA?**
-> **Pendiente de confirmar:** hoy se guardan, pero no está confirmado que cambien las respuestas.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

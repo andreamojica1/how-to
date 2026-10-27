@@ -73,13 +73,13 @@ On **Propia** templates you can:
 ## Frequently asked questions
 
 **Do I need the AI turned on to use this screen?**
-> **Pending confirmation.**
+Yes.
 
-**How many AFRUS templates are there?**
-> **Pending confirmation.**
+**Is there a limit on how many templates I can create?**
+No.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

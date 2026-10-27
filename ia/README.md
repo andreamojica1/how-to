@@ -28,7 +28,7 @@ También disponible en [inglés](./chat-con-ai-guide.en.md) y [portugués](./cha
 
 - Qué es el Chat con AI y para qué sirve
 - Cómo usarlo
-- Qué idiomas tiene (pendiente) y qué restricciones tiene
+- Qué restricciones tiene
 
 ### [Guía de Agentes para la web](./agentes-para-la-web-guide.md)
 

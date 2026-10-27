@@ -76,7 +76,7 @@ Ao terminar, você verá *"Blast IA enviado con éxito"* (Blast de IA enviado co
 
 > **Dá para desfazer?** Revise tudo antes de clicar em "Finalizar".
 >
-> **Pendente de confirmação:** se um Blast de IA agendado pode ser cancelado antes do horário.
+> Um Blast de IA agendado não pode ser excluído, nem mesmo antes do horário.
 
 ### Como ver os resultados
 
@@ -89,14 +89,14 @@ Em **Interacciones > Blast**, seus Blasts de IA têm a etiqueta **AI**. Clique e
 **Posso ver o e-mail que cada pessoa vai receber antes de enviar?**
 Não. A IA o escreve no momento do envio.
 
-**Tem custo adicional?**
-> **Pendente de confirmação:** se cada e-mail escrito com IA tem um custo extra.
-
 **As pessoas que não podem ser contatadas ficam de fora?**
-> **Pendente de confirmação.**
+Sim.
+
+**Com qual modelo meu e-mail é enviado?**
+Com algum dos modelos que você tem habilitados em **AI > Plantillas AI Email**.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

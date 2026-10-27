@@ -76,16 +76,10 @@ Cuando configures un autoresponder con IA, en **Configuración IA** elige el **R
 No. Cada usuario tiene una sola firma; si necesitas cambiarla, edítala.
 
 **¿Los envíos de Blast de AI usan la firma?**
-> **Pendiente de confirmar:** hoy solo está confirmado que la usan los autoresponders con IA.
-
-**¿La firma aparece al final del correo?**
-> **Pendiente de confirmar:** está confirmado que se usan el correo de envío y la descripción; no si la firma se ve al pie del mensaje.
-
-**¿Generar o mejorar la descripción con IA consume créditos?**
-> **Pendiente de confirmar.**
+Sí. Si no tienes firma, no puedes hacer envíos con IA ni configurar autoresponders con IA.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*
