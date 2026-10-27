@@ -86,7 +86,7 @@ Al terminar verás la estrella junto al nombre del widget elegido, y tu Business
 
 > **¿Se puede deshacer?** Sí. En el mismo menú de tres puntos elige **Quitar predeterminado**, o marca otro widget como predeterminado. Ten en cuenta que, si no hay widget predeterminado para un objetivo, la página no muestra ese widget.
 
-> **Pendiente de confirmar:** qué hace la página si el widget predeterminado está desactivado, y en qué parte de la página aparece cada widget. Mientras tanto, te recomendamos marcar como predeterminado un widget activo.
+> **Importante:** ambos widgets, el de donación y el de registro, deben estar configurados para que se muestren en la página de tu Business profile.
 
 ---
 
@@ -98,14 +98,6 @@ Al terminar verás la estrella junto al nombre del widget elegido, y tu Business
 | **Guardado sin enviar a AI** | El perfil está creado, pero su información no se envió a la IA | Pulsa "Enviar AI" en el paso **Tema** |
 | **Pendiente de sincronización con AI** | Cambiaste las preguntas frecuentes y falta enviarlas a la IA | Pulsa "Enviar AI" en el paso **Tema** |
 | **Sincronizado con AI** | La información está enviada a la IA de AFRUS | Nada; vuelve a enviar si haces cambios |
-
-## Limitaciones conocidas
-
-- **La URL no se puede cambiar** después de crear el perfil.
-- **Un widget predeterminado no se puede eliminar** desde su menú: primero quítale la marca de predeterminado o marca otro.
-- **Preguntas frecuentes de más de 300 caracteres:** si una pregunta o respuesta pasa del límite, el aviso de error puede mostrarse como un texto técnico en lugar de un mensaje claro. Si ves un texto extraño al guardar, acorta la pregunta o la respuesta.
-- **Ciudad y TikTok:** se guardan, pero es posible que no se vean en la página pública.
-- **A la IA solo se envían** el nombre, la descripción, el texto "Sobre nosotros" y las preguntas frecuentes.
 
 ## Preguntas frecuentes
 
@@ -127,4 +119,4 @@ Tu Business profile pasa a mostrar el nuevo widget predeterminado de ese objetiv
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-26*

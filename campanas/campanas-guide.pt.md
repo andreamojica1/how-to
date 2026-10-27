@@ -45,8 +45,6 @@ Ao vincular um widget, as doações e os cadastros feitos nele ficam associados 
 
 3. **Salve as alterações do widget.**
 
-   > **Pendente de confirmação:** o nome exato do botão de salvar no editor de widgets.
-
 Ao terminar, o widget aparece na tabela **Widgets de la campaña** (Widgets da campanha), no detalhe da campanha, e as doações e cadastros dele ficam associados a ela.
 
 - **Com uma só campanha**, o doador não vê nada diferente no formulário.
@@ -109,8 +107,6 @@ E duas formas de definir a meta, em **Tipo de meta**:
 
 > **Importante:** fonte, tamanho, cor e idioma vão dentro do código copiado. Se você mudar algo e salvar, copie e cole o código de novo para que o site use a nova versão.
 
-> **Limitação conhecida:** com **Meta de Suscriptores** ou **Meta de Registros** e meta **Dinámica**, o bloco mostra meta 0. Para esses tipos, use meta **Fija**.
-
 ## O que é o Componente de doadores
 
 **O Componente donantes (Componente de doadores) é um bloco para o seu site que mostra a lista de pessoas que doaram para a campanha.** Por padrão, o título é *"Personas que también donaron"* (Pessoas que também doaram) e ele mostra nome, sobrenome e valor de cada doação aprovada, da mais recente para a mais antiga, com rolagem vertical. Se ainda não houver doações, mostra *"No hay donantes disponibles"* (Não há doadores disponíveis).
@@ -152,7 +148,7 @@ Na campanha, o centro de custos é a aba **Costos** (Custos): *"Agrega en esta s
 
 Ao terminar, o custo aparece em **Lista de costos** (Lista de custos — colunas **Fecha**, **Valor**, **Widget**, **Tipo**, **Nota** e **Acciones**) e soma no **Total**, que você pode filtrar por período.
 
-> **Limitação conhecida:** o valor é salvo sem centavos (por exemplo, 150,75 vira 150). Registre valores arredondados. Os custos são sempre registrados na moeda da sua organização.
+> **Leve em conta:** o valor é salvo sem centavos (por exemplo, 150,75 vira 150). Registre valores arredondados. Os custos são sempre registrados na moeda da sua organização.
 
 > **Dá para desfazer?** Você pode editar um custo. Excluí-lo pede confirmação e não pode ser desfeito.
 
@@ -209,8 +205,6 @@ Se ainda não houver assinaturas canceladas, a tela usa um valor de referência 
 | Tabelas **Histórico** (por widget, UTM e URL) | Uma vez por dia: podem não incluir o dia de hoje. Mostram o total de sempre e não respeitam o período escolhido |
 | Aba **Tendencias** | Uma vez por dia: pode não incluir o dia de hoje |
 
-> **Pendente de confirmação:** o horário exato em que as tabelas Histórico e a aba Tendencias são atualizadas.
-
 **Taxa de conversão (em Datos de la campaña):** além do painel, a aba **Datos de la campaña** (Dados da campanha) mostra **Donaciones** (Doações, %), **Registros** (Cadastros, %) e **Visualizaciones** (Visualizações) dos widgets da campanha. O texto de ajuda diz *"Este dato se calcula cada 24 horas y puede no reflejar cambios recientes"* (Este dado é calculado a cada 24 horas e pode não refletir mudanças recentes).
 
 ## Para que servem e como usar os KPI Merge Tags
@@ -232,8 +226,6 @@ Se ainda não houver assinaturas canceladas, a tela usa um valor de referência 
 5. **Use no seu e-mail automático.** A tag tem este formato: `{{kpi_<ID da campanha>_<nome>}}`, com o nome em minúsculas e os espaços trocados por `_`. Por exemplo, campanha 88 e nome "Comidas Donadas" → `{{kpi_88_comidas_donadas}}`.
 
 Quando o e-mail é enviado, a tag é substituída pelo resultado da fórmula com o valor daquela doação, com 2 casas decimais. Multiplicação e divisão são calculadas antes de soma e subtração.
-
-> **Pendente de confirmação:** se os KPIs transacionais aparecem no seletor de merge tags do editor de e-mails. Enquanto isso, digite a tag exatamente como aparece em **Variable generada**.
 
 **Como criar um KPI Global:**
 
@@ -258,18 +250,6 @@ Ao abrir a landing publicada, a tag mostra o valor calculado naquele momento com
 | **inactivo** (inativo) | A campanha está desligada (chave **Campaña activa** desligada) | Ligar **Campaña activa** no detalhe para usá-la de novo |
 | **archivado** (arquivado) | A campanha está arquivada | Consultá-la |
 
-## Limitações conhecidas
-
-- **"Ver Analytics" fica desabilitado** até você registrar pelo menos um custo.
-- **Os custos são salvos sem centavos.** Registre valores arredondados.
-- **"Usar plantilla" não confirma** que a página de agradecimento foi salva: recarregue a campanha para conferir.
-- **Crowdfunding widget com meta Dinámica** de assinantes ou cadastros mostra meta 0: use meta **Fija**.
-- **KPI Global em landings** é escrito entre colchetes `[...]`, mesmo que a tela mostre chaves; e o nome não deve ter acentos, ñ nem símbolos.
-- **Os KPI Merge Tags não podem ser excluídos.**
-- **O Componente de doadores não tem opção de anonimato.**
-- **As tabelas Histórico do Analytics** não são filtradas por data.
-- **As coortes de assinaturas** estão desativadas temporariamente no detalhe da campanha.
-
 ## Perguntas frequentes
 
 **O que faz "Seleccionar por defecto" (Definir como padrão) no menu de uma campanha?**
@@ -288,4 +268,4 @@ Por enquanto, o uso só está confirmado em landings. Para e-mails automáticos,
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-26*

@@ -147,7 +147,6 @@ Relacionados: que-es-una-campana, que-es-el-componente-donantes, para-que-sirve-
 </ol>
 <h2>Preguntas frecuentes</h2>
 <p><strong>Cambié el diseño y mi web no cambió, ¿por qué?</strong> La tipografía, el tamaño, el color y el idioma van dentro del código. Después de guardar, copia y pega el código de nuevo.</p>
-<p><strong>¿Por qué mi meta aparece en 0?</strong> Con <strong>Meta de Suscriptores</strong> o <strong>Meta de Registros</strong> y meta <strong>Dinámica</strong>, el bloque muestra meta 0. Para esos tipos, usa meta <strong>Fija</strong>.</p>
 === FIN ===
 ```
 
@@ -420,7 +419,6 @@ Relacionados: what-is-a-campaign, what-is-the-donors-component, what-is-a-campai
 </ol>
 <h2>Frequently asked questions</h2>
 <p><strong>I changed the design and my website didn't change. Why?</strong> Font, size, color and language are inside the code. After saving, copy and paste the code again.</p>
-<p><strong>Why does my goal show 0?</strong> With <strong>Meta de Suscriptores</strong> or <strong>Meta de Registros</strong> and a <strong>Dinámica</strong> goal, the block shows a goal of 0. For those types, use a <strong>Fija</strong> goal.</p>
 === FIN ===
 ```
 
@@ -693,7 +691,6 @@ Relacionados: o-que-e-uma-campanha, o-que-e-o-componente-de-doadores, para-que-s
 </ol>
 <h2>Perguntas frequentes</h2>
 <p><strong>Mudei o visual e meu site não mudou. Por quê?</strong> Fonte, tamanho, cor e idioma vão dentro do código. Depois de salvar, copie e cole o código de novo.</p>
-<p><strong>Por que minha meta aparece como 0?</strong> Com <strong>Meta de Suscriptores</strong> ou <strong>Meta de Registros</strong> e meta <strong>Dinámica</strong>, o bloco mostra meta 0. Para esses tipos, use meta <strong>Fija</strong>.</p>
 === FIN ===
 ```
 

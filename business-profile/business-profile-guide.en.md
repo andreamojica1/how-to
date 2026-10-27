@@ -88,7 +88,7 @@ When you finish you will see the star next to the chosen widget's name, and your
 
 > **Can it be undone?** Yes. In the same three-dot menu choose **Quitar predeterminado** (Remove default), or set another widget as default. Keep in mind that if there is no default widget for a goal, the page does not show that widget.
 
-> **Pending confirmation:** what the page does if the default widget is deactivated, and where on the page each widget appears. In the meantime, we recommend setting an active widget as default.
+> **Important:** both widgets, the donation one and the registration one, must be set up for them to show on your Business profile page.
 
 ---
 
@@ -100,14 +100,6 @@ When you finish you will see the star next to the chosen widget's name, and your
 | **Guardado sin enviar a AI** (Saved, not sent to AI) | The profile exists, but its information wasn't sent to the AI | Click "Enviar AI" in the **Tema** step |
 | **Pendiente de sincronización con AI** (Pending AI sync) | You changed the FAQs and they still need to be sent to the AI | Click "Enviar AI" in the **Tema** step |
 | **Sincronizado con AI** (Synced with AI) | The information has been sent to AFRUS AI | Nothing; send again if you make changes |
-
-## Known limitations
-
-- **The URL cannot be changed** after the profile is created.
-- **A default widget cannot be deleted** from its menu: first remove its default mark or set another one.
-- **FAQs over 300 characters:** if a question or answer goes over the limit, the error message may appear as technical text instead of a clear message. If you see strange text when saving, shorten the question or answer.
-- **City and TikTok:** they are saved, but they may not show on the public page.
-- **Only these are sent to the AI:** name, description, "Sobre nosotros" text and FAQs.
 
 ## Frequently asked questions
 
@@ -129,4 +121,4 @@ Your Business profile starts showing the new default widget for that goal.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-26*

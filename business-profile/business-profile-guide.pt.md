@@ -88,7 +88,7 @@ Ao terminar, você verá a estrela ao lado do nome do widget escolhido, e o seu 
 
 > **Dá para desfazer?** Sim. No mesmo menu de três pontos, escolha **Quitar predeterminado** (Remover padrão) ou marque outro widget como padrão. Lembre-se: se não houver widget padrão para um objetivo, a página não mostra esse widget.
 
-> **Pendente de confirmação:** o que a página faz se o widget padrão estiver desativado, e em que parte da página aparece cada widget. Enquanto isso, recomendamos marcar como padrão um widget ativo.
+> **Importante:** os dois widgets, o de doação e o de cadastro, precisam estar configurados para aparecer na página do seu Business profile.
 
 ---
 
@@ -100,14 +100,6 @@ Ao terminar, você verá a estrela ao lado do nome do widget escolhido, e o seu 
 | **Guardado sin enviar a AI** (Salvo sem enviar para a IA) | O perfil existe, mas as informações não foram enviadas para a IA | Clique em "Enviar AI" na etapa **Tema** |
 | **Pendiente de sincronización con AI** (Sincronização pendente) | Você alterou as perguntas frequentes e falta enviá-las para a IA | Clique em "Enviar AI" na etapa **Tema** |
 | **Sincronizado con AI** (Sincronizado com a IA) | As informações foram enviadas para a IA da AFRUS | Nada; envie de novo se fizer mudanças |
-
-## Limitações conhecidas
-
-- **A URL não pode ser alterada** depois que o perfil é criado.
-- **Um widget padrão não pode ser excluído** pelo seu menu: primeiro remova a marca de padrão ou marque outro.
-- **Perguntas frequentes com mais de 300 caracteres:** se uma pergunta ou resposta passar do limite, o aviso de erro pode aparecer como um texto técnico em vez de uma mensagem clara. Se aparecer um texto estranho ao salvar, encurte a pergunta ou a resposta.
-- **Cidade e TikTok:** são salvos, mas podem não aparecer na página pública.
-- **Para a IA são enviados apenas** o nome, a descrição, o texto "Sobre nosotros" e as perguntas frequentes.
 
 ## Perguntas frequentes
 
@@ -129,4 +121,4 @@ Seu Business profile passa a mostrar o novo widget padrão daquele objetivo.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-26*

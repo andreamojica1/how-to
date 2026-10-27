@@ -45,8 +45,6 @@ When you link a widget, its donations and registrations are associated with the 
 
 3. **Save the widget changes.**
 
-   > **Pending confirmation:** the exact name of the save button in the widget editor.
-
 When you finish, the widget appears in the **Widgets de la campaña** (Campaign widgets) table in the campaign detail, and its donations and registrations are associated with the campaign.
 
 - **With a single campaign**, the donor sees nothing different on the form.
@@ -109,8 +107,6 @@ And two ways to set the goal, in **Tipo de meta** (Goal type):
 
 > **Important:** font, size, color and language are inside the code you copy. If you change something and save, copy and paste the code again so your website uses the new version.
 
-> **Known limitation:** with **Meta de Suscriptores** or **Meta de Registros** and a **Dinámica** goal, the block shows a goal of 0. For those types, use a **Fija** goal.
-
 ## What the Donors component is
 
 **The Componente donantes (Donors component) is a block for your website that shows the list of people who donated to the campaign.** By default it is titled *"Personas que también donaron"* (People who also donated) and shows the first name, last name and amount of each successful donation, newest first, with vertical scrolling. If there are no donations yet, it shows *"No hay donantes disponibles"* (No donors available).
@@ -152,7 +148,7 @@ In the campaign, the cost center is the **Costos** (Costs) tab: *"Agrega en esta
 
 When you finish, the cost appears in **Lista de costos** (Cost list — columns **Fecha**, **Valor**, **Widget**, **Tipo**, **Nota** and **Acciones**) and adds to the **Total**, which you can filter by date range.
 
-> **Known limitation:** the value is saved without decimals (for example, 150.75 becomes 150). Record rounded amounts. Costs are always recorded in your organization's currency.
+> **Keep in mind:** the value is saved without decimals (for example, 150.75 becomes 150). Record rounded amounts. Costs are always recorded in your organization's currency.
 
 > **Can it be undone?** You can edit a cost. Deleting it asks for confirmation and cannot be undone.
 
@@ -209,8 +205,6 @@ If there are no cancelled subscriptions yet, the screen uses a 3% reference valu
 | **Histórico** tables (by widget, UTM and URL) | Once a day: they may not include today. They show the all-time total and ignore the date range |
 | **Tendencias** tab | Once a day: it may not include today |
 
-> **Pending confirmation:** the exact time the Histórico tables and the Tendencias tab update.
-
 **Conversion rate (in Datos de la campaña):** besides the dashboard, the **Datos de la campaña** (Campaign data) tab shows **Donaciones** (Donations, %), **Registros** (Registrations, %) and **Visualizaciones** (Views) for the campaign's widgets. Its help text says *"Este dato se calcula cada 24 horas y puede no reflejar cambios recientes"* (This figure is calculated every 24 hours and may not reflect recent changes).
 
 ## What KPI Merge Tags are for and how to use them
@@ -232,8 +226,6 @@ If there are no cancelled subscriptions yet, the screen uses a 3% reference valu
 5. **Use it in your automated email.** The tag looks like this: `{{kpi_<campaign ID>_<name>}}`, with the name in lowercase and spaces replaced by `_`. For example, campaign 88 and name "Comidas Donadas" → `{{kpi_88_comidas_donadas}}`.
 
 When the email is sent, the tag is replaced by the formula result using that donation's amount, with 2 decimals. Multiplication and division are calculated before addition and subtraction.
-
-> **Pending confirmation:** whether Transactional KPIs appear in the merge tag picker of the email editor. In the meantime, type the tag exactly as shown in **Variable generada**.
 
 **How to create a Global KPI:**
 
@@ -258,18 +250,6 @@ When the published landing opens, the tag shows the value calculated at that mom
 | **inactivo** (inactive) | The campaign is off (**Campaña activa** switch off) | Turn **Campaña activa** on in the detail to use it again |
 | **archivado** (archived) | The campaign is archived | Consult it |
 
-## Known limitations
-
-- **"Ver Analytics" is disabled** until you record at least one cost.
-- **Costs are saved without decimals.** Record rounded amounts.
-- **"Usar plantilla" gives no confirmation** that the thank-you page was saved: reload the campaign to check.
-- **Crowdfunding widget with a Dinámica goal** for subscribers or registrations shows a goal of 0: use a **Fija** goal.
-- **Global KPI in landings** is written in square brackets `[...]`, even though the screen shows curly braces; and its name must not contain accents, ñ or symbols.
-- **KPI Merge Tags cannot be deleted.**
-- **The Donors component has no anonymity option.**
-- **The Analytics Histórico tables** are not filtered by date.
-- **Subscription cohorts** are temporarily disabled in the campaign detail.
-
 ## Frequently asked questions
 
 **What does "Seleccionar por defecto" (Set as default) do in a campaign's menu?**
@@ -288,4 +268,4 @@ For now, its use is only confirmed in landings. For automated emails, use a Tran
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-26*
