@@ -10,16 +10,16 @@ After reading this guide you will know what a widget is, which types exist and h
 
 ## What a widget is
 
-**A widget is an AFRUS form (donation, registration, payment, etc.) built from blocks called snippets and embedded on any website or landing page with a short code.**
+**A widget is an AFRUS form (transaction, registration, product) built from blocks called snippets and embedded on any website or landing page with a short code.**
 
-Each widget has an **Objetivo** (Goal) — for example donation or registration —, one or more countries with their language and currency, and a list of snippets: personal information, amounts, payment method, terms and conditions, button, etc.
+Each widget has an **Objetivo** (Goal) — for example transaction or registration —, one or more countries with their language and currency, and a list of snippets: personal information, amounts, payment method, terms and conditions, button, etc.
 
 In **Fundraising > Widgets** you will see the **Gestión de Widgets** (Widget management) screen, with the "Nuevo widget" (New widget) button, filters (**Campaña**, **Objetivo**, **Estado**, **Por defecto**, **Etiqueta** — campaign, goal, status, default, tag) and a table with **Estado**, **Nombre**, **Fecha**, **Objetivo**, **Recaudado**, **Transacciones**, **Suscripciones**, **Vistas** and **Registros** (status, name, date, goal, raised, transactions, subscriptions, views, registrations).
 
 ## What it is for
 
 - **Receive donations on your own site.** One-time, monthly or yearly, without donors leaving your page.
-- **Capture leads, sell products or tickets and collect payments.** Each use has its own widget type.
+- **Capture leads and sell products or tickets.** Each use has its own widget type.
 - **Speak to each visitor in their language and currency.** The widget shows the country the person is browsing from, if you set it up.
 - **Measure performance.** The **Dashboard de Widget** shows views, conversions and revenue for each form.
 - **Send conversions to Google and Meta.** With Google Tag Manager, GA4, Pixel and Conversions API.
@@ -42,11 +42,8 @@ The widget type is its **Objetivo** (Goal). It is chosen when you create the wid
 | Goal | What it is for | Snippets added automatically |
 |---|---|---|
 | **Transacción** (Transaction) | One-time, monthly or yearly donations | Personal information, Donation, Terms and conditions, Payment method, Button |
-| **Registros** / **Registro** (Registration) | Capturing people's details (leads), no payment | Personal information, Button (Terms and conditions must be added to save) |
-| **Ofrece Misas** / **Regala Misas** (Masses) | Mass and intention forms | Personal information, Mass types, Terms and conditions, Payment method, Button |
-| **Pagos** (Payments) | Collecting a payment with a fixed value or a min/max | Personal information, Generic payment, Terms and conditions, Payment method, Button |
+| **Registro** (Registration) | Capturing people's details (leads), no payment | Personal information, Button (Terms and conditions must be added to save) |
 | **Producto** (Product) | Selling products or raffle tickets with price and stock | Personal information, Product, Terms and conditions, Payment method, Button |
-| **Sign up** | Registering an organization with a pricing plan | Personal information, Sign up, Registration address, Pricing model, Terms and conditions, Payment method, Button |
 
 To create a widget of the type you need:
 
@@ -58,8 +55,6 @@ To create a widget of the type you need:
 5. **Set up the snippets and save.** Save each snippet with **Guardar Snippet** and the widget with "Guardar Widget". Then turn on the **Estado** switch so it is active.
 
 If something is missing, "Guardar Widget" shows a red **Errores** (Errors) button with the reason, for example *"Debe seleccionar al menos una campaña en la pestaña de configuración"* (You must select at least one campaign) or *"Debe configurar los términos y condiciones para poder guardar el widget"* (You must set up terms and conditions to save the widget).
-
-> **Pending confirmation:** exactly how the **Popup** mode looks to the visitor (button position).
 
 ## How to change the widget's styles
 
@@ -83,7 +78,7 @@ When you finish you will see the new styles in the preview and in the published 
 1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar".
 2. **Add the country.** In the center column, click the **Nuevo país** (New country) card.
    <!-- screenshot pending: how-to-add-a-new-country-02 — Idioma y moneda window -->
-3. **Fill in language and currency.** In **Idioma y moneda**, choose **Seleccione un país** (Select a country), the **Idioma** (Español, English, Portugues, Italian or Deutsch) and check the **Moneda** (it fills in with the country's currency, but you can change it). If the widget's goal is **Pagos**, also choose the decimal format (1.00 or 1,00).
+3. **Fill in language and currency.** In **Idioma y moneda**, choose **Seleccione un país** (Select a country), the **Idioma** (Español, English, Portugues, Italian or Deutsch) and check the **Moneda** (it fills in with the country's currency, but you can change it).
 4. **Add a footer (optional).** Type a **Pie de página** text of up to 250 characters.
 5. **Save the country.** Click "Guardar" (Save). You will see *"¡País añadido satisfactoriamente!"* (Country added successfully).
 6. **Set up its snippets.** The new country starts without snippets of its own: when you open it, the editor adds the required ones for its goal. Set up amounts and payment method, and click "Guardar Widget".
@@ -94,23 +89,21 @@ When you finish you will see the new styles in the preview and in the published 
 
 With each country's three-dot menu you can use **Seleccionar por defecto** (Set as default), **Editar** and **Eliminar** (Delete). When editing, you can change language, currency, decimal format and footer, but not the country. The default country cannot be deleted, and the same country cannot be added twice (*"El País ya existe en este Widget"*, the country already exists in this widget).
 
-> **Pending confirmation:** whether deleting a country can be undone.
+> **Can it be undone?** No. Deleting a country cannot be undone.
 
 ## Which snippets are required and which are suggested
 
 In the editor, snippets are either **required** or **optional**. AFRUS does not mark snippets as "suggested": which ones are worth using depends on your form.
 
-> **Pending confirmation:** an official recommendation of suggested snippets per widget type.
-
 **Required** (the editor adds them automatically and does not let you delete them):
 
 - **Información personal** (Personal information): always first.
 - **Términos y condiciones** (Terms and conditions): without this snippet, set up with text and URL, no widget can be saved. It is added automatically in every goal except **Registro**, where you must add it with "Agregar".
-- **Medio de pago** (Payment method) and the final button (**Botón**): fixed at the end and cannot be moved. **Medio de pago** is added in the Transaction, Masses, Payments, Product and Sign up goals.
-- Depending on the goal: **Donación** (Transaction), **Tipos de Misas** (Masses), **Pago Genérico** (Payments), **Producto** (Product), and **Sign up**, **Dirección de registro** and **Modelo de precios** (Sign up).
+- **Medio de pago** (Payment method) and the final button (**Botón**): fixed at the end and cannot be moved. **Medio de pago** is added in the Transaction and Product goals.
+- Depending on the goal: **Donación** (Transaction) or **Producto** (Product).
 - **Those required by the gateway:** when you save **Medio de pago**, the editor adds the fields each gateway requires, with the notice *"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"* (This snippet is required by the payment gateway). They can be first name, last name or email, **Dirección** (address; not required in Brazil), **Documento** (ID document; not required with PayPal or direct debit; with AvalPay **Documento** and phone are always required) and other fields such as phone, gender, date of birth, country, organization or postal code.
 
-**Optional:** **Imagen** (Image), **Texto** (Text), **Separador** (Separator: splits the form into steps), **Campo personalizado** (Custom field), **Campo predeterminado** (Default field), **Dirección** or **Dirección Fija** (Address or Fixed address — you can't use both), **Documento**, **Ofrecer única a recurrente** (Offer one-time to recurring), **ID de la campaña de Salesforce** (not visible on the form) and, for masses, **Imagen con texto**, **Intención** and **Regala intención**. Some only appear if AFRUS enabled them for your organization.
+**Optional:** **Imagen** (Image), **Texto** (Text), **Separador** (Separator: splits the form into steps), **Campo personalizado** (Custom field), **Campo predeterminado** (Default field), **Dirección** or **Dirección Fija** (Address or Fixed address — you can't use both), **Documento**, **Ofrecer única a recurrente** (Offer one-time to recurring), **ID de la campaña de Salesforce** (not visible on the form). Some only appear if AFRUS enabled them for your organization.
 
 To add a snippet:
 
@@ -123,7 +116,7 @@ Most snippets can be added only once per country; **Texto**, **Imagen**, **Separ
 
 ## How to set up payment methods in your widget
 
-**Before you start:** the gateway must be connected in **Ajustes de Organización > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency. In **Sign up** widgets only Stripe and Niubiz2 are offered.
+**Before you start:** the gateway must be connected in **Ajustes de Organización > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency.
 
 1. **Open the Medio de pago snippet.** In the widget editor, choose the country and click the **Medio de pago** snippet.
    <!-- screenshot pending: how-to-set-up-payment-methods-01 — Medio de pago snippet -->
@@ -135,7 +128,6 @@ Most snippets can be added only once per country; **Texto**, **Imagen**, **Separ
 
 When you finish, donors will see only the methods enabled for the frequency they chose, in the order you set.
 
-- Pix, boleto and cash can only be offered as **Única** (one-time). The exception is Pix with Infopago, which also allows monthly.
 - The same method cannot be assigned to two gateways in the same frequency.
 - Some methods are only shown for certain countries.
 - Changing the country's currency deletes these settings.
@@ -233,7 +225,7 @@ When you finish, in the widget's last step, with that gateway selected, donors w
 2. **Option A: use the campaign's page.** Check **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). After paying, donors go to the thank-you page you created in the campaign. As the editor warns, check the countries that don't have the same translation in the campaign.
 3. **Option B: set your own URLs.** Click "Configurar" (Set up). In the **Páginas de agradecimiento** window, turn on **Habilitar página de agradecimiento** (Enable thank-you page) and choose:
    - one **Página de agradecimiento general** (general thank-you page) URL for every case; or
-   - **Página de agradecimiento personalizada** (custom thank-you page; only in transaction and mass widgets): in **Transacciones unicas** and **Transacciones recurrentes** (one-time and recurring transactions) fill in **Redirección de transacción exitosa** (successful transaction redirect) and **Redirección de transacción pendiente de confirmación** (pending transaction redirect). For masses, one URL per mass type.
+   - **Página de agradecimiento personalizada** (custom thank-you page; only in transaction widgets): in **Transacciones unicas** and **Transacciones recurrentes** (one-time and recurring transactions) fill in **Redirección de transacción exitosa** (successful transaction redirect) and **Redirección de transacción pendiente de confirmación** (pending transaction redirect). For masses, one URL per mass type.
 4. **Save.** Click "Guardar" and then "Guardar Widget".
 
 When you finish, after the operation donors will go to the matching URL. If the thank-you page is disabled, they see the form's own confirmation.
@@ -283,7 +275,7 @@ When you finish:
 - If the widget is inactive (**Estado** off), it doesn't receive donations.
 - To check it without publishing, use "Vista previa" or, in the **Dashboard de Widget**, "Abrir para probar" (Open to test).
 
-> **Pending confirmation:** how long a saved change takes to show in the already published widget.
+Saved changes show right away in the already published widget.
 
 ---
 
@@ -303,9 +295,6 @@ When you finish:
 
 **Can I have different amounts per country?**
 Yes. Each country has its own Donation snippet and its own payment method.
-
-**Can I offer Pix or boleto as a monthly donation?**
-No, except Pix with Infopago, which also allows monthly. Pix, boleto and cash are offered only as **Única**.
 
 **Where do I turn on Cover Your Cost inside the widget?**
 Nowhere in the widget: it is set up per gateway, in **Ajustes de Organización > Pasarelas de pago**, and only if AFRUS turned it on for your organization.

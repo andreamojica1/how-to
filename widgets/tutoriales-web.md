@@ -9,14 +9,14 @@ Idioma: es
 Título: Qué es un widget
 Slug: que-es-un-widget
 Categoría: Widgets
-Resumen: Aprende qué es un widget de AFRUS: un formulario de donación, registro o pago que se arma por bloques y se inserta en tu sitio web.
+Resumen: Aprende qué es un widget de AFRUS: un formulario de transacción, registro o producto que se arma por bloques y se inserta en tu sitio web.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-un-widget, tipos-de-widgets-en-afrus, como-cambiar-los-estilos-del-widget, como-agregar-un-nuevo-pais-a-un-widget, snippets-obligatorios-y-sugeridos, como-configurar-los-metodos-de-pago-del-widget, como-configurar-el-snippet-donacion, scape-recurrent-donacion-unica-como-enlace, cards-de-conversion-unica-a-recurrente, cover-your-cost, como-configurar-una-pagina-de-agradecimiento-en-el-widget, opciones-avanzadas-del-widget, como-insertar-un-widget-en-tu-sitio-web
 --- CUERPO (HTML) ---
-<p><strong>Un widget es un formulario de AFRUS (de donación, de registro, de pago, etc.) que se arma por bloques llamados snippets y se inserta en cualquier sitio web o landing con un pequeño código.</strong></p>
-<p>Cada widget tiene un <strong>Objetivo</strong> (por ejemplo, donación o registro), uno o varios países con su idioma y moneda, y una lista de snippets: información personal, montos, medio de pago, términos y condiciones, botón, etc.</p>
+<p><strong>Un widget es un formulario de AFRUS (de transacción, de registro, de producto) que se arma por bloques llamados snippets y se inserta en cualquier sitio web o landing con un pequeño código.</strong></p>
+<p>Cada widget tiene un <strong>Objetivo</strong> (por ejemplo, transacción o registro), uno o varios países con su idioma y moneda, y una lista de snippets: información personal, montos, medio de pago, términos y condiciones, botón, etc.</p>
 <h2>Dónde lo encuentras</h2>
 <p>En <strong>Fundraising &gt; Widgets</strong> verás la pantalla <strong>Gestión de Widgets</strong>, con el botón "Nuevo widget", filtros (<strong>Campaña</strong>, <strong>Objetivo</strong>, <strong>Estado</strong>, <strong>Por defecto</strong>, <strong>Etiqueta</strong>) y una tabla con <strong>Estado</strong>, <strong>Nombre</strong>, <strong>Fecha</strong>, <strong>Objetivo</strong>, <strong>Recaudado</strong>, <strong>Transacciones</strong>, <strong>Suscripciones</strong>, <strong>Vistas</strong> y <strong>Registros</strong>.</p>
 <h2>Preguntas frecuentes</h2>
@@ -29,7 +29,7 @@ Idioma: es
 Título: Para qué sirve un widget
 Slug: para-que-sirve-un-widget
 Categoría: Widgets
-Resumen: Aprende para qué sirve un widget: recibir donaciones, captar registros, cobrar pagos y medir resultados desde tu propio sitio web.
+Resumen: Aprende para qué sirve un widget: recibir donaciones, captar registros, vender productos y medir resultados desde tu propio sitio web.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -38,7 +38,7 @@ Relacionados: que-es-un-widget, tipos-de-widgets-en-afrus, como-cambiar-los-esti
 <p>Un widget es un formulario de AFRUS que insertas en tu sitio o landing. Esto es lo que te permite hacer:</p>
 <ul>
 <li><strong>Recibir donaciones desde tu sitio.</strong> Únicas, mensuales o anuales, sin que el donante salga de tu página.</li>
-<li><strong>Captar registros (leads), vender productos o tickets y cobrar pagos.</strong> Cada uso tiene su propio tipo de widget.</li>
+<li><strong>Captar registros (leads) y vender productos o tickets.</strong> Cada uso tiene su propio tipo de widget.</li>
 <li><strong>Hablarle a cada visitante en su idioma y su moneda.</strong> El widget muestra el país desde donde navega la persona, si lo configuraste.</li>
 <li><strong>Medir el rendimiento.</strong> El <strong>Dashboard de Widget</strong> muestra vistas, conversiones e ingresos de cada formulario.</li>
 <li><strong>Enviar las conversiones a Google y a Meta.</strong> Con Google Tag Manager, GA4, Pixel y Conversions API.</li>
@@ -61,11 +61,8 @@ Relacionados: que-es-un-widget, para-que-sirve-un-widget, como-cambiar-los-estil
 <p>El tipo de widget es su <strong>Objetivo</strong>. Se elige al crearlo y define qué snippets se agregan solos. Los objetivos que ves son los que AFRUS tiene habilitados para tu organización.</p>
 <ul>
 <li><strong>Transacción:</strong> donaciones únicas, mensuales o anuales.</li>
-<li><strong>Registros / Registro:</strong> captar datos de personas (leads), sin pago.</li>
-<li><strong>Ofrece Misas / Regala Misas:</strong> formularios de misas e intenciones.</li>
-<li><strong>Pagos:</strong> cobrar un pago con valor fijo o con mínimo y máximo.</li>
+<li><strong>Registro:</strong> captar datos de personas (leads), sin pago.</li>
 <li><strong>Producto:</strong> vender productos o tickets de rifa con precio y stock.</li>
-<li><strong>Sign up:</strong> registro de una organización con plan de precios.</li>
 </ul>
 <h2>Paso a paso</h2>
 <ol>
@@ -122,7 +119,7 @@ Relacionados: que-es-un-widget, como-cambiar-los-estilos-del-widget, snippets-ob
 <p>El editor del widget se abre en una pestaña nueva. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
 <ol>
 <li><strong>Agrega el país.</strong> En la columna central, haz clic en <strong>Nuevo país</strong>.</li>
-<li><strong>Completa idioma y moneda.</strong> Elige <strong>Seleccione un país</strong>, el <strong>Idioma</strong> (Español, English, Portugues, Italian o Deutsch) y revisa la <strong>Moneda</strong>. En widgets de <strong>Pagos</strong>, elige también el formato decimal.</li>
+<li><strong>Completa idioma y moneda.</strong> Elige <strong>Seleccione un país</strong>, el <strong>Idioma</strong> (Español, English, Portugues, Italian o Deutsch) y revisa la <strong>Moneda</strong>.</li>
 <li><strong>Agrega un pie de página (opcional).</strong> Hasta 250 caracteres.</li>
 <li><strong>Guarda.</strong> Haz clic en "Guardar". Verás <em>"¡País añadido satisfactoriamente!"</em></li>
 <li><strong>Configura sus snippets.</strong> El país empieza solo con los snippets obligatorios. Configura montos y medio de pago y haz clic en "Guardar Widget".</li>
@@ -151,11 +148,11 @@ Relacionados: que-es-un-widget, como-agregar-un-nuevo-pais-a-un-widget, como-con
 <li><strong>Información personal:</strong> siempre va primero.</li>
 <li><strong>Términos y condiciones:</strong> sin él, con texto y URL, ningún widget se puede guardar. En <strong>Registro</strong> hay que agregarlo a mano.</li>
 <li><strong>Medio de pago</strong> y <strong>Botón</strong>: fijos al final.</li>
-<li><strong>Según el objetivo:</strong> Donación, Tipos de Misas, Pago Genérico, Producto, o Sign up con Dirección de registro y Modelo de precios.</li>
+<li><strong>Según el objetivo:</strong> Donación (Transacción) o Producto.</li>
 <li><strong>Los que exige la pasarela:</strong> se agregan solos al guardar Medio de pago, con el aviso <em>"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"</em>.</li>
 </ul>
 <h2>Opcionales</h2>
-<p>Imagen, Texto, Separador, Campo personalizado, Campo predeterminado, Dirección o Dirección Fija, Documento, Ofrecer única a recurrente, ID de la campaña de Salesforce y, en misas, Imagen con texto, Intención y Regala intención. Algunos solo aparecen si AFRUS los habilitó para tu organización.</p>
+<p>Imagen, Texto, Separador, Campo personalizado, Campo predeterminado, Dirección o Dirección Fija, Documento, Ofrecer única a recurrente, ID de la campaña de Salesforce. Algunos solo aparecen si AFRUS los habilitó para tu organización.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre el editor del widget.</strong> En <strong>Fundraising &gt; Widgets</strong>, haz clic en "Editar".</li>
@@ -190,7 +187,6 @@ Relacionados: que-es-un-widget, snippets-obligatorios-y-sugeridos, como-configur
 <li><strong>Guarda.</strong> <strong>Guardar Snippet</strong> y luego "Guardar Widget".</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo ofrecer Pix o boleto como mensual?</strong> No. Pix, boleto y efectivo solo se ofrecen como <strong>Única</strong>, salvo Pix con Infopago, que también admite mensual.</p>
 <p><strong>¿Qué pasa si cambio la moneda del país?</strong> Se borra esta configuración y hay que rehacerla.</p>
 === FIN ===
 ```
@@ -405,13 +401,13 @@ Idioma: en
 Título: What a widget is
 Slug: what-is-a-widget
 Categoría: Widgets
-Resumen: Learn what an AFRUS widget is: a donation, registration or payment form built from blocks and embedded on your website.
+Resumen: Learn what an AFRUS widget is: a transaction, registration or product form built from blocks and embedded on your website.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget-for, widget-types-in-afrus, how-to-change-the-widget-styles, how-to-add-a-new-country-to-a-widget, required-and-suggested-snippets, how-to-set-up-widget-payment-methods, how-to-set-up-the-donation-snippet, scape-recurrent-one-time-donation-as-link, conversion-cards-one-time-to-recurring, cover-your-cost-donors-cover-costs, how-to-set-up-a-thank-you-page-in-the-widget, advanced-widget-options, how-to-embed-a-widget-on-your-website
 --- CUERPO (HTML) ---
-<p><strong>A widget is an AFRUS form (donation, registration, payment, etc.) built from blocks called snippets and embedded on any website or landing page with a short code.</strong></p>
+<p><strong>A widget is an AFRUS form (transaction, registration, product) built from blocks called snippets and embedded on any website or landing page with a short code.</strong></p>
 <p>Each widget has an <strong>Objetivo</strong> (Goal), one or more countries with their language and currency, and a list of snippets: personal information, amounts, payment method, terms and conditions, button, etc.</p>
 <h2>Where to find it</h2>
 <p>Labels are shown as they appear in the Spanish version of the console.</p><p>In <strong>Fundraising &gt; Widgets</strong> you will see the <strong>Gestión de Widgets</strong> (Widget management) screen, with the "Nuevo widget" (New widget) button, filters (campaign, goal, status, default, tag) and a table with status, name, date, goal, amount raised, transactions, subscriptions, views and registrations.</p>
@@ -434,7 +430,7 @@ Relacionados: what-is-a-widget, widget-types-in-afrus, how-to-change-the-widget-
 <p>A widget is an AFRUS form you embed on your site or landing page. This is what it lets you do:</p>
 <ul>
 <li><strong>Receive donations on your site.</strong> One-time, monthly or yearly, without donors leaving your page.</li>
-<li><strong>Capture leads, sell products or tickets and collect payments.</strong> Each use has its own widget type.</li>
+<li><strong>Capture leads and sell products or tickets.</strong> Each use has its own widget type.</li>
 <li><strong>Speak to each visitor in their language and currency.</strong> The widget shows the country the person is browsing from, if you set it up.</li>
 <li><strong>Measure performance.</strong> The <strong>Dashboard de Widget</strong> shows views, conversions and revenue for each form.</li>
 <li><strong>Send conversions to Google and Meta.</strong> With Google Tag Manager, GA4, Pixel and Conversions API.</li>
@@ -457,11 +453,8 @@ Relacionados: what-is-a-widget, what-is-a-widget-for, how-to-change-the-widget-s
 <p>Labels are shown as they appear in the Spanish version of the console.</p><p>The widget type is its <strong>Objetivo</strong> (Goal). It is chosen when you create the widget and defines which snippets are added automatically. The goals you see are the ones AFRUS has enabled for your organization.</p>
 <ul>
 <li><strong>Transacción</strong> (Transaction): one-time, monthly or yearly donations.</li>
-<li><strong>Registros / Registro</strong> (Registration): capturing people's details (leads), no payment.</li>
-<li><strong>Ofrece Misas / Regala Misas</strong> (Masses): mass and intention forms.</li>
-<li><strong>Pagos</strong> (Payments): collecting a payment with a fixed value or a min/max.</li>
+<li><strong>Registro</strong> (Registration): capturing people's details (leads), no payment.</li>
 <li><strong>Producto</strong> (Product): selling products or raffle tickets with price and stock.</li>
-<li><strong>Sign up</strong>: registering an organization with a pricing plan.</li>
 </ul>
 <h2>Step by step</h2>
 <ol>
@@ -518,7 +511,7 @@ Relacionados: what-is-a-widget, how-to-change-the-widget-styles, required-and-su
 <p>The widget editor opens in a new tab. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
 <ol>
 <li><strong>Add the country.</strong> In the center column, click <strong>Nuevo país</strong> (New country).</li>
-<li><strong>Fill in language and currency.</strong> Choose <strong>Seleccione un país</strong> (Select a country), the <strong>Idioma</strong> (Español, English, Portugues, Italian or Deutsch) and check the <strong>Moneda</strong> (currency). In <strong>Pagos</strong> widgets, also choose the decimal format.</li>
+<li><strong>Fill in language and currency.</strong> Choose <strong>Seleccione un país</strong> (Select a country), the <strong>Idioma</strong> (Español, English, Portugues, Italian or Deutsch) and check the <strong>Moneda</strong> (currency).</li>
 <li><strong>Add a footer (optional).</strong> Up to 250 characters.</li>
 <li><strong>Save.</strong> Click "Guardar" (Save). You will see <em>"¡País añadido satisfactoriamente!"</em> (Country added successfully).</li>
 <li><strong>Set up its snippets.</strong> The country starts with only the required snippets. Set up amounts and payment method and click "Guardar Widget".</li>
@@ -547,11 +540,11 @@ Relacionados: what-is-a-widget, how-to-add-a-new-country-to-a-widget, how-to-set
 <li><strong>Información personal</strong> (Personal information): always first.</li>
 <li><strong>Términos y condiciones</strong> (Terms and conditions): without it, with text and URL, no widget can be saved. In <strong>Registro</strong> widgets you add it manually.</li>
 <li><strong>Medio de pago</strong> (Payment method) and <strong>Botón</strong> (Button): fixed at the end.</li>
-<li><strong>By goal:</strong> Donation, Mass types, Generic payment, Product, or Sign up with Registration address and Pricing model.</li>
+<li><strong>By goal:</strong> Donation (Transaction) or Product.</li>
 <li><strong>Those required by the gateway:</strong> added automatically when you save the payment method, with the notice <em>"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"</em> (required by the payment gateway).</li>
 </ul>
 <h2>Optional</h2>
-<p>Image, Text, Separator, Custom field, Default field, Address or Fixed address, ID document, Offer one-time to recurring, Salesforce campaign ID and, for masses, Image with text, Intention and Gift intention. Some only appear if AFRUS enabled them for your organization.</p>
+<p>Image, Text, Separator, Custom field, Default field, Address or Fixed address, ID document, Offer one-time to recurring, Salesforce campaign ID. Some only appear if AFRUS enabled them for your organization.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the widget editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, click "Editar" (Edit).</li>
@@ -586,7 +579,6 @@ Relacionados: what-is-a-widget, required-and-suggested-snippets, how-to-set-up-t
 <li><strong>Save.</strong> <strong>Guardar Snippet</strong> and then "Guardar Widget".</li>
 </ol>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I offer Pix or boleto as monthly?</strong> No. Pix, boleto and cash are offered only as <strong>Única</strong>, except Pix with Infopago, which also allows monthly.</p>
 <p><strong>What happens if I change the country's currency?</strong> These settings are deleted and must be redone.</p>
 === FIN ===
 ```
@@ -801,13 +793,13 @@ Idioma: pt-BR
 Título: O que é um widget
 Slug: o-que-e-um-widget
 Categoría: Widgets
-Resumen: Aprenda o que é um widget da AFRUS: um formulário de doação, cadastro ou pagamento montado por blocos e inserido no seu site.
+Resumen: Aprenda o que é um widget da AFRUS: um formulário de transação, cadastro ou produto montado por blocos e inserido no seu site.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-um-widget, tipos-de-widget-na-afrus, como-mudar-os-estilos-do-widget, como-adicionar-um-novo-pais-a-um-widget, snippets-obrigatorios-e-sugeridos, como-configurar-os-metodos-de-pagamento-do-widget, como-configurar-o-snippet-doacao, scape-recurrent-doacao-unica-como-link, cards-de-conversao-unica-para-recorrente, cover-your-cost-doador-cobre-os-custos, como-configurar-uma-pagina-de-agradecimento-no-widget, opcoes-avancadas-do-widget, como-inserir-um-widget-no-seu-site
 --- CUERPO (HTML) ---
-<p><strong>Um widget é um formulário da AFRUS (de doação, de cadastro, de pagamento etc.) montado com blocos chamados snippets e inserido em qualquer site ou landing com um pequeno código.</strong></p>
+<p><strong>Um widget é um formulário da AFRUS (de transação, de cadastro, de produto) montado com blocos chamados snippets e inserido em qualquer site ou landing com um pequeno código.</strong></p>
 <p>Cada widget tem um <strong>Objetivo</strong>, um ou mais países com seu idioma e moeda, e uma lista de snippets: informações pessoais, valores, meio de pagamento, termos e condições, botão etc.</p>
 <h2>Onde encontrar</h2>
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>Em <strong>Fundraising &gt; Widgets</strong> você verá a tela <strong>Gestión de Widgets</strong> (Gestão de widgets), com o botão "Nuevo widget" (Novo widget), filtros (campanha, objetivo, status, padrão, etiqueta) e uma tabela com status, nome, data, objetivo, arrecadado, transações, assinaturas, visualizações e cadastros.</p>
@@ -821,7 +813,7 @@ Idioma: pt-BR
 Título: Para que serve um widget
 Slug: para-que-serve-um-widget
 Categoría: Widgets
-Resumen: Aprenda para que serve um widget: receber doações, captar cadastros, cobrar pagamentos e medir resultados no seu próprio site.
+Resumen: Aprenda para que serve um widget: receber doações, captar cadastros, vender produtos e medir resultados no seu próprio site.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -830,7 +822,7 @@ Relacionados: o-que-e-um-widget, tipos-de-widget-na-afrus, como-mudar-os-estilos
 <p>Um widget é um formulário da AFRUS que você insere no seu site ou landing. Veja o que ele permite fazer:</p>
 <ul>
 <li><strong>Receber doações no seu site.</strong> Únicas, mensais ou anuais, sem o doador sair da sua página.</li>
-<li><strong>Captar cadastros (leads), vender produtos ou tickets e cobrar pagamentos.</strong> Cada uso tem seu tipo de widget.</li>
+<li><strong>Captar cadastros (leads) e vender produtos ou tickets.</strong> Cada uso tem seu tipo de widget.</li>
 <li><strong>Falar com cada visitante no idioma e na moeda dele.</strong> O widget mostra o país de onde a pessoa navega, se você o configurou.</li>
 <li><strong>Medir o desempenho.</strong> O <strong>Dashboard de Widget</strong> mostra visualizações, conversões e receita de cada formulário.</li>
 <li><strong>Enviar as conversões para o Google e a Meta.</strong> Com Google Tag Manager, GA4, Pixel e Conversions API.</li>
@@ -853,11 +845,8 @@ Relacionados: o-que-e-um-widget, para-que-serve-um-widget, como-mudar-os-estilos
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>O tipo de widget é o seu <strong>Objetivo</strong>. Ele é escolhido na criação e define quais snippets são adicionados automaticamente. Os objetivos que você vê são os que a AFRUS habilitou para a sua organização.</p>
 <ul>
 <li><strong>Transacción</strong> (Transação): doações únicas, mensais ou anuais.</li>
-<li><strong>Registros / Registro</strong> (Cadastro): captar dados de pessoas (leads), sem pagamento.</li>
-<li><strong>Ofrece Misas / Regala Misas</strong> (Missas): formulários de missas e intenções.</li>
-<li><strong>Pagos</strong> (Pagamentos): cobrar um pagamento com valor fixo ou com mínimo e máximo.</li>
+<li><strong>Registro</strong> (Cadastro): captar dados de pessoas (leads), sem pagamento.</li>
 <li><strong>Producto</strong> (Produto): vender produtos ou tickets de rifa com preço e estoque.</li>
-<li><strong>Sign up</strong>: cadastro de uma organização com plano de preços.</li>
 </ul>
 <h2>Passo a passo</h2>
 <ol>
@@ -914,7 +903,7 @@ Relacionados: o-que-e-um-widget, como-mudar-os-estilos-do-widget, snippets-obrig
 <p>O editor do widget abre em uma nova aba. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
 <ol>
 <li><strong>Adicione o país.</strong> Na coluna central, clique em <strong>Nuevo país</strong> (Novo país).</li>
-<li><strong>Preencha idioma e moeda.</strong> Escolha <strong>Seleccione un país</strong> (Selecione um país), o <strong>Idioma</strong> (Español, English, Portugues, Italian ou Deutsch) e confira a <strong>Moneda</strong> (moeda). Em widgets de <strong>Pagos</strong>, escolha também o formato decimal.</li>
+<li><strong>Preencha idioma e moeda.</strong> Escolha <strong>Seleccione un país</strong> (Selecione um país), o <strong>Idioma</strong> (Español, English, Portugues, Italian ou Deutsch) e confira a <strong>Moneda</strong> (moeda).</li>
 <li><strong>Adicione um rodapé (opcional).</strong> Até 250 caracteres.</li>
 <li><strong>Salve.</strong> Clique em "Guardar" (Salvar). Você verá <em>"¡País añadido satisfactoriamente!"</em> (País adicionado com sucesso).</li>
 <li><strong>Configure os snippets dele.</strong> O país começa só com os snippets obrigatórios. Configure valores e meio de pagamento e clique em "Guardar Widget".</li>
@@ -943,11 +932,11 @@ Relacionados: o-que-e-um-widget, como-adicionar-um-novo-pais-a-um-widget, como-c
 <li><strong>Información personal</strong> (Informações pessoais): sempre vem primeiro.</li>
 <li><strong>Términos y condiciones</strong> (Termos e condições): sem ele, com texto e URL, nenhum widget pode ser salvo. Em widgets de <strong>Registro</strong> é preciso adicioná-lo manualmente.</li>
 <li><strong>Medio de pago</strong> (Meio de pagamento) e <strong>Botón</strong> (Botão): fixos no final.</li>
-<li><strong>Conforme o objetivo:</strong> Doação, Tipos de missas, Pagamento genérico, Produto, ou Sign up com Endereço de cadastro e Modelo de preços.</li>
+<li><strong>Conforme o objetivo:</strong> Doação (Transação) ou Produto.</li>
 <li><strong>Os exigidos pelo gateway:</strong> adicionados automaticamente ao salvar o meio de pagamento, com o aviso <em>"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"</em> (exigido pelo gateway de pagamento).</li>
 </ul>
 <h2>Opcionais</h2>
-<p>Imagem, Texto, Separador, Campo personalizado, Campo padrão, Endereço ou Endereço fixo, Documento, Oferecer única para recorrente, ID da campanha do Salesforce e, em missas, Imagem com texto, Intenção e Presentear intenção. Alguns só aparecem se a AFRUS os habilitou para a sua organização.</p>
+<p>Imagem, Texto, Separador, Campo personalizado, Campo padrão, Endereço ou Endereço fixo, Documento, Oferecer única para recorrente, ID da campanha do Salesforce. Alguns só aparecem se a AFRUS os habilitou para a sua organização.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o editor do widget.</strong> Em <strong>Fundraising &gt; Widgets</strong>, clique em "Editar".</li>
@@ -982,7 +971,6 @@ Relacionados: o-que-e-um-widget, snippets-obrigatorios-e-sugeridos, como-configu
 <li><strong>Salve.</strong> <strong>Guardar Snippet</strong> e depois "Guardar Widget".</li>
 </ol>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso oferecer Pix ou boleto como mensal?</strong> Não. Pix, boleto e dinheiro são oferecidos só como <strong>Única</strong>, exceto Pix com Infopago, que também aceita mensal.</p>
 <p><strong>O que acontece se eu mudar a moeda do país?</strong> Essa configuração é apagada e precisa ser refeita.</p>
 === FIN ===
 ```
