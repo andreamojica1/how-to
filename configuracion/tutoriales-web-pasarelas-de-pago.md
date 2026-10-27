@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué son las pasarelas de pago
 Slug: que-son-las-pasarelas-de-pago
 Categoría: Configuración
-Resumen: Aprende qué es una pasarela de pago en Afrus y dónde se configuran las pasarelas de tu organización.
+Resumen: Aprende qué es una pasarela de pago en AFRUS y dónde se configuran las pasarelas de tu organización.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -65,12 +65,12 @@ Relacionados: que-son-las-pasarelas-de-pago, para-que-sirven-las-pasarelas-de-pa
 --- CUERPO (HTML) ---
 <p>Con Cover Your Cost, el donante puede pagar un poco más para cubrir la comisión de la pasarela. Así tu organización recibe el monto completo de la donación.</p>
 <h2>Antes de empezar</h2>
-<ul><li><strong>Afrus tiene que activar Cover Your Cost para tu organización.</strong> Si no ves la sección <strong>Cover Your Cost</strong> al abrir una pasarela, escríbenos para activarla.</li></ul>
+<ul><li><strong>AFRUS tiene que activar Cover Your Cost para tu organización.</strong> Si no ves la sección <strong>Cover Your Cost</strong> al abrir una pasarela, escríbenos para activarla.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre la pasarela.</strong> Ve a <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> y abre la pasarela donde quieres ofrecerlo.</li>
 <li><strong>Enciende la opción.</strong> En la sección <strong>Cover Your Cost</strong>, activa <strong>Activar Cover Your Cost</strong>.</li>
-<li><strong>Escribe la comisión de la pasarela.</strong> En <strong>Comisión de pasarela (%)</strong> pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La <strong>Comisión Afrus (%)</strong> aparece solo para que la veas.</li>
+<li><strong>Escribe la comisión de la pasarela.</strong> En <strong>Comisión de pasarela (%)</strong> pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La <strong>Comisión AFRUS (%)</strong> aparece solo para que la veas.</li>
 <li><strong>Elige cómo la ve el donante.</strong> Con <strong>Preseleccionar la opción para el donante</strong> encendido, la ve ya activada y puede quitarla. Apagado, la activa si quiere.</li>
 <li><strong>Guarda.</strong> Guarda la pasarela y repite en cada pasarela donde quieras ofrecerlo.</li>
 </ol>
@@ -78,7 +78,7 @@ Relacionados: que-son-las-pasarelas-de-pago, para-que-sirven-las-pasarelas-de-pa
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Cómo lo desactivo?</strong> Abre la pasarela, apaga <strong>Activar Cover Your Cost</strong> y guarda. Puedes encenderlo y apagarlo cuando quieras.</p>
 <p><strong>¿Se activa en el formulario?</strong> No. Se configura en cada pasarela, no en cada formulario.</p>
-<p><strong>¿Hay algún límite?</strong> La comisión de la pasarela más la de Afrus tienen que sumar menos de 80 %.</p>
+<p><strong>¿Hay algún límite?</strong> La comisión de la pasarela más la de AFRUS tienen que sumar menos de 80 %.</p>
 === FIN ===
 ```
 
@@ -90,7 +90,7 @@ Idioma: en
 Título: What payment gateways are
 Slug: what-are-payment-gateways
 Categoría: Configuración
-Resumen: Learn what a payment gateway is in Afrus and where your organization's gateways are set up.
+Resumen: Learn what a payment gateway is in AFRUS and where your organization's gateways are set up.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -145,12 +145,12 @@ Relacionados: what-are-payment-gateways, what-are-payment-gateways-for
 --- CUERPO (HTML) ---
 <p>With Cover Your Cost, the donor can pay a little more to cover the gateway fee. This way your organization receives the full donation amount. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
-<ul><li><strong>Afrus has to turn on Cover Your Cost for your organization.</strong> If you don't see the <strong>Cover Your Cost</strong> section when you open a gateway, write to us to activate it.</li></ul>
+<ul><li><strong>AFRUS has to turn on Cover Your Cost for your organization.</strong> If you don't see the <strong>Cover Your Cost</strong> section when you open a gateway, write to us to activate it.</li></ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the gateway.</strong> Go to <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Settings &gt; Payments &gt; Payment gateways) and open the gateway where you want to offer it.</li>
 <li><strong>Turn it on.</strong> In the <strong>Cover Your Cost</strong> section, turn on <strong>Activar Cover Your Cost</strong>.</li>
-<li><strong>Enter the gateway fee.</strong> In <strong>Comisión de pasarela (%)</strong> (Gateway fee %), enter the percentage that gateway charges you (minimum 0.01). The <strong>Comisión Afrus (%)</strong> (Afrus fee %) is shown for reference only.</li>
+<li><strong>Enter the gateway fee.</strong> In <strong>Comisión de pasarela (%)</strong> (Gateway fee %), enter the percentage that gateway charges you (minimum 0.01). The <strong>Comisión AFRUS (%)</strong> (AFRUS fee %) is shown for reference only.</li>
 <li><strong>Choose how the donor sees it.</strong> With <strong>Preseleccionar la opción para el donante</strong> (Preselect the option for the donor) on, they see it already on and can remove it. Off, they turn it on if they want.</li>
 <li><strong>Save.</strong> Save the gateway and repeat in each gateway where you want to offer it.</li>
 </ol>
@@ -158,7 +158,7 @@ Relacionados: what-are-payment-gateways, what-are-payment-gateways-for
 <h2>Frequently asked questions</h2>
 <p><strong>How do I turn it off?</strong> Open the gateway, turn off <strong>Activar Cover Your Cost</strong> and save. You can turn it on and off whenever you want.</p>
 <p><strong>Is it turned on in the form?</strong> No. It is set up per gateway, not per form.</p>
-<p><strong>Is there a limit?</strong> The gateway fee plus the Afrus fee must add up to less than 80%.</p>
+<p><strong>Is there a limit?</strong> The gateway fee plus the AFRUS fee must add up to less than 80%.</p>
 === FIN ===
 ```
 
@@ -170,7 +170,7 @@ Idioma: pt-BR
 Título: O que são os gateways de pagamento
 Slug: o-que-sao-os-gateways-de-pagamento
 Categoría: Configuración
-Resumen: Aprenda o que é um gateway de pagamento na Afrus e onde são configurados os gateways da sua organização.
+Resumen: Aprenda o que é um gateway de pagamento na AFRUS e onde são configurados os gateways da sua organização.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -225,12 +225,12 @@ Relacionados: o-que-sao-os-gateways-de-pagamento, para-que-servem-os-gateways-de
 --- CUERPO (HTML) ---
 <p>Com o Cover Your Cost, o doador pode pagar um pouco mais para cobrir a taxa do gateway. Assim sua organização recebe o valor completo da doação. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
-<ul><li><strong>A Afrus precisa ativar o Cover Your Cost para sua organização.</strong> Se você não vê a seção <strong>Cover Your Cost</strong> ao abrir um gateway, escreva para nós para ativá-la.</li></ul>
+<ul><li><strong>A AFRUS precisa ativar o Cover Your Cost para sua organização.</strong> Se você não vê a seção <strong>Cover Your Cost</strong> ao abrir um gateway, escreva para nós para ativá-la.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o gateway.</strong> Acesse <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Configurações &gt; Pagamentos &gt; Gateways de pagamento) e abra o gateway onde quer oferecê-lo.</li>
 <li><strong>Ative a opção.</strong> Na seção <strong>Cover Your Cost</strong>, ative <strong>Activar Cover Your Cost</strong>.</li>
-<li><strong>Informe a taxa do gateway.</strong> Em <strong>Comisión de pasarela (%)</strong> (Taxa do gateway %), coloque a porcentagem que esse gateway cobra (mínimo 0.01). A <strong>Comisión Afrus (%)</strong> (Taxa Afrus %) aparece só para consulta.</li>
+<li><strong>Informe a taxa do gateway.</strong> Em <strong>Comisión de pasarela (%)</strong> (Taxa do gateway %), coloque a porcentagem que esse gateway cobra (mínimo 0.01). A <strong>Comisión AFRUS (%)</strong> (Taxa AFRUS %) aparece só para consulta.</li>
 <li><strong>Escolha como o doador vê.</strong> Com <strong>Preseleccionar la opción para el donante</strong> (Pré-selecionar a opção para o doador) ativado, ele vê a opção ligada e pode tirá-la. Desativado, ele a liga se quiser.</li>
 <li><strong>Salve.</strong> Salve o gateway e repita em cada gateway onde quiser oferecê-lo.</li>
 </ol>
@@ -238,7 +238,7 @@ Relacionados: o-que-sao-os-gateways-de-pagamento, para-que-servem-os-gateways-de
 <h2>Perguntas frequentes</h2>
 <p><strong>Como desativo?</strong> Abra o gateway, desligue <strong>Activar Cover Your Cost</strong> e salve. Você pode ligar e desligar quando quiser.</p>
 <p><strong>É ativado no formulário?</strong> Não. É configurado em cada gateway, não em cada formulário.</p>
-<p><strong>Há algum limite?</strong> A taxa do gateway mais a da Afrus precisam somar menos de 80%.</p>
+<p><strong>Há algum limite?</strong> A taxa do gateway mais a da AFRUS precisam somar menos de 80%.</p>
 === FIN ===
 ```
 

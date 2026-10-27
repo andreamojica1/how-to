@@ -30,7 +30,7 @@ También disponible en [inglés](./radar-monitor-de-fraude-guide.en.md) y [portu
 - Qué es el Radar y para qué sirve
 - Cada cuánto se actualiza y cuándo una transacción se considera fraudulenta
 - Cómo marcar una transacción como fraude y cómo revisar el Radar
-- Mecanismos de Afrus para combatir el fraude
+- Mecanismos de AFRUS para combatir el fraude
 
 ### [Guía de Leads spam](./leads-spam-guide.md)
 
@@ -38,7 +38,7 @@ También disponible en [inglés](./leads-spam-guide.en.md) y [portugués](./lead
 
 - Qué es Leads spam y para qué sirve
 - Cómo revisar los leads spam y restaurar una persona con "No es spam"
-- Cada cuánto se actualiza, cuándo un lead se considera spam y qué mecanismos tiene Afrus contra el spam
+- Cada cuánto se actualiza, cuándo un lead se considera spam y qué mecanismos tiene AFRUS contra el spam
 
 ### [Guía de Links de pago](./links-de-pago-guide.md)
 

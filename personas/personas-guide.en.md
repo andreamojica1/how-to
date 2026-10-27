@@ -10,7 +10,7 @@ After reading this guide you will know what Personas is, what it does for you, a
 
 ## What Personas is
 
-**Personas is your organization's contact database on Afrus.** It holds everyone who registered, donated or was created by hand by your team, with their details, tags, communication consents (opt-in), transactions, subscriptions, notes, reminders and the history of what they have done.
+**Personas is your organization's contact database on AFRUS.** It holds everyone who registered, donated or was created by hand by your team, with their details, tags, communication consents (opt-in), transactions, subscriptions, notes, reminders and the history of what they have done.
 
 When you open it you will see the **Indicadores globales** (Global indicators: **Total de personas**, **Activos**, **Suscriptores** and **Monto total** — total people, active, subscribers and total amount), a search box, a date bar, the "Crear persona" (Create person), "Acciones" (Actions) and "Ver procesos" (View processes) buttons, and the people table. Clicking a person's **ID** opens their profile, with the tabs **Contacto** (Contact), **Transacciones** (Transactions), **Subscripciones** (Subscriptions), **Recordatorios** (Reminders), **Notas** (Notes) and **Eventos** (Events).
 
@@ -154,12 +154,12 @@ You will see *"El proceso de borrado de leads ha comenzado, ten en cuenta que pu
 
 ## What reminders and notes are for and how to use them
 
-**Reminders: so you don't forget a follow-up.** You schedule an alert about the person and, on the date, Afrus sends an email to you (the user who created it) with the person's name, email and phone and your message.
+**Reminders: so you don't forget a follow-up.** You schedule an alert about the person and, on the date, AFRUS sends an email to you (the user who created it) with the person's name, email and phone and your message.
 
 1. **Create the reminder.** In the profile, **Recordatorios** tab, click "Crear recordatorio" (Create reminder).
 2. **Fill it in.** Write **Nombre** (name) and **Mensaje** (message), choose the date in **Seleccionar Fecha** (Select date) and the time, and save.
 
-You will see *"El recordatorio se ha creado correctamente"* (Reminder created successfully). *"Lista de recordatorios"* (Reminder list) shows **ID**, **Nombre**, creation date and **Estado** (status), with filters by **Estado** (**Creado** — created, **Completado** — completed, **Programado** — scheduled, **Todos** — all) and by dates. Each row can be edited or deleted. Afrus checks reminders every 10 minutes, so the email may arrive up to about 10 minutes after the chosen time; once sent, the status changes to **Completado**.
+You will see *"El recordatorio se ha creado correctamente"* (Reminder created successfully). *"Lista de recordatorios"* (Reminder list) shows **ID**, **Nombre**, creation date and **Estado** (status), with filters by **Estado** (**Creado** — created, **Completado** — completed, **Programado** — scheduled, **Todos** — all) and by dates. Each row can be edited or deleted. AFRUS checks reminders every 10 minutes, so the email may arrive up to about 10 minutes after the chosen time; once sent, the status changes to **Completado**.
 
 **Notes: to record what already happened.** They let you log an interaction that already took place with the person, so your whole team has the context.
 
@@ -174,7 +174,7 @@ You will see *"La nota se ha creado correctamente"* (Note created successfully).
 - **In the profile:** **Contacto** tab, **Más información** (More information) card, **Información Personalizada** (Custom information) section. Each field appears with its value, or "-" if empty. The section only appears if the person has any custom field.
 - **When creating or editing:** they are filled in the **Información Personalizada** section of "Crear persona" or "Editar" (Edit, in the **Contacto** tab).
 - **In the export:** they come out as columns when downloading with **Base de datos en tiempo real**.
-- **Where they are defined:** in **Configuración > Avanzado > Campos personalizados**. This screen opens in the previous version of Afrus, so it looks different.
+- **Where they are defined:** in **Configuración > Avanzado > Campos personalizados**. This screen opens in the previous version of AFRUS, so it looks different.
 
 ## How to send personalized links to a person
 
@@ -207,11 +207,11 @@ When you finish you will see *"¡Link de pago creado con éxito!"* (Payment link
 
 2. **Choose the type and click "Continuar" (Continue).**
    - **Electrónica** (Electronic — *"Pagos con tarjeta, Paypal u otros medios digitales"*: card, PayPal or other digital payments): charges a saved card of the person or another configured method.
-   - **Manual** (*"Pagos en efectivo, consignación, billetera o cheque"*: cash, deposit, wallet or check): records a payment you already received outside Afrus.
+   - **Manual** (*"Pagos en efectivo, consignación, billetera o cheque"*: cash, deposit, wallet or check): records a payment you already received outside AFRUS.
 
 3. **Fill in the details.**
    - For **Electrónica**: **Método de pago** (payment method — the most recently used card appears first, marked **Usado recientemente**, recently used), **Monto** (amount), **Moneda** (currency), **Campaña** and **Widget**.
-   - For **Manual**: **Método de pago** (**Efectivo** — cash, **Cheque** — check, **Transferencia** — transfer, or **Billetera digital** — digital wallet), **Monto**, **Moneda**, **Referencia (Opcional)** (reference, optional), **Fecha de transacción** (transaction date), **Fecha de registro en afrus** (date recorded in Afrus), **Campaña** and **Widget**. If the widget is a product widget, you choose products and quantities and the amount is calculated automatically.
+   - For **Manual**: **Método de pago** (**Efectivo** — cash, **Cheque** — check, **Transferencia** — transfer, or **Billetera digital** — digital wallet), **Monto**, **Moneda**, **Referencia (Opcional)** (reference, optional), **Fecha de transacción** (transaction date), **Fecha de registro en afrus** (date recorded in AFRUS), **Campaña** and **Widget**. If the widget is a product widget, you choose products and quantities and the amount is calculated automatically.
    - The **Widget** is chosen after the **Campaña**.
 
 4. **Create the transaction.** Click "Crear transacción" (Create transaction).
@@ -226,7 +226,7 @@ You will see *"La transacción se ha creado correctamente"* (Transaction created
 
 2. **Choose the payment method and amount.** In **Metodo de pago** choose a saved card of the person or another configured method, and type the **Monto** (required, greater than 0).
 
-3. **Choose the charge day, if shown.** If the card uses Afrus's recurring engine, choose **Fecha automática (recomendada)** (automatic date, recommended), **Fecha de creación de la suscripción** (subscription creation date) or **Fecha de cobro** (charge date: a day from 1 to 28).
+3. **Choose the charge day, if shown.** If the card uses AFRUS's recurring engine, choose **Fecha automática (recomendada)** (automatic date, recommended), **Fecha de creación de la suscripción** (subscription creation date) or **Fecha de cobro** (charge date: a day from 1 to 28).
 
 4. **Link the campaign and widget.** Choose **Campaña** and then **Widget**, so the subscription counts in their results.
 
@@ -260,7 +260,7 @@ If the email bounced, the profile shows *"Tiene Hard Bounce"* or *"Tiene Soft Bo
 | Download with **Datos analizados** | Every 24 hours |
 | Files in **Data > Descargas** | Available for 7 days |
 | Export and bulk delete | In the background; may take a few minutes |
-| Reminders | Afrus checks them every 10 minutes |
+| Reminders | AFRUS checks them every 10 minutes |
 
 ## Known limitations
 

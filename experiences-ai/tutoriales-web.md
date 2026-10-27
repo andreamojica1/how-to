@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es Experiences AI
 Slug: que-es-experiences-ai
 Categoría: Experiences AI
-Resumen: Aprende qué es Experiences AI: la herramienta de Afrus que crea con IA páginas de donación y de agradecimiento listas para publicar.
+Resumen: Aprende qué es Experiences AI: la herramienta de AFRUS que crea con IA páginas de donación y de agradecimiento listas para publicar.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -20,7 +20,7 @@ Relacionados: para-que-sirve-experiences-ai, como-crear-una-landing-con-ia, como
 <p>La encuentras en <strong>Fundraising &gt; Experiences AI</strong>. Las páginas que creas aquí viven solo en ese módulo: no son landings del módulo <strong>Landings</strong> y no aparecen en esa lista.</p>
 <h2>Antes de empezar</h2>
 <ul>
-<li><strong>Activa la IA de Afrus.</strong> Completa tu <strong>Business profile</strong> y pulsa "Enviar AI" en su último paso. Si no está activa, verás el aviso <em>"Activación necesaria para usar afrus experience"</em>.</li>
+<li><strong>Activa la IA de AFRUS.</strong> Completa tu <strong>Business profile</strong> y pulsa "Enviar AI" en su último paso. Si no está activa, verás el aviso <em>"Activación necesaria para usar afrus experience"</em>.</li>
 </ul>
 <h2>Estados de una experiencia</h2>
 <ul>
@@ -52,7 +52,7 @@ Relacionados: que-es-experiences-ai, como-crear-una-landing-con-ia, como-cambiar
 <li><strong>Compartir fácil.</strong> Comparte la página con un link o con un código QR.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo definir la meta y la moneda de la página?</strong> No desde este módulo. La experiencia guarda una meta por defecto de 10.000, y por ahora no hay una alternativa dentro de Afrus.</p>
+<p><strong>¿Puedo definir la meta y la moneda de la página?</strong> No desde este módulo. La experiencia guarda una meta por defecto de 10.000, y por ahora no hay una alternativa dentro de AFRUS.</p>
 === FIN ===
 ```
 
@@ -71,7 +71,7 @@ Relacionados: que-es-experiences-ai, como-cambiar-la-plantilla-en-experiences-ai
 <p>Con Experiences AI respondes tres preguntas y la IA escribe los textos de tu página.</p>
 <h2>Antes de empezar</h2>
 <ul>
-<li><strong>Activa la IA de Afrus:</strong> completa tu <strong>Business profile</strong> y pulsa "Enviar AI" en su último paso.</li>
+<li><strong>Activa la IA de AFRUS:</strong> completa tu <strong>Business profile</strong> y pulsa "Enviar AI" en su último paso.</li>
 <li><strong>Ten un widget de donación creado</strong> si vas a hacer una página de <strong>Donación</strong>.</li>
 </ul>
 <h2>Paso a paso</h2>
@@ -103,7 +103,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-experiences-ai, como-crear-una-landing-con-ia, como-cambiar-los-estilos-en-experiences-ai
 --- CUERPO (HTML) ---
-<p>Al crear la experiencia, Afrus le asigna al azar una de las plantillas disponibles para su tipo. Puedes cambiarla cuando quieras.</p>
+<p>Al crear la experiencia, AFRUS le asigna al azar una de las plantillas disponibles para su tipo. Puedes cambiarla cuando quieras.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre el editor.</strong> En <strong>Fundraising &gt; Experiences AI</strong>, pulsa el ícono de lápiz de la experiencia.</li>
@@ -202,7 +202,7 @@ Idioma: en
 Título: What Experiences AI is
 Slug: what-is-experiences-ai
 Categoría: Experiences AI
-Resumen: Learn what Experiences AI is: the Afrus tool that uses AI to create donation and thank-you pages ready to publish.
+Resumen: Learn what Experiences AI is: the AFRUS tool that uses AI to create donation and thank-you pages ready to publish.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -212,7 +212,7 @@ Relacionados: what-is-experiences-ai-for, how-to-create-a-landing-page-with-ai, 
 <p>You'll find it in <strong>Fundraising &gt; Experiences AI</strong>. The pages you create here live only in that module: they are not landings from the <strong>Landings</strong> module and don't appear in that list. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
 <ul>
-<li><strong>Activate Afrus AI.</strong> Complete your <strong>Business profile</strong> and click "Enviar AI" (Send to AI) in its last step. If it isn't active, you'll see the notice <em>"Activación necesaria para usar afrus experience"</em> (Activation required).</li>
+<li><strong>Activate AFRUS AI.</strong> Complete your <strong>Business profile</strong> and click "Enviar AI" (Send to AI) in its last step. If it isn't active, you'll see the notice <em>"Activación necesaria para usar afrus experience"</em> (Activation required).</li>
 </ul>
 <h2>Experience statuses</h2>
 <ul>
@@ -244,7 +244,7 @@ Relacionados: what-is-experiences-ai, how-to-create-a-landing-page-with-ai, how-
 <li><strong>Share easily.</strong> Share the page with a link or a QR code.</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I set the page's goal and currency?</strong> Not from this module. The experience stores a default goal of 10,000, and for now there is no alternative within Afrus.</p>
+<p><strong>Can I set the page's goal and currency?</strong> Not from this module. The experience stores a default goal of 10,000, and for now there is no alternative within AFRUS.</p>
 === FIN ===
 ```
 
@@ -263,7 +263,7 @@ Relacionados: what-is-experiences-ai, how-to-change-the-template-in-experiences-
 <p>With Experiences AI you answer three questions and the AI writes your page's texts. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
 <ul>
-<li><strong>Activate Afrus AI:</strong> complete your <strong>Business profile</strong> and click "Enviar AI" (Send to AI) in its last step.</li>
+<li><strong>Activate AFRUS AI:</strong> complete your <strong>Business profile</strong> and click "Enviar AI" (Send to AI) in its last step.</li>
 <li><strong>Have a donation widget created</strong> if you're making a <strong>Donación</strong> (Donation) page.</li>
 </ul>
 <h2>Step by step</h2>
@@ -295,7 +295,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-experiences-ai, how-to-create-a-landing-page-with-ai, how-to-change-the-styles-in-experiences-ai
 --- CUERPO (HTML) ---
-<p>When the experience is created, Afrus randomly assigns one of the templates available for its type. You can change it whenever you like.</p>
+<p>When the experience is created, AFRUS randomly assigns one of the templates available for its type. You can change it whenever you like.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the editor.</strong> In <strong>Fundraising &gt; Experiences AI</strong>, click the experience's pencil icon.</li>
@@ -395,7 +395,7 @@ Idioma: pt-BR
 Título: O que é o Experiences AI
 Slug: o-que-e-experiences-ai
 Categoría: Experiences AI
-Resumen: Aprenda o que é o Experiences AI: a ferramenta da Afrus que cria com IA páginas de doação e de agradecimento prontas para publicar.
+Resumen: Aprenda o que é o Experiences AI: a ferramenta da AFRUS que cria com IA páginas de doação e de agradecimento prontas para publicar.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -405,7 +405,7 @@ Relacionados: para-que-serve-experiences-ai, como-criar-uma-landing-page-com-ia,
 <p>Você o encontra em <strong>Fundraising &gt; Experiences AI</strong>. As páginas criadas aqui ficam só nesse módulo: não são landings do módulo <strong>Landings</strong> e não aparecem nessa lista. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
 <ul>
-<li><strong>Ative a IA da Afrus.</strong> Complete seu <strong>Business profile</strong> e clique em "Enviar AI" na última etapa. Se ela não estiver ativa, você verá o aviso <em>"Activación necesaria para usar afrus experience"</em> (Ativação necessária).</li>
+<li><strong>Ative a IA da AFRUS.</strong> Complete seu <strong>Business profile</strong> e clique em "Enviar AI" na última etapa. Se ela não estiver ativa, você verá o aviso <em>"Activación necesaria para usar afrus experience"</em> (Ativação necessária).</li>
 </ul>
 <h2>Status de uma experiência</h2>
 <ul>
@@ -437,7 +437,7 @@ Relacionados: o-que-e-experiences-ai, como-criar-uma-landing-page-com-ia, como-m
 <li><strong>Compartilhar com facilidade.</strong> Compartilhe a página com um link ou um QR code.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso definir a meta e a moeda da página?</strong> Não neste módulo. A experiência guarda uma meta padrão de 10.000 e, por enquanto, não há alternativa dentro da Afrus.</p>
+<p><strong>Posso definir a meta e a moeda da página?</strong> Não neste módulo. A experiência guarda uma meta padrão de 10.000 e, por enquanto, não há alternativa dentro da AFRUS.</p>
 === FIN ===
 ```
 
@@ -456,7 +456,7 @@ Relacionados: o-que-e-experiences-ai, como-mudar-o-modelo-no-experiences-ai, com
 <p>Com o Experiences AI você responde a três perguntas e a IA escreve os textos da sua página. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
 <ul>
-<li><strong>Ative a IA da Afrus:</strong> complete seu <strong>Business profile</strong> e clique em "Enviar AI" na última etapa.</li>
+<li><strong>Ative a IA da AFRUS:</strong> complete seu <strong>Business profile</strong> e clique em "Enviar AI" na última etapa.</li>
 <li><strong>Tenha um widget de doação criado</strong> se for fazer uma página de <strong>Donación</strong> (Doação).</li>
 </ul>
 <h2>Passo a passo</h2>
@@ -488,7 +488,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-experiences-ai, como-criar-uma-landing-page-com-ia, como-mudar-os-estilos-no-experiences-ai
 --- CUERPO (HTML) ---
-<p>Ao criar a experiência, a Afrus atribui ao acaso um dos modelos disponíveis para o tipo dela. Você pode trocá-lo quando quiser.</p>
+<p>Ao criar a experiência, a AFRUS atribui ao acaso um dos modelos disponíveis para o tipo dela. Você pode trocá-lo quando quiser.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o editor.</strong> Em <strong>Fundraising &gt; Experiences AI</strong>, clique no ícone de lápis da experiência.</li>

@@ -89,9 +89,9 @@ Ao terminar, você terá um arquivo Excel (.xlsx) com uma linha por assinatura. 
 
 2. **Clique em "Modificar".** Dependendo de como o gateway de pagamento da assinatura está conectado, abre-se uma destas três janelas:
 
-   **Se a janela se chama "Modificar fecha" (Modificar data)** — assinaturas cobradas pelo motor da Afrus:
+   **Se a janela se chama "Modificar fecha" (Modificar data)** — assinaturas cobradas pelo motor da AFRUS:
    - Escolha uma opção:
-     - **Fecha automática (recomendada)** (Data automática, recomendada): mantém a data que a Afrus calcula.
+     - **Fecha automática (recomendada)** (Data automática, recomendada): mantém a data que a AFRUS calcula.
      - **Fecha de creación de la suscripción** (Data de criação da assinatura): cobra no mesmo dia do mês em que foi criada (se esse dia for maior que 28, usa o dia 28).
      - **Fecha manual** (Data manual): em **Fecha de cobro** (Data de cobrança), escolha um dia de 1 a 28.
    - Se o dia escolhido for depois de hoje, a próxima cobrança será nesse dia deste mês; se for hoje ou antes, nesse dia do mês seguinte.
@@ -109,7 +109,7 @@ Ao terminar, você verá *"Suscripción actualizada correctamente."* ou *"Suscri
 
 > **Atenção:**
 > - Na janela **Modificar fecha**, a mensagem de confirmação aparece em inglês (*"Update subscription"*); isso é normal.
-> - Alguns gateways não permitem mudanças pela Afrus. Nesse caso você verá *"Este gateway actualmente no soporta la actualización de suscripciones."* (Este gateway não permite atualizar assinaturas no momento.)
+> - Alguns gateways não permitem mudanças pela AFRUS. Nesse caso você verá *"Este gateway actualmente no soporta la actualización de suscripciones."* (Este gateway não permite atualizar assinaturas no momento.)
 > - Assinaturas que esperam a aceitação do pagador não podem ser modificadas: você verá *"Acción no disponible"* (Ação não disponível).
 > - Com o gateway Recurrent Payments não há campo de data. A tela informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Os pagamentos recorrentes são feitos no primeiro dia útil de cada mês. Se o pagamento falhar, é tentado de novo toda semana até dar certo.)
 
@@ -126,15 +126,15 @@ Ao terminar, você verá *"Suscripción actualizada correctamente."* ou *"Suscri
 
 3. **Confirme.** Na janela *"¿Estás seguro de que deseas cancelar tu suscripción?"* (Tem certeza de que deseja cancelar sua assinatura?), clique em "Confirmar" (ou "Cerrar" (Fechar) para sair sem cancelar).
 
-Ao terminar, você verá *"La suscripción se ha cancelado correctamente"* (A assinatura foi cancelada com sucesso). A assinatura passa para **Cancelada** e as cobranças pendentes que a Afrus tinha programado são apagadas. O cancelamento é imediato; não existe a opção de cancelar no fim do período.
+Ao terminar, você verá *"La suscripción se ha cancelado correctamente"* (A assinatura foi cancelada com sucesso). A assinatura passa para **Cancelada** e as cobranças pendentes que a AFRUS tinha programado são apagadas. O cancelamento é imediato; não existe a opção de cancelar no fim do período.
 
 > **Dá para desfazer?** Não. Não há botão para reativar a assinatura: como a janela avisa, ela *"no podrá ser reactivada automáticamente"* (não poderá ser reativada automaticamente). Se o doador quiser voltar, precisará criar uma nova doação recorrente.
 
 > **Se algo der errado:**
-> - Se você vir *"Error al cancelar la suscripción"* (Erro ao cancelar a assinatura), verifique o status. Dependendo de como sua organização está conectada, alguns gateways também não permitem cancelar pela Afrus.
+> - Se você vir *"Error al cancelar la suscripción"* (Erro ao cancelar a assinatura), verifique o status. Dependendo de como sua organização está conectada, alguns gateways também não permitem cancelar pela AFRUS.
 > - Se nada acontecer ao clicar em "Confirmar" e nenhuma mensagem aparecer, a assinatura não foi cancelada.
 >
-> Nos dois casos, escreva para o suporte da Afrus com o ID da assinatura.
+> Nos dois casos, escreva para o suporte da AFRUS com o ID da assinatura.
 
 > **Pendente de confirmação:** a janela diz que o doador será notificado, mas não está confirmado que um aviso seja enviado. Se quiser ter certeza, avise o doador você mesmo.
 
@@ -142,7 +142,7 @@ Ao terminar, você verá *"La suscripción se ha cancelado correctamente"* (A as
 
 > **Importante:** marcar como fraude faz três coisas ao mesmo tempo: a assinatura passa para **Fraude**, some da lista **Suscripciones** e **a pessoa doadora associada é excluída da sua base de Personas (Pessoas)**. Não dá para desfazer.
 
-**Antes de começar:** marcar como fraude só muda o status dentro da Afrus; não cancela nada no gateway de pagamento. Se o gateway cobra por conta própria (por exemplo Stripe), **cancele a assinatura primeiro** (veja "Como cancelar uma assinatura") para que as cobranças parem.
+**Antes de começar:** marcar como fraude só muda o status dentro da AFRUS; não cancela nada no gateway de pagamento. Se o gateway cobra por conta própria (por exemplo Stripe), **cancele a assinatura primeiro** (veja "Como cancelar uma assinatura") para que as cobranças parem.
 
 1. **Selecione as assinaturas.** Em **Suscripciones**, marque a caixa de cada uma. Sem nenhuma marcada, as opções de "Acciones" ficam desativadas.
 
@@ -165,13 +165,13 @@ Depende do gateway de pagamento de cada assinatura:
 
 | Caso | Quem decide a data | O que sabemos |
 |---|---|---|
-| Gateways que cobram por conta própria (Stripe, PayU, Pagar.me) | O gateway | O gateway decide quando cobra, não a Afrus |
+| Gateways que cobram por conta própria (Stripe, PayU, Pagar.me) | O gateway | O gateway decide quando cobra, não a AFRUS |
 | Recurrent Payments | O gateway | A tela informa: primeiro dia útil de cada mês; se falhar, nova tentativa semanal até dar certo |
-| Assinaturas cobradas pelo motor da Afrus | A Afrus | Você pode escolher o dia de cobrança com "Modificar" (veja "Como mudar a data de cobrança") |
+| Assinaturas cobradas pelo motor da AFRUS | A AFRUS | Você pode escolher o dia de cobrança com "Modificar" (veja "Como mudar a data de cobrança") |
 
 Além disso, em **Configuración > Pagos > Servicio de recurrencia** (Configurações > Pagamentos > Serviço de recorrência; tela **Configuración del Motor de Recurrencia**) sua organização pode escolher **Modo mejorado** (Modo aprimorado: Standard ou Charities), **Periodicidad** (Periodicidade: Mensual, Trimestral, Semestral ou Anual) e **Modo de reintento** (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (As mudanças serão aplicadas aos próximos ciclos de cobrança.)
 
-> **Pendente de confirmação:** o horário exato de cobrança do motor da Afrus, quantas novas tentativas ele faz quando uma cobrança falha, quando uma assinatura é cancelada sozinha por falhas, e se as periodicidades Trimestral e Semestral e a configuração de **Servicio de recurrencia** já se aplicam às cobranças reais.
+> **Pendente de confirmação:** o horário exato de cobrança do motor da AFRUS, quantas novas tentativas ele faz quando uma cobrança falha, quando uma assinatura é cancelada sozinha por falhas, e se as periodicidades Trimestral e Semestral e a configuração de **Servicio de recurrencia** já se aplicam às cobranças reais.
 
 ## Status de uma assinatura
 
@@ -209,7 +209,7 @@ Verifique o período: ele filtra pela data de criação da assinatura. Tente **A
 Em **Transacciones**, ou no histórico do detalhe da assinatura.
 
 **Posso cancelar no fim do período?**
-Não. O cancelamento pela Afrus é sempre imediato.
+Não. O cancelamento pela AFRUS é sempre imediato.
 
 **Posso reativar uma assinatura cancelada?**
 Não. O doador precisará criar uma nova doação recorrente.

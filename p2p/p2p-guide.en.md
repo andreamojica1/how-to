@@ -1,6 +1,6 @@
 # Peer to peer guide
 
-After reading this guide you will know what peer-to-peer fundraising is on Afrus, what it is for, how to change its images, what a supporter goes through after signing up, and how to review, approve and measure your fundraisers' pages.
+After reading this guide you will know what peer-to-peer fundraising is on AFRUS, what it is for, how to change its images, what a supporter goes through after signing up, and how to review, approve and measure your fundraisers' pages.
 
 *Module: Peer to peer · Menu: **Fundraising > Peer to peer fundraisers** · Audience: fundraising and community teams*
 

@@ -1,6 +1,6 @@
 # Radar - fraud monitor guide
 
-After reading this guide you will know what the Radar is, when a transaction appears on it, how to review it and how Afrus protects you against fraud.
+After reading this guide you will know what the Radar is, when a transaction appears on it, how to review it and how AFRUS protects you against fraud.
 
 *Module: Follow up · Menu: **Follow up > Radar - monitor de fraude** · Audience: finance, fundraising and admin teams*
 
@@ -35,7 +35,7 @@ For each transaction you see, among other data, its **Valor** (amount), **Email*
 A transaction appears on the Radar when it is marked as fraud:
 
 - **By your team**, with the **Marcar como Fraude** (Mark as fraud) action in **Transacciones** (Transactions), or
-- **By the Afrus team**, for example when loading a list of fraudulent transactions.
+- **By the AFRUS team**, for example when loading a list of fraudulent transactions.
 
 The Radar shows payment transactions; it doesn't show the subscription record itself.
 
@@ -58,13 +58,13 @@ You'll see *"Transacciones marcadas como fraude"* (Transactions marked as fraud)
 2. **Choose the dates.** By default the current month is shown. Note: the filter uses the **transaction date**, not the date it was marked as fraud.
 3. **Filter or search.** Use the filters or the search box to find what you need. The table shows 25 rows per page.
 
-## What mechanisms Afrus has to fight fraud
+## What mechanisms AFRUS has to fight fraud
 
-Afrus combines several protections. Some depend on each organization's setup:
+AFRUS combines several protections. Some depend on each organization's setup:
 
 - **Anti-bot verification (reCAPTCHA)** on widget payments, which can be switched on for a form when unusual activity is detected.
 - **Limits on repeated payment attempts**, to stop anyone testing many cards.
-- **Automatic form protection:** when there is unusual failed-payment activity, Afrus can require anti-bot verification, temporarily limit the form or deactivate it, and notify you by email.
+- **Automatic form protection:** when there is unusual failed-payment activity, AFRUS can require anti-bot verification, temporarily limit the form or deactivate it, and notify you by email.
 - **Code verification:** when there is suspicious activity on a form, the donor can be asked for a verification code before being charged.
 - **Blocking blacklisted emails** and other checks on every payment.
 - **Detection of automated sign-ups (bots)** on registration forms (see **Follow up > Leads spam**).

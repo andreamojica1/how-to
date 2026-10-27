@@ -17,7 +17,7 @@ You can add images in three ways: uploading them from your computer, finding the
 ## What it is for
 
 - **Putting your photos in the emails the AI writes.** AI emails that use templates (in AI Blast and AI autoresponders) take their main image from here.
-- **Choosing which kind of image goes in each email.** With attributes (labels) you tell the AI which images to use. Afrus picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.
+- **Choosing which kind of image goes in each email.** With attributes (labels) you tell the AI which images to use. AFRUS picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.
 - **Having your images at hand elsewhere.** They also appear in the **IA Media** tab when you choose an image in the template editor and in WhatsApp Business.
 
 ---

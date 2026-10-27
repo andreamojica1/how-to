@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es un Blast
 Slug: que-es-un-blast
 Categoría: Blast
-Resumen: Aprende qué es un Blast: el correo que envías de una sola vez a un grupo de personas de tu base en Afrus.
+Resumen: Aprende qué es un Blast: el correo que envías de una sola vez a un grupo de personas de tu base en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -21,7 +21,7 @@ Relacionados: para-que-sirve-un-blast, como-enviar-un-blast, como-ver-las-estadi
 <h2>Dónde lo encuentras</h2>
 <p>En el menú <strong>Interacciones &gt; Blast</strong>. Ahí ves la lista de todos tus envíos con su estado. Desde la misma pantalla también se pueden hacer envíos por WhatsApp Business.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Le llega a todas las personas del grupo?</strong> No. Afrus deja fuera a quien no puede recibir correos: quien se dio de baja, quien tiene un correo que no existe o quien no aceptó recibir comunicaciones.</p>
+<p><strong>¿Le llega a todas las personas del grupo?</strong> No. AFRUS deja fuera a quien no puede recibir correos: quien se dio de baja, quien tiene un correo que no existe o quien no aceptó recibir comunicaciones.</p>
 === FIN ===
 ```
 
@@ -114,13 +114,13 @@ Idioma: es
 Título: Cómo eliminar los soft y hard bounces
 Slug: como-eliminar-los-soft-y-hard-bounces
 Categoría: Blast
-Resumen: Aprende qué hace Afrus con los correos que rebotan y cómo sacar de tu base a las personas con rebotes.
+Resumen: Aprende qué hace AFRUS con los correos que rebotan y cómo sacar de tu base a las personas con rebotes.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-blast, donde-ver-los-correos-rebotados, como-limpiar-mi-base-para-que-no-bloqueen-mis-envios, como-evitar-que-mis-correos-lleguen-a-spam
 --- CUERPO (HTML) ---
-<p><strong>No necesitas borrar a nadie para dejar de enviarles.</strong> Afrus ya deja fuera de tus envíos a las personas con <strong>Hard Bounce</strong> (correo que no existe), a quienes se dieron de baja y a quienes tienen el correo deshabilitado. Las personas con <strong>Soft Bounce</strong> (un problema temporal) siguen recibiendo correos.</p>
+<p><strong>No necesitas borrar a nadie para dejar de enviarles.</strong> AFRUS ya deja fuera de tus envíos a las personas con <strong>Hard Bounce</strong> (correo que no existe), a quienes se dieron de baja y a quienes tienen el correo deshabilitado. Las personas con <strong>Soft Bounce</strong> (un problema temporal) siguen recibiendo correos.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Encuéntralas.</strong> En <strong>Trackers &gt; Monitor de interacciones</strong> ves qué envíos tuvieron más rebotes; en el detalle de cada envío, a quién le rebotó. En el perfil de cada persona verás <em>"Tiene Hard Bounce"</em> o <em>"Tiene Soft Bounce"</em>.</li>
@@ -148,10 +148,10 @@ Relacionados: que-es-un-blast, como-ver-las-estadisticas-de-un-blast, como-limpi
 <ol>
 <li><strong>Abre el detalle.</strong> En <strong>Interacciones &gt; Blast</strong>, haz clic en "Detalles" del envío.</li>
 <li><strong>Revisa el error.</strong> Mira <strong>Incidencias</strong> y <strong>Estados de emails</strong>; con "Ver Eventos" ves qué pasó con cada correo.</li>
-<li><strong>Reenvía.</strong> Haz clic en "Reenviar". Afrus vuelve a intentar con las personas que tuvieron error.</li>
+<li><strong>Reenvía.</strong> Haz clic en "Reenviar". AFRUS vuelve a intentar con las personas que tuvieron error.</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Y si dice Bloqueado?</strong> Afrus detuvo el envío porque hubo demasiados rebotes o quejas. No se puede volver a enviar desde la pantalla: escribe a soporte.</p>
+<p><strong>¿Y si dice Bloqueado?</strong> AFRUS detuvo el envío porque hubo demasiados rebotes o quejas. No se puede volver a enviar desde la pantalla: escribe a soporte.</p>
 === FIN ===
 ```
 
@@ -167,7 +167,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-blast, como-eliminar-los-soft-y-hard-bounces, como-evitar-que-mis-correos-lleguen-a-spam, donde-ver-los-correos-rebotados
 --- CUERPO (HTML) ---
-<p>Mientras sale un envío, Afrus revisa cuántos correos rebotan y cuántas personas lo marcan como spam. Si son demasiados, el envío queda en <strong>Alerta</strong> o se detiene y queda <strong>Bloqueado</strong>. Si tu cuenta se bloquea, no podrás hacer más envíos hasta escribir a soporte.</p>
+<p>Mientras sale un envío, AFRUS revisa cuántos correos rebotan y cuántas personas lo marcan como spam. Si son demasiados, el envío queda en <strong>Alerta</strong> o se detiene y queda <strong>Bloqueado</strong>. Si tu cuenta se bloquea, no podrás hacer más envíos hasta escribir a soporte.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Revisa el estado de tu cuenta.</strong> En <strong>Trackers &gt; Monitor de interacciones</strong>, <strong>Estado de la cuenta</strong> te dice si está <strong>Activa</strong>, en <strong>Alerta</strong>, <strong>Bloqueada</strong> o con <strong>Envío limitado</strong>.</li>
@@ -186,7 +186,7 @@ Idioma: es
 Título: Cómo evitar que mis correos lleguen a spam
 Slug: como-evitar-que-mis-correos-lleguen-a-spam
 Categoría: Blast
-Resumen: Aprende qué puedes hacer en Afrus para que tus correos lleguen a la bandeja de entrada y no a spam.
+Resumen: Aprende qué puedes hacer en AFRUS para que tus correos lleguen a la bandeja de entrada y no a spam.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -194,10 +194,10 @@ Relacionados: que-es-un-blast, como-limpiar-mi-base-para-que-no-bloqueen-mis-env
 --- CUERPO (HTML) ---
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Verifica tu dominio de correo.</strong> Arriba de <strong>Interacciones &gt; Blast</strong> verás si está verificado. Si no, haz clic en "Configurar DNS" y sigue los 4 pasos (esa pantalla se ve distinta porque es de la versión anterior de Afrus). Si no sabes hacerlo, pide ayuda a quien maneja tu sitio web. Puede tardar hasta 48 horas.</li>
+<li><strong>Verifica tu dominio de correo.</strong> Arriba de <strong>Interacciones &gt; Blast</strong> verás si está verificado. Si no, haz clic en "Configurar DNS" y sigue los 4 pasos (esa pantalla se ve distinta porque es de la versión anterior de AFRUS). Si no sabes hacerlo, pide ayuda a quien maneja tu sitio web. Puede tardar hasta 48 horas.</li>
 <li><strong>Envía desde una dirección de tu organización.</strong> Con el dominio verificado, podrás elegir como remitente los correos de tus usuarios con ese dominio.</li>
 <li><strong>Mantén tu base limpia.</strong> Menos rebotes y menos quejas ayudan a que tus correos lleguen.</li>
-<li><strong>Deja que la gente se dé de baja.</strong> Afrus agrega un enlace de baja a todos los correos. Es mejor una baja que una queja por spam.</li>
+<li><strong>Deja que la gente se dé de baja.</strong> AFRUS agrega un enlace de baja a todos los correos. Es mejor una baja que una queja por spam.</li>
 <li><strong>Envíate siempre una prueba</strong> antes de enviar.</li>
 </ol>
 === FIN ===
@@ -209,13 +209,13 @@ Idioma: es
 Título: Buenas prácticas para envíos masivos
 Slug: buenas-practicas-para-envios-masivos
 Categoría: Blast
-Resumen: Aprende qué hace Afrus para cuidar tus envíos masivos y qué te recomendamos hacer tú.
+Resumen: Aprende qué hace AFRUS para cuidar tus envíos masivos y qué te recomendamos hacer tú.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-blast, como-evitar-que-mis-correos-lleguen-a-spam, como-limpiar-mi-base-para-que-no-bloqueen-mis-envios, como-enviar-un-blast
 --- CUERPO (HTML) ---
-<h2>Lo que Afrus ya hace por ti</h2>
+<h2>Lo que AFRUS ya hace por ti</h2>
 <ul>
 <li>Solo envía a personas que aceptaron recibir correos y no se dieron de baja.</li>
 <li>Deja fuera a quienes tienen el correo inválido, a quienes lo marcaron como spam y a quienes se dieron de baja.</li>
@@ -240,13 +240,13 @@ Idioma: es
 Título: Dónde ver los correos rebotados
 Slug: donde-ver-los-correos-rebotados
 Categoría: Blast
-Resumen: Aprende qué es un correo rebotado y dónde ver en Afrus los rebotes de tus envíos y de cada persona.
+Resumen: Aprende qué es un correo rebotado y dónde ver en AFRUS los rebotes de tus envíos y de cada persona.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-blast, como-eliminar-los-soft-y-hard-bounces, como-limpiar-mi-base-para-que-no-bloqueen-mis-envios, como-ver-las-estadisticas-de-un-blast
 --- CUERPO (HTML) ---
-<p>Un correo <strong>rebota</strong> cuando no llega a la persona. Un <strong>Hard Bounce</strong> es una dirección que no existe (Afrus deja de enviarle); un <strong>Soft Bounce</strong> es un problema temporal (la persona sigue recibiendo).</p>
+<p>Un correo <strong>rebota</strong> cuando no llega a la persona. Un <strong>Hard Bounce</strong> es una dirección que no existe (AFRUS deja de enviarle); un <strong>Soft Bounce</strong> es un problema temporal (la persona sigue recibiendo).</p>
 <h2>Dónde verlos</h2>
 <ol>
 <li><strong>En el detalle de cada envío.</strong> En <strong>Interacciones &gt; Blast</strong>, abre "Detalles" y mira la <strong>Tasa de Rebote</strong> y el estado del correo de cada persona.</li>
@@ -264,7 +264,7 @@ Idioma: en
 Título: What a Blast is
 Slug: what-is-a-blast
 Categoría: Blast
-Resumen: Learn what a Blast is: the email you send in one go to a group of people in your Afrus database.
+Resumen: Learn what a Blast is: the email you send in one go to a group of people in your AFRUS database.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -275,7 +275,7 @@ Relacionados: what-is-a-blast-for, how-to-send-a-blast, how-to-see-blast-statist
 <h2>Where to find it</h2>
 <p>In the <strong>Interacciones &gt; Blast</strong> menu. There you see the list of all your sends with their status. The same screen can also send WhatsApp Business messages. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Does everyone in the group receive it?</strong> No. Afrus leaves out anyone who can't receive emails: people who unsubscribed, whose address doesn't exist or who didn't agree to receive communications.</p>
+<p><strong>Does everyone in the group receive it?</strong> No. AFRUS leaves out anyone who can't receive emails: people who unsubscribed, whose address doesn't exist or who didn't agree to receive communications.</p>
 === FIN ===
 ```
 
@@ -370,13 +370,13 @@ Idioma: en
 Título: How to remove soft and hard bounces
 Slug: how-to-remove-soft-and-hard-bounces
 Categoría: Blast
-Resumen: Learn what Afrus does with bounced emails and how to remove people with bounces from your database.
+Resumen: Learn what AFRUS does with bounced emails and how to remove people with bounces from your database.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-blast, where-to-see-bounced-emails, how-to-clean-my-database-so-sending-is-not-blocked, how-to-keep-my-emails-out-of-spam
 --- CUERPO (HTML) ---
-<p><strong>You don't need to delete anyone to stop sending to them.</strong> Afrus already leaves out of your sends people with a <strong>Hard Bounce</strong> (an address that doesn't exist), people who unsubscribed and people whose email is disabled. People with a <strong>Soft Bounce</strong> (a temporary problem) keep receiving emails. Labels are shown as they appear in the Spanish version of the console.</p>
+<p><strong>You don't need to delete anyone to stop sending to them.</strong> AFRUS already leaves out of your sends people with a <strong>Hard Bounce</strong> (an address that doesn't exist), people who unsubscribed and people whose email is disabled. People with a <strong>Soft Bounce</strong> (a temporary problem) keep receiving emails. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Find them.</strong> In <strong>Trackers &gt; Monitor de interacciones</strong> you see which sends had the most bounces; in each send's details, whose email bounced. In each person's profile you will see <em>"Tiene Hard Bounce"</em> or <em>"Tiene Soft Bounce"</em>.</li>
@@ -404,10 +404,10 @@ Relacionados: what-is-a-blast, how-to-see-blast-statistics, how-to-clean-my-data
 <ol>
 <li><strong>Open the details.</strong> In <strong>Interacciones &gt; Blast</strong>, click "Detalles" (Details) for the send.</li>
 <li><strong>Check the error.</strong> Look at <strong>Incidencias</strong> (Issues) and <strong>Estados de emails</strong> (Email statuses); "Ver Eventos" (View events) shows what happened to each email.</li>
-<li><strong>Resend.</strong> Click "Reenviar" (Resend). Afrus tries again with the people who had an error.</li>
+<li><strong>Resend.</strong> Click "Reenviar" (Resend). AFRUS tries again with the people who had an error.</li>
 </ol>
 <h2>Frequently asked questions</h2>
-<p><strong>What if it says Bloqueado?</strong> Afrus stopped the send because there were too many bounces or complaints. It can't be sent again from the screen: contact support.</p>
+<p><strong>What if it says Bloqueado?</strong> AFRUS stopped the send because there were too many bounces or complaints. It can't be sent again from the screen: contact support.</p>
 === FIN ===
 ```
 
@@ -423,7 +423,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-blast, how-to-remove-soft-and-hard-bounces, how-to-keep-my-emails-out-of-spam, where-to-see-bounced-emails
 --- CUERPO (HTML) ---
-<p>While a send is going out, Afrus checks how many emails bounce and how many people mark it as spam. If there are too many, the send goes into <strong>Alerta</strong> or stops and becomes <strong>Bloqueado</strong>. If your account gets blocked, you won't be able to send more until you contact support. Labels are shown as they appear in the Spanish version of the console.</p>
+<p>While a send is going out, AFRUS checks how many emails bounce and how many people mark it as spam. If there are too many, the send goes into <strong>Alerta</strong> or stops and becomes <strong>Bloqueado</strong>. If your account gets blocked, you won't be able to send more until you contact support. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Check your account status.</strong> In <strong>Trackers &gt; Monitor de interacciones</strong>, <strong>Estado de la cuenta</strong> (Account status) tells you if it is <strong>Activa</strong> (Active), in <strong>Alerta</strong>, <strong>Bloqueada</strong> (Blocked) or with <strong>Envío limitado</strong> (Limited sending).</li>
@@ -442,7 +442,7 @@ Idioma: en
 Título: How to keep my emails out of spam
 Slug: how-to-keep-my-emails-out-of-spam
 Categoría: Blast
-Resumen: Learn what you can do in Afrus so your emails reach the inbox and not the spam folder.
+Resumen: Learn what you can do in AFRUS so your emails reach the inbox and not the spam folder.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -451,10 +451,10 @@ Relacionados: what-is-a-blast, how-to-clean-my-database-so-sending-is-not-blocke
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Verify your email domain.</strong> At the top of <strong>Interacciones &gt; Blast</strong> you will see if it is verified. If not, click "Configurar DNS" (Set up DNS) and follow the 4 steps (that screen looks different because it's from the previous version of Afrus). If you don't know how, ask whoever manages your website. It can take up to 48 hours.</li>
+<li><strong>Verify your email domain.</strong> At the top of <strong>Interacciones &gt; Blast</strong> you will see if it is verified. If not, click "Configurar DNS" (Set up DNS) and follow the 4 steps (that screen looks different because it's from the previous version of AFRUS). If you don't know how, ask whoever manages your website. It can take up to 48 hours.</li>
 <li><strong>Send from an address of your organization.</strong> With the domain verified, you can choose as sender your users' addresses with that domain.</li>
 <li><strong>Keep your database clean.</strong> Fewer bounces and fewer complaints help your emails arrive.</li>
-<li><strong>Let people unsubscribe.</strong> Afrus adds an unsubscribe link to every email. An unsubscribe is better than a spam complaint.</li>
+<li><strong>Let people unsubscribe.</strong> AFRUS adds an unsubscribe link to every email. An unsubscribe is better than a spam complaint.</li>
 <li><strong>Always send yourself a test</strong> before sending.</li>
 </ol>
 === FIN ===
@@ -466,13 +466,13 @@ Idioma: en
 Título: Best practices for bulk email
 Slug: best-practices-for-bulk-email
 Categoría: Blast
-Resumen: Learn what Afrus does to look after your bulk emails and what we recommend you do.
+Resumen: Learn what AFRUS does to look after your bulk emails and what we recommend you do.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-blast, how-to-keep-my-emails-out-of-spam, how-to-clean-my-database-so-sending-is-not-blocked, how-to-send-a-blast
 --- CUERPO (HTML) ---
-<h2>What Afrus already does for you</h2>
+<h2>What AFRUS already does for you</h2>
 <ul>
 <li>It only sends to people who agreed to receive emails and haven't unsubscribed.</li>
 <li>It leaves out people with an invalid email, people who marked it as spam and people who unsubscribed.</li>
@@ -497,13 +497,13 @@ Idioma: en
 Título: Where to see bounced emails
 Slug: where-to-see-bounced-emails
 Categoría: Blast
-Resumen: Learn what a bounced email is and where to see in Afrus the bounces of your sends and of each person.
+Resumen: Learn what a bounced email is and where to see in AFRUS the bounces of your sends and of each person.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-blast, how-to-remove-soft-and-hard-bounces, how-to-clean-my-database-so-sending-is-not-blocked, how-to-see-blast-statistics
 --- CUERPO (HTML) ---
-<p>An email <strong>bounces</strong> when it doesn't reach the person. A <strong>Hard Bounce</strong> is an address that doesn't exist (Afrus stops sending to it); a <strong>Soft Bounce</strong> is a temporary problem (the person keeps receiving). Labels are shown as they appear in the Spanish version of the console.</p>
+<p>An email <strong>bounces</strong> when it doesn't reach the person. A <strong>Hard Bounce</strong> is an address that doesn't exist (AFRUS stops sending to it); a <strong>Soft Bounce</strong> is a temporary problem (the person keeps receiving). Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Where to see them</h2>
 <ol>
 <li><strong>In each send's details.</strong> In <strong>Interacciones &gt; Blast</strong>, open "Detalles" (Details) and look at the <strong>Tasa de Rebote</strong> (bounce rate) and each person's email status.</li>
@@ -521,7 +521,7 @@ Idioma: pt-BR
 Título: O que é um Blast
 Slug: o-que-e-um-blast
 Categoría: Blast
-Resumen: Aprenda o que é um Blast: o e-mail que você envia de uma só vez para um grupo de pessoas da sua base na Afrus.
+Resumen: Aprenda o que é um Blast: o e-mail que você envia de uma só vez para um grupo de pessoas da sua base na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -532,7 +532,7 @@ Relacionados: para-que-serve-um-blast, como-enviar-um-blast, como-ver-as-estatis
 <h2>Onde encontrar</h2>
 <p>No menu <strong>Interacciones &gt; Blast</strong>. Ali você vê a lista de todos os seus envios com o status. Na mesma tela também é possível fazer envios por WhatsApp Business. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Todas as pessoas do grupo recebem?</strong> Não. A Afrus deixa de fora quem não pode receber e-mails: quem cancelou a inscrição, quem tem um e-mail que não existe ou quem não aceitou receber comunicações.</p>
+<p><strong>Todas as pessoas do grupo recebem?</strong> Não. A AFRUS deixa de fora quem não pode receber e-mails: quem cancelou a inscrição, quem tem um e-mail que não existe ou quem não aceitou receber comunicações.</p>
 === FIN ===
 ```
 
@@ -627,13 +627,13 @@ Idioma: pt-BR
 Título: Como remover soft e hard bounces
 Slug: como-remover-soft-e-hard-bounces
 Categoría: Blast
-Resumen: Aprenda o que a Afrus faz com os e-mails que voltam e como tirar da sua base as pessoas com devoluções.
+Resumen: Aprenda o que a AFRUS faz com os e-mails que voltam e como tirar da sua base as pessoas com devoluções.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-blast, onde-ver-os-emails-que-voltaram, como-limpar-minha-base-para-nao-bloquearem-meus-envios, como-evitar-que-meus-emails-caiam-no-spam
 --- CUERPO (HTML) ---
-<p><strong>Você não precisa excluir ninguém para parar de enviar e-mails.</strong> A Afrus já deixa fora dos seus envios as pessoas com <strong>Hard Bounce</strong> (e-mail que não existe), quem cancelou a inscrição e quem tem o e-mail desabilitado. As pessoas com <strong>Soft Bounce</strong> (problema temporário) continuam recebendo. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p><strong>Você não precisa excluir ninguém para parar de enviar e-mails.</strong> A AFRUS já deixa fora dos seus envios as pessoas com <strong>Hard Bounce</strong> (e-mail que não existe), quem cancelou a inscrição e quem tem o e-mail desabilitado. As pessoas com <strong>Soft Bounce</strong> (problema temporário) continuam recebendo. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Encontre-as.</strong> Em <strong>Trackers &gt; Monitor de interacciones</strong> você vê quais envios tiveram mais devoluções; no detalhe de cada envio, para quem o e-mail voltou. No perfil de cada pessoa você verá <em>"Tiene Hard Bounce"</em> ou <em>"Tiene Soft Bounce"</em>.</li>
@@ -661,10 +661,10 @@ Relacionados: o-que-e-um-blast, como-ver-as-estatisticas-de-um-blast, como-limpa
 <ol>
 <li><strong>Abra o detalhe.</strong> Em <strong>Interacciones &gt; Blast</strong>, clique em "Detalles" (Detalhes) do envio.</li>
 <li><strong>Veja o erro.</strong> Confira <strong>Incidencias</strong> (Ocorrências) e <strong>Estados de emails</strong> (Status dos e-mails); "Ver Eventos" mostra o que aconteceu com cada e-mail.</li>
-<li><strong>Reenvie.</strong> Clique em "Reenviar". A Afrus tenta de novo com as pessoas que tiveram erro.</li>
+<li><strong>Reenvie.</strong> Clique em "Reenviar". A AFRUS tenta de novo com as pessoas que tiveram erro.</li>
 </ol>
 <h2>Perguntas frequentes</h2>
-<p><strong>E se aparecer Bloqueado?</strong> A Afrus interrompeu o envio porque houve devoluções ou reclamações demais. Ele não pode ser enviado de novo pela tela: fale com o suporte.</p>
+<p><strong>E se aparecer Bloqueado?</strong> A AFRUS interrompeu o envio porque houve devoluções ou reclamações demais. Ele não pode ser enviado de novo pela tela: fale com o suporte.</p>
 === FIN ===
 ```
 
@@ -680,7 +680,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-blast, como-remover-soft-e-hard-bounces, como-evitar-que-meus-emails-caiam-no-spam, onde-ver-os-emails-que-voltaram
 --- CUERPO (HTML) ---
-<p>Enquanto um envio sai, a Afrus verifica quantos e-mails voltam e quantas pessoas marcam como spam. Se forem muitos, o envio fica em <strong>Alerta</strong> ou é interrompido e fica <strong>Bloqueado</strong>. Se sua conta for bloqueada, você não poderá fazer novos envios até falar com o suporte. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>Enquanto um envio sai, a AFRUS verifica quantos e-mails voltam e quantas pessoas marcam como spam. Se forem muitos, o envio fica em <strong>Alerta</strong> ou é interrompido e fica <strong>Bloqueado</strong>. Se sua conta for bloqueada, você não poderá fazer novos envios até falar com o suporte. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Veja o status da sua conta.</strong> Em <strong>Trackers &gt; Monitor de interacciones</strong>, <strong>Estado de la cuenta</strong> (Status da conta) mostra se ela está <strong>Activa</strong> (Ativa), em <strong>Alerta</strong>, <strong>Bloqueada</strong> ou com <strong>Envío limitado</strong> (Envio limitado).</li>
@@ -699,7 +699,7 @@ Idioma: pt-BR
 Título: Como evitar que meus e-mails caiam no spam
 Slug: como-evitar-que-meus-emails-caiam-no-spam
 Categoría: Blast
-Resumen: Aprenda o que você pode fazer na Afrus para que seus e-mails cheguem à caixa de entrada e não ao spam.
+Resumen: Aprenda o que você pode fazer na AFRUS para que seus e-mails cheguem à caixa de entrada e não ao spam.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -708,10 +708,10 @@ Relacionados: o-que-e-um-blast, como-limpar-minha-base-para-nao-bloquearem-meus-
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Verifique seu domínio de e-mail.</strong> No topo de <strong>Interacciones &gt; Blast</strong> você vê se ele está verificado. Se não estiver, clique em "Configurar DNS" e siga os 4 passos (essa tela parece diferente porque é da versão anterior da Afrus). Se você não souber fazer isso, peça ajuda a quem cuida do seu site. Pode levar até 48 horas.</li>
+<li><strong>Verifique seu domínio de e-mail.</strong> No topo de <strong>Interacciones &gt; Blast</strong> você vê se ele está verificado. Se não estiver, clique em "Configurar DNS" e siga os 4 passos (essa tela parece diferente porque é da versão anterior da AFRUS). Se você não souber fazer isso, peça ajuda a quem cuida do seu site. Pode levar até 48 horas.</li>
 <li><strong>Envie de um endereço da sua organização.</strong> Com o domínio verificado, você poderá escolher como remetente os e-mails dos seus usuários com esse domínio.</li>
 <li><strong>Mantenha sua base limpa.</strong> Menos devoluções e menos reclamações ajudam seus e-mails a chegar.</li>
-<li><strong>Deixe as pessoas cancelarem a inscrição.</strong> A Afrus adiciona um link de descadastro em todos os e-mails. Um descadastro é melhor que uma reclamação de spam.</li>
+<li><strong>Deixe as pessoas cancelarem a inscrição.</strong> A AFRUS adiciona um link de descadastro em todos os e-mails. Um descadastro é melhor que uma reclamação de spam.</li>
 <li><strong>Sempre envie um teste para você</strong> antes de enviar.</li>
 </ol>
 === FIN ===
@@ -723,13 +723,13 @@ Idioma: pt-BR
 Título: Boas práticas para envios em massa
 Slug: boas-praticas-para-envios-em-massa
 Categoría: Blast
-Resumen: Aprenda o que a Afrus faz para cuidar dos seus envios em massa e o que recomendamos que você faça.
+Resumen: Aprenda o que a AFRUS faz para cuidar dos seus envios em massa e o que recomendamos que você faça.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-blast, como-evitar-que-meus-emails-caiam-no-spam, como-limpar-minha-base-para-nao-bloquearem-meus-envios, como-enviar-um-blast
 --- CUERPO (HTML) ---
-<h2>O que a Afrus já faz por você</h2>
+<h2>O que a AFRUS já faz por você</h2>
 <ul>
 <li>Só envia para pessoas que aceitaram receber e-mails e não cancelaram a inscrição.</li>
 <li>Deixa de fora quem tem e-mail inválido, quem marcou como spam e quem cancelou a inscrição.</li>
@@ -754,13 +754,13 @@ Idioma: pt-BR
 Título: Onde ver os e-mails que voltaram
 Slug: onde-ver-os-emails-que-voltaram
 Categoría: Blast
-Resumen: Aprenda o que é um e-mail que voltou (bounce) e onde ver na Afrus as devoluções dos seus envios e de cada pessoa.
+Resumen: Aprenda o que é um e-mail que voltou (bounce) e onde ver na AFRUS as devoluções dos seus envios e de cada pessoa.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-blast, como-remover-soft-e-hard-bounces, como-limpar-minha-base-para-nao-bloquearem-meus-envios, como-ver-as-estatisticas-de-um-blast
 --- CUERPO (HTML) ---
-<p>Um e-mail <strong>volta</strong> (bounce) quando não chega à pessoa. Um <strong>Hard Bounce</strong> é um endereço que não existe (a Afrus deixa de enviar para ele); um <strong>Soft Bounce</strong> é um problema temporário (a pessoa continua recebendo). Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>Um e-mail <strong>volta</strong> (bounce) quando não chega à pessoa. Um <strong>Hard Bounce</strong> é um endereço que não existe (a AFRUS deixa de enviar para ele); um <strong>Soft Bounce</strong> é um problema temporário (a pessoa continua recebendo). Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Onde ver</h2>
 <ol>
 <li><strong>No detalhe de cada envio.</strong> Em <strong>Interacciones &gt; Blast</strong>, abra "Detalles" (Detalhes) e veja a <strong>Tasa de Rebote</strong> (taxa de devolução) e o status do e-mail de cada pessoa.</li>

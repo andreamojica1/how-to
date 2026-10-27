@@ -1,18 +1,18 @@
-# Guia de Plantillas Afrus
+# Guia de Plantillas AFRUS
 
-Com este guia você vai poder encontrar designs prontos para seus e-mails e páginas, criar seus próprios modelos e reconhecer quais são seus e quais a Afrus oferece.
+Com este guia você vai poder encontrar designs prontos para seus e-mails e páginas, criar seus próprios modelos e reconhecer quais são seus e quais a AFRUS oferece.
 
-*Módulo: Plantillas Afrus (Modelos Afrus) · Menu: **Interacciones > Plantillas Afrus** · Público: equipes de comunicação e design*
+*Módulo: Plantillas AFRUS (Modelos AFRUS) · Menu: **Interacciones > Plantillas AFRUS** · Público: equipes de comunicação e design*
 
 > **Sobre os nomes de tela neste guia:** botões, campos e menus estão escritos exatamente como aparecem na versão em espanhol do console, com a explicação em português quando ajuda.
 
 ---
 
-## O que são as Plantillas Afrus
+## O que são as Plantillas AFRUS
 
-**As Plantillas Afrus são uma biblioteca de designs prontos para usar:** e-mails, páginas (landings), anexos e certificados.
+**As Plantillas AFRUS são uma biblioteca de designs prontos para usar:** e-mails, páginas (landings), anexos e certificados.
 
-Alguns são da Afrus e estão disponíveis para todas as organizações. Outros são os que sua equipe cria para a sua organização.
+Alguns são da AFRUS e estão disponíveis para todas as organizações. Outros são os que sua equipe cria para a sua organização.
 
 ## Para que servem
 
@@ -26,8 +26,8 @@ Alguns são da Afrus e estão disponíveis para todas as organizações. Outros 
 
 ## Quais tipos de modelos existem
 
-Ao entrar em **Interacciones > Plantillas Afrus** você verá uma tabela com todos os seus modelos.
-![Lista de Plantillas Afrus com os filtros Tipo, Objetivo e Estado e as colunas Status, Nome, Tipo, Objetivo, Proprietário e Idioma](img/plantillas-afrus-01.webp)
+Ao entrar em **Interacciones > Plantillas AFRUS** você verá uma tabela com todos os seus modelos.
+![Lista de Plantillas AFRUS com os filtros Tipo, Objetivo e Estado e as colunas Status, Nome, Tipo, Objetivo, Proprietário e Idioma](img/plantillas-afrus-01.webp)
 
 **Por tipo:**
 
@@ -44,8 +44,8 @@ Você pode filtrar a tabela por tipo, objetivo e status para encontrar o que pro
 
 ## Como criar um novo modelo
 
-1. **Abra os modelos.** Acesse **Interacciones > Plantillas Afrus** e clique em "Crear plantilla Afrus" (Criar modelo Afrus).
-   ![Formulário Crear plantilla Afrus com Información general: nome, status, tipo, objetivo e idioma do modelo](img/plantillas-afrus-02.webp)
+1. **Abra os modelos.** Acesse **Interacciones > Plantillas AFRUS** e clique em "Crear plantilla AFRUS" (Criar modelo AFRUS).
+   ![Formulário Crear plantilla AFRUS com Información general: nome, status, tipo, objetivo e idioma do modelo](img/plantillas-afrus-02.webp)
 
 2. **Preencha as informações gerais.**
    - **Nombre de plantilla** (Nome do modelo, obrigatório): um nome que sua equipe reconheça.
@@ -56,21 +56,21 @@ Você pode filtrar a tabela por tipo, objetivo e status para encontrar o que pro
 
 3. **Desenhe o conteúdo.** Em **Contenido de la plantilla** (Conteúdo do modelo), clique em "Abrir Editor Visual" para desenhar sem código. Se você tiver o design em HTML, também pode colá-lo ali.
 
-4. **Salve.** Clique em "Crear" (Criar). Você verá *"Plantilla Afrus creada exitosamente"* (Modelo Afrus criado com sucesso).
+4. **Salve.** Clique em "Crear" (Criar). Você verá *"Plantilla AFRUS creada exitosamente"* (Modelo AFRUS criado com sucesso).
 
-**Tem designs na versão anterior da Afrus?** Com "Importar diseños de Afrus Classic" (Importar designs do Afrus Classic) você pode trazê-los para o formulário de criação.
+**Tem designs na versão anterior da AFRUS?** Com "Importar diseños de AFRUS Classic" (Importar designs do AFRUS Classic) você pode trazê-los para o formulário de criação.
 
 **Para editar um modelo seu:** na linha dele, use "Editar plantilla" (Editar modelo), faça as mudanças e clique em "Guardar cambios" (Salvar alterações).
 
 > **Dá para desfazer?** Excluir um modelo ("Eliminar plantilla") o tira da sua biblioteca.
 > **Pendente de confirmação:** se um modelo excluído pode ser recuperado.
 
-## Como diferenciar seus modelos dos que a Afrus oferece
+## Como diferenciar seus modelos dos que a AFRUS oferece
 
 Veja a coluna **Propietario** (Proprietário):
 
 - **Organización** (Organização): sua equipe criou. Você pode editá-lo, ativá-lo ou desativá-lo e excluí-lo.
-- **Genérica:** é da Afrus e compartilhado com todas as organizações. Não pode ser editado nem excluído.
+- **Genérica:** é da AFRUS e compartilhado com todas as organizações. Não pode ser editado nem excluído.
 
 **Quer mudar um modelo genérico?** Use "Duplicar plantilla en mi organización" (Duplicar modelo na minha organização). É criada uma cópia sua (**Organización**), e essa você pode editar.
 
@@ -91,11 +91,11 @@ Nas galerias de e-mail aparecem os modelos do tipo **Email**: os genéricos e os
 
 ## Perguntas frequentes
 
-**Posso editar um modelo da Afrus?**
+**Posso editar um modelo da AFRUS?**
 Não diretamente. Duplique-o na sua organização e edite a cópia.
 
 **Outras organizações veem meus modelos?**
-Não. Os modelos de **Organización** são só seus. Os **Genéricos** são os que a Afrus compartilha com todos.
+Não. Os modelos de **Organización** são só seus. Os **Genéricos** são os que a AFRUS compartilha com todos.
 
 **Quais usuários podem criar modelos?**
 > **Pendente de confirmação:** quais perfis de usuário têm permissão.

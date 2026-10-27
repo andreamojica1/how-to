@@ -10,7 +10,7 @@ Con esta guía vas a poder comprobar que tus formularios de donación están avi
 
 **Es el registro de cada aviso que tus formularios de donación enviaron a Google Analytics 4, a Meta o a Google Tag Manager.**
 
-Si tienes conectada alguna de esas herramientas a un formulario (widget), cada vez que una persona abre el formulario, avanza un paso o completa su donación, Afrus le avisa a esa herramienta. A cada aviso se le llama **evento**. Esta pantalla muestra cada evento, qué se envió y qué respondió la herramienta.
+Si tienes conectada alguna de esas herramientas a un formulario (widget), cada vez que una persona abre el formulario, avanza un paso o completa su donación, AFRUS le avisa a esa herramienta. A cada aviso se le llama **evento**. Esta pantalla muestra cada evento, qué se envió y qué respondió la herramienta.
 
 Si tu formulario no tiene ninguna de esas herramientas configurada, no se envía nada y esta pantalla queda vacía.
 
@@ -54,9 +54,9 @@ Si tu formulario no tiene ninguna de esas herramientas configurada, no se envía
 
 - **Meta:** si funcionó, verás lo que devolvió Meta. Si falló, verás `success: false` y un mensaje con el motivo, por ejemplo que al formulario le faltan los datos del Pixel.
 - **Google Analytics 4:** si ves `missing_ga_credentials`, al formulario le faltan los datos de conexión con GA4 y **el evento no se envió**. Si ves `success: false`, Google respondió con un error. Si no hay error, Google recibió el aviso; para confirmar que lo registró, mira el informe en tiempo real de GA4.
-- **Google Tag Manager:** lo normal es ver `logged_only: true`. Afrus solo anota el evento aquí; a Tag Manager le llega directamente desde el navegador de la persona.
+- **Google Tag Manager:** lo normal es ver `logged_only: true`. AFRUS solo anota el evento aquí; a Tag Manager le llega directamente desde el navegador de la persona.
 
-Si tienes activa la conversión de Meta desde Afrus, también verás filas `FACEBOOK-…` creadas por Afrus después de cada pago.
+Si tienes activa la conversión de Meta desde AFRUS, también verás filas `FACEBOOK-…` creadas por AFRUS después de cada pago.
 
 ---
 

@@ -55,7 +55,7 @@ Ao terminar, você verá *Mensaje enviado* / *"El agradecimiento se ha enviado c
 
 **Você precisa:**
 - que a transação esteja com status **Exitoso**;
-- que o gateway dela permita reembolsos pela Afrus (senão, a opção **Reembolsar** não aparece);
+- que o gateway dela permita reembolsos pela AFRUS (senão, a opção **Reembolsar** não aparece);
 - que seu usuário tenha permissão para operações bancárias com transações. Sem ela, o reembolso falha: peça a um administrador da sua organização.
 
 1. **Abra o menu da linha.** Em **Transacciones**, encontre a doação, abra o menu de três pontos no início da linha e escolha **Reembolsar**.
@@ -81,7 +81,7 @@ Ao terminar, você verá *"Reembolsado con éxito."* (Reembolsado com sucesso) e
 
 Ao terminar, você verá *Transacciones marcadas como fraude* (Transações marcadas como fraude). Cada transação passa para o status **Fraude**, some de **Transacciones** e aparece em **Follow up > Radar - monitor de fraude**, onde você vê o **Estado anterior** (Status anterior) e a data em **Marcada como fraude el** (Marcada como fraude em).
 
-> **Importante:** marcar como fraude só muda o status na Afrus. Não reembolsa o pagamento nem cancela nenhuma assinatura no gateway.
+> **Importante:** marcar como fraude só muda o status na AFRUS. Não reembolsa o pagamento nem cancela nenhuma assinatura no gateway.
 
 > **Importante:** só as linhas selecionadas na página atual são marcadas. Mesmo usando "Seleccionar las N transacciones de la base." (Selecionar as N transações da base), esta ação não se aplica à base inteira. Se forem muitas, marque página por página.
 
@@ -171,13 +171,13 @@ Transações em **Fraude**, **Cancelada** ou **Contracargo** (Chargeback) não a
 ## Perguntas frequentes
 
 **Posso fazer um reembolso parcial?**
-Não. Pela Afrus, o valor total da transação é sempre reembolsado.
+Não. Pela AFRUS, o valor total da transação é sempre reembolsado.
 
 **Por que não vejo a opção Reembolsar?**
-Ela só aparece em transações **Exitoso** cujo gateway permite reembolsos pela Afrus.
+Ela só aparece em transações **Exitoso** cujo gateway permite reembolsos pela AFRUS.
 
 **Marcar como fraude devolve o dinheiro?**
-Não. Só muda o status na Afrus. Se também precisar devolver o pagamento, reembolse antes de marcar como fraude.
+Não. Só muda o status na AFRUS. Se também precisar devolver o pagamento, reembolse antes de marcar como fraude.
 
 **Onde vejo as assinaturas?**
 Em **Suscripciones**. Em Transações você vê cada cobrança (**Cargo**) que elas geram.

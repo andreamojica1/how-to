@@ -50,7 +50,7 @@ The **Follow up > Links de pago** screen has no create button: it is for viewing
 
 3. **Check the sending channel.** In **Envíar por** (Send by), **Correo electrónico** (Email) is selected. For now, links are sent by email only.
 
-4. **Add a phone number (optional).** In **Teléfono** (Phone); Afrus checks the format.
+4. **Add a phone number (optional).** In **Teléfono** (Phone); AFRUS checks the format.
 
 5. **Choose the frequency.** In **Seleccionar la frecuencia** (Select frequency), choose **Único** (One-time) or **Mensual** (Monthly).
 
@@ -87,7 +87,7 @@ The list shows **ID**, email, amount (or "Abierto" — Open — for open amounts
 ## Known limitations
 
 - **Email only.** WhatsApp and **Mensaje de texto** (Text message) appear disabled.
-- **Expiry in another month:** if you choose an expiry date in a later month but on a lower day of the month than today (for example, it expires on the 5th of next month and today is the 11th), the link may be marked or shown as **Expirado** too early. The same can happen with the chosen time. For now there is no alternative within Afrus, other than sending the link without an expiry date.
+- **Expiry in another month:** if you choose an expiry date in a later month but on a lower day of the month than today (for example, it expires on the 5th of next month and today is the 11th), the link may be marked or shown as **Expirado** too early. The same can happen with the chosen time. For now there is no alternative within AFRUS, other than sending the link without an expiry date.
 - **Creation time in the list:** the month is shown instead of the minutes. Use the date as reference.
 - **The "Caducar enalce" option** has a typo on screen: it is the option to make the link expire.
 - **If the donation fails,** the link stays in **Creado**.
@@ -95,7 +95,7 @@ The list shows **ID**, email, amount (or "Abierto" — Open — for open amounts
 ## Frequently asked questions
 
 **Can I send the link by WhatsApp?**
-Not for now. Afrus sends payment links by email only.
+Not for now. AFRUS sends payment links by email only.
 
 **Does the link work for a monthly donation?**
 Yes. In **Seleccionar la frecuencia** choose **Mensual**.
@@ -104,7 +104,7 @@ Yes. In **Seleccionar la frecuencia** choose **Mensual**.
 > **Pending confirmation:** what the form shows when a **Finalizado** link is opened.
 
 **What language is the email in?**
-> **Pending confirmation:** Afrus picks the template by organization type and language; not every case has been verified.
+> **Pending confirmation:** AFRUS picks the template by organization type and language; not every case has been verified.
 
 ---
 

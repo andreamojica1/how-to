@@ -1,6 +1,6 @@
 # Guía de Peer to peer
 
-Después de leer esta guía sabrás qué es la recaudación entre pares (peer to peer) en Afrus, para qué sirve, cómo cambiar sus imágenes, qué vive un simpatizante después de registrarse y cómo revisar, aprobar y medir las páginas de tus recaudadores.
+Después de leer esta guía sabrás qué es la recaudación entre pares (peer to peer) en AFRUS, para qué sirve, cómo cambiar sus imágenes, qué vive un simpatizante después de registrarse y cómo revisar, aprobar y medir las páginas de tus recaudadores.
 
 *Módulo: Peer to peer · Menú: **Fundraising > Peer to peer fundraisers** · Audiencia: equipos de recaudación y de comunidad*
 

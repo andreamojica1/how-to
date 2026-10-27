@@ -36,7 +36,7 @@ Relacionados: que-es-la-galeria-para-ai, como-usar-la-galeria-para-ai
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Poner tus fotos en los correos que escribe la IA.</strong> Los correos con IA que usan plantillas (en Blast de AI y en autoresponders con IA) toman de aquí la imagen principal.</li>
-<li><strong>Elegir qué tipo de imagen va en cada correo.</strong> Con los atributos (etiquetas) le dices a la IA qué imágenes usar. Afrus elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.</li>
+<li><strong>Elegir qué tipo de imagen va en cada correo.</strong> Con los atributos (etiquetas) le dices a la IA qué imágenes usar. AFRUS elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.</li>
 <li><strong>Tener tus imágenes a mano.</strong> También aparecen en la pestaña <strong>IA Media</strong> al elegir una imagen en el editor de plantillas y en WhatsApp Business.</li>
 </ul>
 === FIN ===
@@ -103,7 +103,7 @@ Relacionados: what-is-the-ai-gallery, how-to-use-the-ai-gallery
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Putting your photos in the emails the AI writes.</strong> AI emails that use templates (in AI Blast and AI autoresponders) take their main image from here.</li>
-<li><strong>Choosing which kind of image goes in each email.</strong> With attributes (labels) you tell the AI which images to use. Afrus picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.</li>
+<li><strong>Choosing which kind of image goes in each email.</strong> With attributes (labels) you tell the AI which images to use. AFRUS picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.</li>
 <li><strong>Having your images at hand.</strong> They also appear in the <strong>IA Media</strong> tab when you choose an image in the template editor and in WhatsApp Business.</li>
 </ul>
 === FIN ===
@@ -171,7 +171,7 @@ Relacionados: o-que-e-a-galeria-para-ia, como-usar-a-galeria-para-ia
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Colocar suas fotos nos e-mails escritos pela IA.</strong> Os e-mails com IA que usam modelos (no Blast de AI e nos autoresponders com IA) pegam daqui a imagem principal.</li>
-<li><strong>Escolher que tipo de imagem vai em cada e-mail.</strong> Com os atributos (etiquetas), você diz à IA quais imagens usar. A Afrus escolhe uma ao acaso entre as que têm o atributo indicado; se nenhuma tiver, usa qualquer imagem da galeria.</li>
+<li><strong>Escolher que tipo de imagem vai em cada e-mail.</strong> Com os atributos (etiquetas), você diz à IA quais imagens usar. A AFRUS escolhe uma ao acaso entre as que têm o atributo indicado; se nenhuma tiver, usa qualquer imagem da galeria.</li>
 <li><strong>Ter suas imagens à mão.</strong> Elas também aparecem na aba <strong>IA Media</strong> ao escolher uma imagem no editor de modelos e no WhatsApp Business.</li>
 </ul>
 === FIN ===

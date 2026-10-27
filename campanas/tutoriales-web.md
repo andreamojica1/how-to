@@ -7,10 +7,10 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué es una campaña en Afrus
+Título: Qué es una campaña en AFRUS
 Slug: que-es-una-campana
 Categoría: Campañas
-Resumen: Aprende qué es una campaña en Afrus: el lugar donde agrupas las donaciones y registros de tus widgets bajo un objetivo de recaudación.
+Resumen: Aprende qué es una campaña en AFRUS: el lugar donde agrupas las donaciones y registros de tus widgets bajo un objetivo de recaudación.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -40,7 +40,7 @@ Relacionados: para-que-sirve-una-campana, como-vincular-un-widget-con-una-campan
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Para qué sirve una campaña en Afrus
+Título: Para qué sirve una campaña en AFRUS
 Slug: para-que-sirve-una-campana
 Categoría: Campañas
 Resumen: Aprende para qué sirve una campaña: seguir tu meta, medir la conversión y la rentabilidad, y mostrar tu progreso en tu web.
@@ -59,7 +59,7 @@ Relacionados: que-es-una-campana, como-vincular-un-widget-con-una-campana, como-
 <li><strong>Contar el impacto en cifras</strong> con los <strong>KPI Merge Tags</strong>, que insertan cifras calculadas en correos automáticos o landings.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Qué hace "Seleccionar por defecto"?</strong> Marca la campaña por defecto de tu organización (solo puede haber una). A ella se asignan las transacciones que llegan de algunas pasarelas sin una campaña conocida, por ejemplo cobros de suscripciones creadas fuera de Afrus.</p>
+<p><strong>¿Qué hace "Seleccionar por defecto"?</strong> Marca la campaña por defecto de tu organización (solo puede haber una). A ella se asignan las transacciones que llegan de algunas pasarelas sin una campaña conocida, por ejemplo cobros de suscripciones creadas fuera de AFRUS.</p>
 === FIN ===
 ```
 
@@ -80,7 +80,7 @@ Relacionados: que-es-una-campana, como-vincular-una-pagina-de-agradecimiento-a-u
 <ul><li><strong>La campaña debe estar activa.</strong> El editor de widgets solo muestra campañas activas, por su nombre público.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el widget.</strong> Entra a <strong>Fundraising &gt; Widgets</strong> y edita el widget. El editor se abre en una pestaña nueva, en la versión anterior de Afrus, por eso se ve distinto.</li>
+<li><strong>Abre el widget.</strong> Entra a <strong>Fundraising &gt; Widgets</strong> y edita el widget. El editor se abre en una pestaña nueva, en la versión anterior de AFRUS, por eso se ve distinto.</li>
 <li><strong>Elige la campaña.</strong> En el panel <strong>Renderización</strong>, en <strong>Elige tus campañas</strong>, selecciona una o varias campañas.</li>
 <li><strong>Guarda los cambios del widget.</strong></li>
 </ol>
@@ -113,7 +113,7 @@ Relacionados: que-es-una-campana, como-vincular-un-widget-con-una-campana, para-
 <li><strong>Elige el tipo.</strong> En <strong>Tipo</strong>, elige <strong>Experiences</strong> o <strong>Landings</strong>.</li>
 <li><strong>Elige la página</strong> en <strong>Elegir una experiencia</strong> o <strong>Elegir una landing</strong>. Verás una vista previa <strong>Mobile</strong>.</li>
 <li><strong>Pulsa "Usar plantilla".</strong> No muestra confirmación: recarga la campaña y revisa que la pestaña muestre la página elegida.</li>
-<li><strong>Abre cada widget</strong> en <strong>Fundraising &gt; Widgets</strong> (se abre en la versión anterior de Afrus).</li>
+<li><strong>Abre cada widget</strong> en <strong>Fundraising &gt; Widgets</strong> (se abre en la versión anterior de AFRUS).</li>
 <li><strong>Activa la página de la campaña.</strong> En la sección <strong>Avanzado</strong>, apartado <strong>Página de agradecimiento</strong>, marca <strong>Usa la página de agradecimiento de la campaña.</strong> y guarda.</li>
 </ol>
 <p>Al terminar, después de donar, el donante llega a la página elegida en la campaña a la que se asoció su donación.</p>
@@ -189,7 +189,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-una-campana, como-usar-analytics-de-campanas, como-usar-kpi-merge-tags
 --- CUERPO (HTML) ---
-<p>El centro de costos es la pestaña <strong>Costos</strong> de la campaña. Sirve para saber cuánto invertiste, para que Afrus calcule indicadores como Resultado, ROI o costo por transacción, y para activar el Dashboard de Analytics: "Ver Analytics" solo se habilita cuando hay al menos un costo.</p>
+<p>El centro de costos es la pestaña <strong>Costos</strong> de la campaña. Sirve para saber cuánto invertiste, para que AFRUS calcule indicadores como Resultado, ROI o costo por transacción, y para activar el Dashboard de Analytics: "Ver Analytics" solo se habilita cuando hay al menos un costo.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre la campaña</strong> y ve a la pestaña <strong>Costos</strong>.</li>
@@ -280,10 +280,10 @@ Relacionados: que-es-una-campana, como-usar-el-centro-de-costos-de-una-campana, 
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What a campaign is in Afrus
+Título: What a campaign is in AFRUS
 Slug: what-is-a-campaign
 Categoría: Campaigns
-Resumen: Learn what a campaign is in Afrus: where you group your widgets' donations and registrations under one fundraising goal.
+Resumen: Learn what a campaign is in AFRUS: where you group your widgets' donations and registrations under one fundraising goal.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -313,7 +313,7 @@ Relacionados: what-is-a-campaign-for, how-to-link-a-widget-to-a-campaign, how-to
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What a campaign is for in Afrus
+Título: What a campaign is for in AFRUS
 Slug: what-is-a-campaign-for
 Categoría: Campaigns
 Resumen: Learn what a campaign is for: tracking your goal, measuring conversion and return, and showing your progress on your website.
@@ -332,7 +332,7 @@ Relacionados: what-is-a-campaign, how-to-link-a-widget-to-a-campaign, how-to-use
 <li><strong>Tell your impact in numbers</strong> with <strong>KPI Merge Tags</strong>, which insert calculated figures into automated emails or landings.</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>What does "Seleccionar por defecto" (Set as default) do?</strong> It marks your organization's default campaign (there can only be one). Transactions that arrive from some payment gateways without a known campaign are assigned to it, for example charges from subscriptions created outside Afrus.</p>
+<p><strong>What does "Seleccionar por defecto" (Set as default) do?</strong> It marks your organization's default campaign (there can only be one). Transactions that arrive from some payment gateways without a known campaign are assigned to it, for example charges from subscriptions created outside AFRUS.</p>
 === FIN ===
 ```
 
@@ -353,7 +353,7 @@ Relacionados: what-is-a-campaign, how-to-link-a-thank-you-page-to-a-campaign, wh
 <ul><li><strong>The campaign must be active.</strong> The widget editor only lists active campaigns, by their public name.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and edit the widget. The editor opens in a new tab, in the previous version of Afrus, so it looks different.</li>
+<li><strong>Open the widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and edit the widget. The editor opens in a new tab, in the previous version of AFRUS, so it looks different.</li>
 <li><strong>Choose the campaign.</strong> In the <strong>Renderización</strong> (Rendering) panel, in <strong>Elige tus campañas</strong> (Choose your campaigns), select one or more campaigns.</li>
 <li><strong>Save the widget changes.</strong></li>
 </ol>
@@ -386,7 +386,7 @@ Relacionados: what-is-a-campaign, how-to-link-a-widget-to-a-campaign, what-is-a-
 <li><strong>Choose the type.</strong> In <strong>Tipo</strong>, choose <strong>Experiences</strong> or <strong>Landings</strong>.</li>
 <li><strong>Choose the page</strong> in <strong>Elegir una experiencia</strong> or <strong>Elegir una landing</strong>. You will see a <strong>Mobile</strong> preview.</li>
 <li><strong>Click "Usar plantilla" (Use template).</strong> It shows no confirmation: reload the campaign and check the tab shows the chosen page.</li>
-<li><strong>Open each widget</strong> in <strong>Fundraising &gt; Widgets</strong> (it opens in the previous version of Afrus).</li>
+<li><strong>Open each widget</strong> in <strong>Fundraising &gt; Widgets</strong> (it opens in the previous version of AFRUS).</li>
 <li><strong>Turn on the campaign's page.</strong> In the <strong>Avanzado</strong> (Advanced) section, <strong>Página de agradecimiento</strong> area, tick <strong>Usa la página de agradecimiento de la campaña.</strong> (Use the campaign's thank-you page) and save.</li>
 </ol>
 <p>When you finish, after donating, the donor lands on the page chosen in the campaign their donation was associated with.</p>
@@ -462,7 +462,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-campaign, how-to-use-campaign-analytics, how-to-use-kpi-merge-tags
 --- CUERPO (HTML) ---
-<p>The cost center is the campaign's <strong>Costos</strong> (Costs) tab. It tells you how much you invested, lets Afrus calculate indicators such as Result, ROI or cost per transaction, and turns on the Analytics dashboard: "Ver Analytics" (View Analytics) is only enabled once there is at least one cost. Labels are shown as they appear in the Spanish version of the console.</p>
+<p>The cost center is the campaign's <strong>Costos</strong> (Costs) tab. It tells you how much you invested, lets AFRUS calculate indicators such as Result, ROI or cost per transaction, and turns on the Analytics dashboard: "Ver Analytics" (View Analytics) is only enabled once there is at least one cost. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the campaign</strong> and go to the <strong>Costos</strong> tab.</li>
@@ -553,10 +553,10 @@ Relacionados: what-is-a-campaign, how-to-use-the-campaign-cost-center, how-to-us
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que é uma campanha na Afrus
+Título: O que é uma campanha na AFRUS
 Slug: o-que-e-uma-campanha
 Categoría: Campanhas
-Resumen: Aprenda o que é uma campanha na Afrus: onde você agrupa as doações e cadastros dos seus widgets sob um objetivo de captação.
+Resumen: Aprenda o que é uma campanha na AFRUS: onde você agrupa as doações e cadastros dos seus widgets sob um objetivo de captação.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -586,7 +586,7 @@ Relacionados: para-que-serve-uma-campanha, como-vincular-um-widget-a-uma-campanh
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Para que serve uma campanha na Afrus
+Título: Para que serve uma campanha na AFRUS
 Slug: para-que-serve-uma-campanha
 Categoría: Campanhas
 Resumen: Aprenda para que serve uma campanha: acompanhar sua meta, medir conversão e retorno e mostrar seu progresso no seu site.
@@ -605,7 +605,7 @@ Relacionados: o-que-e-uma-campanha, como-vincular-um-widget-a-uma-campanha, como
 <li><strong>Contar o impacto em números</strong> com os <strong>KPI Merge Tags</strong>, que inserem números calculados em e-mails automáticos ou landings.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>O que faz "Seleccionar por defecto" (Definir como padrão)?</strong> Marca a campanha padrão da sua organização (só pode haver uma). A ela são atribuídas as transações que chegam de alguns gateways de pagamento sem uma campanha conhecida, por exemplo cobranças de assinaturas criadas fora da Afrus.</p>
+<p><strong>O que faz "Seleccionar por defecto" (Definir como padrão)?</strong> Marca a campanha padrão da sua organização (só pode haver uma). A ela são atribuídas as transações que chegam de alguns gateways de pagamento sem uma campanha conhecida, por exemplo cobranças de assinaturas criadas fora da AFRUS.</p>
 === FIN ===
 ```
 
@@ -626,7 +626,7 @@ Relacionados: o-que-e-uma-campanha, como-vincular-uma-pagina-de-agradecimento-a-
 <ul><li><strong>A campanha precisa estar ativa.</strong> O editor de widgets só mostra campanhas ativas, pelo nome público.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e edite o widget. O editor abre em uma nova aba, na versão anterior da Afrus, por isso tem aparência diferente.</li>
+<li><strong>Abra o widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e edite o widget. O editor abre em uma nova aba, na versão anterior da AFRUS, por isso tem aparência diferente.</li>
 <li><strong>Escolha a campanha.</strong> No painel <strong>Renderización</strong> (Renderização), em <strong>Elige tus campañas</strong> (Escolha suas campanhas), selecione uma ou várias campanhas.</li>
 <li><strong>Salve as alterações do widget.</strong></li>
 </ol>
@@ -659,7 +659,7 @@ Relacionados: o-que-e-uma-campanha, como-vincular-um-widget-a-uma-campanha, para
 <li><strong>Escolha o tipo.</strong> Em <strong>Tipo</strong>, escolha <strong>Experiences</strong> ou <strong>Landings</strong>.</li>
 <li><strong>Escolha a página</strong> em <strong>Elegir una experiencia</strong> ou <strong>Elegir una landing</strong>. Você verá uma prévia <strong>Mobile</strong>.</li>
 <li><strong>Clique em "Usar plantilla" (Usar modelo).</strong> Não aparece confirmação: recarregue a campanha e confira se a aba mostra a página escolhida.</li>
-<li><strong>Abra cada widget</strong> em <strong>Fundraising &gt; Widgets</strong> (ele abre na versão anterior da Afrus).</li>
+<li><strong>Abra cada widget</strong> em <strong>Fundraising &gt; Widgets</strong> (ele abre na versão anterior da AFRUS).</li>
 <li><strong>Ative a página da campanha.</strong> Na seção <strong>Avanzado</strong> (Avançado), área <strong>Página de agradecimiento</strong>, marque <strong>Usa la página de agradecimiento de la campaña.</strong> (Usa a página de agradecimento da campanha) e salve.</li>
 </ol>
 <p>Ao terminar, depois de doar, o doador chega à página escolhida na campanha à qual a doação foi associada.</p>
@@ -735,7 +735,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-uma-campanha, como-usar-o-analytics-de-campanhas, como-usar-kpi-merge-tags
 --- CUERPO (HTML) ---
-<p>O centro de custos é a aba <strong>Costos</strong> (Custos) da campanha. Ele mostra quanto você investiu, permite que a Afrus calcule indicadores como Resultado, ROI ou custo por transação e ativa o painel de Analytics: "Ver Analytics" só é habilitado quando há pelo menos um custo. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>O centro de custos é a aba <strong>Costos</strong> (Custos) da campanha. Ele mostra quanto você investiu, permite que a AFRUS calcule indicadores como Resultado, ROI ou custo por transação e ativa o painel de Analytics: "Ver Analytics" só é habilitado quando há pelo menos um custo. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra a campanha</strong> e vá até a aba <strong>Costos</strong>.</li>

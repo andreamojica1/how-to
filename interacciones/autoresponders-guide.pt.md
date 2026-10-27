@@ -10,9 +10,9 @@ Com este guia você vai poder enviar e-mails automáticos para seus doadores e c
 
 ## O que é um autoresponder
 
-**Um autoresponder é um e-mail que a Afrus envia sozinha, para uma pessoa, quando algo acontece.** Por exemplo: quando alguém se cadastra, quando a doação é confirmada ou falha, ou quando a doação mensal é cobrada.
+**Um autoresponder é um e-mail que a AFRUS envia sozinha, para uma pessoa, quando algo acontece.** Por exemplo: quando alguém se cadastra, quando a doação é confirmada ou falha, ou quando a doação mensal é cobrada.
 
-Você escreve o e-mail uma vez e a Afrus o envia sempre que esse evento acontece.
+Você escreve o e-mail uma vez e a AFRUS o envia sempre que esse evento acontece.
 
 ## Para que serve
 
@@ -23,10 +23,10 @@ Você escreve o e-mail uma vez e a Afrus o envia sempre que esse evento acontece
 
 ## Antes de começar
 
-- **Um e-mail para enviar.** Você sempre pode usar o e-mail da Afrus. Se quiser enviar com o e-mail da sua organização (por exemplo, doacoes@suaorg.org), primeiro é preciso verificar o seu domínio. Você vê isso no cartão que aparece acima da lista de autoresponders.
+- **Um e-mail para enviar.** Você sempre pode usar o e-mail da AFRUS. Se quiser enviar com o e-mail da sua organização (por exemplo, doacoes@suaorg.org), primeiro é preciso verificar o seu domínio. Você vê isso no cartão que aparece acima da lista de autoresponders.
 - **Tenha claro o evento.** Pense em que momento quer que o e-mail chegue: ao doar, ao se cadastrar, quando um pagamento falha…
 
-> **Recomendado:** verificar seu domínio ajuda seus e-mails a chegarem à caixa de entrada. O botão "Configurar DNS" do cartão abre a versão anterior da Afrus, por isso a tela é diferente. A verificação pode levar até 48 horas.
+> **Recomendado:** verificar seu domínio ajuda seus e-mails a chegarem à caixa de entrada. O botão "Configurar DNS" do cartão abre a versão anterior da AFRUS, por isso a tela é diferente. A verificação pode levar até 48 horas.
 
 ---
 
@@ -84,7 +84,7 @@ Ao terminar, o autoresponder aparece na lista como **Activo** (Ativo) e é envia
 
 ### Criar um autoresponder com IA
 
-Se preferir que a Afrus escreva o e-mail para você:
+Se preferir que a AFRUS escreva o e-mail para você:
 
 1. **Encontre o evento.** Na aba **Genérico**, encontre um evento que diga **No configurado** (Não configurado) e clique em "Configurar".
 2. **Escolha Con IA.** Em **Modo de creación** (Modo de criação), escolha **Con IA** (Com IA).
@@ -106,8 +106,8 @@ Se preferir que a Afrus escreva o e-mail para você:
 ## O que considerar se o seu formulário tem vários idiomas
 
 - **Cada idioma é um e-mail diferente.** Para ter a versão em inglês, mude o seletor de idioma para **Inglés (EN)** e crie-a à parte. O mesmo vale para o português.
-- **A Afrus escolhe o idioma da pessoa.** Se a pessoa tem um idioma, recebe o e-mail nesse idioma.
-- **Se faltar um idioma, usa-se o genérico.** Se você não tiver o e-mail no idioma da pessoa, a Afrus envia o seu autoresponder **Genérico**, mesmo que esteja em outro idioma. É melhor receber um agradecimento em outro idioma do que não receber nada.
+- **A AFRUS escolhe o idioma da pessoa.** Se a pessoa tem um idioma, recebe o e-mail nesse idioma.
+- **Se faltar um idioma, usa-se o genérico.** Se você não tiver o e-mail no idioma da pessoa, a AFRUS envia o seu autoresponder **Genérico**, mesmo que esteja em outro idioma. É melhor receber um agradecimento em outro idioma do que não receber nada.
 - **Os de campanha e de formulário são mais rígidos.** Só são enviados no idioma exato. Se não existirem no idioma da pessoa, chega o genérico.
 
 **Recomendação:** se o seu formulário recebe doações em vários idiomas, crie o autoresponder em cada um deles, começando pelo **Genérico**.
@@ -120,7 +120,7 @@ Se preferir que a Afrus escreva o e-mail para você:
 | **Por campaña** (Por campanha) | Quando uma campanha precisa de uma mensagem própria | "Obrigado por apoiar nossa campanha de Natal" |
 | **Por formulario** (Por formulário) | Quando um formulário específico precisa de uma mensagem própria | Um e-mail especial para quem doa pela sua página de emergência |
 
-**Como a Afrus escolhe qual e-mail enviar:** procura primeiro o mais específico e, se não houver, o mais geral. A ordem é: campanha e formulário juntos, depois campanha, depois formulário e, por fim, o **Genérico**. Só contam os que estão **Activo**.
+**Como a AFRUS escolhe qual e-mail enviar:** procura primeiro o mais específico e, se não houver, o mais geral. A ordem é: campanha e formulário juntos, depois campanha, depois formulário e, por fim, o **Genérico**. Só contam os que estão **Activo**.
 
 **Recomendação:** crie primeiro o **Genérico** de cada evento importante. Assim ninguém fica sem resposta, mesmo que uma campanha ou formulário não tenha seu próprio e-mail.
 
@@ -137,7 +137,7 @@ Se preferir que a Afrus escreva o e-mail para você:
 
 ## Quando o e-mail chega
 
-A Afrus verifica os eventos novos a cada 5 minutos, então o e-mail costuma chegar poucos minutos depois do evento.
+A AFRUS verifica os eventos novos a cada 5 minutos, então o e-mail costuma chegar poucos minutos depois do evento.
 
 ## Para ter em conta
 
@@ -149,7 +149,7 @@ A Afrus verifica os eventos novos a cada 5 minutos, então o e-mail costuma cheg
 ## Perguntas frequentes
 
 **De qual e-mail saem meus autoresponders?**
-Do e-mail da Afrus, até você verificar seu domínio. Depois você poderá escolher os e-mails dos usuários da sua organização que terminem no seu domínio.
+Do e-mail da AFRUS, até você verificar seu domínio. Depois você poderá escolher os e-mails dos usuários da sua organização que terminem no seu domínio.
 
 **Posso colocar o nome do doador no e-mail?**
 Sim. Use o "Mapa de mergetags" para copiar o dado que quiser, por exemplo o nome, e cole no assunto ou no corpo do e-mail.

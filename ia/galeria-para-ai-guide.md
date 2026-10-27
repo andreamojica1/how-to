@@ -15,7 +15,7 @@ Puedes agregar imágenes de tres formas: subiéndolas desde tu computadora, busc
 ## Para qué sirve
 
 - **Poner tus fotos en los correos que escribe la IA.** Los correos con IA que usan plantillas (en Blast de AI y en autoresponders con IA) toman de aquí la imagen principal.
-- **Elegir qué tipo de imagen va en cada correo.** Con los atributos (etiquetas) le dices a la IA qué imágenes usar. Afrus elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.
+- **Elegir qué tipo de imagen va en cada correo.** Con los atributos (etiquetas) le dices a la IA qué imágenes usar. AFRUS elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.
 - **Tener tus imágenes a mano en otros lugares.** También aparecen en la pestaña **IA Media** cuando eliges una imagen en el editor de plantillas y en WhatsApp Business.
 
 ---

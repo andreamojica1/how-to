@@ -10,9 +10,9 @@ This guide explains what custom fields are, how to ask for them in your forms an
 
 ## What custom fields are
 
-**They are extra details your organization wants to keep about each person, on top of the ones Afrus already has** (name, email, phone, ID, address…). For example: "How did you hear about us?" or "Area of interest".
+**They are extra details your organization wants to keep about each person, on top of the ones AFRUS already has** (name, email, phone, ID, address…). For example: "How did you hear about us?" or "Area of interest".
 
-They are defined in **Configuración > Avanzado > Campos personalizados**. This screen opens in the previous version of Afrus, which is why it looks different.
+They are defined in **Configuración > Avanzado > Campos personalizados**. This screen opens in the previous version of AFRUS, which is why it looks different.
 
 ## What they are for
 
@@ -20,7 +20,7 @@ They are defined in **Configuración > Avanzado > Campos personalizados**. This 
 - **Asking for them in your forms.** You can add the field to your donation or registration forms.
 - **Filling them in by hand.** You can also fill them in when you create or edit a person.
 - **Using them in your emails.** In autoresponders you can insert a custom field's value with a merge tag.
-- **Analyzing them outside Afrus.** Each field comes out as a column when you download your list of people.
+- **Analyzing them outside AFRUS.** Each field comes out as a column when you download your list of people.
 
 ---
 
@@ -37,7 +37,7 @@ They are defined in **Configuración > Avanzado > Campos personalizados**. This 
 
 **Before you start:** the field must already exist in **Configuración > Avanzado > Campos personalizados**.
 
-1. **Open the form editor.** In **Fundraising > Widgets**, edit the form. The editor opens in the previous version of Afrus, which is why it looks different.
+1. **Open the form editor.** In **Fundraising > Widgets**, edit the form. The editor opens in the previous version of AFRUS, which is why it looks different.
 
 2. **Add the block.** Click "Agregar" (Add) and choose **Campo personalizado** (Custom field).
    <!-- screenshot pending: how-to-add-a-custom-field-to-my-widget-02 — Add menu with the Custom field option -->

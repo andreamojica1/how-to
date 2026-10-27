@@ -10,7 +10,7 @@ After reading this guide you will know what Subscription tasks are, when they ap
 
 ## What Subscription tasks are
 
-**Subscription tasks are a follow-up list that Afrus creates automatically when a subscription charge fails.** Each task is a case for your team to contact the donor and recover their recurring donation.
+**Subscription tasks are a follow-up list that AFRUS creates automatically when a subscription charge fails.** Each task is a case for your team to contact the donor and recover their recurring donation.
 
 The screen is called **Tareas de Suscripciones** (Subscription tasks) and shows, for each case, the subscription, amount, gateway, person, owner and date.
 
@@ -20,7 +20,7 @@ The screen is called **Tareas de Suscripciones** (Subscription tasks) and shows,
 - **Share out the work.** Assign each case to a **Responsable** (owner) on your team.
 - **Keep track of what's solved.** Mark the task as **Completada** (Completed) when you've finished.
 - **Have the context at hand.** You see **Monto** (amount), **Pasarela** (gateway), **Persona** (person) and **Razón de fallo** (failure reason), and you can open the subscription from the **Suscripción** column.
-- **Work the list outside Afrus.** Export all tasks or a selection; the file goes to **Descargas** (Downloads).
+- **Work the list outside AFRUS.** Export all tasks or a selection; the file goes to **Descargas** (Downloads).
 
 ## Before you start
 
@@ -33,9 +33,9 @@ The screen is called **Tareas de Suscripciones** (Subscription tasks) and shows,
 
 ## How often it updates
 
-- **Tasks are created right away.** Afrus creates the task as soon as it processes the failed charge; it doesn't wait for a daily check.
-- **When a new task is created**, users with the owner or admin role in your organization get a notification in Afrus.
-- **If the subscription already had a task**, Afrus doesn't create another one: it reopens the existing one (back to **Pendiente**, Pending) and removes its **Responsable**, so someone picks it up again.
+- **Tasks are created right away.** AFRUS creates the task as soon as it processes the failed charge; it doesn't wait for a daily check.
+- **When a new task is created**, users with the owner or admin role in your organization get a notification in AFRUS.
+- **If the subscription already had a task**, AFRUS doesn't create another one: it reopens the existing one (back to **Pendiente**, Pending) and removes its **Responsable**, so someone picks it up again.
 - **The screen doesn't refresh on its own.** Data loads when you open it and when you change dates, search, filter, sort or page. If you're expecting a new case, reload the page.
 
 ## When a subscription is charged successfully again, does the task leave the list?
@@ -57,11 +57,11 @@ Each task also has a **Tipo** (type), which you can change by hand:
 
 | Type | What it means |
 |---|---|
-| **General** | The type Afrus uses when it creates tasks automatically. |
+| **General** | The type AFRUS uses when it creates tasks automatically. |
 | **Fallo Mensual** (Monthly failure) | A label you can use to classify the case by hand. |
 | **Cancelada por el Sistema** (Cancelled by the system) | A label you can use to classify the case by hand. |
 
-> **Pending confirmation:** whether any Afrus process assigns the **Fallo Mensual** and **Cancelada por el Sistema** types automatically.
+> **Pending confirmation:** whether any AFRUS process assigns the **Fallo Mensual** and **Cancelada por el Sistema** types automatically.
 
 ## What I can do in each status
 
@@ -106,10 +106,10 @@ The table shows 25 tasks per page (you can change it to 10, 50 or 100), newest f
 No. They're only created when a subscription charge fails.
 
 **Why did a completed task go back to Pending with no owner?**
-Because the subscription had another failed charge. Afrus reopens the same task instead of creating a new one.
+Because the subscription had another failed charge. AFRUS reopens the same task instead of creating a new one.
 
 **Who is notified about a new task?**
-Users with the owner or admin role in your organization, with a notification in Afrus.
+Users with the owner or admin role in your organization, with a notification in AFRUS.
 
 ---
 

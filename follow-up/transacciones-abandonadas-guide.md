@@ -1,6 +1,6 @@
 # Guía de Transacciones abandonadas
 
-Después de leer esta guía sabrás qué son las Transacciones abandonadas, cuándo Afrus considera que una donación se abandonó y cómo usar esta lista para recontactar a esas personas.
+Después de leer esta guía sabrás qué son las Transacciones abandonadas, cuándo AFRUS considera que una donación se abandonó y cómo usar esta lista para recontactar a esas personas.
 
 *Módulo: Follow up · Menú: **Follow up > Transacciones abandonadas** · Audiencia: equipos de recaudación y atención a donantes*
 
@@ -17,7 +17,7 @@ Para cada caso ves el **Lead ID**, el nombre, el **Email**, el teléfono, el **W
 - **Recuperar donaciones a medio camino.** Son personas que ya mostraron intención de donar: un buen recordatorio puede convertirlas.
 - **Saber dónde se quedaron.** Ves con qué **Widget** y **Campaña** empezaron, para revisar si algo de ese formulario frena a tus donantes.
 - **Tener los datos de contacto a mano.** **Email** y teléfono, listos para escribirles o llamarles.
-- **Trabajar la lista fuera de Afrus.** Exporta la lista; el archivo queda en **Descargas**.
+- **Trabajar la lista fuera de AFRUS.** Exporta la lista; el archivo queda en **Descargas**.
 
 ---
 
@@ -25,13 +25,13 @@ Para cada caso ves el **Lead ID**, el nombre, el **Email**, el teléfono, el **W
 
 ## Cada cuánto se actualiza
 
-- **Afrus revisa los abandonos cada hora, en punto.**
+- **AFRUS revisa los abandonos cada hora, en punto.**
 - **Una donación aparece como abandonada entre 15 minutos y aproximadamente 1 hora y 15 minutos** después de que la persona dejó de avanzar.
 - **La pantalla no se refresca sola.** Los datos se cargan al abrirla y al cambiar fechas, orden o página. Recarga la página para ver los casos nuevos.
 
 ## Cuándo una transacción se considera abandonada
 
-1. **La persona inicia una donación en un widget y llega al paso de pago.** En ese momento Afrus la marca como "en proceso de donar".
+1. **La persona inicia una donación en un widget y llega al paso de pago.** En ese momento AFRUS la marca como "en proceso de donar".
 2. **Si la donación termina, no es un abandono.** Tanto si el pago sale exitoso como si falla, esa marca se borra y la persona no aparece en esta lista.
 3. **Si la marca sigue activa, la revisión horaria la registra como abandonada** cuando la última actividad de la persona fue hace entre 15 minutos y 1 hora y 15 minutos.
 4. **Debe existir el registro de inicio de donación** para ese widget y esa campaña.
@@ -60,7 +60,7 @@ En esta pantalla, "Acciones" solo ofrece exportar: no permite asignar etiquetas 
 **¿Si la donación falla, la persona aparece aquí?**
 No. Si el pago termina, sea exitoso o fallido, no cuenta como abandono.
 
-**¿Afrus les envía un correo automático a estas personas?**
+**¿AFRUS les envía un correo automático a estas personas?**
 > **Pendiente de confirmar:** existe una automatización para leads abandonados, pero depende de la configuración de cada organización.
 
 ---

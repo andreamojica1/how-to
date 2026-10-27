@@ -1,6 +1,6 @@
 # Campaigns guide
 
-After reading this guide you will know what a campaign is in Afrus, what it is for, how to link widgets and a thank-you page to it, how to show its progress and donors on your website, and how to measure its return with costs, Analytics and KPI Merge Tags.
+After reading this guide you will know what a campaign is in AFRUS, what it is for, how to link widgets and a thank-you page to it, how to show its progress and donors on your website, and how to measure its return with costs, Analytics and KPI Merge Tags.
 
 *Module: Campaigns · Menu: **Fundraising > Campañas** · Audience: fundraising, digital marketing and leadership teams*
 
@@ -38,7 +38,7 @@ When you link a widget, its donations and registrations are associated with the 
 
 **Before you start:** the campaign must be **active**. The widget editor only lists active campaigns, by their public name.
 
-1. **Open the widget.** Go to **Fundraising > Widgets** and edit the widget you want to link. The editor opens in a new tab. This screen opens in the previous version of Afrus, so it looks different.
+1. **Open the widget.** Go to **Fundraising > Widgets** and edit the widget you want to link. The editor opens in a new tab. This screen opens in the previous version of AFRUS, so it looks different.
    <!-- screenshot pending: how-to-link-a-widget-to-a-campaign-01 — widget editor, Renderización panel -->
 
 2. **Choose the campaign.** In the **Renderización** (Rendering) panel, in the **Elige tus campañas** (Choose your campaigns) field, select one or more campaigns.
@@ -71,7 +71,7 @@ This way every widget in the campaign can take the donor to the same page after 
 
 **Part 2 — In each widget that should use it**
 
-6. **Open the widget.** In **Fundraising > Widgets**, edit the widget. This screen opens in the previous version of Afrus, so it looks different.
+6. **Open the widget.** In **Fundraising > Widgets**, edit the widget. This screen opens in the previous version of AFRUS, so it looks different.
 7. **Turn on the campaign's page.** In the **Avanzado** (Advanced) section, **Página de agradecimiento** area, tick **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). When ticked, the "Configurar" (Configure) button for the widget's own thank-you page disappears.
 8. **Save the widget changes.**
 
@@ -134,7 +134,7 @@ In the campaign, the cost center is the **Costos** (Costs) tab: *"Agrega en esta
 **What it is for:**
 
 - **Knowing how much you invested** in the campaign, with a total you can filter by date.
-- **Calculating return.** With your costs, Afrus calculates Result, ROI, cost per transaction, cost per recurring donor and other indicators.
+- **Calculating return.** With your costs, AFRUS calculates Result, ROI, cost per transaction, cost per recurring donor and other indicators.
 - **Turning on the Analytics dashboard.** The "Ver Analytics" (View Analytics) button is only enabled once the campaign has at least one cost recorded.
 
 **How to record a cost:**
@@ -167,7 +167,7 @@ When you finish, the cost appears in **Lista de costos** (Cost list — columns 
 2. **Choose the period.** In the **Resumen** (Summary) tab, choose the date range (by default, all history). The indicator cards recalculate for that range.
 3. **Download the indicators (optional).** Click "Descargar KPIs" (Download KPIs) to get a CSV file with all indicators for the range (columns KPI, Value and Unit).
 4. **Look at one widget in detail.** In **Rendimiento por Widget** (Performance by widget), click a widget to open its **Analytics del Widget**: the same indicators, only for that widget and its costs.
-5. **See the trend.** In the **Tendencias** (Trends) tab, choose the range (by default, the current month). Afrus groups by day up to 31 days, by week up to 90 days, and by month beyond that.
+5. **See the trend.** In the **Tendencias** (Trends) tab, choose the range (by default, the current month). AFRUS groups by day up to 31 days, by week up to 90 days, and by month beyond that.
 
 **What data you get in Resumen (cards):**
 
@@ -273,7 +273,7 @@ When the published landing opens, the tag shows the value calculated at that mom
 ## Frequently asked questions
 
 **What does "Seleccionar por defecto" (Set as default) do in a campaign's menu?**
-It marks your organization's default campaign (there can only be one). Transactions that arrive from some payment gateways without a known campaign are assigned to it, for example charges from subscriptions created outside Afrus.
+It marks your organization's default campaign (there can only be one). Transactions that arrive from some payment gateways without a known campaign are assigned to it, for example charges from subscriptions created outside AFRUS.
 
 **Why don't I see my campaign when linking it in the widget?**
 Because it is inactive. The widget editor only lists active campaigns: turn on **Campaña activa** in the campaign detail.

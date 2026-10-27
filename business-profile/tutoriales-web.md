@@ -10,22 +10,22 @@ Idioma: es
 Título: Qué es el Business profile
 Slug: que-es-el-business-profile
 Categoría: Business profile
-Resumen: Aprende qué es el Business profile: la página pública de tu organización en Afrus, con tus datos, redes, logotipo y widgets.
+Resumen: Aprende qué es el Business profile: la página pública de tu organización en AFRUS, con tus datos, redes, logotipo y widgets.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-el-business-profile, como-crear-el-business-profile, como-configurar-los-widgets-del-business-profile
 --- CUERPO (HTML) ---
-<p><strong>El Business profile es la página pública de tu organización en Afrus.</strong> Tiene una dirección propia, del tipo <em>afrus.org/business/tu-url</em>, y reúne tus datos de contacto, redes sociales, textos, preguntas frecuentes, logotipo y colores.</p>
+<p><strong>El Business profile es la página pública de tu organización en AFRUS.</strong> Tiene una dirección propia, del tipo <em>afrus.org/business/tu-url</em>, y reúne tus datos de contacto, redes sociales, textos, preguntas frecuentes, logotipo y colores.</p>
 <p>En esa página aparecen el widget de donación y el widget de registro que tengas marcados como predeterminados, para que cualquiera pueda donarte o dejarte sus datos.</p>
-<p>La misma información sirve también para alimentar la inteligencia artificial de Afrus, de modo que las funciones de IA conozcan a tu organización.</p>
+<p>La misma información sirve también para alimentar la inteligencia artificial de AFRUS, de modo que las funciones de IA conozcan a tu organización.</p>
 <h2>Dónde lo encuentras</h2>
 <p>En el menú de perfil (esquina superior), opción <strong>Business profile</strong>. Arriba del asistente verás su <strong>Estado</strong>:</p>
 <ul>
 <li><strong>Incompleto:</strong> aún no lo has creado.</li>
 <li><strong>Guardado sin enviar a AI:</strong> está creado, pero su información no se envió a la IA.</li>
 <li><strong>Pendiente de sincronización con AI:</strong> cambiaste las preguntas frecuentes y falta enviarlas a la IA.</li>
-<li><strong>Sincronizado con AI:</strong> la información está enviada a la IA de Afrus.</li>
+<li><strong>Sincronizado con AI:</strong> la información está enviada a la IA de AFRUS.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Puedo cambiar la URL de mi Business profile?</strong> No. Una vez creado el perfil, la URL queda bloqueada.</p>
@@ -38,19 +38,19 @@ Idioma: es
 Título: Para qué sirve el Business profile
 Slug: para-que-sirve-el-business-profile
 Categoría: Business profile
-Resumen: Aprende para qué sirve el Business profile: recibir donaciones, enviar links de pago, mostrar tu QR y alimentar la IA de Afrus.
+Resumen: Aprende para qué sirve el Business profile: recibir donaciones, enviar links de pago, mostrar tu QR y alimentar la IA de AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-el-business-profile, como-crear-el-business-profile, como-configurar-los-widgets-del-business-profile
 --- CUERPO (HTML) ---
-<p>El Business profile es la página pública de tu organización en Afrus. Esto es lo que te permite hacer:</p>
+<p>El Business profile es la página pública de tu organización en AFRUS. Esto es lo que te permite hacer:</p>
 <ul>
 <li><strong>Tener una página donde cualquiera puede donarte.</strong> Como dice la propia pantalla: <em>"Tu empresa tiene una página donde cualquiera puede pagarte."</em></li>
 <li><strong>Mostrar tus widgets principales.</strong> En la página aparecen el widget de donación y el widget de registro que tengas marcados como predeterminados.</li>
-<li><strong>Enviar links de pago.</strong> Los links de pago que envías desde Afrus (desde <strong>Home</strong> o desde el perfil de una persona) apuntan a la dirección de tu Business profile. Sin Business profile con URL, el link de pago no se puede enviar.</li>
+<li><strong>Enviar links de pago.</strong> Los links de pago que envías desde AFRUS (desde <strong>Home</strong> o desde el perfil de una persona) apuntan a la dirección de tu Business profile. Sin Business profile con URL, el link de pago no se puede enviar.</li>
 <li><strong>Tener a mano tu QR y tu link de pago.</strong> Cuando tu Business profile tiene URL, <strong>Home</strong> muestra un código QR y el formulario de <strong>Link de pago</strong>.</li>
-<li><strong>Alimentar la IA de Afrus.</strong> Con "Enviar AI", la descripción, el texto "Sobre nosotros" y las preguntas frecuentes se envían a la IA. Algunas funciones, como <strong>Experiences AI</strong>, piden tener el Business profile al día.</li>
+<li><strong>Alimentar la IA de AFRUS.</strong> Con "Enviar AI", la descripción, el texto "Sobre nosotros" y las preguntas frecuentes se envían a la IA. Algunas funciones, como <strong>Experiences AI</strong>, piden tener el Business profile al día.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Puedo enviar links de pago sin Business profile?</strong> No. Los links de pago apuntan a la dirección de tu Business profile, así que necesitas tenerlo creado con URL.</p>
@@ -63,7 +63,7 @@ Idioma: es
 Título: Cómo crear el Business profile
 Slug: como-crear-el-business-profile
 Categoría: Business profile
-Resumen: Aprende a crear el Business profile de tu organización en Afrus, paso a paso, y a enviar su información a la IA.
+Resumen: Aprende a crear el Business profile de tu organización en AFRUS, paso a paso, y a enviar su información a la IA.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -134,22 +134,22 @@ Idioma: en
 Título: What the Business profile is
 Slug: what-is-the-business-profile
 Categoría: Business profile
-Resumen: Learn what the Business profile is: your organization's public page on Afrus, with your details, social networks, logo and widgets.
+Resumen: Learn what the Business profile is: your organization's public page on AFRUS, with your details, social networks, logo and widgets.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-the-business-profile-for, how-to-create-the-business-profile, how-to-set-up-the-widgets-on-the-business-profile
 --- CUERPO (HTML) ---
-<p><strong>The Business profile is your organization's public page on Afrus.</strong> It has its own address, such as <em>afrus.org/business/your-url</em>, and brings together your contact details, social networks, texts, FAQs, logo and colors.</p>
+<p><strong>The Business profile is your organization's public page on AFRUS.</strong> It has its own address, such as <em>afrus.org/business/your-url</em>, and brings together your contact details, social networks, texts, FAQs, logo and colors.</p>
 <p>The page shows the donation widget and the registration widget you have set as default, so anyone can donate or leave their details.</p>
-<p>The same information also feeds Afrus's artificial intelligence, so the AI features know about your organization.</p>
+<p>The same information also feeds AFRUS's artificial intelligence, so the AI features know about your organization.</p>
 <h2>Where to find it</h2>
 <p>In the profile menu (top corner), option <strong>Business profile</strong>. Labels are shown as they appear in the Spanish version of the console. Above the wizard you will see its <strong>Estado</strong> (Status):</p>
 <ul>
 <li><strong>Incompleto</strong> (Incomplete): you haven't created it yet.</li>
 <li><strong>Guardado sin enviar a AI</strong> (Saved, not sent to AI): it exists, but its information wasn't sent to the AI.</li>
 <li><strong>Pendiente de sincronización con AI</strong> (Pending AI sync): you changed the FAQs and they still need to be sent to the AI.</li>
-<li><strong>Sincronizado con AI</strong> (Synced with AI): the information has been sent to Afrus AI.</li>
+<li><strong>Sincronizado con AI</strong> (Synced with AI): the information has been sent to AFRUS AI.</li>
 </ul>
 <h2>Frequently asked questions</h2>
 <p><strong>Can I change my Business profile URL?</strong> No. Once the profile is created, the URL is locked.</p>
@@ -162,19 +162,19 @@ Idioma: en
 Título: What the Business profile is for
 Slug: what-is-the-business-profile-for
 Categoría: Business profile
-Resumen: Learn what the Business profile is for: receiving donations, sending payment links, showing your QR code and feeding Afrus AI.
+Resumen: Learn what the Business profile is for: receiving donations, sending payment links, showing your QR code and feeding AFRUS AI.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-the-business-profile, how-to-create-the-business-profile, how-to-set-up-the-widgets-on-the-business-profile
 --- CUERPO (HTML) ---
-<p>The Business profile is your organization's public page on Afrus. This is what it lets you do:</p>
+<p>The Business profile is your organization's public page on AFRUS. This is what it lets you do:</p>
 <ul>
 <li><strong>Have a page where anyone can donate to you.</strong> As the screen itself says: <em>"Tu empresa tiene una página donde cualquiera puede pagarte."</em> ("Your company has a page where anyone can pay you.")</li>
 <li><strong>Show your main widgets.</strong> The page shows the donation widget and the registration widget you have set as default.</li>
-<li><strong>Send payment links.</strong> The payment links you send from Afrus (from <strong>Home</strong> or from a person's profile) point to your Business profile address. Without a Business profile with a URL, a payment link cannot be sent.</li>
+<li><strong>Send payment links.</strong> The payment links you send from AFRUS (from <strong>Home</strong> or from a person's profile) point to your Business profile address. Without a Business profile with a URL, a payment link cannot be sent.</li>
 <li><strong>Have your QR code and payment link at hand.</strong> When your Business profile has a URL, <strong>Home</strong> shows a QR code and the <strong>Link de pago</strong> (payment link) form.</li>
-<li><strong>Feed Afrus AI.</strong> With "Enviar AI" (Send to AI), your description, "Sobre nosotros" (About us) text and FAQs are sent to the AI. Some features, such as <strong>Experiences AI</strong>, require an up-to-date Business profile.</li>
+<li><strong>Feed AFRUS AI.</strong> With "Enviar AI" (Send to AI), your description, "Sobre nosotros" (About us) text and FAQs are sent to the AI. Some features, such as <strong>Experiences AI</strong>, require an up-to-date Business profile.</li>
 </ul>
 <h2>Frequently asked questions</h2>
 <p><strong>Can I send payment links without a Business profile?</strong> No. Payment links point to your Business profile address, so you need it created with a URL.</p>
@@ -187,7 +187,7 @@ Idioma: en
 Título: How to create the Business profile
 Slug: how-to-create-the-business-profile
 Categoría: Business profile
-Resumen: Learn how to create your organization's Business profile on Afrus, step by step, and send its information to the AI.
+Resumen: Learn how to create your organization's Business profile on AFRUS, step by step, and send its information to the AI.
 Tiempo de lectura: 3 min
 Video: no
 Imagen de portada: pendiente
@@ -258,22 +258,22 @@ Idioma: pt-BR
 Título: O que é o Business profile
 Slug: o-que-e-o-business-profile
 Categoría: Business profile
-Resumen: Aprenda o que é o Business profile: a página pública da sua organização na Afrus, com seus dados, redes, logotipo e widgets.
+Resumen: Aprenda o que é o Business profile: a página pública da sua organização na AFRUS, com seus dados, redes, logotipo e widgets.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-o-business-profile, como-criar-o-business-profile, como-configurar-os-widgets-do-business-profile
 --- CUERPO (HTML) ---
-<p><strong>O Business profile é a página pública da sua organização na Afrus.</strong> Ele tem um endereço próprio, do tipo <em>afrus.org/business/sua-url</em>, e reúne seus dados de contato, redes sociais, textos, perguntas frequentes, logotipo e cores.</p>
+<p><strong>O Business profile é a página pública da sua organização na AFRUS.</strong> Ele tem um endereço próprio, do tipo <em>afrus.org/business/sua-url</em>, e reúne seus dados de contato, redes sociais, textos, perguntas frequentes, logotipo e cores.</p>
 <p>Na página aparecem o widget de doação e o widget de cadastro que você marcou como padrão, para que qualquer pessoa possa doar ou deixar seus dados.</p>
-<p>As mesmas informações também alimentam a inteligência artificial da Afrus, para que as funções de IA conheçam a sua organização.</p>
+<p>As mesmas informações também alimentam a inteligência artificial da AFRUS, para que as funções de IA conheçam a sua organização.</p>
 <h2>Onde encontrar</h2>
 <p>No menu de perfil (canto superior), opção <strong>Business profile</strong>. Os nomes de tela aparecem como na versão em espanhol do console. Acima do assistente você verá o <strong>Estado</strong> (Status):</p>
 <ul>
 <li><strong>Incompleto:</strong> você ainda não o criou.</li>
 <li><strong>Guardado sin enviar a AI</strong> (Salvo sem enviar para a IA): ele existe, mas as informações não foram enviadas para a IA.</li>
 <li><strong>Pendiente de sincronización con AI</strong> (Sincronização pendente): você alterou as perguntas frequentes e falta enviá-las para a IA.</li>
-<li><strong>Sincronizado con AI</strong> (Sincronizado com a IA): as informações foram enviadas para a IA da Afrus.</li>
+<li><strong>Sincronizado con AI</strong> (Sincronizado com a IA): as informações foram enviadas para a IA da AFRUS.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
 <p><strong>Posso mudar a URL do meu Business profile?</strong> Não. Depois que o perfil é criado, a URL fica bloqueada.</p>
@@ -286,19 +286,19 @@ Idioma: pt-BR
 Título: Para que serve o Business profile
 Slug: para-que-serve-o-business-profile
 Categoría: Business profile
-Resumen: Aprenda para que serve o Business profile: receber doações, enviar links de pagamento, mostrar seu QR code e alimentar a IA da Afrus.
+Resumen: Aprenda para que serve o Business profile: receber doações, enviar links de pagamento, mostrar seu QR code e alimentar a IA da AFRUS.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-business-profile, como-criar-o-business-profile, como-configurar-os-widgets-do-business-profile
 --- CUERPO (HTML) ---
-<p>O Business profile é a página pública da sua organização na Afrus. Veja o que ele permite fazer:</p>
+<p>O Business profile é a página pública da sua organização na AFRUS. Veja o que ele permite fazer:</p>
 <ul>
 <li><strong>Ter uma página onde qualquer pessoa pode fazer uma doação.</strong> Como diz a própria tela: <em>"Tu empresa tiene una página donde cualquiera puede pagarte."</em> ("Sua empresa tem uma página onde qualquer pessoa pode pagar você.")</li>
 <li><strong>Mostrar seus widgets principais.</strong> A página mostra o widget de doação e o widget de cadastro que você marcou como padrão.</li>
-<li><strong>Enviar links de pagamento.</strong> Os links de pagamento que você envia pela Afrus (pela <strong>Home</strong> ou pelo perfil de uma pessoa) apontam para o endereço do seu Business profile. Sem Business profile com URL, o link de pagamento não pode ser enviado.</li>
+<li><strong>Enviar links de pagamento.</strong> Os links de pagamento que você envia pela AFRUS (pela <strong>Home</strong> ou pelo perfil de uma pessoa) apontam para o endereço do seu Business profile. Sem Business profile com URL, o link de pagamento não pode ser enviado.</li>
 <li><strong>Ter seu QR code e seu link de pagamento à mão.</strong> Quando o Business profile tem URL, a <strong>Home</strong> mostra um QR code e o formulário de <strong>Link de pago</strong> (link de pagamento).</li>
-<li><strong>Alimentar a IA da Afrus.</strong> Com "Enviar AI", a descrição, o texto "Sobre nosotros" (Sobre nós) e as perguntas frequentes são enviados para a IA. Algumas funções, como <strong>Experiences AI</strong>, pedem que o Business profile esteja atualizado.</li>
+<li><strong>Alimentar a IA da AFRUS.</strong> Com "Enviar AI", a descrição, o texto "Sobre nosotros" (Sobre nós) e as perguntas frequentes são enviados para a IA. Algumas funções, como <strong>Experiences AI</strong>, pedem que o Business profile esteja atualizado.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
 <p><strong>Posso enviar links de pagamento sem Business profile?</strong> Não. Os links de pagamento apontam para o endereço do seu Business profile, então você precisa tê-lo criado com URL.</p>
@@ -311,7 +311,7 @@ Idioma: pt-BR
 Título: Como criar o Business profile
 Slug: como-criar-o-business-profile
 Categoría: Business profile
-Resumen: Aprenda a criar o Business profile da sua organização na Afrus, passo a passo, e a enviar as informações para a IA.
+Resumen: Aprenda a criar o Business profile da sua organização na AFRUS, passo a passo, e a enviar as informações para a IA.
 Tiempo de lectura: 3 min
 Video: no
 Imagen de portada: pendiente

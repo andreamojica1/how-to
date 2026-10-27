@@ -12,14 +12,14 @@ Con esta guía vas a poder elegir el diseño de los correos que escribe la IA y 
 
 Hay dos tipos:
 
-- **Global:** plantillas que prepara Afrus. Puedes activarlas o desactivarlas.
+- **Global:** plantillas que prepara AFRUS. Puedes activarlas o desactivarlas.
 - **Propia:** plantillas que crea tu organización. Puedes editarlas, duplicarlas o eliminarlas.
 
 ## Para qué sirven
 
-- **Darle tu estilo a los correos con IA.** Cuando un correo con IA usa diseño de plantilla (en Blast de AI y en autoresponders con IA), Afrus elige al azar una de tus plantillas activas y la IA rellena los textos.
-- **Decidir qué diseños se usan.** Solo se usan las plantillas activas: tus plantillas en **Habilitado** y las de Afrus que no desactivaste.
-- **No quedarte sin diseño.** Si no hay ninguna activa, Afrus usa un diseño estándar.
+- **Darle tu estilo a los correos con IA.** Cuando un correo con IA usa diseño de plantilla (en Blast de AI y en autoresponders con IA), AFRUS elige al azar una de tus plantillas activas y la IA rellena los textos.
+- **Decidir qué diseños se usan.** Solo se usan las plantillas activas: tus plantillas en **Habilitado** y las de AFRUS que no desactivaste.
+- **No quedarte sin diseño.** Si no hay ninguna activa, AFRUS usa un diseño estándar.
 
 ---
 
@@ -34,7 +34,7 @@ Hay dos tipos:
 
 2. **Usa el interruptor.** En la columna **Estado**, enciéndelo para que la IA pueda usar esa plantilla o apágalo para que no la use. Verás *"Plantilla activada correctamente"* o *"Plantilla desactivada correctamente"*.
 
-En las plantillas de Afrus (**Global**), activar o desactivar es lo único que puedes hacer, y el cambio solo afecta a tu organización.
+En las plantillas de AFRUS (**Global**), activar o desactivar es lo único que puedes hacer, y el cambio solo afecta a tu organización.
 
 ### Crear tu propia plantilla
 
@@ -70,15 +70,15 @@ En las plantillas **Propia** puedes:
 
 ## Limitaciones conocidas
 
-- **No puedes elegir qué plantilla usa cada envío.** Afrus elige al azar entre las activas. Si quieres que se use una sola, deja solo esa activa.
-- **Las plantillas de Afrus (Global)** no se pueden editar, duplicar ni borrar.
+- **No puedes elegir qué plantilla usa cada envío.** AFRUS elige al azar entre las activas. Si quieres que se use una sola, deja solo esa activa.
+- **Las plantillas de AFRUS (Global)** no se pueden editar, duplicar ni borrar.
 
 ## Preguntas frecuentes
 
 **¿Tengo que tener la IA activada para usar esta pantalla?**
 > **Pendiente de confirmar.**
 
-**¿Cuántas plantillas de Afrus hay?**
+**¿Cuántas plantillas de AFRUS hay?**
 > **Pendiente de confirmar.**
 
 ---

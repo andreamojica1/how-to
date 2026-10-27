@@ -23,7 +23,7 @@ Tú eliges a quién enviarlo, cuál es el objetivo y qué quieres decir. La IA e
 
 ## Antes de empezar
 
-- **Activa la IA de Afrus** desde el **Business profile** (menú de perfil): crea tu perfil y pulsa "Enviar AI". Sin ese paso, la lista de objetivos no carga y no podrás avanzar.
+- **Activa la IA de AFRUS** desde el **Business profile** (menú de perfil): crea tu perfil y pulsa "Enviar AI". Sin ese paso, la lista de objetivos no carga y no podrás avanzar.
 - **Carga información en AI > Entrenamiento [AI RAG].** Es lo que la IA usa para escribir.
 - **Ten lista tu cuenta de correo de envío y tus créditos,** igual que para un Blast normal.
 - **Opcional:** si quieres correos con diseño e imágenes, revisa **AI > Plantillas AI Email** y **AI > Galería para AI**.

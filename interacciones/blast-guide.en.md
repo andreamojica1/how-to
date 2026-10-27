@@ -27,7 +27,7 @@ The same screen can also send WhatsApp Business messages. This guide covers **em
 ## Before you start
 
 - **Have your recipient group ready.** It can be a saved segment (in **Data > Segmentos > Avanzado** or **Básico**) or a tag.
-- **Verify your email domain (recommended).** That way your emails go out with your organization's address, not from an Afrus account. We explain how in "How to keep my emails out of spam".
+- **Verify your email domain (recommended).** That way your emails go out with your organization's address, not from an AFRUS account. We explain how in "How to keep my emails out of spam".
 - **Check that your account is not blocked.** If it is, you will see *"Cuenta bloqueada, no puedes enviar interacciones…"* (Account blocked, you can't send interactions) and you will need to contact support.
 
 ---
@@ -43,14 +43,14 @@ The same screen can also send WhatsApp Business messages. This guide covers **em
 
 2. **Give it a name.** The screen shows one row per item (**Nombre**, **Canal**, **Destinatario**, **Campaña (Opcional)** and **Etiqueta (Opcional)**), each with its own "Agregar" (Add) button. In **Nombre**, click "Agregar" and type the **Nombre del envío** (Send name). Only you see it; it helps you find it later.
 
-3. **Choose the recipients.** In **Destinatario** (Recipient), click "Agregar". In **Enviar a** (Send to), open **Seleccionar segmento** (Select segment) and choose your group in one of the tabs: **Segmentos** (groups Afrus already includes), **Mis segmentos** (the ones you saved) or **Etiquetas** (tags). Click "Aceptar" (Accept).
+3. **Choose the recipients.** In **Destinatario** (Recipient), click "Agregar". In **Enviar a** (Send to), open **Seleccionar segmento** (Select segment) and choose your group in one of the tabs: **Segmentos** (groups AFRUS already includes), **Mis segmentos** (the ones you saved) or **Etiquetas** (tags). Click "Aceptar" (Accept).
    ![Enviar a selector open with the Segmentos, Mis segmentos and Etiquetas tabs](img/como-enviar-un-blast-03.webp)
 
-   You will see how many people can receive it, for example *"N entregables de M Destinatarios"* (N deliverable out of M recipients). Afrus leaves out anyone who can't receive emails (for example, people who unsubscribed or whose address doesn't exist).
+   You will see how many people can receive it, for example *"N entregables de M Destinatarios"* (N deliverable out of M recipients). AFRUS leaves out anyone who can't receive emails (for example, people who unsubscribed or whose address doesn't exist).
 
 4. **Choose the channel.** Select **Correo** (Email).
 
-5. **Add a campaign and a tag (optional).** If you choose an **Etiqueta** (tag), Afrus adds it to every person who receives the email. That way you can later find who received this send.
+5. **Add a campaign and a tag (optional).** If you choose an **Etiqueta** (tag), AFRUS adds it to every person who receives the email. That way you can later find who received this send.
 
 6. **Continue.** Click "Continuar" (Continue).
 
@@ -120,18 +120,18 @@ What to do:
 
 1. **Open the details.** In the **Lista de envíos**, click "Detalles" for the send.
 2. **Check the error.** Look at the **Incidencias** (Issues) section and the **Estados de emails**. With "Ver Eventos" you can see what happened to each person's email.
-3. **Resend.** If the send is **Fallido**, the "Reenviar" (Resend) button appears (*"¿Reenviar blast?"*). Afrus tries again with the people who had an error.
+3. **Resend.** If the send is **Fallido**, the "Reenviar" (Resend) button appears (*"¿Reenviar blast?"*). AFRUS tries again with the people who had an error.
    <!-- screenshot pending: why-does-my-blast-show-failed-03 — details of a failed send with the Reenviar button -->
 
 > **Pending confirmation:** the most common causes of a **Fallido** send.
 
-**What if it says Bloqueado?** Afrus stopped the rest of the send because there were too many bounces or complaints. You receive a warning email and a notification in the console. A blocked send can't be sent again from the screen, so the email isn't sent twice to people who already received it: contact support.
+**What if it says Bloqueado?** AFRUS stopped the rest of the send because there were too many bounces or complaints. You receive a warning email and a notification in the console. A blocked send can't be sent again from the screen, so the email isn't sent twice to people who already received it: contact support.
 
 ## Where to see bounced emails
 
 An email **bounces** when it doesn't reach the person. There are two types:
 
-- **Hard Bounce:** the address doesn't exist. Afrus stops sending emails to that person.
+- **Hard Bounce:** the address doesn't exist. AFRUS stops sending emails to that person.
 - **Soft Bounce:** a temporary problem, for example a full inbox. That person keeps receiving emails.
 
 You can see them in three places:
@@ -147,7 +147,7 @@ You can see them in three places:
 
 ## How to remove soft and hard bounces
 
-**First, good news:** you don't need to delete anyone to stop sending to them. Afrus already leaves out of your sends people with a **Hard Bounce**, people who unsubscribed (**Opt Out**) and people whose email is disabled. People with a **Soft Bounce** keep receiving, because their problem is usually temporary.
+**First, good news:** you don't need to delete anyone to stop sending to them. AFRUS already leaves out of your sends people with a **Hard Bounce**, people who unsubscribed (**Opt Out**) and people whose email is disabled. People with a **Soft Bounce** keep receiving, because their problem is usually temporary.
 
 If you still want to remove them from your database:
 
@@ -157,11 +157,11 @@ If you still want to remove them from your database:
 
 > **Pending confirmation:** whether there is a filter or segment that gathers everyone with a bounce, to delete them in one go.
 
-> **Can it be undone?** No. Deleting a person is permanent: their donations, subscriptions and whole history are deleted too. If the person donates or has an active subscription, think twice: Afrus already stops emailing them if they have a **Hard Bounce**.
+> **Can it be undone?** No. Deleting a person is permanent: their donations, subscriptions and whole history are deleted too. If the person donates or has an active subscription, think twice: AFRUS already stops emailing them if they have a **Hard Bounce**.
 
 ## How to clean my database so sending isn't blocked
 
-Afrus looks after your email account. While a send is going out, it checks how many emails bounce and how many people mark it as spam:
+AFRUS looks after your email account. While a send is going out, it checks how many emails bounce and how many people mark it as spam:
 
 - If they go over the warning limit, the send goes into **Alerta**.
 - If they go over the blocking limit, the rest of the send stops and it becomes **Bloqueado**. You get a warning by email and in the console.
@@ -181,10 +181,10 @@ If your account gets blocked, you won't be able to send more until you contact s
 
 ## How to keep my emails out of spam
 
-These are the actions Afrus lets you take to improve how your emails arrive:
+These are the actions AFRUS lets you take to improve how your emails arrive:
 
-1. **Verify your email domain.** That way your emails go out with your organization's address (for example, from @yourorg.org) and not from an Afrus account. The screen itself recommends it to *"mejorar la entregabilidad"* (improve deliverability).
-   - At the top of **Interacciones > Blast** you will see if your domain is verified. If not, click "Configurar DNS" (Set up DNS). This screen opens in the previous version of Afrus, which is why it looks different.
+1. **Verify your email domain.** That way your emails go out with your organization's address (for example, from @yourorg.org) and not from an AFRUS account. The screen itself recommends it to *"mejorar la entregabilidad"* (improve deliverability).
+   - At the top of **Interacciones > Blast** you will see if your domain is verified. If not, click "Configurar DNS" (Set up DNS). This screen opens in the previous version of AFRUS, which is why it looks different.
    - Follow the 4 steps: type your domain and add the records the screen shows you at your domain provider. If you don't know how, ask whoever manages your website.
    - Verification can take up to 48 hours. "Comprobar estado" (Check status) checks again.
    ![Dominio verificado card above the Blast Lista de envíos](img/como-evitar-que-mis-correos-lleguen-a-spam-01.webp)
@@ -193,17 +193,17 @@ These are the actions Afrus lets you take to improve how your emails arrive:
 
 3. **Keep your database clean.** Fewer bounces and fewer complaints help your emails arrive. Follow "How to clean my database so sending isn't blocked".
 
-4. **Let people unsubscribe.** Every Afrus email includes an unsubscribe link; if your design doesn't have one, Afrus adds it at the end. It's better for someone to unsubscribe than to mark your email as spam.
+4. **Let people unsubscribe.** Every AFRUS email includes an unsubscribe link; if your design doesn't have one, AFRUS adds it at the end. It's better for someone to unsubscribe than to mark your email as spam.
 
 5. **Always send yourself a test** and check that the subject and content look right.
 
-> **Pending confirmation:** other content recommendations (subject, images, links) specific to Afrus.
+> **Pending confirmation:** other content recommendations (subject, images, links) specific to AFRUS.
 
 ## Best practices for bulk email
 
-Afrus does some of these for you; others are our recommendations.
+AFRUS does some of these for you; others are our recommendations.
 
-**What Afrus already does for you:**
+**What AFRUS already does for you:**
 - It only sends to people who agreed to receive emails and haven't unsubscribed.
 - It leaves out people with an invalid email (**Hard Bounce**), people who marked it as spam and people who unsubscribed.
 - It adds an unsubscribe link to every email.
@@ -229,10 +229,10 @@ No. You can only edit sends in **Borrador** or **Programado**.
 Yes. In **Contenido**, choose **Correos enviados**. You can also use "Duplicar" (Duplicate) in the list of sends.
 
 **Why is the number of recipients smaller than my segment?**
-Because Afrus leaves out anyone who can't receive emails: hard bounces, unsubscribes, disabled emails, people who haven't accepted the terms and people marked as spam.
+Because AFRUS leaves out anyone who can't receive emails: hard bounces, unsubscribes, disabled emails, people who haven't accepted the terms and people marked as spam.
 
 **Are my segments updated every 24 hours?**
-The **Mis segmentos** tab says so, but Afrus works out who to send to with the data at the moment of sending.
+The **Mis segmentos** tab says so, but AFRUS works out who to send to with the data at the moment of sending.
 
 **What time does a scheduled send go out?**
 At the time you choose, in your computer's time zone. It may go out a few minutes later.

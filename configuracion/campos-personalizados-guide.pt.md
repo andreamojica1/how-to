@@ -10,9 +10,9 @@ Com este guia você vai entender o que são os campos personalizados, como pedi-
 
 ## O que são os campos personalizados
 
-**São dados extras que sua organização quer guardar de cada pessoa, além dos que a Afrus já tem** (nome, e-mail, telefone, documento, endereço…). Por exemplo: "Como você nos conheceu?" ou "Área de interesse".
+**São dados extras que sua organização quer guardar de cada pessoa, além dos que a AFRUS já tem** (nome, e-mail, telefone, documento, endereço…). Por exemplo: "Como você nos conheceu?" ou "Área de interesse".
 
-Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Esta tela abre na versão anterior da Afrus, por isso tem uma aparência diferente.
+Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
 
 ## Para que servem
 
@@ -20,7 +20,7 @@ Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Es
 - **Pedir esses dados nos seus formulários.** Você pode adicionar o campo aos seus formulários de doação ou de cadastro.
 - **Preenchê-los à mão.** Você também os preenche ao criar ou editar uma pessoa.
 - **Usá-los nos seus e-mails.** Nos autoresponders você pode inserir o valor de um campo personalizado com um merge tag.
-- **Analisá-los fora da Afrus.** Cada campo sai como uma coluna ao baixar sua lista de pessoas.
+- **Analisá-los fora da AFRUS.** Cada campo sai como uma coluna ao baixar sua lista de pessoas.
 
 ---
 
@@ -37,7 +37,7 @@ Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Es
 
 **Antes de começar:** o campo já precisa existir em **Configuración > Avanzado > Campos personalizados**.
 
-1. **Abra o editor do formulário.** Em **Fundraising > Widgets**, edite o formulário. O editor abre na versão anterior da Afrus, por isso tem uma aparência diferente.
+1. **Abra o editor do formulário.** Em **Fundraising > Widgets**, edite o formulário. O editor abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
 
 2. **Adicione o bloco.** Clique em "Agregar" (Adicionar) e escolha **Campo personalizado**.
    <!-- captura pendente: como-incluir-um-campo-personalizado-no-meu-widget-02 — menu Agregar com a opção Campo personalizado -->

@@ -1,6 +1,6 @@
 # AI Chat guide (Chat con AI)
 
-With this guide you will be able to use Afrus's AI assistant to ask for ideas, texts and answers about your organization.
+With this guide you will be able to use AFRUS's AI assistant to ask for ideas, texts and answers about your organization.
 
 *Module: AI · Menu: **AI > Chat con AI** · Audience: the whole organization team*
 
@@ -24,7 +24,7 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 
 ## Before you start
 
-- **Turn on Afrus AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). If you haven't, you'll see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile).
+- **Turn on AFRUS AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). If you haven't, you'll see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile).
 - **Upload information in AI > Entrenamiento [AI RAG].** The more you tell the AI, the better its answers. From the chat you get there with the "Configurar" (Set up) button.
 
 ---

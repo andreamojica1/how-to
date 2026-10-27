@@ -10,11 +10,11 @@ With this guide you will know what the Recurrence service is, what it is for and
 
 ## What the Recurrence service is
 
-**It is the screen where you set how Afrus makes the automatic charges of your monthly and recurring donations.** On screen its title is **Configuración del Motor de Recurrencia** (Recurrence engine settings).
+**It is the screen where you set how AFRUS makes the automatic charges of your monthly and recurring donations.** On screen its title is **Configuración del Motor de Recurrencia** (Recurrence engine settings).
 
 There you choose, for example, how often a donation is charged and what to do when a charge fails.
 
-> **Important:** these settings apply to the recurring donations that Afrus charges. If your payment gateway charges subscriptions on its own (for example Stripe, PayU or Pagar.me), the gateway decides when the charge happens.
+> **Important:** these settings apply to the recurring donations that AFRUS charges. If your payment gateway charges subscriptions on its own (for example Stripe, PayU or Pagar.me), the gateway decides when the charge happens.
 
 ## What it is for
 
@@ -23,7 +23,7 @@ There you choose, for example, how often a donation is charged and what to do wh
 - **Choosing the charge days**, if you use the **Charities** mode.
 - **Going back to the original settings** with a single button if something doesn't convince you.
 
-> **Pending confirmation:** that changes on this screen modify the real charges. Before changing anything important, check with the Afrus team.
+> **Pending confirmation:** that changes on this screen modify the real charges. Before changing anything important, check with the AFRUS team.
 
 ## Before you start
 
@@ -65,7 +65,7 @@ There you choose, for example, how often a donation is charged and what to do wh
 ## Known limitations
 
 - **Gateways that charge on their own:** with Stripe, PayU or Pagar.me, the gateway decides when to charge; this screen does not change those charges.
-- **Effect on real charges:** it is not yet confirmed that these settings change the charges. Check with the Afrus team before making changes.
+- **Effect on real charges:** it is not yet confirmed that these settings change the charges. Check with the AFRUS team before making changes.
 - **Frequencies other than monthly and yearly:** it is not confirmed how **Trimestral** and **Semestral** are calculated.
 
 ## Frequently asked questions

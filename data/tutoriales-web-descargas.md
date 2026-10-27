@@ -7,16 +7,16 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué es Descargas en Afrus
+Título: Qué es Descargas en AFRUS
 Slug: que-es-descargas
 Categoría: Data
-Resumen: Aprende qué es Descargas: la lista donde encuentras todos los archivos que exportas en Afrus.
+Resumen: Aprende qué es Descargas: la lista donde encuentras todos los archivos que exportas en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-descargas, que-tipos-de-acciones-hay-en-descargas
 --- CUERPO (HTML) ---
-<p><strong>Descargas es la lista de todos los archivos que tu organización exporta en Afrus.</strong> Cuando pides exportar datos, por ejemplo tus personas o tus transacciones, Afrus prepara el archivo mientras sigues trabajando. Cuando está listo, lo bajas desde aquí.</p>
+<p><strong>Descargas es la lista de todos los archivos que tu organización exporta en AFRUS.</strong> Cuando pides exportar datos, por ejemplo tus personas o tus transacciones, AFRUS prepara el archivo mientras sigues trabajando. Cuando está listo, lo bajas desde aquí.</p>
 <p>La encuentras en <strong>Data &gt; Descargas</strong> y también en <strong>Trackers &gt; Descargas</strong>: es la misma pantalla.</p>
 <h2>Cómo descargar un archivo</h2>
 <ol>
@@ -44,7 +44,7 @@ Imagen de portada: pendiente
 Relacionados: que-es-descargas, que-tipos-de-acciones-hay-en-descargas
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Bajar tus archivos exportados.</strong> Todo lo que exportas en Afrus llega a esta lista.</li>
+<li><strong>Bajar tus archivos exportados.</strong> Todo lo que exportas en AFRUS llega a esta lista.</li>
 <li><strong>Saber si un archivo ya está listo.</strong> Ves si se está preparando, si ya puedes bajarlo o si hubo un error.</li>
 <li><strong>Tener tus exportaciones en un solo lugar,</strong> sin importar desde qué pantalla las pediste.</li>
 </ul>
@@ -75,7 +75,7 @@ Relacionados: que-es-descargas, para-que-sirve-descargas
 <p>En <strong>Data &gt; Descargas</strong>, la columna <strong>Acciones</strong> de cada fila muestra un ícono que te dice en qué estado está el archivo:</p>
 <ul>
 <li><strong>Botón de descarga:</strong> el archivo está listo. Púlsalo para bajarlo.</li>
-<li><strong>Círculo girando:</strong> Afrus está preparando el archivo. Espera unos minutos.</li>
+<li><strong>Círculo girando:</strong> AFRUS está preparando el archivo. Espera unos minutos.</li>
 <li><strong>Signo de exclamación:</strong> hubo un error. Pasa el mouse por encima para ver el detalle y vuelve a pedir la exportación.</li>
 <li><strong>Reloj:</strong> pasaron más de 7 días y ya no se puede bajar. Vuelve a exportarlo.</li>
 <li><strong>Sin ícono:</strong> el archivo está en espera y todavía no empezó a prepararse.</li>
@@ -92,16 +92,16 @@ Relacionados: que-es-descargas, para-que-sirve-descargas
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What Downloads is in Afrus
+Título: What Downloads is in AFRUS
 Slug: what-is-downloads
 Categoría: Data
-Resumen: Learn what Downloads is: the list where you find every file you export in Afrus.
+Resumen: Learn what Downloads is: the list where you find every file you export in AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-downloads-for, what-types-of-actions-are-in-downloads
 --- CUERPO (HTML) ---
-<p><strong>Descargas (Downloads) is the list of every file your organization exports in Afrus.</strong> When you ask to export data, for example your people or your transactions, Afrus prepares the file while you keep working. When it's ready, you download it from here.</p>
+<p><strong>Descargas (Downloads) is the list of every file your organization exports in AFRUS.</strong> When you ask to export data, for example your people or your transactions, AFRUS prepares the file while you keep working. When it's ready, you download it from here.</p>
 <p>You'll find it in <strong>Data &gt; Descargas</strong> and also in <strong>Trackers &gt; Descargas</strong>: it's the same screen. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>How to download a file</h2>
 <ol>
@@ -129,7 +129,7 @@ Imagen de portada: pendiente
 Relacionados: what-is-downloads, what-types-of-actions-are-in-downloads
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Getting your exported files.</strong> Everything you export in Afrus arrives in this list.</li>
+<li><strong>Getting your exported files.</strong> Everything you export in AFRUS arrives in this list.</li>
 <li><strong>Knowing if a file is ready.</strong> You see whether it's being prepared, ready to download or failed.</li>
 <li><strong>Keeping your exports in one place,</strong> no matter which screen you exported from.</li>
 </ul>
@@ -160,7 +160,7 @@ Relacionados: what-is-downloads, what-is-downloads-for
 <p>In <strong>Data &gt; Descargas</strong>, the <strong>Acciones</strong> (Actions) column of each row shows an icon that tells you the file's status:</p>
 <ul>
 <li><strong>Download button:</strong> the file is ready. Click it to download.</li>
-<li><strong>Spinning circle:</strong> Afrus is preparing the file. Wait a few minutes.</li>
+<li><strong>Spinning circle:</strong> AFRUS is preparing the file. Wait a few minutes.</li>
 <li><strong>Exclamation mark:</strong> something went wrong. Hover over it to see the detail, and request the export again.</li>
 <li><strong>Clock:</strong> more than 7 days have passed and it can no longer be downloaded. Export it again.</li>
 <li><strong>No icon:</strong> the file is waiting in line and hasn't started yet.</li>
@@ -177,16 +177,16 @@ Relacionados: what-is-downloads, what-is-downloads-for
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que é Downloads na Afrus
+Título: O que é Downloads na AFRUS
 Slug: o-que-e-downloads
 Categoría: Data
-Resumen: Aprenda o que é Downloads: a lista onde você encontra todos os arquivos que exporta na Afrus.
+Resumen: Aprenda o que é Downloads: a lista onde você encontra todos os arquivos que exporta na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-downloads, que-tipos-de-acoes-existem-em-downloads
 --- CUERPO (HTML) ---
-<p><strong>Descargas (Downloads) é a lista de todos os arquivos que a sua organização exporta na Afrus.</strong> Quando você pede para exportar dados, por exemplo suas pessoas ou suas transações, a Afrus prepara o arquivo enquanto você continua trabalhando. Quando fica pronto, você baixa por aqui.</p>
+<p><strong>Descargas (Downloads) é a lista de todos os arquivos que a sua organização exporta na AFRUS.</strong> Quando você pede para exportar dados, por exemplo suas pessoas ou suas transações, a AFRUS prepara o arquivo enquanto você continua trabalhando. Quando fica pronto, você baixa por aqui.</p>
 <p>Você encontra em <strong>Data &gt; Descargas</strong> e também em <strong>Trackers &gt; Descargas</strong>: é a mesma tela. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Como baixar um arquivo</h2>
 <ol>
@@ -214,7 +214,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-e-downloads, que-tipos-de-acoes-existem-em-downloads
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Baixar seus arquivos exportados.</strong> Tudo o que você exporta na Afrus chega a esta lista.</li>
+<li><strong>Baixar seus arquivos exportados.</strong> Tudo o que você exporta na AFRUS chega a esta lista.</li>
 <li><strong>Saber se um arquivo já está pronto.</strong> Você vê se está sendo preparado, se já pode baixar ou se deu erro.</li>
 <li><strong>Ter suas exportações num só lugar,</strong> não importa de qual tela você pediu.</li>
 </ul>
@@ -245,7 +245,7 @@ Relacionados: o-que-e-downloads, para-que-serve-downloads
 <p>Em <strong>Data &gt; Descargas</strong>, a coluna <strong>Acciones</strong> (Ações) de cada linha mostra um ícone que indica o status do arquivo:</p>
 <ul>
 <li><strong>Botão de download:</strong> o arquivo está pronto. Clique para baixar.</li>
-<li><strong>Círculo girando:</strong> a Afrus está preparando o arquivo. Espere alguns minutos.</li>
+<li><strong>Círculo girando:</strong> a AFRUS está preparando o arquivo. Espere alguns minutos.</li>
 <li><strong>Ponto de exclamação:</strong> deu erro. Passe o mouse por cima para ver o detalhe e peça a exportação de novo.</li>
 <li><strong>Relógio:</strong> passaram mais de 7 dias e não dá mais para baixar. Exporte de novo.</li>
 <li><strong>Sem ícone:</strong> o arquivo está na fila e ainda não começou.</li>

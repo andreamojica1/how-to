@@ -1,6 +1,6 @@
 # Domains guide
 
-After reading this guide you will know what a custom domain is in Afrus, what it does for you and how to set it up so your landings are published with your organization's address.
+After reading this guide you will know what a custom domain is in AFRUS, what it does for you and how to set it up so your landings are published with your organization's address.
 
 *Module: Dominios (Domains) · Menu: **Fundraising > Dominios** · Audience: digital marketing, communications and IT teams*
 
@@ -10,7 +10,7 @@ After reading this guide you will know what a custom domain is in Afrus, what it
 
 ## What Domains is
 
-**Dominios (Domains) is the screen where you register your organization's own domain or subdomain (for example `donate.myorganization.org`) so your landing pages are published with that address**, instead of the default Afrus address (`web.afrus.org`).
+**Dominios (Domains) is the screen where you register your organization's own domain or subdomain (for example `donate.myorganization.org`) so your landing pages are published with that address**, instead of the default AFRUS address (`web.afrus.org`).
 
 As the screen itself says: *"Asocia un dominio propio para que tus landing pages se vean con la URL de tu organización, fortaleciendo tu marca y generando más confianza en tus campañas."* ("Link your own domain so your landing pages show your organization's URL, strengthening your brand and building more trust in your campaigns.")
 
@@ -19,11 +19,11 @@ As the screen itself says: *"Asocia un dominio propio para que tus landing pages
 - **Publish your landings under your brand.** Donors see your organization's web address, which builds more trust.
 - **Have several addresses of your own** and choose which one each landing uses.
 - **Keep your domains under control:** see how many landings use each one (**Páginas** column) and turn them on or off.
-- **Security without the paperwork.** Afrus manages the domain's security certificate (the padlock, HTTPS) automatically: you don't need to buy or install certificates.
+- **Security without the paperwork.** AFRUS manages the domain's security certificate (the padlock, HTTPS) automatically: you don't need to buy or install certificates.
 
 ## Before you start
 
-- **Buy the domain from a provider.** Afrus doesn't sell domains: *"afrus no proporciona los dominios y deben comprarse y configurarse con un proveedor como GoDaddy, Media Temple, etc."* (Afrus doesn't provide domains; buy and set them up with a provider such as GoDaddy, Media Temple, etc.)
+- **Buy the domain from a provider.** AFRUS doesn't sell domains: *"afrus no proporciona los dominios y deben comprarse y configurarse con un proveedor como GoDaddy, Media Temple, etc."* (AFRUS doesn't provide domains; buy and set them up with a provider such as GoDaddy, Media Temple, etc.)
 - **Have access to the domain's DNS settings**, at your provider or through your IT team.
 - **Use a subdomain** (for example `donate.myorganization.org`). This is recommended: the screen only asks for a CNAME record, and many providers don't allow a CNAME on the main domain (`myorganization.org`).
 
@@ -31,21 +31,21 @@ As the screen itself says: *"Asocia un dominio propio para que tus landing pages
 
 # Step by step
 
-## How to add and set up my domain in Afrus
+## How to add and set up my domain in AFRUS
 
-### Part 1 — At your domain provider (outside Afrus)
+### Part 1 — At your domain provider (outside AFRUS)
 
-1. **Create a CNAME record.** In your domain's DNS settings, create this record, as the **Importante** (Important) box on the Afrus screen shows:
+1. **Create a CNAME record.** In your domain's DNS settings, create this record, as the **Importante** (Important) box on the AFRUS screen shows:
 
    | Type | Name / Host | Value / Target |
    |---|---|---|
    | CNAME | the subdomain you want to use (for example `donate` for `donate.myorganization.org`; depending on the provider you type just `donate` or the full name) | `landings2.afrus.org` |
 
-   If the value shown on the Afrus screen is different, always use the one on the screen.
+   If the value shown on the AFRUS screen is different, always use the one on the screen.
 
-2. **Wait for the change to propagate.** DNS changes can take time; how long depends on your provider, not on Afrus. It is best to create the record and wait before adding the domain in Afrus.
+2. **Wait for the change to propagate.** DNS changes can take time; how long depends on your provider, not on AFRUS. It is best to create the record and wait before adding the domain in AFRUS.
 
-### Part 2 — In Afrus
+### Part 2 — In AFRUS
 
 3. **Open Domains.** Go to **Fundraising > Dominios**.
    ![Agregar dominio personalizado card with the domain field and the Agregar dominio button](img/como-agregar-y-configurar-mi-dominio-03.webp)
@@ -56,7 +56,7 @@ As the screen itself says: *"Asocia un dominio propio para que tus landing pages
 
 When you finish you will see *"Dominio registrado con exito"* (Domain registered successfully), and your domain will appear in **Lista de dominios** (Domain list) with **Status** on (active) and **Versión** "CDN Hosted".
 
-**What happens next:** Afrus gets the domain ready and automatically requests its security certificate (HTTPS). It checks that the domain responds right away and then every 30 seconds, for about 15 minutes. There is no "Verify" button and you don't have to wait for our team to approve it.
+**What happens next:** AFRUS gets the domain ready and automatically requests its security certificate (HTTPS). It checks that the domain responds right away and then every 30 seconds, for about 15 minutes. There is no "Verify" button and you don't have to wait for our team to approve it.
 - If the check succeeds, the domain is confirmed.
 - If after those 15 minutes it doesn't succeed (usually because the DNS record is wrong or hasn't propagated yet), the domain becomes **inactive** on its own.
 
@@ -72,8 +72,8 @@ When you finish you will see *"Dominio registrado con exito"* (Domain registered
 
 | Message | What it means | What to do |
 |---|---|---|
-| *"Dominio existente, prueba otro"* (Domain already exists, try another) | That domain is already registered in Afrus. Each domain can only be registered once across the whole platform. | Check your **Lista de dominios** or use another subdomain. |
-| *"El dominio no se encuentra apuntando al Host (landings2.afrus.org)"* (The domain doesn't point to the host) | Afrus checked the DNS and the domain doesn't point to Afrus yet. | Check the CNAME record and wait for it to propagate. |
+| *"Dominio existente, prueba otro"* (Domain already exists, try another) | That domain is already registered in AFRUS. Each domain can only be registered once across the whole platform. | Check your **Lista de dominios** or use another subdomain. |
+| *"El dominio no se encuentra apuntando al Host (landings2.afrus.org)"* (The domain doesn't point to the host) | AFRUS checked the DNS and the domain doesn't point to AFRUS yet. | Check the CNAME record and wait for it to propagate. |
 | *"Error al registrar dominio"* (Error registering domain) | Another error. | Try again; if it persists, contact support. |
 | *"El dominio no puede contener espacios"*, *"El dominio solo puede contener letras, números, puntos y guiones"*, *"El formato del dominio no es válido (ejemplo: dominio.com)"*, *"El dominio debe tener entre 3 y 253 caracteres"* | The text in the field isn't valid (spaces, invalid characters, wrong format or length). | Correct the domain. |
 
@@ -93,8 +93,8 @@ In **Lista de dominios**, use the switch in the **Status** column. You will see 
 2. **Confirm.** In the **Confirmar eliminación** (Confirm deletion) dialog, click "Confirmar".
 
 You will see *"Dominio eliminado con exito"* (Domain deleted successfully). Keep in mind:
-- Although the warning says *"las landings asociadas se borrarán"* (the associated landings will be deleted), **they are not deleted**: they are left without a domain and deactivated. To keep using them, reactivate them and assign another domain (or the Afrus one).
-- Afrus stops serving the domain. The DNS record at your provider isn't touched: you can delete it yourself.
+- Although the warning says *"las landings asociadas se borrarán"* (the associated landings will be deleted), **they are not deleted**: they are left without a domain and deactivated. To keep using them, reactivate them and assign another domain (or the AFRUS one).
+- AFRUS stops serving the domain. The DNS record at your provider isn't touched: you can delete it yourself.
 - The domain becomes free to be registered again.
 
 > **Can it be undone?** Not from the screen. You can register the domain again and reassign it to your landings.
@@ -132,11 +132,11 @@ Use **Filtrar por estado** (Filter by status: Todos / Activos / Inactivos) to fi
 
 ## Frequently asked questions
 
-**Does Afrus sell me the domain?**
+**Does AFRUS sell me the domain?**
 No. You buy it from a provider (GoDaddy, Media Temple or another) and set it up there.
 
 **Do I need to buy a security certificate?**
-No. Afrus manages it automatically.
+No. AFRUS manages it automatically.
 
 **Can I use my main domain, without a subdomain?**
 The screen accepts it, but it only shows a CNAME record, which many providers don't allow on the main domain. We recommend using a subdomain.
@@ -144,7 +144,7 @@ The screen accepts it, but it only shows a CNAME record, which many providers do
 > **Pending confirmation:** which record to use for the main domain.
 
 **How long until it's ready?**
-It depends on how long your provider takes to propagate the DNS. Once added, Afrus checks the domain for about 15 minutes.
+It depends on how long your provider takes to propagate the DNS. Once added, AFRUS checks the domain for about 15 minutes.
 
 **My domain became inactive. What do I do?**
 Usually the CNAME record is wrong or hasn't propagated yet. Check it with your provider. If the record is correct and the domain is still inactive, contact support: turning the switch back on doesn't repeat the check.

@@ -1,6 +1,6 @@
 # Guía de Importaciones - itaú
 
-Después de leer esta guía sabrás qué es **Importaciones - itaú**, para qué sirve y cómo cargar el archivo de retorno del banco Itaú para que Afrus registre las donaciones de boletos pagados.
+Después de leer esta guía sabrás qué es **Importaciones - itaú**, para qué sirve y cómo cargar el archivo de retorno del banco Itaú para que AFRUS registre las donaciones de boletos pagados.
 
 *Módulo: Follow up · Menú: **Follow up > Importaciones - itaú** · Audiencia: equipos de recaudación y finanzas de organizaciones en Brasil*
 
@@ -8,7 +8,7 @@ Después de leer esta guía sabrás qué es **Importaciones - itaú**, para qué
 
 ## Qué es Importaciones - itaú
 
-**Importaciones - itaú es donde cargas el archivo de retorno que te entrega el banco Itaú (formato CNAB 400) después de procesar tus boletos, para que Afrus registre como donaciones los boletos pagados.**
+**Importaciones - itaú es donde cargas el archivo de retorno que te entrega el banco Itaú (formato CNAB 400) después de procesar tus boletos, para que AFRUS registre como donaciones los boletos pagados.**
 
 Es el último paso del recorrido de **Follow up > Boleto Itaú**: generas los boletos, los envías al banco, el banco te devuelve el resultado y lo cargas aquí.
 
@@ -20,7 +20,7 @@ Es el último paso del recorrido de **Follow up > Boleto Itaú**: generas los bo
 
 ## Antes de empezar
 
-- **Ten el archivo de retorno del banco** (CNAB 400) de boletos generados con Afrus.
+- **Ten el archivo de retorno del banco** (CNAB 400) de boletos generados con AFRUS.
 - **Ten una campaña activa** donde registrar las donaciones.
 - **Revisa los datos de las personas.** Para registrar la donación, cada persona necesita CEP, tipo de documento y número de documento.
 
@@ -49,9 +49,9 @@ Verás el diálogo **Importación en proceso**: *"El proceso de importación com
 
 > **¿Se puede deshacer?** **Pendiente de confirmar:** si una importación se puede anular. Revisa la campaña y el archivo antes de pulsar "Importar".
 
-### Qué hace Afrus con el archivo
+### Qué hace AFRUS con el archivo
 
-Por cada línea del archivo, Afrus identifica a la persona del boleto. Si tiene CEP, tipo y número de documento, registra una **donación exitosa** por el valor del boleto, en reales (BRL), con método boleto, en la campaña y el widget elegidos. Si le faltan esos datos, la línea queda en **Error** y el boleto aparece como **Pagado - no registrado** en **Follow up > Boleto Itaú**.
+Por cada línea del archivo, AFRUS identifica a la persona del boleto. Si tiene CEP, tipo y número de documento, registra una **donación exitosa** por el valor del boleto, en reales (BRL), con método boleto, en la campaña y el widget elegidos. Si le faltan esos datos, la línea queda en **Error** y el boleto aparece como **Pagado - no registrado** en **Follow up > Boleto Itaú**.
 
 La importación queda finalizada cuando todas las líneas terminaron de procesarse.
 

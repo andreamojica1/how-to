@@ -66,7 +66,7 @@ The new name shows on everyone who has that tag.
 
 > **Can it be undone?** No. Once you delete a tag, you cannot get it back.
 
-> **Important:** a tag that is being used elsewhere in Afrus (for example in a sequence, a newsletter or an automatic tag) cannot be deleted. In that case an error appears that does not explain why. If this happens, check where you use that tag and remove it from there first.
+> **Important:** a tag that is being used elsewhere in AFRUS (for example in a sequence, a newsletter or an automatic tag) cannot be deleted. In that case an error appears that does not explain why. If this happens, check where you use that tag and remove it from there first.
 
 ## Tag statistics
 
@@ -110,7 +110,7 @@ If you check several categories, the tag goes to anyone who meets **any** of the
 ## Frequently asked questions
 
 **Can I have two tags with the same name?**
-> **Pending confirmation:** whether Afrus allows two tags with the same name. We recommend using different names to avoid confusion.
+> **Pending confirmation:** whether AFRUS allows two tags with the same name. We recommend using different names to avoid confusion.
 
 **Where do I see a person's tags?**
 In their profile, under **Etiquetas**, and in the **Tags** column of **Personas**.

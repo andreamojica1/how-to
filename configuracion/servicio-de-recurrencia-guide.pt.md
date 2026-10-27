@@ -10,11 +10,11 @@ Com este guia você vai saber o que é o Serviço de recorrência, para que ele 
 
 ## O que é o Serviço de recorrência
 
-**É a tela onde você configura como a Afrus faz as cobranças automáticas das suas doações mensais e recorrentes.** Na tela, o título é **Configuración del Motor de Recurrencia** (Configuração do motor de recorrência).
+**É a tela onde você configura como a AFRUS faz as cobranças automáticas das suas doações mensais e recorrentes.** Na tela, o título é **Configuración del Motor de Recurrencia** (Configuração do motor de recorrência).
 
 Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o que fazer quando uma cobrança falha.
 
-> **Importante:** esta configuração vale para as doações recorrentes que a Afrus cobra. Se o seu gateway de pagamento cobra as assinaturas por conta própria (por exemplo Stripe, PayU ou Pagar.me), é o gateway que decide quando cobrar.
+> **Importante:** esta configuração vale para as doações recorrentes que a AFRUS cobra. Se o seu gateway de pagamento cobra as assinaturas por conta própria (por exemplo Stripe, PayU ou Pagar.me), é o gateway que decide quando cobrar.
 
 ## Para que serve
 
@@ -23,7 +23,7 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 - **Escolher os dias de cobrança**, se você usa o modo **Charities**.
 - **Voltar à configuração original** com um só botão, se algo não convencer você.
 
-> **Pendente de confirmação:** que as mudanças nesta tela alteram as cobranças reais. Antes de mudar algo importante, fale com a equipe da Afrus.
+> **Pendente de confirmação:** que as mudanças nesta tela alteram as cobranças reais. Antes de mudar algo importante, fale com a equipe da AFRUS.
 
 ## Antes de começar
 
@@ -65,7 +65,7 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 ## Limitações conhecidas
 
 - **Gateways que cobram por conta própria:** com Stripe, PayU ou Pagar.me, o gateway decide quando cobrar; esta tela não muda essas cobranças.
-- **Efeito nas cobranças reais:** ainda não está confirmado que esta configuração muda as cobranças. Fale com a equipe da Afrus antes de fazer mudanças.
+- **Efeito nas cobranças reais:** ainda não está confirmado que esta configuração muda as cobranças. Fale com a equipe da AFRUS antes de fazer mudanças.
 - **Periodicidades diferentes de mensal e anual:** não está confirmado como **Trimestral** e **Semestral** são calculadas.
 
 ## Perguntas frequentes

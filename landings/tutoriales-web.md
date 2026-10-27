@@ -7,7 +7,7 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué son las Landings en Afrus
+Título: Qué son las Landings en AFRUS
 Slug: que-son-las-landings
 Categoría: Landings
 Resumen: Aprende qué es el módulo Landings: páginas de campaña, donación o agradecimiento que diseñas y publicas sin programar.
@@ -16,8 +16,8 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirven-las-landings, como-crear-una-landing, como-hacer-seguimiento-con-analitica-a-mi-landing, como-poner-un-widget-en-una-landing, para-que-crear-una-pagina-de-agradecimiento, como-cambiar-la-url-de-mi-landing, experimentos-o-pruebas-a-b-de-landings
 --- CUERPO (HTML) ---
-<p><strong>Landings es el módulo de Afrus para crear y publicar landing pages: páginas web de campaña, de donación o de agradecimiento.</strong> Las diseñas con un editor visual de arrastrar y soltar, a partir de una plantilla, de una página tuya anterior o de tu propio código HTML.</p>
-<p>Cada landing se publica en la dirección de Afrus (<em>web.afrus.org</em>) o en un dominio propio de tu organización, por ejemplo <em>donaciones.miorganizacion.org</em>.</p>
+<p><strong>Landings es el módulo de AFRUS para crear y publicar landing pages: páginas web de campaña, de donación o de agradecimiento.</strong> Las diseñas con un editor visual de arrastrar y soltar, a partir de una plantilla, de una página tuya anterior o de tu propio código HTML.</p>
+<p>Cada landing se publica en la dirección de AFRUS (<em>web.afrus.org</em>) o en un dominio propio de tu organización, por ejemplo <em>donaciones.miorganizacion.org</em>.</p>
 <h2>Dónde lo encuentras</h2>
 <p>En <strong>Fundraising &gt; Landings</strong>. Ahí ves la lista de tus landings con su <strong>Status</strong> (publicada o no), su <strong>Versión</strong> (<strong>2.0</strong>, creada con el editor actual, o <strong>Clásica</strong>, creada en la versión anterior) y las acciones para ver, editar, copiar el link o clonar.</p>
 <h2>Preguntas frecuentes</h2>
@@ -47,7 +47,7 @@ Relacionados: que-son-las-landings, como-crear-una-landing, para-que-crear-una-p
 <li><strong>Probar qué funciona mejor</strong> con pruebas A/B (botón "Experimentos").</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Dónde veo cuántas visitas tuvo mi landing?</strong> En tu herramienta de analítica (Google Analytics, Google Tag Manager o Meta). Afrus no tiene una pantalla de estadísticas por landing; la única comparación dentro de Afrus es la de "Experimentos".</p>
+<p><strong>¿Dónde veo cuántas visitas tuvo mi landing?</strong> En tu herramienta de analítica (Google Analytics, Google Tag Manager o Meta). AFRUS no tiene una pantalla de estadísticas por landing; la única comparación dentro de AFRUS es la de "Experimentos".</p>
 === FIN ===
 ```
 
@@ -57,7 +57,7 @@ Idioma: es
 Título: Cómo crear una landing
 Slug: como-crear-una-landing
 Categoría: Landings
-Resumen: Aprende a crear y publicar una landing en Afrus: datos básicos, dirección y diseño desde cero, plantilla, otra página o HTML.
+Resumen: Aprende a crear y publicar una landing en AFRUS: datos básicos, dirección y diseño desde cero, plantilla, otra página o HTML.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -95,7 +95,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-son-las-landings, como-crear-una-landing, como-cambiar-la-url-de-mi-landing
 --- CUERPO (HTML) ---
-<p>Afrus agrega a tu página el código de tu herramienta de analítica. Las visitas y conversiones se miden en esa herramienta, no dentro de Afrus.</p>
+<p>AFRUS agrega a tu página el código de tu herramienta de analítica. Las visitas y conversiones se miden en esa herramienta, no dentro de AFRUS.</p>
 <h2>Antes de empezar</h2>
 <ul><li><strong>La landing debe tener un diseño guardado.</strong> Si no, verás <em>"Error al guardar datos avanzados"</em>.</li></ul>
 <h2>Paso a paso</h2>
@@ -119,7 +119,7 @@ Idioma: es
 Título: Cómo poner un widget en una landing
 Slug: como-poner-un-widget-en-una-landing
 Categoría: Landings
-Resumen: Aprende a incrustar un widget de donación o de registro de Afrus dentro de tu landing con el editor visual.
+Resumen: Aprende a incrustar un widget de donación o de registro de AFRUS dentro de tu landing con el editor visual.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -193,7 +193,7 @@ Relacionados: que-son-las-landings, como-crear-una-landing, como-hacer-seguimien
 </ol>
 <p><strong>Importante:</strong> el link viejo deja de funcionar y no redirige a la nueva dirección. Actualízalo en tus widgets, emails, anuncios y redes.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Afrus avisa si la ruta ya está en uso?</strong> No. Si dos landings usan el mismo dominio y la misma ruta, se ve la última que se guardó. Usa siempre rutas únicas.</p>
+<p><strong>¿AFRUS avisa si la ruta ya está en uso?</strong> No. Si dos landings usan el mismo dominio y la misma ruta, se ve la última que se guardó. Usa siempre rutas únicas.</p>
 === FIN ===
 ```
 
@@ -202,7 +202,7 @@ Relacionados: que-son-las-landings, como-crear-una-landing, como-hacer-seguimien
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What Landings are in Afrus
+Título: What Landings are in AFRUS
 Slug: what-are-landings
 Categoría: Landings
 Resumen: Learn what the Landings module is: campaign, donation or thank-you pages you design and publish without coding.
@@ -211,8 +211,8 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-landings-are-for, how-to-create-a-landing, how-to-track-my-landing-with-analytics, how-to-add-a-widget-to-a-landing, why-create-a-thank-you-page, how-to-change-my-landing-url
 --- CUERPO (HTML) ---
-<p><strong>Landings is the Afrus module for creating and publishing landing pages: campaign, donation or thank-you web pages.</strong> You design them with a drag-and-drop visual editor, starting from a template, one of your earlier pages or your own HTML code.</p>
-<p>Each landing is published on the Afrus address (<em>web.afrus.org</em>) or on your organization's own domain, for example <em>donate.myorganization.org</em>.</p>
+<p><strong>Landings is the AFRUS module for creating and publishing landing pages: campaign, donation or thank-you web pages.</strong> You design them with a drag-and-drop visual editor, starting from a template, one of your earlier pages or your own HTML code.</p>
+<p>Each landing is published on the AFRUS address (<em>web.afrus.org</em>) or on your organization's own domain, for example <em>donate.myorganization.org</em>.</p>
 <h2>Where to find it</h2>
 <p>In <strong>Fundraising &gt; Landings</strong>. Labels are shown as they appear in the Spanish version of the console. There you see your landings with their <strong>Status</strong> (published or not), their <strong>Versión</strong> (<strong>2.0</strong>, built with the current editor, or <strong>Clásica</strong>, built in the previous version) and actions to view, edit, copy the link or clone.</p>
 <h2>Frequently asked questions</h2>
@@ -242,7 +242,7 @@ Relacionados: what-are-landings, how-to-create-a-landing, why-create-a-thank-you
 <li><strong>Test what works best</strong> with A/B tests ("Experimentos" button).</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>Where can I see how many visits my landing had?</strong> In your analytics tool (Google Analytics, Google Tag Manager or Meta). Afrus has no per-landing statistics screen; the only comparison inside Afrus is "Experimentos".</p>
+<p><strong>Where can I see how many visits my landing had?</strong> In your analytics tool (Google Analytics, Google Tag Manager or Meta). AFRUS has no per-landing statistics screen; the only comparison inside AFRUS is "Experimentos".</p>
 === FIN ===
 ```
 
@@ -252,7 +252,7 @@ Idioma: en
 Título: How to create a landing
 Slug: how-to-create-a-landing
 Categoría: Landings
-Resumen: Learn how to create and publish a landing on Afrus: basic data, address and design from scratch, a template, another page or HTML.
+Resumen: Learn how to create and publish a landing on AFRUS: basic data, address and design from scratch, a template, another page or HTML.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -291,7 +291,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-landings, how-to-create-a-landing, how-to-change-my-landing-url
 --- CUERPO (HTML) ---
-<p>Afrus adds your analytics tool's code to your page. Visits and conversions are measured in that tool, not inside Afrus. Labels are shown as they appear in the Spanish version of the console.</p>
+<p>AFRUS adds your analytics tool's code to your page. Visits and conversions are measured in that tool, not inside AFRUS. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
 <ul><li><strong>The landing must have a saved design.</strong> Otherwise you will see <em>"Error al guardar datos avanzados"</em> (Error saving advanced data).</li></ul>
 <h2>Step by step</h2>
@@ -315,7 +315,7 @@ Idioma: en
 Título: How to add a widget to a landing
 Slug: how-to-add-a-widget-to-a-landing
 Categoría: Landings
-Resumen: Learn how to embed an Afrus donation or registration widget in your landing with the visual editor.
+Resumen: Learn how to embed an AFRUS donation or registration widget in your landing with the visual editor.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -391,7 +391,7 @@ Relacionados: what-are-landings, how-to-create-a-landing, how-to-track-my-landin
 </ol>
 <p><strong>Important:</strong> the old link stops working and does not redirect to the new address. Update it in your widgets, emails, ads and social networks.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Does Afrus warn me if the path is already in use?</strong> No. If two landings use the same domain and path, the one saved last is shown. Always use unique paths.</p>
+<p><strong>Does AFRUS warn me if the path is already in use?</strong> No. If two landings use the same domain and path, the one saved last is shown. Always use unique paths.</p>
 === FIN ===
 ```
 
@@ -400,7 +400,7 @@ Relacionados: what-are-landings, how-to-create-a-landing, how-to-track-my-landin
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que são as Landings na Afrus
+Título: O que são as Landings na AFRUS
 Slug: o-que-sao-as-landings
 Categoría: Landings
 Resumen: Aprenda o que é o módulo Landings: páginas de campanha, doação ou agradecimento que você monta e publica sem programar.
@@ -409,8 +409,8 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-servem-as-landings, como-criar-uma-landing, como-acompanhar-minha-landing-com-analytics, como-colocar-um-widget-em-uma-landing, para-que-criar-uma-pagina-de-agradecimento, como-mudar-a-url-da-minha-landing
 --- CUERPO (HTML) ---
-<p><strong>Landings é o módulo da Afrus para criar e publicar landing pages: páginas web de campanha, de doação ou de agradecimento.</strong> Você as monta com um editor visual de arrastar e soltar, a partir de um modelo, de uma página sua anterior ou do seu próprio código HTML.</p>
-<p>Cada landing é publicada no endereço da Afrus (<em>web.afrus.org</em>) ou em um domínio próprio da sua organização, por exemplo <em>doe.minhaorganizacao.org</em>.</p>
+<p><strong>Landings é o módulo da AFRUS para criar e publicar landing pages: páginas web de campanha, de doação ou de agradecimento.</strong> Você as monta com um editor visual de arrastar e soltar, a partir de um modelo, de uma página sua anterior ou do seu próprio código HTML.</p>
+<p>Cada landing é publicada no endereço da AFRUS (<em>web.afrus.org</em>) ou em um domínio próprio da sua organização, por exemplo <em>doe.minhaorganizacao.org</em>.</p>
 <h2>Onde encontrar</h2>
 <p>Em <strong>Fundraising &gt; Landings</strong>. Os nomes de tela aparecem como na versão em espanhol do console. Ali você vê suas landings com o <strong>Status</strong> (publicada ou não), a <strong>Versión</strong> (<strong>2.0</strong>, criada com o editor atual, ou <strong>Clásica</strong>, criada na versão anterior) e as ações para ver, editar, copiar o link ou clonar.</p>
 <h2>Perguntas frequentes</h2>
@@ -440,7 +440,7 @@ Relacionados: o-que-sao-as-landings, como-criar-uma-landing, para-que-criar-uma-
 <li><strong>Testar o que funciona melhor</strong> com testes A/B (botão "Experimentos").</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>Onde vejo quantas visitas minha landing teve?</strong> Na sua ferramenta de analytics (Google Analytics, Google Tag Manager ou Meta). A Afrus não tem uma tela de estatísticas por landing; a única comparação dentro da Afrus é a de "Experimentos".</p>
+<p><strong>Onde vejo quantas visitas minha landing teve?</strong> Na sua ferramenta de analytics (Google Analytics, Google Tag Manager ou Meta). A AFRUS não tem uma tela de estatísticas por landing; a única comparação dentro da AFRUS é a de "Experimentos".</p>
 === FIN ===
 ```
 
@@ -450,7 +450,7 @@ Idioma: pt-BR
 Título: Como criar uma landing
 Slug: como-criar-uma-landing
 Categoría: Landings
-Resumen: Aprenda a criar e publicar uma landing na Afrus: dados básicos, endereço e design do zero, de um modelo, de outra página ou em HTML.
+Resumen: Aprenda a criar e publicar uma landing na AFRUS: dados básicos, endereço e design do zero, de um modelo, de outra página ou em HTML.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -489,7 +489,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-sao-as-landings, como-criar-uma-landing, como-mudar-a-url-da-minha-landing
 --- CUERPO (HTML) ---
-<p>A Afrus adiciona à sua página o código da sua ferramenta de analytics. As visitas e conversões são medidas nessa ferramenta, não dentro da Afrus. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>A AFRUS adiciona à sua página o código da sua ferramenta de analytics. As visitas e conversões são medidas nessa ferramenta, não dentro da AFRUS. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
 <ul><li><strong>A landing precisa ter um design salvo.</strong> Se não tiver, você verá <em>"Error al guardar datos avanzados"</em> (Erro ao salvar dados avançados).</li></ul>
 <h2>Passo a passo</h2>
@@ -513,7 +513,7 @@ Idioma: pt-BR
 Título: Como colocar um widget em uma landing
 Slug: como-colocar-um-widget-em-uma-landing
 Categoría: Landings
-Resumen: Aprenda a incorporar um widget de doação ou de cadastro da Afrus na sua landing com o editor visual.
+Resumen: Aprenda a incorporar um widget de doação ou de cadastro da AFRUS na sua landing com o editor visual.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -589,6 +589,6 @@ Relacionados: o-que-sao-as-landings, como-criar-uma-landing, como-acompanhar-min
 </ol>
 <p><strong>Importante:</strong> o link antigo deixa de funcionar e não redireciona para o novo endereço. Atualize-o nos seus widgets, e-mails, anúncios e redes.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>A Afrus avisa se o caminho já está em uso?</strong> Não. Se duas landings usarem o mesmo domínio e o mesmo caminho, aparece a última salva. Use sempre caminhos únicos.</p>
+<p><strong>A AFRUS avisa se o caminho já está em uso?</strong> Não. Se duas landings usarem o mesmo domínio e o mesmo caminho, aparece a última salva. Use sempre caminhos únicos.</p>
 === FIN ===
 ```

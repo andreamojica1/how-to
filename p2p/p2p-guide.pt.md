@@ -1,6 +1,6 @@
 # Guia do Peer to peer
 
-Depois de ler este guia, você vai saber o que é a captação entre pares (peer to peer) na Afrus, para que serve, como trocar suas imagens, o que acontece com um apoiador depois de se cadastrar e como revisar, aprovar e acompanhar as páginas dos seus captadores.
+Depois de ler este guia, você vai saber o que é a captação entre pares (peer to peer) na AFRUS, para que serve, como trocar suas imagens, o que acontece com um apoiador depois de se cadastrar e como revisar, aprovar e acompanhar as páginas dos seus captadores.
 
 *Módulo: Peer to peer · Menu: **Fundraising > Peer to peer fundraisers** · Público: equipes de captação e de comunidade*
 

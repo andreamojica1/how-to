@@ -16,7 +16,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-el-servicio-de-recurrencia, como-configurar-el-servicio-de-recurrencia
 --- CUERPO (HTML) ---
-<p><strong>El Servicio de recurrencia es la pantalla donde configuras cómo Afrus hace los cobros automáticos de tus donaciones mensuales y recurrentes.</strong> En la pantalla aparece con el título <strong>Configuración del Motor de Recurrencia</strong>.</p>
+<p><strong>El Servicio de recurrencia es la pantalla donde configuras cómo AFRUS hace los cobros automáticos de tus donaciones mensuales y recurrentes.</strong> En la pantalla aparece con el título <strong>Configuración del Motor de Recurrencia</strong>.</p>
 <p>Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro falla.</p>
 <h2>Dónde lo encuentras</h2>
 <p>En <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong>.</p>
@@ -44,7 +44,7 @@ Relacionados: que-es-el-servicio-de-recurrencia, como-configurar-el-servicio-de-
 <li><strong>Elegir los días de cobro</strong>, si usas el modo <strong>Charities</strong>.</li>
 <li><strong>Volver a la configuración original</strong> con un solo botón.</li>
 </ul>
-<p><strong>Importante:</strong> todavía no está confirmado que los cambios de esta pantalla modifiquen los cobros reales. Antes de cambiar algo importante, consulta con el equipo de Afrus.</p>
+<p><strong>Importante:</strong> todavía no está confirmado que los cambios de esta pantalla modifiquen los cobros reales. Antes de cambiar algo importante, consulta con el equipo de AFRUS.</p>
 === FIN ===
 ```
 
@@ -54,7 +54,7 @@ Idioma: es
 Título: Cómo configurar el Servicio de recurrencia
 Slug: como-configurar-el-servicio-de-recurrencia
 Categoría: Configuración
-Resumen: Aprende a configurar la periodicidad, los días de cobro y los reintentos de tus donaciones recurrentes en Afrus.
+Resumen: Aprende a configurar la periodicidad, los días de cobro y los reintentos de tus donaciones recurrentes en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -63,7 +63,7 @@ Relacionados: que-es-el-servicio-de-recurrencia, para-que-sirve-el-servicio-de-r
 <h2>Antes de empezar</h2>
 <ul>
 <li><strong>Los cambios no son inmediatos:</strong> se aplican a los próximos ciclos de cobro.</li>
-<li><strong>Consulta antes con Afrus:</strong> todavía no está confirmado que esta configuración cambie los cobros reales.</li>
+<li><strong>Consulta antes con AFRUS:</strong> todavía no está confirmado que esta configuración cambie los cobros reales.</li>
 </ul>
 <h2>Paso a paso</h2>
 <ol>
@@ -94,7 +94,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-the-recurrence-service-for, how-to-set-up-the-recurrence-service
 --- CUERPO (HTML) ---
-<p><strong>The Recurrence service is the screen where you set how Afrus makes the automatic charges of your monthly and recurring donations.</strong> On screen its title is <strong>Configuración del Motor de Recurrencia</strong> (Recurrence engine settings). Labels are shown as they appear in the Spanish version of the console.</p>
+<p><strong>The Recurrence service is the screen where you set how AFRUS makes the automatic charges of your monthly and recurring donations.</strong> On screen its title is <strong>Configuración del Motor de Recurrencia</strong> (Recurrence engine settings). Labels are shown as they appear in the Spanish version of the console.</p>
 <p>There you choose, for example, how often a donation is charged and what to do when a charge fails.</p>
 <h2>Where to find it</h2>
 <p>In <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong>.</p>
@@ -122,7 +122,7 @@ Relacionados: what-is-the-recurrence-service, how-to-set-up-the-recurrence-servi
 <li><strong>Choose the charge days</strong>, if you use the <strong>Charities</strong> mode.</li>
 <li><strong>Go back to the original settings</strong> with a single button.</li>
 </ul>
-<p><strong>Important:</strong> it is not yet confirmed that changes on this screen modify the real charges. Before changing anything important, check with the Afrus team.</p>
+<p><strong>Important:</strong> it is not yet confirmed that changes on this screen modify the real charges. Before changing anything important, check with the AFRUS team.</p>
 === FIN ===
 ```
 
@@ -132,7 +132,7 @@ Idioma: en
 Título: How to set up the Recurrence service
 Slug: how-to-set-up-the-recurrence-service
 Categoría: Configuración
-Resumen: Learn how to set the frequency, charge days and retries of your recurring donations in Afrus.
+Resumen: Learn how to set the frequency, charge days and retries of your recurring donations in AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -141,7 +141,7 @@ Relacionados: what-is-the-recurrence-service, what-is-the-recurrence-service-for
 <h2>Before you start</h2>
 <ul>
 <li><strong>Changes are not immediate:</strong> they apply to the next billing cycles.</li>
-<li><strong>Check with Afrus first:</strong> it is not yet confirmed that these settings change the real charges.</li>
+<li><strong>Check with AFRUS first:</strong> it is not yet confirmed that these settings change the real charges.</li>
 </ul>
 <h2>Step by step</h2>
 <ol>
@@ -172,7 +172,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-o-servico-de-recorrencia, como-configurar-o-servico-de-recorrencia
 --- CUERPO (HTML) ---
-<p><strong>O Serviço de recorrência é a tela onde você configura como a Afrus faz as cobranças automáticas das suas doações mensais e recorrentes.</strong> Na tela, o título é <strong>Configuración del Motor de Recurrencia</strong> (Configuração do motor de recorrência). Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p><strong>O Serviço de recorrência é a tela onde você configura como a AFRUS faz as cobranças automáticas das suas doações mensais e recorrentes.</strong> Na tela, o título é <strong>Configuración del Motor de Recurrencia</strong> (Configuração do motor de recorrência). Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <p>Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o que fazer quando uma cobrança falha.</p>
 <h2>Onde encontrar</h2>
 <p>Em <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong>.</p>
@@ -200,7 +200,7 @@ Relacionados: o-que-e-o-servico-de-recorrencia, como-configurar-o-servico-de-rec
 <li><strong>Escolher os dias de cobrança</strong>, se você usa o modo <strong>Charities</strong>.</li>
 <li><strong>Voltar à configuração original</strong> com um só botão.</li>
 </ul>
-<p><strong>Importante:</strong> ainda não está confirmado que as mudanças nesta tela alteram as cobranças reais. Antes de mudar algo importante, fale com a equipe da Afrus.</p>
+<p><strong>Importante:</strong> ainda não está confirmado que as mudanças nesta tela alteram as cobranças reais. Antes de mudar algo importante, fale com a equipe da AFRUS.</p>
 === FIN ===
 ```
 
@@ -210,7 +210,7 @@ Idioma: pt-BR
 Título: Como configurar o Serviço de recorrência
 Slug: como-configurar-o-servico-de-recorrencia
 Categoría: Configuración
-Resumen: Aprenda a configurar a periodicidade, os dias de cobrança e as novas tentativas das suas doações recorrentes na Afrus.
+Resumen: Aprenda a configurar a periodicidade, os dias de cobrança e as novas tentativas das suas doações recorrentes na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -219,7 +219,7 @@ Relacionados: o-que-e-o-servico-de-recorrencia, para-que-serve-o-servico-de-reco
 <h2>Antes de começar</h2>
 <ul>
 <li><strong>As mudanças não são imediatas:</strong> valem para os próximos ciclos de cobrança.</li>
-<li><strong>Fale antes com a Afrus:</strong> ainda não está confirmado que esta configuração muda as cobranças reais.</li>
+<li><strong>Fale antes com a AFRUS:</strong> ainda não está confirmado que esta configuração muda as cobranças reais.</li>
 </ul>
 <h2>Passo a passo</h2>
 <ol>

@@ -25,7 +25,7 @@ You choose who receives it, the goal and what you want to say. The AI writes a d
 
 ## Before you start
 
-- **Turn on Afrus AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). Without it, the goals list doesn't load and you can't move forward.
+- **Turn on AFRUS AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). Without it, the goals list doesn't load and you can't move forward.
 - **Upload information in AI > Entrenamiento [AI RAG].** That's what the AI uses to write.
 - **Have your sending email account and your credits ready,** just like for a regular Blast.
 - **Optional:** if you want designed emails with images, check **AI > Plantillas AI Email** and **AI > Galería para AI**.

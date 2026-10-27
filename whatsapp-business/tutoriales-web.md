@@ -7,16 +7,16 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué es WhatsApp Business en Afrus
+Título: Qué es WhatsApp Business en AFRUS
 Slug: que-es-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprende qué es WhatsApp Business en Afrus: la conexión con la API oficial de Meta para enviar mensajes masivos y responder a tus contactos.
+Resumen: Aprende qué es WhatsApp Business en AFRUS: la conexión con la API oficial de Meta para enviar mensajes masivos y responder a tus contactos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-whatsapp-business, como-conectar-whatsapp-business-en-afrus, como-crear-una-plantilla-de-whatsapp-business, como-hacer-un-envio-masivo-por-whatsapp-business, cuantos-mensajes-de-whatsapp-business-puedo-enviar-al-dia, como-aumentar-el-limite-diario-de-whatsapp-business, me-pueden-penalizar-en-whatsapp-business, como-enviar-imagenes-por-whatsapp-business, puedo-contestar-desde-mi-celular-despues-de-24-horas, puedo-iniciar-una-conversacion-de-whatsapp-sin-un-envio, que-son-los-mensajes-generados-por-ia-en-conversaciones
 --- CUERPO (HTML) ---
-<p><strong>WhatsApp Business en Afrus es la conexión con la API oficial de WhatsApp Business de Meta.</strong> Con ella envías mensajes masivos usando plantillas aprobadas por Meta y respondes desde Afrus a los contactos que te escriben.</p>
+<p><strong>WhatsApp Business en AFRUS es la conexión con la API oficial de WhatsApp Business de Meta.</strong> Con ella envías mensajes masivos usando plantillas aprobadas por Meta y respondes desde AFRUS a los contactos que te escriben.</p>
 <p>El módulo tiene dos pantallas:</p>
 <ul>
 <li><strong>WhatsApp Business &gt; Blast</strong>: el panel de tu cuenta, con tus números conectados, tus plantillas y los envíos masivos.</li>
@@ -25,7 +25,7 @@ Relacionados: para-que-sirve-whatsapp-business, como-conectar-whatsapp-business-
 <h2>Antes de empezar</h2>
 <ul>
 <li>Necesitas una cuenta en Meta Business Suite con WhatsApp Business.</li>
-<li>Los números de envío se agregan desde Meta, no desde Afrus.</li>
+<li>Los números de envío se agregan desde Meta, no desde AFRUS.</li>
 </ul>
 === FIN ===
 ```
@@ -33,19 +33,19 @@ Relacionados: para-que-sirve-whatsapp-business, como-conectar-whatsapp-business-
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Para qué sirve WhatsApp Business en Afrus
+Título: Para qué sirve WhatsApp Business en AFRUS
 Slug: para-que-sirve-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprende para qué sirve WhatsApp Business en Afrus: campañas masivas personalizadas, plantillas, conversaciones y estadísticas de envío.
+Resumen: Aprende para qué sirve WhatsApp Business en AFRUS: campañas masivas personalizadas, plantillas, conversaciones y estadísticas de envío.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-whatsapp-business, como-conectar-whatsapp-business-en-afrus, como-hacer-un-envio-masivo-por-whatsapp-business, como-crear-una-plantilla-de-whatsapp-business
 --- CUERPO (HTML) ---
-<p>Con WhatsApp Business en Afrus puedes:</p>
+<p>Con WhatsApp Business en AFRUS puedes:</p>
 <ul>
 <li><strong>Enviar campañas masivas por WhatsApp.</strong> Envías un Blast a un segmento y cada contacto recibe el mensaje personalizado con sus propios datos.</li>
-<li><strong>Crear y editar plantillas desde Afrus.</strong> Las diseñas en Afrus y las mandas a revisión de Meta sin salir de la plataforma.</li>
+<li><strong>Crear y editar plantillas desde AFRUS.</strong> Las diseñas en AFRUS y las mandas a revisión de Meta sin salir de la plataforma.</li>
 <li><strong>Responder a tus contactos.</strong> En <strong>WhatsApp Business &gt; Conversaciones</strong> ves y respondes los mensajes que llegan, en tiempo real.</li>
 <li><strong>Medir tus envíos.</strong> Ves cuántos mensajes se enviaron, se entregaron, se leyeron y tuvieron error.</li>
 </ul>
@@ -58,7 +58,7 @@ Idioma: es
 Título: Cómo crear una plantilla de WhatsApp Business
 Slug: como-crear-una-plantilla-de-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprende a crear una plantilla de WhatsApp Business en Afrus y enviarla a aprobación de Meta.
+Resumen: Aprende a crear una plantilla de WhatsApp Business en AFRUS y enviarla a aprobación de Meta.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -66,7 +66,7 @@ Relacionados: que-es-whatsapp-business, como-hacer-un-envio-masivo-por-whatsapp-
 --- CUERPO (HTML) ---
 <p>Para escribir primero a un contacto por WhatsApp Business necesitas una plantilla aprobada por Meta.</p>
 <h2>Antes de empezar</h2>
-<ul><li>Tu cuenta de WhatsApp Business debe estar conectada a Afrus.</li></ul>
+<ul><li>Tu cuenta de WhatsApp Business debe estar conectada a AFRUS.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre las plantillas.</strong> En <strong>WhatsApp Business &gt; Blast</strong>, sección <strong>Plantillas de WhatsApp Meta</strong>, pulsa "Crear plantilla".</li>
@@ -87,10 +87,10 @@ Relacionados: que-es-whatsapp-business, como-hacer-un-envio-masivo-por-whatsapp-
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Cómo conectar WhatsApp Business en Afrus
+Título: Cómo conectar WhatsApp Business en AFRUS
 Slug: como-conectar-whatsapp-business-en-afrus
 Categoría: WhatsApp Business
-Resumen: Aprende a conectar tu cuenta de WhatsApp Business de Meta a Afrus y a habilitar el botón de envío masivo.
+Resumen: Aprende a conectar tu cuenta de WhatsApp Business de Meta a AFRUS y a habilitar el botón de envío masivo.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -105,15 +105,15 @@ Relacionados: que-es-whatsapp-business, como-crear-una-plantilla-de-whatsapp-bus
 <ol>
 <li><strong>Abre el módulo.</strong> Entra a <strong>WhatsApp Business &gt; Blast</strong>. Si no hay cuenta conectada, verás <strong>Conecta tu WhatsApp Business</strong>.</li>
 <li><strong>Conéctate con Meta.</strong> Pulsa "Conectar con Facebook", inicia sesión y elige tu cuenta de WhatsApp Business y el número.</li>
-<li><strong>Revisa la verificación.</strong> Afrus sincroniza tus plantillas y abre <strong>Verificando tu configuración</strong>.</li>
+<li><strong>Revisa la verificación.</strong> AFRUS sincroniza tus plantillas y abre <strong>Verificando tu configuración</strong>.</li>
 <li><strong>Envía una prueba (opcional).</strong> Elige el <strong>Número de teléfono de envío</strong>, escribe el <strong>Número de teléfono del destinatario</strong> y pulsa "Enviar mensaje de prueba". Luego pulsa "Ir al Dashboard".</li>
 </ol>
 <p>Verás el chip <strong>Conectado</strong> y tus números en <strong>Números conectados</strong>.</p>
 <h2>Habilita el envío masivo</h2>
 <p>El botón "Enviar blast masivo" se habilita cuando la tarjeta <strong>Preparación para Envío de Mensajes</strong> tiene en verde las verificaciones obligatorias y has enviado con éxito un mensaje con "Enviar Mensaje de Prueba". Esa prueba usa una plantilla aprobada sin variables ni multimedia: ten al menos una así.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿La conexión vence?</strong> Sí. Afrus avisa con <em>"Tu conexión expirará en N días"</em>; cuando vence, pulsa "Reconectar con Facebook".</p>
-<p><strong>¿Cómo agrego otro número?</strong> Desde el Administrador de Teléfonos de Meta. Luego pulsa "Sincronizar con Meta" en Afrus.</p>
+<p><strong>¿La conexión vence?</strong> Sí. AFRUS avisa con <em>"Tu conexión expirará en N días"</em>; cuando vence, pulsa "Reconectar con Facebook".</p>
+<p><strong>¿Cómo agrego otro número?</strong> Desde el Administrador de Teléfonos de Meta. Luego pulsa "Sincronizar con Meta" en AFRUS.</p>
 === FIN ===
 ```
 
@@ -157,13 +157,13 @@ Idioma: es
 Título: Cuántos mensajes de WhatsApp Business puedo enviar al día
 Slug: cuantos-mensajes-de-whatsapp-business-puedo-enviar-al-dia
 Categoría: WhatsApp Business
-Resumen: Aprende cómo funciona el límite diario de mensajes de WhatsApp Business y dónde ver el tuyo en Afrus.
+Resumen: Aprende cómo funciona el límite diario de mensajes de WhatsApp Business y dónde ver el tuyo en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-whatsapp-business, como-aumentar-el-limite-diario-de-whatsapp-business, como-hacer-un-envio-masivo-por-whatsapp-business
 --- CUERPO (HTML) ---
-<p>El límite diario lo asigna <strong>Meta</strong> según el nivel de tu cuenta. Afrus lo lee y te lo muestra en la barra <strong>Límite diario compartido</strong>, dentro de <strong>Números conectados</strong> en <strong>WhatsApp Business &gt; Blast</strong>.</p>
+<p>El límite diario lo asigna <strong>Meta</strong> según el nivel de tu cuenta. AFRUS lo lee y te lo muestra en la barra <strong>Límite diario compartido</strong>, dentro de <strong>Números conectados</strong> en <strong>WhatsApp Business &gt; Blast</strong>.</p>
 <ul>
 <li><strong>Nivel 0 (cuenta nueva):</strong> 250 mensajes por día.</li>
 <li><strong>Nivel 1:</strong> 2.000.</li>
@@ -174,7 +174,7 @@ Relacionados: que-es-whatsapp-business, como-aumentar-el-limite-diario-de-whatsa
 <h2>Ten en cuenta</h2>
 <ul>
 <li><strong>El límite es de tu portafolio de negocio en Meta, no de cada número.</strong> Todos tus números comparten la cuota.</li>
-<li><strong>Los mensajes enviados por fuera de Afrus también consumen la cuota</strong>, pero Afrus no los ve.</li>
+<li><strong>Los mensajes enviados por fuera de AFRUS también consumen la cuota</strong>, pero AFRUS no los ve.</li>
 <li><strong>Si un envío llega al límite</strong>, queda en <strong>Límite alcanzado</strong> y se reanuda solo cuando hay cuota disponible.</li>
 </ul>
 <p>El nivel exacto de tu cuenta lo decide Meta: revisa la barra <strong>Límite diario compartido</strong> para ver tu límite real.</p>
@@ -196,7 +196,7 @@ Relacionados: que-es-whatsapp-business, cuantos-mensajes-de-whatsapp-business-pu
 <p>Tu límite diario sube cuando Meta asigna un nivel más alto a tu cuenta.</p>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Verifica tu negocio en Meta.</strong> El paso al nivel 1 llega tras la verificación del negocio. En Afrus, <strong>Verificación del Negocio</strong> aparece como <strong>Recomendado</strong> en la tarjeta <strong>Preparación para Envío de Mensajes</strong>.</li>
+<li><strong>Verifica tu negocio en Meta.</strong> El paso al nivel 1 llega tras la verificación del negocio. En AFRUS, <strong>Verificación del Negocio</strong> aparece como <strong>Recomendado</strong> en la tarjeta <strong>Preparación para Envío de Mensajes</strong>.</li>
 <li><strong>Cuida la calidad de tus mensajes.</strong> Los niveles 2 y 3 se asignan por calidad. Revisa que tu número siga en <strong>Número de Teléfono Registrado (Calidad OK)</strong> sin advertencias.</li>
 </ol>
 <p>Los criterios y plazos exactos los define Meta y pueden cambiar.</p>
@@ -209,18 +209,18 @@ Idioma: es
 Título: ¿Me pueden penalizar en WhatsApp Business?
 Slug: me-pueden-penalizar-en-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprende qué señales de riesgo muestra Afrus para que tu cuenta de WhatsApp Business no sea limitada por Meta.
+Resumen: Aprende qué señales de riesgo muestra AFRUS para que tu cuenta de WhatsApp Business no sea limitada por Meta.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-whatsapp-business, como-aumentar-el-limite-diario-de-whatsapp-business, cuantos-mensajes-de-whatsapp-business-puedo-enviar-al-dia
 --- CUERPO (HTML) ---
-<p><strong>Sí, puede pasar.</strong> Las penalizaciones las aplica Meta. Afrus te muestra las señales de riesgo:</p>
+<p><strong>Sí, puede pasar.</strong> Las penalizaciones las aplica Meta. AFRUS te muestra las señales de riesgo:</p>
 <ul>
 <li><strong>Calidad del número en rojo:</strong> la verificación <strong>Número de Teléfono Registrado (Calidad OK)</strong> muestra una advertencia de que el número puede ser limitado y bajar de nivel.</li>
 <li><strong>Nombre para mostrar rechazado:</strong> si Meta lo rechaza, esa verificación falla.</li>
 <li><strong>Plantillas pausadas o deshabilitadas:</strong> Meta puede dejar una plantilla en <strong>Pausada</strong> o <strong>Deshabilitada</strong>.</li>
-<li><strong>Errores definitivos:</strong> Afrus no reintenta los mensajes que Meta rechaza por cuenta bloqueada, límite por spam, contenido que viola políticas o personas que bloquearon tus mensajes de marketing.</li>
+<li><strong>Errores definitivos:</strong> AFRUS no reintenta los mensajes que Meta rechaza por cuenta bloqueada, límite por spam, contenido que viola políticas o personas que bloquearon tus mensajes de marketing.</li>
 </ul>
 <p>En las plantillas de <strong>Marketing</strong>, los usuarios pueden darse de baja. Las reglas completas de penalización las define Meta.</p>
 === FIN ===
@@ -232,7 +232,7 @@ Idioma: es
 Título: Cómo enviar imágenes por WhatsApp Business
 Slug: como-enviar-imagenes-por-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprende a enviar una imagen en el encabezado de un envío masivo de WhatsApp Business desde Afrus.
+Resumen: Aprende a enviar una imagen en el encabezado de un envío masivo de WhatsApp Business desde AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -242,12 +242,12 @@ Relacionados: que-es-whatsapp-business, como-crear-una-plantilla-de-whatsapp-bus
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Crea una plantilla con imagen.</strong> En <strong>Contenido multimedia</strong> elige <strong>Imagen</strong> y pulsa "Subir" (JPEG o PNG hasta 5MB). Espera la aprobación de Meta.</li>
-<li><strong>Ten la imagen en la galería de Afrus.</strong> La imagen que subiste en la plantilla solo sirve para la revisión de Meta y no queda en la galería. Súbela a la galería con "Subir imagen".</li>
+<li><strong>Ten la imagen en la galería de AFRUS.</strong> La imagen que subiste en la plantilla solo sirve para la revisión de Meta y no queda en la galería. Súbela a la galería con "Subir imagen".</li>
 <li><strong>Elige la imagen en el envío.</strong> En el Blast, en <strong>Mapeo de Variables</strong>, sección <strong>Media del Encabezado</strong>, pulsa "Seleccionar media de la galería" y elige la imagen (hasta 5MB).</li>
 </ol>
 <p>Todos los destinatarios reciben esa misma imagen.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo enviar videos?</strong> Por ahora no se puede enviar un Blast con una plantilla de video desde Afrus. Usa una imagen o un botón <strong>Ir al sitio web</strong> que lleve al video.</p>
+<p><strong>¿Puedo enviar videos?</strong> Por ahora no se puede enviar un Blast con una plantilla de video desde AFRUS. Usa una imagen o un botón <strong>Ir al sitio web</strong> que lleve al video.</p>
 <p><strong>¿Puedo adjuntar archivos en Conversaciones?</strong> No, todavía no está disponible.</p>
 === FIN ===
 ```
@@ -264,13 +264,13 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-whatsapp-business, puedo-iniciar-una-conversacion-de-whatsapp-sin-un-envio, como-crear-una-plantilla-de-whatsapp-business
 --- CUERPO (HTML) ---
-<p><strong>En Afrus, no con texto libre.</strong> WhatsApp Business funciona con una ventana de 24 horas que se cuenta desde el último mensaje <strong>del contacto</strong>:</p>
+<p><strong>En AFRUS, no con texto libre.</strong> WhatsApp Business funciona con una ventana de 24 horas que se cuenta desde el último mensaje <strong>del contacto</strong>:</p>
 <ul>
 <li><strong>Abierta (expira en …):</strong> pasaron menos de 24 horas; puedes escribir texto libre.</li>
 <li><strong>Cerrada:</strong> pasaron 24 horas o más; solo puedes pulsar "Enviar plantilla" y elegir una plantilla aprobada.</li>
 </ul>
 <p>Si el contacto te responde, la ventana se vuelve a abrir.</p>
-<p>Si quieres usar el mismo número en la app de WhatsApp de tu celular al mismo tiempo que en Afrus, consúltanos: depende de Meta y de cómo se registró tu número.</p>
+<p>Si quieres usar el mismo número en la app de WhatsApp de tu celular al mismo tiempo que en AFRUS, consúltanos: depende de Meta y de cómo se registró tu número.</p>
 === FIN ===
 ```
 
@@ -280,7 +280,7 @@ Idioma: es
 Título: ¿Puedo iniciar una conversación sin haber hecho un envío?
 Slug: puedo-iniciar-una-conversacion-de-whatsapp-sin-un-envio
 Categoría: WhatsApp Business
-Resumen: Aprende cómo iniciar el contacto con una persona por WhatsApp Business desde Afrus.
+Resumen: Aprende cómo iniciar el contacto con una persona por WhatsApp Business desde AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -306,10 +306,10 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-whatsapp-business, puedo-contestar-desde-mi-celular-despues-de-24-horas, puedo-iniciar-una-conversacion-de-whatsapp-sin-un-envio
 --- CUERPO (HTML) ---
-<p><strong>Son los mensajes que envía Alma, el agente autónomo de fundraising de Afrus, que escribe por su cuenta.</strong></p>
+<p><strong>Son los mensajes que envía Alma, el agente autónomo de fundraising de AFRUS, que escribe por su cuenta.</strong></p>
 <p>En <strong>WhatsApp Business &gt; Conversaciones</strong>, el filtro <strong>Generado por IA</strong> muestra solo las conversaciones con mensajes de Alma.</p>
 <ul>
-<li><strong>Los mensajes que escribe tu equipo desde Afrus no entran en este filtro.</strong></li>
+<li><strong>Los mensajes que escribe tu equipo desde AFRUS no entran en este filtro.</strong></li>
 <li><strong>Una conversación con Alma puede aparecer como una entrada aparte</strong> de la conversación normal con el mismo contacto.</li>
 </ul>
 === FIN ===
@@ -320,16 +320,16 @@ Relacionados: que-es-whatsapp-business, puedo-contestar-desde-mi-celular-despues
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What WhatsApp Business is in Afrus
+Título: What WhatsApp Business is in AFRUS
 Slug: what-is-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Learn what WhatsApp Business is in Afrus: the connection to Meta's official API to send bulk messages and reply to your contacts.
+Resumen: Learn what WhatsApp Business is in AFRUS: the connection to Meta's official API to send bulk messages and reply to your contacts.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-whatsapp-business-for, how-to-connect-whatsapp-business-to-afrus, how-to-create-a-whatsapp-business-template, how-to-send-a-whatsapp-business-blast, how-many-whatsapp-business-messages-can-i-send-per-day, how-to-increase-the-whatsapp-business-daily-limit, can-i-be-penalized-on-whatsapp-business, how-to-send-images-on-whatsapp-business, can-i-reply-from-my-phone-after-24-hours, can-i-start-a-whatsapp-conversation-without-a-blast, what-are-ai-generated-messages-in-conversations
 --- CUERPO (HTML) ---
-<p><strong>WhatsApp Business in Afrus is the connection to Meta's official WhatsApp Business API.</strong> With it you send bulk messages using templates approved by Meta and reply from Afrus to the contacts who write to you.</p>
+<p><strong>WhatsApp Business in AFRUS is the connection to Meta's official WhatsApp Business API.</strong> With it you send bulk messages using templates approved by Meta and reply from AFRUS to the contacts who write to you.</p>
 <p>The module has two screens (labels as shown in the Spanish console):</p>
 <ul>
 <li><strong>WhatsApp Business &gt; Blast</strong>: your account dashboard, with your connected numbers, templates and bulk sends.</li>
@@ -338,7 +338,7 @@ Relacionados: what-is-whatsapp-business-for, how-to-connect-whatsapp-business-to
 <h2>Before you start</h2>
 <ul>
 <li>You need a Meta Business Suite account with WhatsApp Business.</li>
-<li>Sending numbers are added in Meta, not in Afrus.</li>
+<li>Sending numbers are added in Meta, not in AFRUS.</li>
 </ul>
 === FIN ===
 ```
@@ -346,19 +346,19 @@ Relacionados: what-is-whatsapp-business-for, how-to-connect-whatsapp-business-to
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What WhatsApp Business in Afrus is for
+Título: What WhatsApp Business in AFRUS is for
 Slug: what-is-whatsapp-business-for
 Categoría: WhatsApp Business
-Resumen: Learn what WhatsApp Business in Afrus is for: personalized bulk campaigns, templates, conversations and send statistics.
+Resumen: Learn what WhatsApp Business in AFRUS is for: personalized bulk campaigns, templates, conversations and send statistics.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-whatsapp-business, how-to-connect-whatsapp-business-to-afrus, how-to-send-a-whatsapp-business-blast, how-to-create-a-whatsapp-business-template
 --- CUERPO (HTML) ---
-<p>With WhatsApp Business in Afrus you can:</p>
+<p>With WhatsApp Business in AFRUS you can:</p>
 <ul>
 <li><strong>Send bulk campaigns on WhatsApp.</strong> You send a Blast to a segment and each contact gets the message personalized with their own data.</li>
-<li><strong>Create and edit templates in Afrus.</strong> You design them in Afrus and send them to Meta for review without leaving the platform.</li>
+<li><strong>Create and edit templates in AFRUS.</strong> You design them in AFRUS and send them to Meta for review without leaving the platform.</li>
 <li><strong>Reply to your contacts.</strong> In <strong>WhatsApp Business &gt; Conversaciones</strong> (Conversations) you see and reply to incoming messages in real time.</li>
 <li><strong>Measure your sends.</strong> You see how many messages were sent, delivered, read and failed.</li>
 </ul>
@@ -371,7 +371,7 @@ Idioma: en
 Título: How to create a WhatsApp Business template
 Slug: how-to-create-a-whatsapp-business-template
 Categoría: WhatsApp Business
-Resumen: Learn how to create a WhatsApp Business template in Afrus and send it to Meta for approval.
+Resumen: Learn how to create a WhatsApp Business template in AFRUS and send it to Meta for approval.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -379,7 +379,7 @@ Relacionados: what-is-whatsapp-business, how-to-send-a-whatsapp-business-blast, 
 --- CUERPO (HTML) ---
 <p>To message a contact first on WhatsApp Business you need a template approved by Meta. Labels are shown as they appear in the Spanish console.</p>
 <h2>Before you start</h2>
-<ul><li>Your WhatsApp Business account must be connected to Afrus.</li></ul>
+<ul><li>Your WhatsApp Business account must be connected to AFRUS.</li></ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the templates.</strong> In <strong>WhatsApp Business &gt; Blast</strong>, section <strong>Plantillas de WhatsApp Meta</strong>, click "Crear plantilla" (Create template).</li>
@@ -400,10 +400,10 @@ Relacionados: what-is-whatsapp-business, how-to-send-a-whatsapp-business-blast, 
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: How to connect WhatsApp Business to Afrus
+Título: How to connect WhatsApp Business to AFRUS
 Slug: how-to-connect-whatsapp-business-to-afrus
 Categoría: WhatsApp Business
-Resumen: Learn how to connect your Meta WhatsApp Business account to Afrus and enable the bulk send button.
+Resumen: Learn how to connect your Meta WhatsApp Business account to AFRUS and enable the bulk send button.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -418,15 +418,15 @@ Relacionados: what-is-whatsapp-business, how-to-create-a-whatsapp-business-templ
 <ol>
 <li><strong>Open the module.</strong> Go to <strong>WhatsApp Business &gt; Blast</strong>. If no account is connected, you will see <strong>Conecta tu WhatsApp Business</strong> (Connect your WhatsApp Business).</li>
 <li><strong>Connect with Meta.</strong> Click "Conectar con Facebook" (Connect with Facebook), sign in and choose your WhatsApp Business account and number.</li>
-<li><strong>Check the verification.</strong> Afrus syncs your templates and opens <strong>Verificando tu configuración</strong> (Verifying your setup).</li>
+<li><strong>Check the verification.</strong> AFRUS syncs your templates and opens <strong>Verificando tu configuración</strong> (Verifying your setup).</li>
 <li><strong>Send a test (optional).</strong> Choose the <strong>Número de teléfono de envío</strong> (sending number), type the <strong>Número de teléfono del destinatario</strong> (recipient) and click "Enviar mensaje de prueba". Then click "Ir al Dashboard".</li>
 </ol>
 <p>You will see the <strong>Conectado</strong> (Connected) chip and your numbers under <strong>Números conectados</strong>.</p>
 <h2>Enable bulk sending</h2>
 <p>The "Enviar blast masivo" (Send bulk blast) button is enabled when the <strong>Preparación para Envío de Mensajes</strong> (Messaging readiness) card shows the required checks in green and you have successfully sent a message with "Enviar Mensaje de Prueba". That test uses an approved template with no variables or media: keep at least one like that.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Does the connection expire?</strong> Yes. Afrus warns you with <em>"Tu conexión expirará en N días"</em>; when it expires, click "Reconectar con Facebook".</p>
-<p><strong>How do I add another number?</strong> In Meta's Phone Manager. Then click "Sincronizar con Meta" (Sync with Meta) in Afrus.</p>
+<p><strong>Does the connection expire?</strong> Yes. AFRUS warns you with <em>"Tu conexión expirará en N días"</em>; when it expires, click "Reconectar con Facebook".</p>
+<p><strong>How do I add another number?</strong> In Meta's Phone Manager. Then click "Sincronizar con Meta" (Sync with Meta) in AFRUS.</p>
 === FIN ===
 ```
 
@@ -470,13 +470,13 @@ Idioma: en
 Título: How many WhatsApp Business messages can I send per day
 Slug: how-many-whatsapp-business-messages-can-i-send-per-day
 Categoría: WhatsApp Business
-Resumen: Learn how the WhatsApp Business daily message limit works and where to see yours in Afrus.
+Resumen: Learn how the WhatsApp Business daily message limit works and where to see yours in AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-whatsapp-business, how-to-increase-the-whatsapp-business-daily-limit, how-to-send-a-whatsapp-business-blast
 --- CUERPO (HTML) ---
-<p>The daily limit is set by <strong>Meta</strong> according to your account tier. Afrus reads it and shows it in the <strong>Límite diario compartido</strong> (Shared daily limit) bar, under <strong>Números conectados</strong> in <strong>WhatsApp Business &gt; Blast</strong>.</p>
+<p>The daily limit is set by <strong>Meta</strong> according to your account tier. AFRUS reads it and shows it in the <strong>Límite diario compartido</strong> (Shared daily limit) bar, under <strong>Números conectados</strong> in <strong>WhatsApp Business &gt; Blast</strong>.</p>
 <ul>
 <li><strong>Tier 0 (new account):</strong> 250 messages per day.</li>
 <li><strong>Tier 1:</strong> 2,000.</li>
@@ -487,7 +487,7 @@ Relacionados: what-is-whatsapp-business, how-to-increase-the-whatsapp-business-d
 <h2>Keep in mind</h2>
 <ul>
 <li><strong>The limit belongs to your Meta business portfolio, not to each number.</strong> All your numbers share the quota.</li>
-<li><strong>Messages sent outside Afrus also use the quota</strong>, but Afrus can't see them.</li>
+<li><strong>Messages sent outside AFRUS also use the quota</strong>, but AFRUS can't see them.</li>
 <li><strong>If a send reaches the limit</strong>, it moves to <strong>Límite alcanzado</strong> (Limit reached) and resumes on its own when quota is available.</li>
 </ul>
 <p>Your account's exact tier is decided by Meta: check the <strong>Límite diario compartido</strong> bar to see your actual limit.</p>
@@ -509,7 +509,7 @@ Relacionados: what-is-whatsapp-business, how-many-whatsapp-business-messages-can
 <p>Your daily limit goes up when Meta assigns your account a higher tier.</p>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Verify your business in Meta.</strong> Moving to tier 1 comes after business verification. In Afrus, <strong>Verificación del Negocio</strong> (Business verification) appears as <strong>Recomendado</strong> on the <strong>Preparación para Envío de Mensajes</strong> card.</li>
+<li><strong>Verify your business in Meta.</strong> Moving to tier 1 comes after business verification. In AFRUS, <strong>Verificación del Negocio</strong> (Business verification) appears as <strong>Recomendado</strong> on the <strong>Preparación para Envío de Mensajes</strong> card.</li>
 <li><strong>Take care of your message quality.</strong> Tiers 2 and 3 are assigned based on quality. Check that your number stays at <strong>Número de Teléfono Registrado (Calidad OK)</strong> without warnings.</li>
 </ol>
 <p>The exact criteria and timelines are set by Meta and may change.</p>
@@ -522,18 +522,18 @@ Idioma: en
 Título: Can I be penalized on WhatsApp Business?
 Slug: can-i-be-penalized-on-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Learn which risk signals Afrus shows so your WhatsApp Business account isn't limited by Meta.
+Resumen: Learn which risk signals AFRUS shows so your WhatsApp Business account isn't limited by Meta.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-whatsapp-business, how-to-increase-the-whatsapp-business-daily-limit, how-many-whatsapp-business-messages-can-i-send-per-day
 --- CUERPO (HTML) ---
-<p><strong>Yes, it can happen.</strong> Penalties are applied by Meta. Afrus shows you the risk signals:</p>
+<p><strong>Yes, it can happen.</strong> Penalties are applied by Meta. AFRUS shows you the risk signals:</p>
 <ul>
 <li><strong>Number quality in red:</strong> the <strong>Número de Teléfono Registrado (Calidad OK)</strong> check shows a warning that the number may be limited and drop a tier.</li>
 <li><strong>Display name rejected:</strong> if Meta rejects it, that check fails.</li>
 <li><strong>Paused or disabled templates:</strong> Meta can set a template to <strong>Pausada</strong> (Paused) or <strong>Deshabilitada</strong> (Disabled).</li>
-<li><strong>Permanent errors:</strong> Afrus doesn't retry messages Meta rejects because of a blocked account, a spam limit, content that violates policies or people who blocked your marketing messages.</li>
+<li><strong>Permanent errors:</strong> AFRUS doesn't retry messages Meta rejects because of a blocked account, a spam limit, content that violates policies or people who blocked your marketing messages.</li>
 </ul>
 <p>With <strong>Marketing</strong> templates, users can unsubscribe. The full penalty rules are set by Meta.</p>
 === FIN ===
@@ -545,7 +545,7 @@ Idioma: en
 Título: How to send images on WhatsApp Business
 Slug: how-to-send-images-on-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Learn how to send an image in the header of a WhatsApp Business bulk send from Afrus.
+Resumen: Learn how to send an image in the header of a WhatsApp Business bulk send from AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -555,12 +555,12 @@ Relacionados: what-is-whatsapp-business, how-to-create-a-whatsapp-business-templ
 <h2>Step by step</h2>
 <ol>
 <li><strong>Create a template with an image.</strong> Under <strong>Contenido multimedia</strong> choose <strong>Imagen</strong> and click "Subir" (JPEG or PNG up to 5MB). Wait for Meta's approval.</li>
-<li><strong>Have the image in the Afrus gallery.</strong> The image uploaded in the template is only used for Meta's review and isn't saved in the gallery. Upload it to the gallery with "Subir imagen" (Upload image).</li>
+<li><strong>Have the image in the AFRUS gallery.</strong> The image uploaded in the template is only used for Meta's review and isn't saved in the gallery. Upload it to the gallery with "Subir imagen" (Upload image).</li>
 <li><strong>Choose the image in the send.</strong> In the Blast, under <strong>Mapeo de Variables</strong>, section <strong>Media del Encabezado</strong> (Header media), click "Seleccionar media de la galería" and choose the image (up to 5MB).</li>
 </ol>
 <p>Every recipient gets that same image.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I send videos?</strong> For now, a Blast with a video template can't be sent from Afrus. Use an image or an <strong>Ir al sitio web</strong> (website) button linking to the video.</p>
+<p><strong>Can I send videos?</strong> For now, a Blast with a video template can't be sent from AFRUS. Use an image or an <strong>Ir al sitio web</strong> (website) button linking to the video.</p>
 <p><strong>Can I attach files in Conversations?</strong> No, it isn't available yet.</p>
 === FIN ===
 ```
@@ -577,13 +577,13 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-whatsapp-business, can-i-start-a-whatsapp-conversation-without-a-blast, how-to-create-a-whatsapp-business-template
 --- CUERPO (HTML) ---
-<p><strong>In Afrus, not with free text.</strong> WhatsApp Business works with a 24-hour window counted from the <strong>contact's</strong> last message:</p>
+<p><strong>In AFRUS, not with free text.</strong> WhatsApp Business works with a 24-hour window counted from the <strong>contact's</strong> last message:</p>
 <ul>
 <li><strong>Abierta (expira en …)</strong> (Open): less than 24 hours have passed; you can write free text.</li>
 <li><strong>Cerrada</strong> (Closed): 24 hours or more have passed; you can only click "Enviar plantilla" (Send template) and choose an approved template.</li>
 </ul>
 <p>If the contact replies, the window opens again.</p>
-<p>If you want to use the same number in the WhatsApp app on your phone at the same time as in Afrus, contact us: it depends on Meta and on how your number was registered.</p>
+<p>If you want to use the same number in the WhatsApp app on your phone at the same time as in AFRUS, contact us: it depends on Meta and on how your number was registered.</p>
 === FIN ===
 ```
 
@@ -593,7 +593,7 @@ Idioma: en
 Título: Can I start a conversation without sending a Blast first?
 Slug: can-i-start-a-whatsapp-conversation-without-a-blast
 Categoría: WhatsApp Business
-Resumen: Learn how to start contact with a person on WhatsApp Business from Afrus.
+Resumen: Learn how to start contact with a person on WhatsApp Business from AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -619,10 +619,10 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-whatsapp-business, can-i-reply-from-my-phone-after-24-hours, can-i-start-a-whatsapp-conversation-without-a-blast
 --- CUERPO (HTML) ---
-<p><strong>They are the messages sent by Alma, Afrus's autonomous fundraising agent, which writes on its own.</strong></p>
+<p><strong>They are the messages sent by Alma, AFRUS's autonomous fundraising agent, which writes on its own.</strong></p>
 <p>In <strong>WhatsApp Business &gt; Conversaciones</strong>, the <strong>Generado por IA</strong> (AI-generated) filter shows only conversations with messages from Alma.</p>
 <ul>
-<li><strong>Messages your team writes from Afrus are not included in this filter.</strong></li>
+<li><strong>Messages your team writes from AFRUS are not included in this filter.</strong></li>
 <li><strong>A conversation with Alma may appear as a separate entry</strong> from the regular conversation with the same contact.</li>
 </ul>
 === FIN ===
@@ -633,16 +633,16 @@ Relacionados: what-is-whatsapp-business, can-i-reply-from-my-phone-after-24-hour
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que é o WhatsApp Business na Afrus
+Título: O que é o WhatsApp Business na AFRUS
 Slug: o-que-e-o-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprenda o que é o WhatsApp Business na Afrus: a conexão com a API oficial da Meta para enviar mensagens em massa e responder contatos.
+Resumen: Aprenda o que é o WhatsApp Business na AFRUS: a conexão com a API oficial da Meta para enviar mensagens em massa e responder contatos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-o-whatsapp-business, como-conectar-o-whatsapp-business-na-afrus, como-criar-um-modelo-do-whatsapp-business, como-fazer-um-envio-em-massa-pelo-whatsapp-business, quantas-mensagens-do-whatsapp-business-posso-enviar-por-dia, como-aumentar-o-limite-diario-do-whatsapp-business, posso-ser-penalizado-no-whatsapp-business, como-enviar-imagens-pelo-whatsapp-business, posso-responder-pelo-celular-depois-de-24-horas, posso-iniciar-uma-conversa-no-whatsapp-sem-um-envio, o-que-sao-as-mensagens-geradas-por-ia-nas-conversas
 --- CUERPO (HTML) ---
-<p><strong>O WhatsApp Business na Afrus é a conexão com a API oficial do WhatsApp Business da Meta.</strong> Com ela você envia mensagens em massa usando modelos aprovados pela Meta e responde, pela Afrus, aos contatos que escrevem para você.</p>
+<p><strong>O WhatsApp Business na AFRUS é a conexão com a API oficial do WhatsApp Business da Meta.</strong> Com ela você envia mensagens em massa usando modelos aprovados pela Meta e responde, pela AFRUS, aos contatos que escrevem para você.</p>
 <p>O módulo tem duas telas (nomes como aparecem no console em espanhol):</p>
 <ul>
 <li><strong>WhatsApp Business &gt; Blast</strong>: o painel da sua conta, com seus números conectados, modelos e envios em massa.</li>
@@ -651,7 +651,7 @@ Relacionados: para-que-serve-o-whatsapp-business, como-conectar-o-whatsapp-busin
 <h2>Antes de começar</h2>
 <ul>
 <li>Você precisa de uma conta no Meta Business Suite com WhatsApp Business.</li>
-<li>Os números de envio são adicionados na Meta, não na Afrus.</li>
+<li>Os números de envio são adicionados na Meta, não na AFRUS.</li>
 </ul>
 === FIN ===
 ```
@@ -659,19 +659,19 @@ Relacionados: para-que-serve-o-whatsapp-business, como-conectar-o-whatsapp-busin
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Para que serve o WhatsApp Business na Afrus
+Título: Para que serve o WhatsApp Business na AFRUS
 Slug: para-que-serve-o-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprenda para que serve o WhatsApp Business na Afrus: campanhas em massa personalizadas, modelos, conversas e estatísticas de envio.
+Resumen: Aprenda para que serve o WhatsApp Business na AFRUS: campanhas em massa personalizadas, modelos, conversas e estatísticas de envio.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-whatsapp-business, como-conectar-o-whatsapp-business-na-afrus, como-fazer-um-envio-em-massa-pelo-whatsapp-business, como-criar-um-modelo-do-whatsapp-business
 --- CUERPO (HTML) ---
-<p>Com o WhatsApp Business na Afrus você pode:</p>
+<p>Com o WhatsApp Business na AFRUS você pode:</p>
 <ul>
 <li><strong>Enviar campanhas em massa pelo WhatsApp.</strong> Você envia um Blast para um segmento e cada contato recebe a mensagem personalizada com os próprios dados.</li>
-<li><strong>Criar e editar modelos na Afrus.</strong> Você os desenha na Afrus e envia para revisão da Meta sem sair da plataforma.</li>
+<li><strong>Criar e editar modelos na AFRUS.</strong> Você os desenha na AFRUS e envia para revisão da Meta sem sair da plataforma.</li>
 <li><strong>Responder seus contatos.</strong> Em <strong>WhatsApp Business &gt; Conversaciones</strong> (Conversas) você vê e responde as mensagens que chegam, em tempo real.</li>
 <li><strong>Medir seus envios.</strong> Você vê quantas mensagens foram enviadas, entregues, lidas e com erro.</li>
 </ul>
@@ -684,7 +684,7 @@ Idioma: pt-BR
 Título: Como criar um modelo do WhatsApp Business
 Slug: como-criar-um-modelo-do-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprenda a criar um modelo (template) do WhatsApp Business na Afrus e enviá-lo para aprovação da Meta.
+Resumen: Aprenda a criar um modelo (template) do WhatsApp Business na AFRUS e enviá-lo para aprovação da Meta.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -692,7 +692,7 @@ Relacionados: o-que-e-o-whatsapp-business, como-fazer-um-envio-em-massa-pelo-wha
 --- CUERPO (HTML) ---
 <p>Para escrever primeiro a um contato pelo WhatsApp Business, você precisa de um modelo aprovado pela Meta. Os nomes de tela aparecem como no console em espanhol ("plantilla" = modelo).</p>
 <h2>Antes de começar</h2>
-<ul><li>Sua conta do WhatsApp Business precisa estar conectada à Afrus.</li></ul>
+<ul><li>Sua conta do WhatsApp Business precisa estar conectada à AFRUS.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra os modelos.</strong> Em <strong>WhatsApp Business &gt; Blast</strong>, seção <strong>Plantillas de WhatsApp Meta</strong>, clique em "Crear plantilla" (Criar modelo).</li>
@@ -713,10 +713,10 @@ Relacionados: o-que-e-o-whatsapp-business, como-fazer-um-envio-em-massa-pelo-wha
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Como conectar o WhatsApp Business na Afrus
+Título: Como conectar o WhatsApp Business na AFRUS
 Slug: como-conectar-o-whatsapp-business-na-afrus
 Categoría: WhatsApp Business
-Resumen: Aprenda a conectar sua conta do WhatsApp Business da Meta à Afrus e a habilitar o botão de envio em massa.
+Resumen: Aprenda a conectar sua conta do WhatsApp Business da Meta à AFRUS e a habilitar o botão de envio em massa.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -731,15 +731,15 @@ Relacionados: o-que-e-o-whatsapp-business, como-criar-um-modelo-do-whatsapp-busi
 <ol>
 <li><strong>Abra o módulo.</strong> Acesse <strong>WhatsApp Business &gt; Blast</strong>. Se não houver conta conectada, você verá <strong>Conecta tu WhatsApp Business</strong>.</li>
 <li><strong>Conecte-se com a Meta.</strong> Clique em "Conectar con Facebook", faça login e escolha sua conta do WhatsApp Business e o número.</li>
-<li><strong>Confira a verificação.</strong> A Afrus sincroniza seus modelos e abre <strong>Verificando tu configuración</strong>.</li>
+<li><strong>Confira a verificação.</strong> A AFRUS sincroniza seus modelos e abre <strong>Verificando tu configuración</strong>.</li>
 <li><strong>Envie um teste (opcional).</strong> Escolha o <strong>Número de teléfono de envío</strong>, digite o <strong>Número de teléfono del destinatario</strong> e clique em "Enviar mensaje de prueba". Depois clique em "Ir al Dashboard".</li>
 </ol>
 <p>Você verá o chip <strong>Conectado</strong> e seus números em <strong>Números conectados</strong>.</p>
 <h2>Habilite o envio em massa</h2>
 <p>O botão "Enviar blast masivo" é habilitado quando o cartão <strong>Preparación para Envío de Mensajes</strong> mostra as verificações obrigatórias em verde e você enviou com sucesso uma mensagem com "Enviar Mensaje de Prueba". Esse teste usa um modelo aprovado sem variáveis nem mídia: tenha pelo menos um assim.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>A conexão expira?</strong> Sim. A Afrus avisa com <em>"Tu conexión expirará en N días"</em>; quando expirar, clique em "Reconectar con Facebook".</p>
-<p><strong>Como adiciono outro número?</strong> No Gerenciador de Telefones da Meta. Depois clique em "Sincronizar con Meta" na Afrus.</p>
+<p><strong>A conexão expira?</strong> Sim. A AFRUS avisa com <em>"Tu conexión expirará en N días"</em>; quando expirar, clique em "Reconectar con Facebook".</p>
+<p><strong>Como adiciono outro número?</strong> No Gerenciador de Telefones da Meta. Depois clique em "Sincronizar con Meta" na AFRUS.</p>
 === FIN ===
 ```
 
@@ -783,13 +783,13 @@ Idioma: pt-BR
 Título: Quantas mensagens do WhatsApp Business posso enviar por dia
 Slug: quantas-mensagens-do-whatsapp-business-posso-enviar-por-dia
 Categoría: WhatsApp Business
-Resumen: Aprenda como funciona o limite diário de mensagens do WhatsApp Business e onde ver o seu na Afrus.
+Resumen: Aprenda como funciona o limite diário de mensagens do WhatsApp Business e onde ver o seu na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-whatsapp-business, como-aumentar-o-limite-diario-do-whatsapp-business, como-fazer-um-envio-em-massa-pelo-whatsapp-business
 --- CUERPO (HTML) ---
-<p>O limite diário é definido pela <strong>Meta</strong> de acordo com o nível da sua conta. A Afrus o lê e mostra na barra <strong>Límite diario compartido</strong> (Limite diário compartilhado), em <strong>Números conectados</strong> dentro de <strong>WhatsApp Business &gt; Blast</strong>.</p>
+<p>O limite diário é definido pela <strong>Meta</strong> de acordo com o nível da sua conta. A AFRUS o lê e mostra na barra <strong>Límite diario compartido</strong> (Limite diário compartilhado), em <strong>Números conectados</strong> dentro de <strong>WhatsApp Business &gt; Blast</strong>.</p>
 <ul>
 <li><strong>Nível 0 (conta nova):</strong> 250 mensagens por dia.</li>
 <li><strong>Nível 1:</strong> 2.000.</li>
@@ -800,7 +800,7 @@ Relacionados: o-que-e-o-whatsapp-business, como-aumentar-o-limite-diario-do-what
 <h2>Tenha em mente</h2>
 <ul>
 <li><strong>O limite é do seu portfólio de negócios na Meta, não de cada número.</strong> Todos os seus números compartilham a cota.</li>
-<li><strong>As mensagens enviadas fora da Afrus também consomem a cota</strong>, mas a Afrus não as vê.</li>
+<li><strong>As mensagens enviadas fora da AFRUS também consomem a cota</strong>, mas a AFRUS não as vê.</li>
 <li><strong>Se um envio atingir o limite</strong>, ele fica em <strong>Límite alcanzado</strong> e é retomado sozinho quando há cota disponível.</li>
 </ul>
 <p>O nível exato da sua conta é decidido pela Meta: confira a barra <strong>Límite diario compartido</strong> para ver seu limite real.</p>
@@ -822,7 +822,7 @@ Relacionados: o-que-e-o-whatsapp-business, quantas-mensagens-do-whatsapp-busines
 <p>Seu limite diário aumenta quando a Meta atribui um nível mais alto à sua conta.</p>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Verifique seu negócio na Meta.</strong> A passagem para o nível 1 acontece após a verificação do negócio. Na Afrus, <strong>Verificación del Negocio</strong> (verificação do negócio) aparece como <strong>Recomendado</strong> no cartão <strong>Preparación para Envío de Mensajes</strong>.</li>
+<li><strong>Verifique seu negócio na Meta.</strong> A passagem para o nível 1 acontece após a verificação do negócio. Na AFRUS, <strong>Verificación del Negocio</strong> (verificação do negócio) aparece como <strong>Recomendado</strong> no cartão <strong>Preparación para Envío de Mensajes</strong>.</li>
 <li><strong>Cuide da qualidade das suas mensagens.</strong> Os níveis 2 e 3 são atribuídos pela qualidade. Confira se o seu número continua em <strong>Número de Teléfono Registrado (Calidad OK)</strong> sem avisos.</li>
 </ol>
 <p>Os critérios e prazos exatos são definidos pela Meta e podem mudar.</p>
@@ -835,18 +835,18 @@ Idioma: pt-BR
 Título: Posso ser penalizado no WhatsApp Business?
 Slug: posso-ser-penalizado-no-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprenda quais sinais de risco a Afrus mostra para que sua conta do WhatsApp Business não seja limitada pela Meta.
+Resumen: Aprenda quais sinais de risco a AFRUS mostra para que sua conta do WhatsApp Business não seja limitada pela Meta.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-whatsapp-business, como-aumentar-o-limite-diario-do-whatsapp-business, quantas-mensagens-do-whatsapp-business-posso-enviar-por-dia
 --- CUERPO (HTML) ---
-<p><strong>Sim, pode acontecer.</strong> As penalidades são aplicadas pela Meta. A Afrus mostra os sinais de risco:</p>
+<p><strong>Sim, pode acontecer.</strong> As penalidades são aplicadas pela Meta. A AFRUS mostra os sinais de risco:</p>
 <ul>
 <li><strong>Qualidade do número em vermelho:</strong> a verificação <strong>Número de Teléfono Registrado (Calidad OK)</strong> mostra um aviso de que o número pode ser limitado e cair de nível.</li>
 <li><strong>Nome de exibição rejeitado:</strong> se a Meta o rejeitar, essa verificação falha.</li>
 <li><strong>Modelos pausados ou desativados:</strong> a Meta pode deixar um modelo como <strong>Pausada</strong> ou <strong>Deshabilitada</strong>.</li>
-<li><strong>Erros definitivos:</strong> a Afrus não tenta de novo as mensagens que a Meta rejeita por conta bloqueada, limite por spam, conteúdo que viola as políticas ou pessoas que bloquearam suas mensagens de marketing.</li>
+<li><strong>Erros definitivos:</strong> a AFRUS não tenta de novo as mensagens que a Meta rejeita por conta bloqueada, limite por spam, conteúdo que viola as políticas ou pessoas que bloquearam suas mensagens de marketing.</li>
 </ul>
 <p>Nos modelos de <strong>Marketing</strong>, os usuários podem cancelar o recebimento. As regras completas de penalidade são definidas pela Meta.</p>
 === FIN ===
@@ -858,7 +858,7 @@ Idioma: pt-BR
 Título: Como enviar imagens pelo WhatsApp Business
 Slug: como-enviar-imagens-pelo-whatsapp-business
 Categoría: WhatsApp Business
-Resumen: Aprenda a enviar uma imagem no cabeçalho de um envio em massa do WhatsApp Business pela Afrus.
+Resumen: Aprenda a enviar uma imagem no cabeçalho de um envio em massa do WhatsApp Business pela AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -868,12 +868,12 @@ Relacionados: o-que-e-o-whatsapp-business, como-criar-um-modelo-do-whatsapp-busi
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Crie um modelo com imagem.</strong> Em <strong>Contenido multimedia</strong> escolha <strong>Imagen</strong> e clique em "Subir" (JPEG ou PNG até 5MB). Aguarde a aprovação da Meta.</li>
-<li><strong>Tenha a imagem na galeria da Afrus.</strong> A imagem enviada no modelo serve só para a revisão da Meta e não fica na galeria. Envie-a para a galeria com "Subir imagen" (Enviar imagem).</li>
+<li><strong>Tenha a imagem na galeria da AFRUS.</strong> A imagem enviada no modelo serve só para a revisão da Meta e não fica na galeria. Envie-a para a galeria com "Subir imagen" (Enviar imagem).</li>
 <li><strong>Escolha a imagem no envio.</strong> No Blast, em <strong>Mapeo de Variables</strong>, seção <strong>Media del Encabezado</strong> (Mídia do cabeçalho), clique em "Seleccionar media de la galería" e escolha a imagem (até 5MB).</li>
 </ol>
 <p>Todos os destinatários recebem essa mesma imagem.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso enviar vídeos?</strong> Por enquanto não é possível enviar um Blast com um modelo de vídeo pela Afrus. Use uma imagem ou um botão <strong>Ir al sitio web</strong> que leve ao vídeo.</p>
+<p><strong>Posso enviar vídeos?</strong> Por enquanto não é possível enviar um Blast com um modelo de vídeo pela AFRUS. Use uma imagem ou um botão <strong>Ir al sitio web</strong> que leve ao vídeo.</p>
 <p><strong>Posso anexar arquivos nas Conversas?</strong> Não, ainda não está disponível.</p>
 === FIN ===
 ```
@@ -890,13 +890,13 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-whatsapp-business, posso-iniciar-uma-conversa-no-whatsapp-sem-um-envio, como-criar-um-modelo-do-whatsapp-business
 --- CUERPO (HTML) ---
-<p><strong>Na Afrus, não com texto livre.</strong> O WhatsApp Business funciona com uma janela de 24 horas contada a partir da última mensagem <strong>do contato</strong>:</p>
+<p><strong>Na AFRUS, não com texto livre.</strong> O WhatsApp Business funciona com uma janela de 24 horas contada a partir da última mensagem <strong>do contato</strong>:</p>
 <ul>
 <li><strong>Abierta (expira en …)</strong> (Aberta): passaram menos de 24 horas; você pode escrever texto livre.</li>
 <li><strong>Cerrada</strong> (Fechada): passaram 24 horas ou mais; você só pode clicar em "Enviar plantilla" (Enviar modelo) e escolher um modelo aprovado.</li>
 </ul>
 <p>Se o contato responder, a janela se abre de novo.</p>
-<p>Se quiser usar o mesmo número no app do WhatsApp do celular ao mesmo tempo que na Afrus, fale com a gente: depende da Meta e de como o seu número foi registrado.</p>
+<p>Se quiser usar o mesmo número no app do WhatsApp do celular ao mesmo tempo que na AFRUS, fale com a gente: depende da Meta e de como o seu número foi registrado.</p>
 === FIN ===
 ```
 
@@ -906,7 +906,7 @@ Idioma: pt-BR
 Título: Posso iniciar uma conversa sem ter feito um envio?
 Slug: posso-iniciar-uma-conversa-no-whatsapp-sem-um-envio
 Categoría: WhatsApp Business
-Resumen: Aprenda como iniciar o contato com uma pessoa pelo WhatsApp Business na Afrus.
+Resumen: Aprenda como iniciar o contato com uma pessoa pelo WhatsApp Business na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -932,10 +932,10 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-whatsapp-business, posso-responder-pelo-celular-depois-de-24-horas, posso-iniciar-uma-conversa-no-whatsapp-sem-um-envio
 --- CUERPO (HTML) ---
-<p><strong>São as mensagens enviadas pela Alma, a agente autônoma de captação da Afrus, que escreve por conta própria.</strong></p>
+<p><strong>São as mensagens enviadas pela Alma, a agente autônoma de captação da AFRUS, que escreve por conta própria.</strong></p>
 <p>Em <strong>WhatsApp Business &gt; Conversaciones</strong>, o filtro <strong>Generado por IA</strong> (Gerado por IA) mostra só as conversas com mensagens da Alma.</p>
 <ul>
-<li><strong>As mensagens que sua equipe escreve pela Afrus não entram nesse filtro.</strong></li>
+<li><strong>As mensagens que sua equipe escreve pela AFRUS não entram nesse filtro.</strong></li>
 <li><strong>Uma conversa com a Alma pode aparecer como uma entrada separada</strong> da conversa normal com o mesmo contato.</li>
 </ul>
 === FIN ===

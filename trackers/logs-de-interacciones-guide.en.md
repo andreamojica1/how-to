@@ -1,6 +1,6 @@
 # Logs de interacciones guide
 
-With this guide you will be able to check whether an email or a WhatsApp message was sent to a person from Afrus, see what was sent and send it again if it failed.
+With this guide you will be able to check whether an email or a WhatsApp message was sent to a person from AFRUS, see what was sent and send it again if it failed.
 
 *Module: Trackers · Menu: **Trackers > Logs de interacciones** (Interaction logs) · Audience: communications and donor care teams*
 
@@ -10,9 +10,9 @@ With this guide you will be able to check whether an email or a WhatsApp message
 
 ## What Logs de interacciones is
 
-**It is the history of every email and every WhatsApp message Afrus prepared for a person, with its sending status.**
+**It is the history of every email and every WhatsApp message AFRUS prepared for a person, with its sending status.**
 
-Every time Afrus prepares a message for someone (for example, an automatic thank-you email or a mass send), it adds a row to this list. There you see who it was for, how it went out and whether it was sent correctly.
+Every time AFRUS prepares a message for someone (for example, an automatic thank-you email or a mass send), it adds a row to this list. There you see who it was for, how it went out and whether it was sent correctly.
 
 ## What it is for
 
@@ -44,14 +44,14 @@ Every time Afrus prepares a message for someone (for example, an automatic thank
 
 | Status | What it means |
 |---|---|
-| **Procesado** (Processed) | Afrus handed the message to the email or WhatsApp service without errors. It **does not confirm** it reached the inbox or was read |
+| **Procesado** (Processed) | AFRUS handed the message to the email or WhatsApp service without errors. It **does not confirm** it reached the inbox or was read |
 | **En cola** (Queued) | The message is waiting its turn to go out |
 | **Fallido** (Failed) | There was an error sending it |
-| **No enviado** (Not sent) | Afrus decided not to send it, for example because the person can't be contacted on that channel or because the mass send was stopped |
+| **No enviado** (Not sent) | AFRUS decided not to send it, for example because the person can't be contacted on that channel or because the mass send was stopped |
 
 > **Important:** **No enviado** rows don't appear when you open the screen. To see them, filter **Estado** by **No enviado**.
 
-If no row appears, Afrus didn't prepare any message for that person.
+If no row appears, AFRUS didn't prepare any message for that person.
 
 **Want to know whether the email was opened or bounced?** This screen doesn't say. Check the **Eventos** (Events) tab in the person's profile or the detail of the mass send.
 
@@ -73,7 +73,7 @@ If no row appears, Afrus didn't prepare any message for that person.
 
 6. **Choose the message.** From the list, check one or more rows with status **Fallido** and click "Acciones" (Actions) > "Reenviar" (Resend). From the detail, click "Reenviar".
 
-7. **Check.** You will see *"Comunicación reenviada correctamente"* (Message resent successfully) and the row moves to **En cola**. Afrus sends exactly the same message again.
+7. **Check.** You will see *"Comunicación reenviada correctamente"* (Message resent successfully) and the row moves to **En cola**. AFRUS sends exactly the same message again.
 
 > **Can it be undone?** No. Once resent, the message goes out again. Only resend **Fallido** messages: if you resend a **Procesado** one, the person receives it twice. **En cola** messages can't be resent.
 
@@ -91,7 +91,7 @@ If no row appears, Afrus didn't prepare any message for that person.
 ## Frequently asked questions
 
 **Does "Procesado" mean the person received the email?**
-No. It means Afrus handed it to the sending service without errors. To know whether it arrived, was opened or bounced, check the **Eventos** tab in the person's profile.
+No. It means AFRUS handed it to the sending service without errors. To know whether it arrived, was opened or bounced, check the **Eventos** tab in the person's profile.
 
 **How long does a message take to go from "En cola" to "Procesado"?**
 > **Pending confirmation:** there is no fixed time; it depends on how many messages are waiting.

@@ -25,7 +25,7 @@ Você escolhe quem recebe, o objetivo e o que quer dizer. A IA escreve um e-mail
 
 ## Antes de começar
 
-- **Ative a IA da Afrus** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Sem isso, a lista de objetivos não carrega e você não consegue avançar.
+- **Ative a IA da AFRUS** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Sem isso, a lista de objetivos não carrega e você não consegue avançar.
 - **Envie informações em AI > Entrenamiento [AI RAG].** É isso que a IA usa para escrever.
 - **Tenha prontos sua conta de e-mail de envio e seus créditos,** como em um Blast comum.
 - **Opcional:** se quiser e-mails com design e imagens, revise **AI > Plantillas AI Email** e **AI > Galería para AI**.

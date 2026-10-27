@@ -1,6 +1,6 @@
 # Guia de Gateways de pagamento
 
-Com este guia você vai entender o que são os gateways de pagamento na Afrus, para que você precisa deles e como ativar o Cover Your Cost para que seus doadores possam cobrir a taxa.
+Com este guia você vai entender o que são os gateways de pagamento na AFRUS, para que você precisa deles e como ativar o Cover Your Cost para que seus doadores possam cobrir a taxa.
 
 *Módulo: Configurações · Menu: **Configuración > Pagos > Pasarelas de pago** (Configurações > Pagamentos > Gateways de pagamento) · Público: administração e equipes de captação*
 
@@ -38,14 +38,14 @@ Depois de conectar um gateway, você o escolhe em cada formulário, no bloco **M
 
 Com o Cover Your Cost, o doador pode pagar um pouco mais para cobrir a taxa do gateway. Assim sua organização recebe o valor completo da doação.
 
-**Antes de começar:** a Afrus precisa ativar o Cover Your Cost para sua organização. Se você não vê a seção **Cover Your Cost** ao abrir um gateway, escreva para nós para ativá-la.
+**Antes de começar:** a AFRUS precisa ativar o Cover Your Cost para sua organização. Se você não vê a seção **Cover Your Cost** ao abrir um gateway, escreva para nós para ativá-la.
 
 1. **Abra o gateway.** Acesse **Configuración > Pagos > Pasarelas de pago** e abra o gateway onde quer oferecê-lo.
    ![Janela do gateway com a seção Cover Your Cost e a chave Activar Cover Your Cost](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Ative a opção.** Na seção **Cover Your Cost**, ative **Activar Cover Your Cost** (Ativar Cover Your Cost).
 
-3. **Informe a taxa do gateway.** Em **Comisión de pasarela (%)** (Taxa do gateway %), coloque a porcentagem que esse gateway cobra (mínimo 0.01). A **Comisión Afrus (%)** (Taxa Afrus %) aparece só para consulta; não pode ser alterada.
+3. **Informe a taxa do gateway.** Em **Comisión de pasarela (%)** (Taxa do gateway %), coloque a porcentagem que esse gateway cobra (mínimo 0.01). A **Comisión AFRUS (%)** (Taxa AFRUS %) aparece só para consulta; não pode ser alterada.
 
 4. **Escolha como o doador vê.** Com **Preseleccionar la opción para el donante** (Pré-selecionar a opção para o doador) ativado, o doador vê a opção já ligada e pode tirá-la. Desativado, ele vê a opção desligada e pode ativá-la.
 
@@ -59,14 +59,14 @@ Ao terminar, quando o doador paga com esse gateway, no último passo do formulá
 
 **Lembre-se:**
 - É configurado em cada gateway, não em cada formulário.
-- A taxa do gateway mais a taxa da Afrus precisam somar menos de 80%.
-- Se aparecer *"No se pudo cargar la comisión de Afrus. Inténtalo de nuevo."* (Não foi possível carregar a taxa da Afrus. Tente de novo.), o gateway não pode ser salvo naquele momento. Tente de novo.
+- A taxa do gateway mais a taxa da AFRUS precisam somar menos de 80%.
+- Se aparecer *"No se pudo cargar la comisión de AFRUS. Inténtalo de nuevo."* (Não foi possível carregar a taxa da AFRUS. Tente de novo.), o gateway não pode ser salvo naquele momento. Tente de novo.
 
 ---
 
 ## Conectar um gateway
 
-> **Pendente de confirmação:** se sua organização pode conectar um gateway sozinha, quais dados cada um pede e quais são os passos para AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal e Conekta. Enquanto isso, se precisar conectar um gateway novo, escreva para o suporte da Afrus.
+> **Pendente de confirmação:** se sua organização pode conectar um gateway sozinha, quais dados cada um pede e quais são os passos para AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal e Conekta. Enquanto isso, se precisar conectar um gateway novo, escreva para o suporte da AFRUS.
 
 ## Perguntas frequentes
 

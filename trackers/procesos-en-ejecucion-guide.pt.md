@@ -12,7 +12,7 @@ Com este guia, você vai saber se uma ação que fez sobre muitas pessoas de uma
 
 **É uma lista das ações que você fez sobre um grupo grande de pessoas, com o andamento de cada uma.**
 
-Quando você faz algo com muitas pessoas de uma vez, a Afrus não faz tudo em um segundo: ela vai pessoa por pessoa, em segundo plano, enquanto você continua trabalhando. Esta tela mostra em que ponto está cada uma dessas ações.
+Quando você faz algo com muitas pessoas de uma vez, a AFRUS não faz tudo em um segundo: ela vai pessoa por pessoa, em segundo plano, enquanto você continua trabalhando. Esta tela mostra em que ponto está cada uma dessas ações.
 
 Aparecem aqui quatro ações:
 
@@ -71,14 +71,14 @@ Importações, downloads e envios de e-mail não aparecem aqui.
 
 > **Dica:** se o horário de **Actualizado en** não muda por muito tempo, o processo parou.
 
-Quando termina de colocar uma etiqueta, a Afrus também deixa um aviso nas suas notificações, em inglês: *"Tag Leads Process for tag: '…' finished"*.
+Quando termina de colocar uma etiqueta, a AFRUS também deixa um aviso nas suas notificações, em inglês: *"Tag Leads Process for tag: '…' finished"*.
 
 ## O que fazer se um processo não termina
 
 Se, depois de recarregar, **Finalizado** continua em "No" e **Total de leads procesados** não avança, o processo parou. Esta tela não tem botão para tentar de novo.
 
 - **Se era uma etiqueta:** coloque-a de novo no mesmo grupo. Quem já tem a etiqueta não fica duplicado.
-- **Se era uma exclusão, uma mudança de permissão ou uma inscrição em fluxo:** anote o **ID** do processo e fale com o suporte da Afrus.
+- **Se era uma exclusão, uma mudança de permissão ou uma inscrição em fluxo:** anote o **ID** do processo e fale com o suporte da AFRUS.
 
 ---
 

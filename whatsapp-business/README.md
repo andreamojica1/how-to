@@ -1,6 +1,6 @@
 # WhatsApp Business
 
-Documentación del módulo **WhatsApp Business**: envíos masivos con plantillas aprobadas por Meta y respuesta a tus contactos desde Afrus.
+Documentación del módulo **WhatsApp Business**: envíos masivos con plantillas aprobadas por Meta y respuesta a tus contactos desde AFRUS.
 
 > **[Volver al índice general](../README.md)**
 
@@ -11,7 +11,7 @@ Documentación del módulo **WhatsApp Business**: envíos masivos con plantillas
 También disponible en [inglés](./whatsapp-business-guide.en.md) y [portugués](./whatsapp-business-guide.pt.md).
 
 - Qué es WhatsApp Business y para qué sirve
-- Cómo conectar WhatsApp Business en Afrus y habilitar el envío masivo
+- Cómo conectar WhatsApp Business en AFRUS y habilitar el envío masivo
 - Cómo crear una plantilla
 - Cómo hacer un envío masivo
 - Cuántos mensajes puedes enviar al día y cómo aumentar el límite

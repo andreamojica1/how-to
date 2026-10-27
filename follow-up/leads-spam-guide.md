@@ -1,6 +1,6 @@
 # Guía de Leads spam
 
-Después de leer esta guía sabrás qué es **Leads spam**, para qué sirve, cuándo Afrus considera un registro como spam y cómo devolver a tu base a una persona real que quedó apartada.
+Después de leer esta guía sabrás qué es **Leads spam**, para qué sirve, cuándo AFRUS considera un registro como spam y cómo devolver a tu base a una persona real que quedó apartada.
 
 *Módulo: Follow up · Menú: **Follow up > Leads spam** · Audiencia: equipos de recaudación, datos y atención a donantes*
 
@@ -8,7 +8,7 @@ Después de leer esta guía sabrás qué es **Leads spam**, para qué sirve, cu�
 
 ## Qué es Leads spam
 
-**Leads spam es la lista de personas que Afrus apartó automáticamente, en "cuarentena", porque su registro desde un formulario parece hecho por un bot.**
+**Leads spam es la lista de personas que AFRUS apartó automáticamente, en "cuarentena", porque su registro desde un formulario parece hecho por un bot.**
 
 Estas personas no se borran: quedan guardadas en esta lista para que tu equipo las revise y, si alguna es real, la devuelva a la base con un clic.
 
@@ -30,7 +30,7 @@ Estas personas no se borran: quedan guardadas en esta lista para que tu equipo l
 
 2. **Elige el rango de fechas.** Por defecto se muestra el **mes en curso**. El filtro usa la fecha de creación de la persona.
 
-3. **Revisa cada fila.** Mira el nombre, el correo, la **Campaña**, el widget de origen y la columna **Motivo**, que muestra por qué Afrus apartó el registro (ver la tabla de motivos más abajo).
+3. **Revisa cada fila.** Mira el nombre, el correo, la **Campaña**, el widget de origen y la columna **Motivo**, que muestra por qué AFRUS apartó el registro (ver la tabla de motivos más abajo).
 
 4. **Restaura a las personas reales.** Si reconoces a una persona real, pulsa "No es spam" en su fila. Así vuelve a **Personas**, a tus segmentos y a tus comunicaciones automáticas.
 
@@ -47,7 +47,7 @@ Al terminar, la persona deja de aparecer en la lista y vuelve a tu base. Si algo
 
 ## Cuándo un lead se considera spam
 
-Afrus evalúa cada registro en el momento en que llega desde un formulario o widget. Lo aparta como spam cuando el registro **reúne varias señales típicas de registros automatizados**. La columna **Motivo** muestra las señales que coincidieron, con estos códigos (aparecen en inglés tal cual):
+AFRUS evalúa cada registro en el momento en que llega desde un formulario o widget. Lo aparta como spam cuando el registro **reúne varias señales típicas de registros automatizados**. La columna **Motivo** muestra las señales que coincidieron, con estos códigos (aparecen en inglés tal cual):
 
 | Motivo | Qué significa |
 |---|---|
@@ -56,9 +56,9 @@ Afrus evalúa cada registro en el momento en que llega desde un formulario o wid
 | `ip_velocity` | Llegaron demasiados registros desde la misma conexión en poco tiempo |
 | `implausible_identity` | Los datos de identidad no son plausibles (por ejemplo, correos desechables o datos inconsistentes) |
 
-Si una persona en cuarentena completa una donación confirmada, Afrus la restaura automáticamente.
+Si una persona en cuarentena completa una donación confirmada, AFRUS la restaura automáticamente.
 
-## Qué mecanismos tiene Afrus para combatir el spam
+## Qué mecanismos tiene AFRUS para combatir el spam
 
 - **Clasificación automática de cada registro de formulario**, con las señales descritas arriba.
 - **Cuarentena:** las personas apartadas se guardan, pero quedan fuera de **Personas**, segmentos, conteos de campañas, reportes, panel de inicio, etiquetas y correos automáticos hasta que alguien las restaure.

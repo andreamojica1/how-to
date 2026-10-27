@@ -10,7 +10,7 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
 
 ## O que são os Agentes para o site
 
-**Um agente é um chat com IA que você instala no seu próprio site.** O visitante deixa nome e e-mail e conversa com um assistente que responde com as informações que a sua organização enviou para a Afrus.
+**Um agente é um chat com IA que você instala no seu próprio site.** O visitante deixa nome e e-mail e conversa com um assistente que responde com as informações que a sua organização enviou para a AFRUS.
 
 ![Lista Agentes IA com o botão Nuevo agente](img/agentes-para-la-web-01.webp)
 
@@ -18,12 +18,12 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
 
 - **Responder às dúvidas dos visitantes a qualquer hora.** Por exemplo, o que a sua organização faz ou como doar.
 - **Levá-los a agir.** O chat mostra um botão que leva aonde você quiser, como o seu formulário de doação.
-- **Somar contatos à sua base.** Quem conversa fica registrado como pessoa na Afrus.
+- **Somar contatos à sua base.** Quem conversa fica registrado como pessoa na AFRUS.
 - **Saber o que as pessoas perguntam.** Você pode revisar depois as conversas e o resumo delas.
 
 ## Antes de começar
 
-- **Ative a IA da Afrus** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA).
+- **Ative a IA da AFRUS** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA).
 - **Envie pelo menos um documento em AI > Entrenamiento [AI RAG].** Sem documentos, o agente não pode ser salvo.
 - **Tenha por perto quem administra o seu site,** para colar o código do chat.
 
@@ -46,11 +46,11 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
    - **Instrucciones para el agente IA** (instruções para o agente de IA, obrigatórias): como você quer que ele fale e o que deve priorizar.
    ![Formulário Configuración del Agente com a pré-visualização à direita](img/agentes-para-la-web-02.webp)
 
-   > **Importante:** mesmo que a tela deixe salvar com **Texto call to action** vazio, a Afrus recusa. Escreva sempre um texto para o botão.
+   > **Importante:** mesmo que a tela deixe salvar com **Texto call to action** vazio, a AFRUS recusa. Escreva sempre um texto para o botão.
 
 3. **Melhore os textos (opcional).** "Mejorar respuesta" (Melhorar resposta), ao lado da descrição ou das instruções, reescreve seu texto com IA.
 
-4. **Veja como fica.** À direita você tem uma pré-visualização em modo claro ou escuro (**Light** / **Dark**). Na aba **Organización** você verá o **Resumen de la organización** (resumo da organização), que a Afrus monta sozinha com seus documentos.
+4. **Veja como fica.** À direita você tem uma pré-visualização em modo claro ou escuro (**Light** / **Dark**). Na aba **Organización** você verá o **Resumen de la organización** (resumo da organização), que a AFRUS monta sozinha com seus documentos.
 
 5. **Salve.** Deixe ligado **Activar configuración** (Ativar configuração) e clique em "Guardar" (Salvar). O botão fica ativo quando os campos obrigatórios estão preenchidos. Você verá *"Configuración creada correctamente"* (Configuração criada com sucesso).
 
@@ -74,13 +74,13 @@ Com este guia você vai poder criar um chat com IA para o seu site, que responde
 ### O que acontece quando alguém usa o chat
 
 - O visitante escreve o **nome** e o **e-mail** (obrigatórios) e, se quiser, o telefone.
-- Se o e-mail já está na sua base, a Afrus reconhece a pessoa. Se não, cria uma pessoa nova (como cadastro, não como doador).
+- Se o e-mail já está na sua base, a AFRUS reconhece a pessoa. Se não, cria uma pessoa nova (como cadastro, não como doador).
 - A IA responde com seus documentos e instruções do **Entrenamiento [AI RAG]** e com as informações do seu **Business profile** (descrição, "Sobre nosotros"/Sobre nós e perguntas frequentes).
 - Cada resposta pode levar entre 30 segundos e 2 minutos.
 
 ### Como ver as conversas
 
-Hoje as conversas não têm um botão no menu. Para vê-las, digite este endereço no navegador com sua sessão da Afrus aberta: `console.afrus.app/iachat-conversations-index`.
+Hoje as conversas não têm um botão no menu. Para vê-las, digite este endereço no navegador com sua sessão da AFRUS aberta: `console.afrus.app/iachat-conversations-index`.
 
 Lá você verá cada conversa com o e-mail, a data, o agente e um resumo. "Ver conversación" (Ver conversa) abre todas as mensagens e os dados de contato do visitante.
 

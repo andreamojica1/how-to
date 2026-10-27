@@ -8,11 +8,11 @@ Con esta guía sabrás qué es el Servicio de recurrencia, para qué sirve y qu�
 
 ## Qué es el Servicio de recurrencia
 
-**Es la pantalla donde configuras cómo Afrus hace los cobros automáticos de tus donaciones mensuales y recurrentes.** En la pantalla aparece con el título **Configuración del Motor de Recurrencia**.
+**Es la pantalla donde configuras cómo AFRUS hace los cobros automáticos de tus donaciones mensuales y recurrentes.** En la pantalla aparece con el título **Configuración del Motor de Recurrencia**.
 
 Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro falla.
 
-> **Importante:** esta configuración aplica a las donaciones recurrentes que cobra Afrus. Si tu pasarela cobra las suscripciones por su cuenta (por ejemplo Stripe, PayU o Pagar.me), es la pasarela la que decide cuándo se cobra.
+> **Importante:** esta configuración aplica a las donaciones recurrentes que cobra AFRUS. Si tu pasarela cobra las suscripciones por su cuenta (por ejemplo Stripe, PayU o Pagar.me), es la pasarela la que decide cuándo se cobra.
 
 ## Para qué sirve
 
@@ -21,7 +21,7 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 - **Elegir los días de cobro**, si usas el modo **Charities**.
 - **Volver a la configuración original** con un solo botón si algo no te convence.
 
-> **Pendiente de confirmar:** que los cambios de esta pantalla modifiquen los cobros reales. Antes de cambiar algo importante, consulta con el equipo de Afrus.
+> **Pendiente de confirmar:** que los cambios de esta pantalla modifiquen los cobros reales. Antes de cambiar algo importante, consulta con el equipo de AFRUS.
 
 ## Antes de empezar
 
@@ -63,7 +63,7 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 ## Limitaciones conocidas
 
 - **Pasarelas que cobran por su cuenta:** con Stripe, PayU o Pagar.me, la pasarela decide cuándo cobra; esta pantalla no cambia esos cobros.
-- **Efecto en los cobros reales:** todavía no está confirmado que esta configuración cambie los cobros. Consulta con el equipo de Afrus antes de hacer cambios.
+- **Efecto en los cobros reales:** todavía no está confirmado que esta configuración cambie los cobros. Consulta con el equipo de AFRUS antes de hacer cambios.
 - **Periodicidades distintas a mensual y anual:** no está confirmado cómo se calculan **Trimestral** y **Semestral**.
 
 ## Preguntas frecuentes

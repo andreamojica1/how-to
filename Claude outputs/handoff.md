@@ -38,7 +38,7 @@ Tutoriales web: 12 × 3 idiomas = 36 bloques (`tutoriales-web.md`). Capturas pen
 1. **Reserva de 60 minutos:** ¿qué ve el donante si tarda más de 60 minutos en pagar?
 2. **Borrado de datos por privacidad:** ¿cuántos días se conservan la dirección y los datos del homenajeado antes de borrarse?
 3. **Pasarelas y métodos de pago:** ¿cuáles admiten el obsequio? Solo se revisaron algunas (tarjeta y PayPal en varias pasarelas); faltan Pix, boleto, efectivo y el resto, una por una.
-4. **Correo al homenajeado:** no hay una plantilla única (depende del flujo de cada organización). ¿Afrus ofrece una plantilla recomendada de tarjeta o certificado?
+4. **Correo al homenajeado:** no hay una plantilla única (depende del flujo de cada organización). ¿AFRUS ofrece una plantilla recomendada de tarjeta o certificado?
 5. **Devolver stock tras un reembolso:** ¿hay alguna forma? Hoy es manual.
 6. **Etiquetas EN/PT restantes:** faltan del en.json/pt.json los textos de ayuda, mensajes y campos que no están en la tabla del archivo de hechos (Seleccionar widgets, Subir foto, Nombre, Descripción, Código, Vence, Usos totales, Ocasión y sus opciones, estados de entrega, etc.). En la guía EN algunos textos de ayuda van traducidos entre comillas: confirmar contra el en.json.
 7. **Pasos para crear el flujo:** la guía describe crear el flujo y activarlo con palabras genéricas ("crea uno nuevo", "activa el flujo"); confirmar las etiquetas exactas en `flujos-de-trabajo.md` si se quiere más detalle.

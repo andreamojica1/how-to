@@ -12,14 +12,14 @@ With this guide you will know whether your organization can keep sending mass em
 
 **It is a dashboard that shows the health of your mass emails (blasts).** It tells you how many emails you sent, how many bounced, how many were marked as spam and whether your sending account is at risk.
 
-An email **bounces** when it doesn't reach its destination, for example because the address doesn't exist. A **complaint** is when the person marks your email as spam. If there are too many bounces or complaints, Afrus may limit or block your sends.
+An email **bounces** when it doesn't reach its destination, for example because the address doesn't exist. A **complaint** is when the person marks your email as spam. If there are too many bounces or complaints, AFRUS may limit or block your sends.
 
 This dashboard only counts mass emails. It doesn't include automatic emails (autoresponders), transaction emails or WhatsApp messages.
 
 ## What it is for
 
 - **Knowing whether you can keep sending.** You see whether your account is active, on alert or blocked.
-- **Keeping your bounce and complaint rates healthy.** You compare your numbers with Afrus's limits.
+- **Keeping your bounce and complaint rates healthy.** You compare your numbers with AFRUS's limits.
 - **Finding the send that caused problems.** So you know which list to clean.
 
 ---
@@ -39,10 +39,10 @@ This dashboard only counts mass emails. It doesn't include automatic emails (aut
 |---|---|---|
 | **Activa** (Active) | You can send without problems | Nothing |
 | **Alerta** (Alert) | Your bounces or complaints passed the first limit. You can still send, but your account is at risk of being blocked | Clean your lists before the next send |
-| **Bloqueada** (Blocked) | Your bounces or complaints passed the blocking limit, or Afrus blocked the account. You can't send | Write to support at support@afrus.app |
-| **Envío limitado** (Limited sending) | The account was blocked, but Afrus enabled a number of sends for you | Clean your lists and send only to groups smaller than your available sends |
+| **Bloqueada** (Blocked) | Your bounces or complaints passed the blocking limit, or AFRUS blocked the account. You can't send | Write to support at support@afrus.app |
+| **Envío limitado** (Limited sending) | The account was blocked, but AFRUS enabled a number of sends for you | Clean your lists and send only to groups smaller than your available sends |
 
-> **Important:** if Afrus blocked your account, it stays **Bloqueada** even if your numbers improve. To unblock it, write to support.
+> **Important:** if AFRUS blocked your account, it stays **Bloqueada** even if your numbers improve. To unblock it, write to support.
 
 With **Envío limitado**, a campaign with more recipients than available sends won't be sent.
 
@@ -85,7 +85,7 @@ The limits only apply from 1,000 emails sent. If you have fewer, you'll see: *"E
 **My account is on Alerta. Can I send?**
 Yes, but you are at risk of being blocked. Before the next send, remove invalid or very old emails from your lists.
 
-**What are Afrus's limits?**
+**What are AFRUS's limits?**
 You can see them in the **Variable de notificación** section, next to your current rate. They are the same for every organization.
 
 **How long does a bounce take to appear?**

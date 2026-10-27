@@ -1,4 +1,4 @@
-# Plantillas Afrus — tutoriales web (afrus.ai/howto)
+# Plantillas AFRUS — tutoriales web (afrus.ai/howto)
 
 Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 
@@ -7,27 +7,27 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué son las Plantillas Afrus
+Título: Qué son las Plantillas AFRUS
 Slug: que-son-las-plantillas-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprende qué son las Plantillas Afrus: una biblioteca de diseños listos para tus correos, landings, adjuntos y certificados.
+Categoría: Plantillas AFRUS
+Resumen: Aprende qué son las Plantillas AFRUS: una biblioteca de diseños listos para tus correos, landings, adjuntos y certificados.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirven-las-plantillas-afrus, que-tipos-de-plantillas-afrus-hay, como-crear-una-nueva-plantilla-afrus, como-diferenciar-tus-plantillas-de-las-de-afrus
 --- CUERPO (HTML) ---
-<p><strong>Las Plantillas Afrus son una biblioteca de diseños listos para usar:</strong> correos, páginas (landings), archivos adjuntos y certificados.</p>
-<p>Algunas las trae Afrus para todas las organizaciones (<strong>Genérica</strong>) y otras las crea tu equipo (<strong>Organización</strong>). Las encuentras en <strong>Interacciones &gt; Plantillas Afrus</strong>.</p>
+<p><strong>Las Plantillas AFRUS son una biblioteca de diseños listos para usar:</strong> correos, páginas (landings), archivos adjuntos y certificados.</p>
+<p>Algunas las trae AFRUS para todas las organizaciones (<strong>Genérica</strong>) y otras las crea tu equipo (<strong>Organización</strong>). Las encuentras en <strong>Interacciones &gt; Plantillas AFRUS</strong>.</p>
 === FIN ===
 ```
 
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Para qué sirven las Plantillas Afrus
+Título: Para qué sirven las Plantillas AFRUS
 Slug: para-que-sirven-las-plantillas-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprende para qué sirven las Plantillas Afrus: ahorrar tiempo, mantener tu imagen y reutilizar diseños en correos y landings.
+Categoría: Plantillas AFRUS
+Resumen: Aprende para qué sirven las Plantillas AFRUS: ahorrar tiempo, mantener tu imagen y reutilizar diseños en correos y landings.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -42,16 +42,16 @@ Relacionados: que-son-las-plantillas-afrus, que-tipos-de-plantillas-afrus-hay, c
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué tipos de Plantillas Afrus hay
+Título: Qué tipos de Plantillas AFRUS hay
 Slug: que-tipos-de-plantillas-afrus-hay
-Categoría: Plantillas Afrus
-Resumen: Conoce los tipos de Plantillas Afrus (correo, landing, adjunto y certificado) y sus objetivos.
+Categoría: Plantillas AFRUS
+Resumen: Conoce los tipos de Plantillas AFRUS (correo, landing, adjunto y certificado) y sus objetivos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-son-las-plantillas-afrus, para-que-sirven-las-plantillas-afrus, como-crear-una-nueva-plantilla-afrus, como-diferenciar-tus-plantillas-de-las-de-afrus
 --- CUERPO (HTML) ---
-<p>En <strong>Interacciones &gt; Plantillas Afrus</strong> verás una tabla con todas tus plantillas.</p>
+<p>En <strong>Interacciones &gt; Plantillas AFRUS</strong> verás una tabla con todas tus plantillas.</p>
 <h2>Por tipo</h2>
 <ul><li><strong>Email:</strong> correos para envíos masivos, autoresponders y flujos de trabajo.</li>
 <li><strong>Landing:</strong> páginas de donación o de campaña.</li>
@@ -65,32 +65,32 @@ Relacionados: que-son-las-plantillas-afrus, para-que-sirven-las-plantillas-afrus
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Cómo crear una nueva Plantilla Afrus
+Título: Cómo crear una nueva Plantilla AFRUS
 Slug: como-crear-una-nueva-plantilla-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprende a crear tu propia plantilla de correo, landing, adjunto o certificado en Afrus, paso a paso.
+Categoría: Plantillas AFRUS
+Resumen: Aprende a crear tu propia plantilla de correo, landing, adjunto o certificado en AFRUS, paso a paso.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-son-las-plantillas-afrus, para-que-sirven-las-plantillas-afrus, que-tipos-de-plantillas-afrus-hay, como-diferenciar-tus-plantillas-de-las-de-afrus
 --- CUERPO (HTML) ---
 <h2>Paso a paso</h2>
-<ol><li><strong>Abre las plantillas.</strong> Ve a <strong>Interacciones &gt; Plantillas Afrus</strong> y haz clic en "Crear plantilla Afrus".</li>
+<ol><li><strong>Abre las plantillas.</strong> Ve a <strong>Interacciones &gt; Plantillas AFRUS</strong> y haz clic en "Crear plantilla AFRUS".</li>
 <li><strong>Completa la información general.</strong> <strong>Nombre de plantilla</strong> (obligatorio), <strong>Estado</strong>, <strong>Tipo de plantilla</strong>, <strong>Objetivo</strong> e <strong>Idioma</strong>.</li>
 <li><strong>Diseña el contenido.</strong> Haz clic en "Abrir Editor Visual" para diseñarla sin código, o pega tu HTML.</li>
-<li><strong>Guarda.</strong> Haz clic en "Crear". Verás <em>"Plantilla Afrus creada exitosamente"</em>.</li></ol>
+<li><strong>Guarda.</strong> Haz clic en "Crear". Verás <em>"Plantilla AFRUS creada exitosamente"</em>.</li></ol>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo traer diseños de la versión anterior de Afrus?</strong> Sí, con "Importar diseños de Afrus Classic".</p>
+<p><strong>¿Puedo traer diseños de la versión anterior de AFRUS?</strong> Sí, con "Importar diseños de AFRUS Classic".</p>
 === FIN ===
 ```
 
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Cómo diferenciar tus plantillas de las de Afrus
+Título: Cómo diferenciar tus plantillas de las de AFRUS
 Slug: como-diferenciar-tus-plantillas-de-las-de-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprende a reconocer qué plantillas creó tu equipo y cuáles trae Afrus, y cómo editar una plantilla de Afrus.
+Categoría: Plantillas AFRUS
+Resumen: Aprende a reconocer qué plantillas creó tu equipo y cuáles trae AFRUS, y cómo editar una plantilla de AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -98,7 +98,7 @@ Relacionados: que-son-las-plantillas-afrus, para-que-sirven-las-plantillas-afrus
 --- CUERPO (HTML) ---
 <p>Mira la columna <strong>Propietario</strong>:</p>
 <ul><li><strong>Organización:</strong> la creó tu equipo. Puedes editarla, activarla o desactivarla y eliminarla.</li>
-<li><strong>Genérica:</strong> la trae Afrus y la comparten todas las organizaciones. No se puede editar ni eliminar.</li></ul>
+<li><strong>Genérica:</strong> la trae AFRUS y la comparten todas las organizaciones. No se puede editar ni eliminar.</li></ul>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Cómo cambio una plantilla genérica?</strong> Usa "Duplicar plantilla en mi organización". La copia es tuya y esa sí la puedes editar.</p>
 <p><strong>¿Marcarla como Inactivo la oculta?</strong> Todavía no: sigue apareciendo en las galerías de Blast y de autoresponders. Si no quieres que se use, la única opción por ahora es eliminarla.</p>
@@ -110,27 +110,27 @@ Relacionados: que-son-las-plantillas-afrus, para-que-sirven-las-plantillas-afrus
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What Plantillas Afrus are
+Título: What Plantillas AFRUS are
 Slug: what-are-plantillas-afrus
-Categoría: Plantillas Afrus
-Resumen: Learn what Plantillas Afrus are: a library of ready-made designs for your emails, landings, attachments and certificates.
+Categoría: Plantillas AFRUS
+Resumen: Learn what Plantillas AFRUS are: a library of ready-made designs for your emails, landings, attachments and certificates.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-plantillas-afrus-for, types-of-plantillas-afrus, how-to-create-a-new-afrus-template, how-to-tell-your-templates-from-afrus-templates
 --- CUERPO (HTML) ---
-<p><strong>Plantillas Afrus (Afrus templates) is a library of ready-to-use designs:</strong> emails, pages (landings), attachments and certificates.</p>
-<p>Some come with Afrus for every organization (<strong>Genérica</strong>, Generic) and others are created by your team (<strong>Organización</strong>, Organization). You find them in <strong>Interacciones &gt; Plantillas Afrus</strong>. Labels are shown as they appear in the Spanish version of the console.</p>
+<p><strong>Plantillas AFRUS (AFRUS templates) is a library of ready-to-use designs:</strong> emails, pages (landings), attachments and certificates.</p>
+<p>Some come with AFRUS for every organization (<strong>Genérica</strong>, Generic) and others are created by your team (<strong>Organización</strong>, Organization). You find them in <strong>Interacciones &gt; Plantillas AFRUS</strong>. Labels are shown as they appear in the Spanish version of the console.</p>
 === FIN ===
 ```
 
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What Plantillas Afrus are for
+Título: What Plantillas AFRUS are for
 Slug: what-are-plantillas-afrus-for
-Categoría: Plantillas Afrus
-Resumen: Learn what Plantillas Afrus are for: saving time, keeping your look and reusing designs in emails and landings.
+Categoría: Plantillas AFRUS
+Resumen: Learn what Plantillas AFRUS are for: saving time, keeping your look and reusing designs in emails and landings.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -145,16 +145,16 @@ Relacionados: what-are-plantillas-afrus, types-of-plantillas-afrus, how-to-creat
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: Types of Plantillas Afrus
+Título: Types of Plantillas AFRUS
 Slug: types-of-plantillas-afrus
-Categoría: Plantillas Afrus
-Resumen: Get to know the types of Plantillas Afrus (email, landing, attachment and certificate) and their goals.
+Categoría: Plantillas AFRUS
+Resumen: Get to know the types of Plantillas AFRUS (email, landing, attachment and certificate) and their goals.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-plantillas-afrus, what-are-plantillas-afrus-for, how-to-create-a-new-afrus-template, how-to-tell-your-templates-from-afrus-templates
 --- CUERPO (HTML) ---
-<p>In <strong>Interacciones &gt; Plantillas Afrus</strong> you will see a table with all your templates.</p>
+<p>In <strong>Interacciones &gt; Plantillas AFRUS</strong> you will see a table with all your templates.</p>
 <h2>By type</h2>
 <ul><li><strong>Email:</strong> emails for mass sends, autoresponders and workflows.</li>
 <li><strong>Landing:</strong> donation or campaign pages.</li>
@@ -168,32 +168,32 @@ Relacionados: what-are-plantillas-afrus, what-are-plantillas-afrus-for, how-to-c
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: How to create a new Afrus template
+Título: How to create a new AFRUS template
 Slug: how-to-create-a-new-afrus-template
-Categoría: Plantillas Afrus
-Resumen: Learn how to create your own email, landing, attachment or certificate template in Afrus, step by step.
+Categoría: Plantillas AFRUS
+Resumen: Learn how to create your own email, landing, attachment or certificate template in AFRUS, step by step.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-plantillas-afrus, what-are-plantillas-afrus-for, types-of-plantillas-afrus, how-to-tell-your-templates-from-afrus-templates
 --- CUERPO (HTML) ---
 <h2>Step by step</h2>
-<ol><li><strong>Open templates.</strong> Go to <strong>Interacciones &gt; Plantillas Afrus</strong> and click "Crear plantilla Afrus" (Create Afrus template).</li>
+<ol><li><strong>Open templates.</strong> Go to <strong>Interacciones &gt; Plantillas AFRUS</strong> and click "Crear plantilla AFRUS" (Create AFRUS template).</li>
 <li><strong>Fill in the general information.</strong> <strong>Nombre de plantilla</strong> (Template name, required), <strong>Estado</strong> (Status), <strong>Tipo de plantilla</strong> (Type), <strong>Objetivo</strong> (Goal) and <strong>Idioma</strong> (Language).</li>
 <li><strong>Design the content.</strong> Click "Abrir Editor Visual" (Open visual editor) to design it without code, or paste your HTML.</li>
-<li><strong>Save.</strong> Click "Crear" (Create). You will see <em>"Plantilla Afrus creada exitosamente"</em> (Afrus template created successfully).</li></ol>
+<li><strong>Save.</strong> Click "Crear" (Create). You will see <em>"Plantilla AFRUS creada exitosamente"</em> (AFRUS template created successfully).</li></ol>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I bring designs from the previous version of Afrus?</strong> Yes, with "Importar diseños de Afrus Classic" (Import designs from Afrus Classic).</p>
+<p><strong>Can I bring designs from the previous version of AFRUS?</strong> Yes, with "Importar diseños de AFRUS Classic" (Import designs from AFRUS Classic).</p>
 === FIN ===
 ```
 
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: How to tell your templates from Afrus's
+Título: How to tell your templates from AFRUS's
 Slug: how-to-tell-your-templates-from-afrus-templates
-Categoría: Plantillas Afrus
-Resumen: Learn how to recognize which templates your team created and which come with Afrus, and how to edit an Afrus template.
+Categoría: Plantillas AFRUS
+Resumen: Learn how to recognize which templates your team created and which come with AFRUS, and how to edit an AFRUS template.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -201,7 +201,7 @@ Relacionados: what-are-plantillas-afrus, what-are-plantillas-afrus-for, types-of
 --- CUERPO (HTML) ---
 <p>Look at the <strong>Propietario</strong> (Owner) column:</p>
 <ul><li><strong>Organización</strong> (Organization): your team created it. You can edit it, turn it on or off and delete it.</li>
-<li><strong>Genérica</strong> (Generic): it comes with Afrus and is shared by every organization. It can't be edited or deleted.</li></ul>
+<li><strong>Genérica</strong> (Generic): it comes with AFRUS and is shared by every organization. It can't be edited or deleted.</li></ul>
 <h2>Frequently asked questions</h2>
 <p><strong>How do I change a generic template?</strong> Use "Duplicar plantilla en mi organización" (Duplicate template in my organization). The copy is yours and that one you can edit.</p>
 <p><strong>Does marking it Inactivo hide it?</strong> Not yet: it still appears in the Blast and autoresponder galleries. If you don't want it used, for now the only option is to delete it.</p>
@@ -213,27 +213,27 @@ Relacionados: what-are-plantillas-afrus, what-are-plantillas-afrus-for, types-of
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que são as Plantillas Afrus
+Título: O que são as Plantillas AFRUS
 Slug: o-que-sao-as-plantillas-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprenda o que são as Plantillas Afrus: uma biblioteca de designs prontos para seus e-mails, landings, anexos e certificados.
+Categoría: Plantillas AFRUS
+Resumen: Aprenda o que são as Plantillas AFRUS: uma biblioteca de designs prontos para seus e-mails, landings, anexos e certificados.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-servem-as-plantillas-afrus, quais-tipos-de-plantillas-afrus-existem, como-criar-um-novo-modelo-afrus, como-diferenciar-seus-modelos-dos-da-afrus
 --- CUERPO (HTML) ---
-<p><strong>As Plantillas Afrus (Modelos Afrus) são uma biblioteca de designs prontos para usar:</strong> e-mails, páginas (landings), anexos e certificados.</p>
-<p>Alguns são da Afrus para todas as organizações (<strong>Genérica</strong>) e outros são criados pela sua equipe (<strong>Organización</strong>, Organização). Você os encontra em <strong>Interacciones &gt; Plantillas Afrus</strong>. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p><strong>As Plantillas AFRUS (Modelos AFRUS) são uma biblioteca de designs prontos para usar:</strong> e-mails, páginas (landings), anexos e certificados.</p>
+<p>Alguns são da AFRUS para todas as organizações (<strong>Genérica</strong>) e outros são criados pela sua equipe (<strong>Organización</strong>, Organização). Você os encontra em <strong>Interacciones &gt; Plantillas AFRUS</strong>. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 === FIN ===
 ```
 
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Para que servem as Plantillas Afrus
+Título: Para que servem as Plantillas AFRUS
 Slug: para-que-servem-as-plantillas-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprenda para que servem as Plantillas Afrus: economizar tempo, manter sua identidade e reutilizar designs em e-mails e landings.
+Categoría: Plantillas AFRUS
+Resumen: Aprenda para que servem as Plantillas AFRUS: economizar tempo, manter sua identidade e reutilizar designs em e-mails e landings.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -248,16 +248,16 @@ Relacionados: o-que-sao-as-plantillas-afrus, quais-tipos-de-plantillas-afrus-exi
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Quais tipos de Plantillas Afrus existem
+Título: Quais tipos de Plantillas AFRUS existem
 Slug: quais-tipos-de-plantillas-afrus-existem
-Categoría: Plantillas Afrus
-Resumen: Conheça os tipos de Plantillas Afrus (e-mail, landing, anexo e certificado) e seus objetivos.
+Categoría: Plantillas AFRUS
+Resumen: Conheça os tipos de Plantillas AFRUS (e-mail, landing, anexo e certificado) e seus objetivos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-sao-as-plantillas-afrus, para-que-servem-as-plantillas-afrus, como-criar-um-novo-modelo-afrus, como-diferenciar-seus-modelos-dos-da-afrus
 --- CUERPO (HTML) ---
-<p>Em <strong>Interacciones &gt; Plantillas Afrus</strong> você verá uma tabela com todos os seus modelos.</p>
+<p>Em <strong>Interacciones &gt; Plantillas AFRUS</strong> você verá uma tabela com todos os seus modelos.</p>
 <h2>Por tipo</h2>
 <ul><li><strong>Email:</strong> e-mails para envios em massa, autoresponders e fluxos de trabalho.</li>
 <li><strong>Landing:</strong> páginas de doação ou de campanha.</li>
@@ -271,32 +271,32 @@ Relacionados: o-que-sao-as-plantillas-afrus, para-que-servem-as-plantillas-afrus
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Como criar um novo modelo Afrus
+Título: Como criar um novo modelo AFRUS
 Slug: como-criar-um-novo-modelo-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprenda a criar seu próprio modelo de e-mail, landing, anexo ou certificado na Afrus, passo a passo.
+Categoría: Plantillas AFRUS
+Resumen: Aprenda a criar seu próprio modelo de e-mail, landing, anexo ou certificado na AFRUS, passo a passo.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-sao-as-plantillas-afrus, para-que-servem-as-plantillas-afrus, quais-tipos-de-plantillas-afrus-existem, como-diferenciar-seus-modelos-dos-da-afrus
 --- CUERPO (HTML) ---
 <h2>Passo a passo</h2>
-<ol><li><strong>Abra os modelos.</strong> Acesse <strong>Interacciones &gt; Plantillas Afrus</strong> e clique em "Crear plantilla Afrus" (Criar modelo Afrus).</li>
+<ol><li><strong>Abra os modelos.</strong> Acesse <strong>Interacciones &gt; Plantillas AFRUS</strong> e clique em "Crear plantilla AFRUS" (Criar modelo AFRUS).</li>
 <li><strong>Preencha as informações gerais.</strong> <strong>Nombre de plantilla</strong> (Nome do modelo, obrigatório), <strong>Estado</strong> (Status), <strong>Tipo de plantilla</strong> (Tipo), <strong>Objetivo</strong> e <strong>Idioma</strong>.</li>
 <li><strong>Desenhe o conteúdo.</strong> Clique em "Abrir Editor Visual" para desenhar sem código, ou cole seu HTML.</li>
-<li><strong>Salve.</strong> Clique em "Crear" (Criar). Você verá <em>"Plantilla Afrus creada exitosamente"</em> (Modelo Afrus criado com sucesso).</li></ol>
+<li><strong>Salve.</strong> Clique em "Crear" (Criar). Você verá <em>"Plantilla AFRUS creada exitosamente"</em> (Modelo AFRUS criado com sucesso).</li></ol>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso trazer designs da versão anterior da Afrus?</strong> Sim, com "Importar diseños de Afrus Classic" (Importar designs do Afrus Classic).</p>
+<p><strong>Posso trazer designs da versão anterior da AFRUS?</strong> Sim, com "Importar diseños de AFRUS Classic" (Importar designs do AFRUS Classic).</p>
 === FIN ===
 ```
 
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Como diferenciar seus modelos dos da Afrus
+Título: Como diferenciar seus modelos dos da AFRUS
 Slug: como-diferenciar-seus-modelos-dos-da-afrus
-Categoría: Plantillas Afrus
-Resumen: Aprenda a reconhecer quais modelos sua equipe criou e quais são da Afrus, e como editar um modelo da Afrus.
+Categoría: Plantillas AFRUS
+Resumen: Aprenda a reconhecer quais modelos sua equipe criou e quais são da AFRUS, e como editar um modelo da AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -304,7 +304,7 @@ Relacionados: o-que-sao-as-plantillas-afrus, para-que-servem-as-plantillas-afrus
 --- CUERPO (HTML) ---
 <p>Veja a coluna <strong>Propietario</strong> (Proprietário):</p>
 <ul><li><strong>Organización</strong> (Organização): sua equipe criou. Você pode editá-lo, ativá-lo ou desativá-lo e excluí-lo.</li>
-<li><strong>Genérica:</strong> é da Afrus e compartilhado com todas as organizações. Não pode ser editado nem excluído.</li></ul>
+<li><strong>Genérica:</strong> é da AFRUS e compartilhado com todas as organizações. Não pode ser editado nem excluído.</li></ul>
 <h2>Perguntas frequentes</h2>
 <p><strong>Como mudo um modelo genérico?</strong> Use "Duplicar plantilla en mi organización" (Duplicar modelo na minha organização). A cópia é sua e essa você pode editar.</p>
 <p><strong>Marcar como Inactivo o esconde?</strong> Ainda não: ele continua aparecendo nas galerias de Blast e de autoresponders. Se não quiser que seja usado, por enquanto a única opção é excluí-lo.</p>

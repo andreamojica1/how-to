@@ -1,6 +1,6 @@
 # Guia de Downloads
 
-Com este guia você vai saber onde encontrar os arquivos que exporta na Afrus e o que significa cada ícone da lista.
+Com este guia você vai saber onde encontrar os arquivos que exporta na AFRUS e o que significa cada ícone da lista.
 
 *Módulo: Data · Menu: **Data > Descargas** (Downloads) · Público: equipes de captação, dados e administração*
 
@@ -10,9 +10,9 @@ Com este guia você vai saber onde encontrar os arquivos que exporta na Afrus e 
 
 ## O que é Downloads
 
-**Descargas (Downloads) é a lista de todos os arquivos que a sua organização exporta na Afrus.**
+**Descargas (Downloads) é a lista de todos os arquivos que a sua organização exporta na AFRUS.**
 
-Quando você pede para exportar dados (por exemplo, suas pessoas ou suas transações), a Afrus prepara o arquivo enquanto você continua trabalhando. Quando ele fica pronto, você baixa por aqui.
+Quando você pede para exportar dados (por exemplo, suas pessoas ou suas transações), a AFRUS prepara o arquivo enquanto você continua trabalhando. Quando ele fica pronto, você baixa por aqui.
 
 Você também encontra essa tela em **Trackers > Descargas**: é a mesma.
 
@@ -60,7 +60,7 @@ Na coluna **Acciones** (Ações) de cada linha você vê um ícone que indica o 
 | O que você vê | O que significa | O que você pode fazer |
 |---|---|---|
 | **Botão de download** | O arquivo está pronto | Clique para baixar |
-| **Círculo girando** | A Afrus está preparando o arquivo | Esperar alguns minutos |
+| **Círculo girando** | A AFRUS está preparando o arquivo | Esperar alguns minutos |
 | **Ponto de exclamação** | Deu erro ao preparar o arquivo | Passe o mouse por cima para ver o detalhe e peça a exportação de novo |
 | **Relógio** | Passaram mais de 7 dias | Não dá mais para baixar por aqui; exporte de novo |
 | **Sem ícone** | O arquivo está na fila | Esperar: ainda não começou |
@@ -82,7 +82,7 @@ A lista mostra primeiro os arquivos mais novos. Cada linha tem o **Nombre** (Nom
 
 ## Perguntas frequentes
 
-**A Afrus tenta de novo uma exportação que falhou?**
+**A AFRUS tenta de novo uma exportação que falhou?**
 Não. Peça de novo na tela onde você a fez.
 
 **Os arquivos são apagados depois de 7 dias?**

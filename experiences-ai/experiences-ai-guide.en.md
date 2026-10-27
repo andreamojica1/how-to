@@ -22,7 +22,7 @@ The pages you create here live only in **Fundraising > Experiences AI**: they ar
 
 ## Before you start
 
-- **Activate Afrus AI.** If it isn't active, you will see the notice *"Activación necesaria para usar afrus experience"* (Activation required to use afrus experience) with the button "Ir a business profile" (Go to business profile). To activate it, complete your **Business profile** (profile menu, top corner) and, in the last step, click "Enviar AI" (Send to AI). When the profile status says **Sincronizado con AI** (Synced with AI), you can use the module.
+- **Activate AFRUS AI.** If it isn't active, you will see the notice *"Activación necesaria para usar afrus experience"* (Activation required to use afrus experience) with the button "Ir a business profile" (Go to business profile). To activate it, complete your **Business profile** (profile menu, top corner) and, in the last step, click "Enviar AI" (Send to AI). When the profile status says **Sincronizado con AI** (Synced with AI), you can use the module.
 - **Have a donation widget created** if you are going to make a **Donación** (Donation) page.
 
 ---
@@ -60,7 +60,7 @@ When you finish, your page is online at the address shown in **URL de tu web:** 
 
 ## How to change my landing page's template
 
-When the experience is created, Afrus randomly assigns one of the templates available for its type. You can change it whenever you like.
+When the experience is created, AFRUS randomly assigns one of the templates available for its type. You can change it whenever you like.
 
 1. **Open the editor.** In **Fundraising > Experiences AI**, click the experience's pencil icon.
 2. **Change the design.** In the top bar, click "Cambiar diseño" (Change design). Each click moves to the next available template of the same type (Donation or Thank you); after the last one, it goes back to the first. Your existing texts are kept and fit into the new design.
@@ -129,7 +129,7 @@ The page's frequently asked questions are the ones in the **Preguntas Frecuentes
 
 ## Known limitations
 
-- **Goal and currency:** they can't be set or changed from this module. The experience stores a default goal of 10,000. For now there is no alternative within Afrus.
+- **Goal and currency:** they can't be set or changed from this module. The experience stores a default goal of 10,000. For now there is no alternative within AFRUS.
 - **Only two types:** you can create **Donación** or **Agradecimiento**. Although "Registro" (Registration) appears in some texts and in the **Tipos** (Types) filter, it can't be created; and the **Tipos** filter has no option for Thank you.
 - **Label on Thank you pages:** in the **Configuracion** tab of a Thank you experience, the top label says "Registro".
 - **"Editar con IA" on Thank you pages:** it doesn't generate anything and the preview may keep loading. Reload the page and edit the text by hand.

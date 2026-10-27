@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué son los tags
 Slug: que-son-los-tags
 Categoría: Data
-Resumen: Aprende qué son los tags (etiquetas) en Afrus: marcas que pones a tus contactos para agruparlos.
+Resumen: Aprende qué son los tags (etiquetas) en AFRUS: marcas que pones a tus contactos para agruparlos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -53,7 +53,7 @@ Idioma: es
 Título: Cómo crear un nuevo tag
 Slug: como-crear-un-nuevo-tag
 Categoría: Data
-Resumen: Aprende a crear un tag en Afrus con nombre, descripción y color, para agrupar a tus contactos.
+Resumen: Aprende a crear un tag en AFRUS con nombre, descripción y color, para agrupar a tus contactos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -91,7 +91,7 @@ Relacionados: que-son-los-tags, como-crear-un-nuevo-tag, estadisticas-de-tags
 </ul>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Se puede deshacer el borrado?</strong> No. Si borras un tag, no lo puedes recuperar.</p>
-<p><strong>¿Por qué no puedo borrar un tag?</strong> Si el tag se usa en otra parte de Afrus (por ejemplo, en una secuencia, un newsletter o una etiqueta automática), no se puede borrar y el error no dice el motivo. Quítalo primero de donde lo uses.</p>
+<p><strong>¿Por qué no puedo borrar un tag?</strong> Si el tag se usa en otra parte de AFRUS (por ejemplo, en una secuencia, un newsletter o una etiqueta automática), no se puede borrar y el error no dice el motivo. Quítalo primero de donde lo uses.</p>
 === FIN ===
 ```
 
@@ -129,7 +129,7 @@ Idioma: en
 Título: What tags are
 Slug: what-are-tags
 Categoría: Data
-Resumen: Learn what tags are in Afrus: marks you give your contacts to group them.
+Resumen: Learn what tags are in AFRUS: marks you give your contacts to group them.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -172,7 +172,7 @@ Idioma: en
 Título: How to create a new tag
 Slug: how-to-create-a-new-tag
 Categoría: Data
-Resumen: Learn how to create a tag in Afrus with a name, description and color to group your contacts.
+Resumen: Learn how to create a tag in AFRUS with a name, description and color to group your contacts.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -211,7 +211,7 @@ Relacionados: what-are-tags, how-to-create-a-new-tag, tag-statistics
 </ul>
 <h2>Frequently asked questions</h2>
 <p><strong>Can a deletion be undone?</strong> No. Once you delete a tag, you cannot get it back.</p>
-<p><strong>Why can't I delete a tag?</strong> If the tag is used elsewhere in Afrus (for example in a sequence, a newsletter or an automatic tag), it can't be deleted and the error doesn't say why. Remove it from where you use it first.</p>
+<p><strong>Why can't I delete a tag?</strong> If the tag is used elsewhere in AFRUS (for example in a sequence, a newsletter or an automatic tag), it can't be deleted and the error doesn't say why. Remove it from where you use it first.</p>
 === FIN ===
 ```
 
@@ -249,7 +249,7 @@ Idioma: pt-BR
 Título: O que são as tags
 Slug: o-que-sao-as-tags
 Categoría: Data
-Resumen: Aprenda o que são as tags (etiquetas) na Afrus: marcas que você coloca nos seus contatos para agrupá-los.
+Resumen: Aprenda o que são as tags (etiquetas) na AFRUS: marcas que você coloca nos seus contatos para agrupá-los.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -292,7 +292,7 @@ Idioma: pt-BR
 Título: Como criar uma nova tag
 Slug: como-criar-uma-nova-tag
 Categoría: Data
-Resumen: Aprenda a criar uma tag na Afrus com nome, descrição e cor, para agrupar seus contatos.
+Resumen: Aprenda a criar uma tag na AFRUS com nome, descrição e cor, para agrupar seus contatos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -331,7 +331,7 @@ Relacionados: o-que-sao-as-tags, como-criar-uma-nova-tag, estatisticas-das-tags
 </ul>
 <h2>Perguntas frequentes</h2>
 <p><strong>Dá para desfazer a exclusão?</strong> Não. Se você excluir uma tag, não dá para recuperá-la.</p>
-<p><strong>Por que não consigo excluir uma tag?</strong> Se a tag é usada em outra parte da Afrus (por exemplo, em uma sequência, um newsletter ou uma etiqueta automática), ela não pode ser excluída e o erro não diz o motivo. Tire-a primeiro de onde ela é usada.</p>
+<p><strong>Por que não consigo excluir uma tag?</strong> Se a tag é usada em outra parte da AFRUS (por exemplo, em uma sequência, um newsletter ou uma etiqueta automática), ela não pode ser excluída e o erro não diz o motivo. Tire-a primeiro de onde ela é usada.</p>
 === FIN ===
 ```
 

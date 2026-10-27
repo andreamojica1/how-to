@@ -1,6 +1,6 @@
 # Guia do Chat com IA (Chat con AI)
 
-Com este guia você vai poder usar o assistente de IA da Afrus para pedir ideias, textos e respostas sobre a sua organização.
+Com este guia você vai poder usar o assistente de IA da AFRUS para pedir ideias, textos e respostas sobre a sua organização.
 
 *Módulo: AI · Menu: **AI > Chat con AI** · Público: toda a equipe da organização*
 
@@ -24,7 +24,7 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 
 ## Antes de começar
 
-- **Ative a IA da Afrus** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Se não fez isso, verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile).
+- **Ative a IA da AFRUS** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Se não fez isso, verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile).
 - **Envie informações em AI > Entrenamiento [AI RAG].** Quanto mais você contar à IA, melhores serão as respostas. Do chat você chega lá pelo botão "Configurar".
 
 ---

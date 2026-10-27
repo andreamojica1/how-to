@@ -1,6 +1,6 @@
 # Trackers
 
-Documentación de **Trackers**: las pantallas para revisar qué está procesando Afrus y qué se envió.
+Documentación de **Trackers**: las pantallas para revisar qué está procesando AFRUS y qué se envió.
 
 > **[Volver al índice general](../README.md)**
 

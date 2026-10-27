@@ -1,6 +1,6 @@
 # Guia de Leads spam
 
-Depois de ler este guia, você vai saber o que é **Leads spam**, para que serve, quando a Afrus considera um cadastro como spam e como devolver à sua base uma pessoa real que foi separada.
+Depois de ler este guia, você vai saber o que é **Leads spam**, para que serve, quando a AFRUS considera um cadastro como spam e como devolver à sua base uma pessoa real que foi separada.
 
 *Módulo: Follow up · Menu: **Follow up > Leads spam** · Público: equipes de captação, dados e relacionamento com doadores*
 
@@ -10,7 +10,7 @@ Depois de ler este guia, você vai saber o que é **Leads spam**, para que serve
 
 ## O que é Leads spam
 
-**Leads spam é a lista de pessoas que a Afrus separou automaticamente, em "quarentena", porque o cadastro feito por um formulário parece ter sido feito por um robô.**
+**Leads spam é a lista de pessoas que a AFRUS separou automaticamente, em "quarentena", porque o cadastro feito por um formulário parece ter sido feito por um robô.**
 
 Essas pessoas não são excluídas: ficam guardadas nesta lista para que sua equipe as revise e, se alguma for real, a devolva à base com um clique.
 
@@ -32,7 +32,7 @@ Essas pessoas não são excluídas: ficam guardadas nesta lista para que sua equ
 
 2. **Escolha o período.** Por padrão aparece o **mês atual**. O filtro usa a data de criação da pessoa.
 
-3. **Revise cada linha.** Veja o nome, o e-mail, a **Campaña** (Campanha), o widget de origem e a coluna **Motivo**, que mostra por que a Afrus separou o cadastro (veja a tabela de motivos abaixo).
+3. **Revise cada linha.** Veja o nome, o e-mail, a **Campaña** (Campanha), o widget de origem e a coluna **Motivo**, que mostra por que a AFRUS separou o cadastro (veja a tabela de motivos abaixo).
 
 4. **Restaure as pessoas reais.** Se reconhecer uma pessoa real, clique em "No es spam" na linha dela. Assim ela volta para **Personas** (Pessoas), para seus segmentos e para suas comunicações automáticas.
 
@@ -49,7 +49,7 @@ Ao terminar, a pessoa deixa de aparecer na lista e volta para a sua base. Se alg
 
 ## Quando um lead é considerado spam
 
-A Afrus avalia cada cadastro no momento em que ele chega de um formulário ou widget. Ela o separa como spam quando o cadastro **reúne vários sinais típicos de cadastros automatizados**. A coluna **Motivo** mostra os sinais encontrados, com estes códigos (aparecem em inglês, como estão):
+A AFRUS avalia cada cadastro no momento em que ele chega de um formulário ou widget. Ela o separa como spam quando o cadastro **reúne vários sinais típicos de cadastros automatizados**. A coluna **Motivo** mostra os sinais encontrados, com estes códigos (aparecem em inglês, como estão):
 
 | Motivo | O que significa |
 |---|---|
@@ -58,9 +58,9 @@ A Afrus avalia cada cadastro no momento em que ele chega de um formulário ou wi
 | `ip_velocity` | Chegaram cadastros demais da mesma conexão em pouco tempo |
 | `implausible_identity` | Os dados de identidade não são plausíveis (por exemplo, e-mails descartáveis ou dados inconsistentes) |
 
-Se uma pessoa em quarentena concluir uma doação confirmada, a Afrus a restaura automaticamente.
+Se uma pessoa em quarentena concluir uma doação confirmada, a AFRUS a restaura automaticamente.
 
-## Quais mecanismos a Afrus tem para combater o spam
+## Quais mecanismos a AFRUS tem para combater o spam
 
 - **Classificação automática de cada cadastro de formulário**, com os sinais descritos acima.
 - **Quarentena:** as pessoas separadas ficam guardadas, mas fora de **Personas**, segmentos, contagens de campanhas, relatórios, painel inicial, etiquetas e e-mails automáticos até que alguém as restaure.

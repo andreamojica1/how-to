@@ -1,6 +1,6 @@
 # Guía de Entrenamiento [AI RAG]
 
-Con esta guía vas a poder enseñarle a la IA de Afrus quién es tu organización: subir documentos, agregar páginas web y escribirle instrucciones.
+Con esta guía vas a poder enseñarle a la IA de AFRUS quién es tu organización: subir documentos, agregar páginas web y escribirle instrucciones.
 
 *Módulo: AI · Menú: **AI > Entrenamiento [AI RAG]** · Audiencia: equipos de comunicaciones y recaudación*
 
@@ -8,7 +8,7 @@ Con esta guía vas a poder enseñarle a la IA de Afrus quién es tu organizació
 
 ## Qué es el Entrenamiento [AI RAG]
 
-**Es el lugar donde le das a la IA de Afrus la información de tu organización.** Aquí subes documentos, agregas páginas web y escribes instrucciones.
+**Es el lugar donde le das a la IA de AFRUS la información de tu organización.** Aquí subes documentos, agregas páginas web y escribes instrucciones.
 
 La IA usa todo eso para responder en **Chat con AI** y en los **Agentes para la web** (el chat que puedes poner en tu sitio). Mientras mejor sea la información que le das, mejores serán sus respuestas.
 
@@ -24,7 +24,7 @@ La pantalla tiene tres pestañas: **Documentos**, **Instrucciones** y **URL'S**.
 
 ## Antes de empezar
 
-- **Activa la IA de Afrus.** Se activa desde el **Business profile** (menú de perfil, esquina superior): crea tu perfil y, en el último paso, pulsa "Enviar AI". Si no lo has hecho, al entrar verás el aviso *"¡Ups! Parece que no tienes un Business Profile"* con el botón "Crear Business Profile".
+- **Activa la IA de AFRUS.** Se activa desde el **Business profile** (menú de perfil, esquina superior): crea tu perfil y, en el último paso, pulsa "Enviar AI". Si no lo has hecho, al entrar verás el aviso *"¡Ups! Parece que no tienes un Business Profile"* con el botón "Crear Business Profile".
 
 ---
 
@@ -72,7 +72,7 @@ Por ejemplo: "Somos una fundación que protege bosques en Colombia. Habla de for
 
 Las instrucciones valen para toda tu organización, y la IA las usa junto con los documentos de ese tema.
 
-> **Ten en cuenta:** los temas (atributos) los define Afrus; no puedes crear temas nuevos aquí.
+> **Ten en cuenta:** los temas (atributos) los define AFRUS; no puedes crear temas nuevos aquí.
 
 **Atajos de conversación:** en esta misma pestaña verás **Atajos de conversación**, para guardar preguntas frecuentes como botones del chat. Hoy esos botones no aparecen en **Chat con AI**, así que por ahora no hace falta configurarlos.
 

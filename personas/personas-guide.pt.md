@@ -10,7 +10,7 @@ Depois de ler este guia, você vai saber o que é Personas, para que serve e com
 
 ## O que é Personas
 
-**Personas é a base de contatos da sua organização na Afrus.** Ali está cada pessoa que se cadastrou, doou ou foi criada manualmente pela sua equipe, com seus dados, tags, consentimentos de comunicação (opt-in), transações, assinaturas, notas, lembretes e o histórico do que ela fez.
+**Personas é a base de contatos da sua organização na AFRUS.** Ali está cada pessoa que se cadastrou, doou ou foi criada manualmente pela sua equipe, com seus dados, tags, consentimentos de comunicação (opt-in), transações, assinaturas, notas, lembretes e o histórico do que ela fez.
 
 Ao entrar, você verá os **Indicadores globales** (Indicadores globais: **Total de personas**, **Activos**, **Suscriptores** e **Monto total** — total de pessoas, ativos, assinantes e valor total), uma busca, uma barra de datas, os botões "Crear persona" (Criar pessoa), "Acciones" (Ações) e "Ver procesos" (Ver processos), e a tabela de pessoas. Ao clicar no **ID** de uma pessoa, abre-se o perfil dela, com as abas **Contacto** (Contato), **Transacciones** (Transações), **Subscripciones** (Assinaturas), **Recordatorios** (Lembretes), **Notas** e **Eventos**.
 
@@ -154,12 +154,12 @@ Você verá *"El proceso de borrado de leads ha comenzado, ten en cuenta que pue
 
 ## Para que servem e como usar os lembretes e as notas
 
-**Lembretes: para não esquecer um acompanhamento.** Você agenda um aviso sobre a pessoa e, na data, a Afrus envia um e-mail para você (o usuário que o criou) com o nome, o e-mail e o telefone da pessoa e a sua mensagem.
+**Lembretes: para não esquecer um acompanhamento.** Você agenda um aviso sobre a pessoa e, na data, a AFRUS envia um e-mail para você (o usuário que o criou) com o nome, o e-mail e o telefone da pessoa e a sua mensagem.
 
 1. **Crie o lembrete.** No perfil, aba **Recordatorios**, clique em "Crear recordatorio" (Criar lembrete).
 2. **Preencha.** Escreva **Nombre** (nome) e **Mensaje** (mensagem), escolha a data em **Seleccionar Fecha** (Selecionar data) e o horário, e salve.
 
-Você verá *"El recordatorio se ha creado correctamente"* (Lembrete criado com sucesso). A *"Lista de recordatorios"* mostra **ID**, **Nombre**, data de criação e **Estado**, com filtros por **Estado** (**Creado** — criado, **Completado** — concluído, **Programado** — agendado, **Todos**) e por datas. Cada linha pode ser editada ou excluída. A Afrus verifica os lembretes a cada 10 minutos, então o e-mail pode chegar até uns 10 minutos depois do horário escolhido; depois de enviado, o status passa para **Completado**.
+Você verá *"El recordatorio se ha creado correctamente"* (Lembrete criado com sucesso). A *"Lista de recordatorios"* mostra **ID**, **Nombre**, data de criação e **Estado**, com filtros por **Estado** (**Creado** — criado, **Completado** — concluído, **Programado** — agendado, **Todos**) e por datas. Cada linha pode ser editada ou excluída. A AFRUS verifica os lembretes a cada 10 minutos, então o e-mail pode chegar até uns 10 minutos depois do horário escolhido; depois de enviado, o status passa para **Completado**.
 
 **Notas: para registrar o que já aconteceu.** Servem para registrar uma interação que já ocorreu com a pessoa, para que toda a equipe tenha o contexto.
 
@@ -174,7 +174,7 @@ Você verá *"La nota se ha creado correctamente"* (Nota criada com sucesso). A 
 - **No perfil:** aba **Contacto**, cartão **Más información** (Mais informações), seção **Información Personalizada** (Informação personalizada). Cada campo aparece com seu valor, ou com "-" se estiver vazio. A seção só aparece se a pessoa tiver algum campo personalizado.
 - **Ao criar ou editar:** são preenchidos na seção **Información Personalizada** de "Crear persona" ou de "Editar" (na aba **Contacto**).
 - **Na exportação:** saem como colunas ao baixar com **Base de datos en tiempo real**.
-- **Onde são definidos:** em **Configuración > Avanzado > Campos personalizados**. Esta tela abre na versão anterior da Afrus, por isso tem outra aparência.
+- **Onde são definidos:** em **Configuración > Avanzado > Campos personalizados**. Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.
 
 ## Como enviar links personalizados para uma pessoa
 
@@ -207,11 +207,11 @@ Ao terminar, você verá *"¡Link de pago creado con éxito!"* (Link de pagament
 
 2. **Escolha o tipo e clique em "Continuar".**
    - **Electrónica** (Eletrônica — *"Pagos con tarjeta, Paypal u otros medios digitales"*: cartão, PayPal ou outros meios digitais): cobra em um cartão salvo da pessoa ou em outro meio configurado.
-   - **Manual** (*"Pagos en efectivo, consignación, billetera o cheque"*: dinheiro, depósito, carteira ou cheque): registra um pagamento que você já recebeu fora da Afrus.
+   - **Manual** (*"Pagos en efectivo, consignación, billetera o cheque"*: dinheiro, depósito, carteira ou cheque): registra um pagamento que você já recebeu fora da AFRUS.
 
 3. **Preencha os dados.**
    - Em **Electrónica**: **Método de pago** (forma de pagamento — o cartão usado mais recentemente aparece primeiro, marcado **Usado recientemente**), **Monto** (valor), **Moneda** (moeda), **Campaña** e **Widget**.
-   - Em **Manual**: **Método de pago** (**Efectivo** — dinheiro, **Cheque**, **Transferencia** — transferência, ou **Billetera digital** — carteira digital), **Monto**, **Moneda**, **Referencia (Opcional)**, **Fecha de transacción** (data da transação), **Fecha de registro en afrus** (data de registro na Afrus), **Campaña** e **Widget**. Se o widget for de produtos, você escolhe produtos e quantidades e o valor é calculado automaticamente.
+   - Em **Manual**: **Método de pago** (**Efectivo** — dinheiro, **Cheque**, **Transferencia** — transferência, ou **Billetera digital** — carteira digital), **Monto**, **Moneda**, **Referencia (Opcional)**, **Fecha de transacción** (data da transação), **Fecha de registro en afrus** (data de registro na AFRUS), **Campaña** e **Widget**. Se o widget for de produtos, você escolhe produtos e quantidades e o valor é calculado automaticamente.
    - O **Widget** é escolhido depois da **Campaña**.
 
 4. **Crie a transação.** Clique em "Crear transacción" (Criar transação).
@@ -226,7 +226,7 @@ Você verá *"La transacción se ha creado correctamente"* (Transação criada c
 
 2. **Escolha a forma de pagamento e o valor.** Em **Metodo de pago**, escolha um cartão salvo da pessoa ou outro meio configurado, e digite o **Monto** (obrigatório, maior que 0).
 
-3. **Escolha o dia da cobrança, se aparecer.** Se o cartão usa o motor de recorrência da Afrus, escolha **Fecha automática (recomendada)** (data automática, recomendada), **Fecha de creación de la suscripción** (data de criação da assinatura) ou **Fecha de cobro** (data de cobrança: um dia de 1 a 28).
+3. **Escolha o dia da cobrança, se aparecer.** Se o cartão usa o motor de recorrência da AFRUS, escolha **Fecha automática (recomendada)** (data automática, recomendada), **Fecha de creación de la suscripción** (data de criação da assinatura) ou **Fecha de cobro** (data de cobrança: um dia de 1 a 28).
 
 4. **Associe a campanha e o widget.** Escolha **Campaña** e depois **Widget**, para que a assinatura conte nos resultados deles.
 
@@ -260,7 +260,7 @@ Se o e-mail voltou, o perfil mostra *"Tiene Hard Bounce"* ou *"Tiene Soft Bounce
 | Download com **Datos analizados** | A cada 24 horas |
 | Arquivos em **Data > Descargas** | Disponíveis por 7 dias |
 | Exportação e exclusão em massa | Em segundo plano; pode levar alguns minutos |
-| Lembretes | A Afrus verifica a cada 10 minutos |
+| Lembretes | A AFRUS verifica a cada 10 minutos |
 
 ## Limitações conhecidas
 

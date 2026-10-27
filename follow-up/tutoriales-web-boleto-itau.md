@@ -43,7 +43,7 @@ Relacionados: que-es-boleto-itau, como-se-generan-los-boletos-itau, que-son-las-
 <li><strong>Revisar el detalle por persona</strong>: el estado de cada boleto, sus errores y la respuesta del banco (<strong>Sin retorno</strong>, <strong>Cobrado</strong>, <strong>Rechazado</strong>, <strong>Pagado - no registrado</strong> u <strong>Otro</strong>).</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Qué significa "Pagado - no registrado"?</strong> El banco confirmó el boleto como pagado, pero no quedó como donación en Afrus, normalmente porque a la persona le faltan datos como CEP o documento.</p>
+<p><strong>¿Qué significa "Pagado - no registrado"?</strong> El banco confirmó el boleto como pagado, pero no quedó como donación en AFRUS, normalmente porque a la persona le faltan datos como CEP o documento.</p>
 === FIN ===
 ```
 
@@ -53,13 +53,13 @@ Idioma: es
 Título: Cómo funciona Boleto Itaú y cómo se generan los boletos
 Slug: como-se-generan-los-boletos-itau
 Categoría: Follow up
-Resumen: Aprende a generar boletos Itaú en lote para un segmento, descargar el archivo remessa y seguir su cobro en Afrus.
+Resumen: Aprende a generar boletos Itaú en lote para un segmento, descargar el archivo remessa y seguir su cobro en AFRUS.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-boleto-itau, para-que-sirve-boleto-itau, como-crear-una-importacion-itau
 --- CUERPO (HTML) ---
-<p>El recorrido tiene cuatro momentos: generas el lote en Afrus, descargas el archivo remessa y lo envías al banco (fuera de Afrus), el banco te entrega un archivo de retorno, y lo cargas en <strong>Follow up &gt; Importaciones - itaú</strong> para registrar las donaciones pagadas.</p>
+<p>El recorrido tiene cuatro momentos: generas el lote en AFRUS, descargas el archivo remessa y lo envías al banco (fuera de AFRUS), el banco te entrega un archivo de retorno, y lo cargas en <strong>Follow up &gt; Importaciones - itaú</strong> para registrar las donaciones pagadas.</p>
 <h2>Antes de empezar</h2>
 <ul>
 <li><strong>Tu organización debe ser de Brasil.</strong></li>
@@ -75,7 +75,7 @@ Relacionados: que-es-boleto-itau, para-que-sirve-boleto-itau, como-crear-una-imp
 <li><strong>Sigue el cobro.</strong> Con "Ver detalle por lead" revisas cada boleto. Los indicadores de cobro se actualizan cuando cargas el archivo de retorno del banco.</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Afrus envía el archivo al banco?</strong> No. Lo descargas y lo envías al banco por fuera de Afrus.</p>
+<p><strong>¿AFRUS envía el archivo al banco?</strong> No. Lo descargas y lo envías al banco por fuera de AFRUS.</p>
 <p><strong>¿La pantalla se actualiza sola?</strong> No. Vuelve a cargarla para ver el avance del lote.</p>
 === FIN ===
 ```
@@ -122,7 +122,7 @@ Relacionados: what-is-boleto-itau, how-boleto-itau-works, what-are-itau-imports
 <li><strong>Reviewing the detail per person</strong>: each boleto's status, errors and the bank's response (<strong>Sin retorno</strong>, <strong>Cobrado</strong>, <strong>Rechazado</strong>, <strong>Pagado - no registrado</strong> or <strong>Otro</strong>).</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>What does "Pagado - no registrado" (Paid – not recorded) mean?</strong> The bank confirmed the boleto as paid, but it wasn't recorded as a donation in Afrus, usually because the person is missing data such as CEP (postal code) or document.</p>
+<p><strong>What does "Pagado - no registrado" (Paid – not recorded) mean?</strong> The bank confirmed the boleto as paid, but it wasn't recorded as a donation in AFRUS, usually because the person is missing data such as CEP (postal code) or document.</p>
 === FIN ===
 ```
 
@@ -132,13 +132,13 @@ Idioma: en
 Título: How Boleto Itaú works and how boletos are generated
 Slug: how-boleto-itau-works
 Categoría: Follow up
-Resumen: Learn how to generate Itaú boletos in batches for a segment, download the remessa file and track collection in Afrus.
+Resumen: Learn how to generate Itaú boletos in batches for a segment, download the remessa file and track collection in AFRUS.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-boleto-itau, what-is-boleto-itau-for, how-to-create-an-itau-import
 --- CUERPO (HTML) ---
-<p>The journey has four moments: you generate the batch in Afrus, download the remessa file and send it to the bank (outside Afrus), the bank gives you a return file, and you upload it in <strong>Follow up &gt; Importaciones - itaú</strong> to record the paid donations.</p>
+<p>The journey has four moments: you generate the batch in AFRUS, download the remessa file and send it to the bank (outside AFRUS), the bank gives you a return file, and you upload it in <strong>Follow up &gt; Importaciones - itaú</strong> to record the paid donations.</p>
 <h2>Before you start</h2>
 <ul>
 <li><strong>Your organization must be in Brazil.</strong></li>
@@ -155,7 +155,7 @@ Relacionados: what-is-boleto-itau, what-is-boleto-itau-for, how-to-create-an-ita
 <li><strong>Track collection.</strong> With "Ver detalle por lead" (View detail per lead) you review each boleto. Collection indicators update when you upload the bank's return file.</li>
 </ol>
 <h2>Frequently asked questions</h2>
-<p><strong>Does Afrus send the file to the bank?</strong> No. You download it and send it to the bank outside Afrus.</p>
+<p><strong>Does AFRUS send the file to the bank?</strong> No. You download it and send it to the bank outside AFRUS.</p>
 <p><strong>Does the screen refresh by itself?</strong> No. Reload it to see the batch's progress.</p>
 === FIN ===
 ```
@@ -202,7 +202,7 @@ Relacionados: o-que-e-o-boleto-itau, como-sao-gerados-os-boletos-itau, o-que-sao
 <li><strong>Revisar o detalhe por pessoa</strong>: o status de cada boleto, seus erros e a resposta do banco (<strong>Sin retorno</strong>, <strong>Cobrado</strong>, <strong>Rechazado</strong>, <strong>Pagado - no registrado</strong> ou <strong>Otro</strong>).</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>O que significa "Pagado - no registrado" (Pago - não registrado)?</strong> O banco confirmou o pagamento do boleto, mas ele não ficou registrado como doação na Afrus, normalmente porque faltam dados da pessoa, como CEP ou documento.</p>
+<p><strong>O que significa "Pagado - no registrado" (Pago - não registrado)?</strong> O banco confirmou o pagamento do boleto, mas ele não ficou registrado como doação na AFRUS, normalmente porque faltam dados da pessoa, como CEP ou documento.</p>
 === FIN ===
 ```
 
@@ -212,13 +212,13 @@ Idioma: pt-BR
 Título: Como funciona o Boleto Itaú e como os boletos são gerados
 Slug: como-sao-gerados-os-boletos-itau
 Categoría: Follow up
-Resumen: Aprenda a gerar boletos Itaú em lote para um segmento, baixar o arquivo de remessa e acompanhar a cobrança na Afrus.
+Resumen: Aprenda a gerar boletos Itaú em lote para um segmento, baixar o arquivo de remessa e acompanhar a cobrança na AFRUS.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-boleto-itau, para-que-serve-o-boleto-itau, como-criar-uma-importacao-itau
 --- CUERPO (HTML) ---
-<p>O caminho tem quatro momentos: você gera o lote na Afrus, baixa o arquivo de remessa e o envia ao banco (fora da Afrus), o banco entrega um arquivo de retorno, e você o carrega em <strong>Follow up &gt; Importaciones - itaú</strong> para registrar as doações pagas.</p>
+<p>O caminho tem quatro momentos: você gera o lote na AFRUS, baixa o arquivo de remessa e o envia ao banco (fora da AFRUS), o banco entrega um arquivo de retorno, e você o carrega em <strong>Follow up &gt; Importaciones - itaú</strong> para registrar as doações pagas.</p>
 <h2>Antes de começar</h2>
 <ul>
 <li><strong>Sua organização precisa ser do Brasil.</strong></li>
@@ -235,7 +235,7 @@ Relacionados: o-que-e-o-boleto-itau, para-que-serve-o-boleto-itau, como-criar-um
 <li><strong>Acompanhe a cobrança.</strong> Com "Ver detalle por lead" você revisa cada boleto. Os indicadores de cobrança são atualizados quando você carrega o arquivo de retorno do banco.</li>
 </ol>
 <h2>Perguntas frequentes</h2>
-<p><strong>A Afrus envia o arquivo ao banco?</strong> Não. Você o baixa e envia ao banco fora da Afrus.</p>
+<p><strong>A AFRUS envia o arquivo ao banco?</strong> Não. Você o baixa e envia ao banco fora da AFRUS.</p>
 <p><strong>A tela se atualiza sozinha?</strong> Não. Recarregue para ver o avanço do lote.</p>
 === FIN ===
 ```

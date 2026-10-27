@@ -1,6 +1,6 @@
 # Guía de Pasarelas de pago
 
-Con esta guía vas a entender qué son las pasarelas de pago en Afrus, para qué las necesitas y cómo activar Cover Your Cost para que tus donantes puedan cubrir la comisión.
+Con esta guía vas a entender qué son las pasarelas de pago en AFRUS, para qué las necesitas y cómo activar Cover Your Cost para que tus donantes puedan cubrir la comisión.
 
 *Módulo: Configuración · Menú: **Configuración > Pagos > Pasarelas de pago** · Audiencia: administración y equipos de recaudación*
 
@@ -36,14 +36,14 @@ Después de tener una pasarela conectada, la eliges en cada formulario, en el bl
 
 Con Cover Your Cost, el donante puede pagar un poco más para cubrir la comisión de la pasarela. Así tu organización recibe el monto completo de la donación.
 
-**Antes de empezar:** Afrus tiene que activar Cover Your Cost para tu organización. Si no ves la sección **Cover Your Cost** al abrir una pasarela, escríbenos para activarla.
+**Antes de empezar:** AFRUS tiene que activar Cover Your Cost para tu organización. Si no ves la sección **Cover Your Cost** al abrir una pasarela, escríbenos para activarla.
 
 1. **Abre la pasarela.** Ve a **Configuración > Pagos > Pasarelas de pago** y abre la pasarela donde quieres ofrecerlo.
    ![Ventana de la pasarela con la sección Cover Your Cost y el interruptor Activar Cover Your Cost](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Enciende la opción.** En la sección **Cover Your Cost**, activa **Activar Cover Your Cost**.
 
-3. **Escribe la comisión de la pasarela.** En **Comisión de pasarela (%)** pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La **Comisión Afrus (%)** aparece solo para que la veas; no se cambia.
+3. **Escribe la comisión de la pasarela.** En **Comisión de pasarela (%)** pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La **Comisión AFRUS (%)** aparece solo para que la veas; no se cambia.
 
 4. **Elige cómo la ve el donante.** Con **Preseleccionar la opción para el donante** encendido, el donante la ve ya activada y puede quitarla. Apagado, la ve desactivada y la activa si quiere.
 
@@ -57,14 +57,14 @@ Al terminar, cuando el donante paga con esa pasarela, en el último paso del for
 
 **Ten en cuenta:**
 - Se configura en cada pasarela, no en cada formulario.
-- La comisión de la pasarela más la comisión de Afrus tienen que sumar menos de 80 %.
-- Si ves *"No se pudo cargar la comisión de Afrus. Inténtalo de nuevo."*, la pasarela no se puede guardar en ese momento. Vuelve a intentarlo.
+- La comisión de la pasarela más la comisión de AFRUS tienen que sumar menos de 80 %.
+- Si ves *"No se pudo cargar la comisión de AFRUS. Inténtalo de nuevo."*, la pasarela no se puede guardar en ese momento. Vuelve a intentarlo.
 
 ---
 
 ## Conectar una pasarela
 
-> **Pendiente de confirmar:** si tu organización puede conectar una pasarela por su cuenta, qué datos pide cada una y cuáles son los pasos para AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal y Conekta. Mientras tanto, si necesitas conectar una pasarela nueva, escribe a soporte de Afrus.
+> **Pendiente de confirmar:** si tu organización puede conectar una pasarela por su cuenta, qué datos pide cada una y cuáles son los pasos para AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal y Conekta. Mientras tanto, si necesitas conectar una pasarela nueva, escribe a soporte de AFRUS.
 
 ## Preguntas frecuentes
 

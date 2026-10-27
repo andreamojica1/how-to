@@ -10,7 +10,7 @@ Con esta guía vas a poder regalar algo a quienes donan desde cierto monto, crea
 
 **Un incentivo es un regalo que tu organización ofrece a quien dona desde un monto mínimo.** Por ejemplo: un libro, un calendario o un certificado digital.
 
-Los incentivos se configuran dentro de una campaña y aparecen en tus formularios de donación (widgets). En Afrus también los vas a ver con el nombre de **obsequio**, **regalo** o **recompensa**: todos son lo mismo.
+Los incentivos se configuran dentro de una campaña y aparecen en tus formularios de donación (widgets). En AFRUS también los vas a ver con el nombre de **obsequio**, **regalo** o **recompensa**: todos son lo mismo.
 
 Hay dos tipos:
 
@@ -21,7 +21,7 @@ Hay dos tipos:
 
 - **Motivar donaciones más altas.** El donante ve qué regalo gana con cada monto y cuánto le falta para el siguiente.
 - **Ganar más donantes mensuales.** Puedes pedir un monto distinto para quien dona una vez y para quien dona cada mes.
-- **Entregar regalos digitales sin trabajo manual.** Afrus los envía solo por correo.
+- **Entregar regalos digitales sin trabajo manual.** AFRUS los envía solo por correo.
 - **Organizar los envíos de regalos físicos.** Tienes una lista con quién debe recibir cada regalo, a qué dirección y si ya se lo enviaste.
 - **Permitir regalar a otra persona.** Un donante puede donar en nombre de alguien (por un cumpleaños o un homenaje, por ejemplo) y esa persona recibe una tarjeta.
 - **Hacer promociones con cupones.** Un cupón hace que el regalo sea más fácil de conseguir.
@@ -31,7 +31,7 @@ Hay dos tipos:
 1. **Tú configuras** los regalos dentro de la campaña y eliges en qué formularios aparecen.
 2. **El donante elige** su monto y su regalo en el formulario.
 3. **El pago se confirma.**
-4. **Afrus asigna el regalo,** descuenta una unidad del stock y lo agrega a la lista de entregas.
+4. **AFRUS asigna el regalo,** descuenta una unidad del stock y lo agrega a la lista de entregas.
 5. **Tú entregas** el regalo físico (los digitales llegan solos) y marcas cada envío.
 
 El regalo solo se asigna cuando el pago está confirmado. Si el pago falla, no se descuenta nada y no queda nada por entregar.
@@ -154,7 +154,7 @@ Con esta opción, el donante dona en nombre de otra persona, por ejemplo por un 
 
 1. **Prepara el envío de la tarjeta.** La tarjeta sale por un flujo de trabajo. Créalo primero, como se explica en "Para qué crear un workflow en los incentivos".
 2. **Activa la opción.** En la pestaña **Incentivos** de la campaña, enciende el interruptor **Para terceros**.
-3. **Elige una etiqueta.** Selecciona el **Tag de segmentación para terceros**. Es obligatorio; si no tienes una, créala desde ahí. Afrus se la pone a cada persona que recibe un regalo, para que luego puedas encontrarlas.
+3. **Elige una etiqueta.** Selecciona el **Tag de segmentación para terceros**. Es obligatorio; si no tienes una, créala desde ahí. AFRUS se la pone a cada persona que recibe un regalo, para que luego puedas encontrarlas.
 
 Al terminar, tus formularios mostrarán la opción **Donar a nombre de otra persona**. Si no eliges la etiqueta, la opción no aparece.
 
@@ -198,7 +198,7 @@ Solo uno puede ser el **destacado** de la campaña.
 
 **El flujo de trabajo (workflow) es el que envía los regalos digitales y las tarjetas para otra persona.** Sin él, esos regalos no llegan.
 
-Se crea una sola vez y funciona solo: cada vez que se confirma una donación con regalo, Afrus envía el correo. Puedes adjuntar, por ejemplo, un certificado en PDF.
+Se crea una sola vez y funciona solo: cada vez que se confirma una donación con regalo, AFRUS envía el correo. Puedes adjuntar, por ejemplo, un certificado en PDF.
 
 Para crearlo:
 
@@ -208,7 +208,7 @@ Para crearlo:
 4. **Agrega un solo paso.** Elige **Enviar correo**, escribe tu mensaje y adjunta el archivo si lo necesitas. Con un solo paso funciona mejor.
 5. **Activa el flujo antes de publicar** tus regalos.
 
-> **Importante:** si no hay un flujo activo, la entrega queda **Con problema**. Afrus lo vuelve a intentar varias veces durante las siguientes horas, así que, si lo creas a tiempo, el regalo llega.
+> **Importante:** si no hay un flujo activo, la entrega queda **Con problema**. AFRUS lo vuelve a intentar varias veces durante las siguientes horas, así que, si lo creas a tiempo, el regalo llega.
 
 ## Qué tipos de incentivos requieren un workflow
 

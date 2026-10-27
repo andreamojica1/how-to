@@ -12,7 +12,7 @@ Com este guia, você vai poder dar um presente a quem doa a partir de um certo v
 
 **Um incentivo é um presente que sua organização oferece a quem doa a partir de um valor mínimo.** Por exemplo: um livro, um calendário ou um certificado digital.
 
-Os incentivos são configurados dentro de uma campanha e aparecem nos seus formulários de doação (widgets). Na Afrus, você também vai vê-los com o nome de **brinde**, **presente** ou **recompensa**: é tudo a mesma coisa.
+Os incentivos são configurados dentro de uma campanha e aparecem nos seus formulários de doação (widgets). Na AFRUS, você também vai vê-los com o nome de **brinde**, **presente** ou **recompensa**: é tudo a mesma coisa.
 
 Existem dois tipos:
 
@@ -23,7 +23,7 @@ Existem dois tipos:
 
 - **Estimular doações maiores.** O doador vê qual presente ganha com cada valor e quanto falta para o próximo.
 - **Conquistar mais doadores mensais.** Você pode pedir um valor diferente para quem doa uma vez e para quem doa todo mês.
-- **Entregar presentes digitais sem trabalho manual.** A Afrus envia sozinha por e-mail.
+- **Entregar presentes digitais sem trabalho manual.** A AFRUS envia sozinha por e-mail.
 - **Organizar o envio dos presentes físicos.** Você tem uma lista de quem deve receber cada presente, em qual endereço e se você já enviou.
 - **Permitir presentear outra pessoa.** Um doador pode doar em nome de alguém (por um aniversário ou uma homenagem, por exemplo) e essa pessoa recebe um cartão.
 - **Fazer promoções com cupons.** Um cupom deixa o presente mais fácil de conseguir.
@@ -33,7 +33,7 @@ Existem dois tipos:
 1. **Você configura** os presentes dentro da campanha e escolhe em quais formulários eles aparecem.
 2. **O doador escolhe** o valor e o presente no formulário.
 3. **O pagamento é confirmado.**
-4. **A Afrus atribui o presente,** desconta uma unidade do estoque e o inclui na lista de entregas.
+4. **A AFRUS atribui o presente,** desconta uma unidade do estoque e o inclui na lista de entregas.
 5. **Você entrega** o presente físico (os digitais chegam sozinhos) e marca cada envio.
 
 O presente só é atribuído quando o pagamento está confirmado. Se o pagamento falhar, nada é descontado e não fica nada para entregar.
@@ -156,7 +156,7 @@ Com esta opção, o doador doa em nome de outra pessoa, por exemplo por um anive
 
 1. **Prepare o envio do cartão.** O cartão sai por um fluxo de trabalho. Crie-o primeiro, como explicamos em "Para que criar um workflow nos incentivos".
 2. **Ative a opção.** Na aba **Incentivos** da campanha, ligue a chave **Para terceiros**.
-3. **Escolha uma etiqueta.** Selecione o **Tag de segmentación para terceros** (Tag de segmentação para terceiros). É obrigatório; se você não tiver uma, crie-a ali mesmo. A Afrus coloca essa etiqueta em cada pessoa que recebe um presente, para você encontrá-las depois.
+3. **Escolha uma etiqueta.** Selecione o **Tag de segmentación para terceros** (Tag de segmentação para terceiros). É obrigatório; se você não tiver uma, crie-a ali mesmo. A AFRUS coloca essa etiqueta em cada pessoa que recebe um presente, para você encontrá-las depois.
 
 Ao terminar, seus formulários vão mostrar a opção **Donar a nombre de otra persona** (Doar em nome de outra pessoa). Se você não escolher a etiqueta, a opção não aparece.
 
@@ -200,7 +200,7 @@ Só um pode ser o **destaque** da campanha.
 
 **O fluxo de trabalho (workflow) é o que envia os presentes digitais e os cartões para outra pessoa.** Sem ele, esses presentes não chegam.
 
-Ele é criado uma vez só e funciona sozinho: sempre que uma doação com presente é confirmada, a Afrus envia o e-mail. Você pode anexar, por exemplo, um certificado em PDF.
+Ele é criado uma vez só e funciona sozinho: sempre que uma doação com presente é confirmada, a AFRUS envia o e-mail. Você pode anexar, por exemplo, um certificado em PDF.
 
 Para criá-lo:
 
@@ -210,7 +210,7 @@ Para criá-lo:
 4. **Adicione um único passo.** Escolha **Enviar correo** (Enviar e-mail), escreva sua mensagem e anexe o arquivo, se precisar. Com um único passo funciona melhor.
 5. **Ative o fluxo antes de publicar** seus presentes.
 
-> **Importante:** se não houver um fluxo ativo, a entrega fica **Con problema** (Com problema). A Afrus tenta de novo várias vezes nas horas seguintes; então, se você criar o fluxo a tempo, o presente chega.
+> **Importante:** se não houver um fluxo ativo, a entrega fica **Con problema** (Com problema). A AFRUS tenta de novo várias vezes nas horas seguintes; então, se você criar o fluxo a tempo, o presente chega.
 
 ## Quais incentivos exigem um workflow
 

@@ -8,7 +8,7 @@ Después de leer esta guía sabrás qué es Personas, para qué te sirve y cómo
 
 ## Qué es Personas
 
-**Personas es la base de contactos de tu organización en Afrus.** Aquí está cada persona que se registró, donó o que tu equipo creó a mano, con sus datos, etiquetas, consentimientos de comunicación (opt-in), transacciones, suscripciones, notas, recordatorios y el historial de lo que ha hecho.
+**Personas es la base de contactos de tu organización en AFRUS.** Aquí está cada persona que se registró, donó o que tu equipo creó a mano, con sus datos, etiquetas, consentimientos de comunicación (opt-in), transacciones, suscripciones, notas, recordatorios y el historial de lo que ha hecho.
 
 Al entrar verás los **Indicadores globales** (**Total de personas**, **Activos**, **Suscriptores** y **Monto total**), un buscador, una barra de fechas, los botones "Crear persona", "Acciones" y "Ver procesos", y la tabla de personas. Al hacer clic en el **ID** de una persona se abre su perfil, con las pestañas **Contacto**, **Transacciones**, **Subscripciones**, **Recordatorios**, **Notas** y **Eventos**.
 
@@ -152,12 +152,12 @@ Verás *"El proceso de borrado de leads ha comenzado, ten en cuenta que puede de
 
 ## Para qué sirven y cómo se usan los recordatorios y las notas
 
-**Recordatorios: para no olvidar un seguimiento.** Programas un aviso sobre la persona y, al llegar la fecha, Afrus te envía un correo (a ti, el usuario que lo creó) con el nombre, el correo y el teléfono de la persona y tu mensaje.
+**Recordatorios: para no olvidar un seguimiento.** Programas un aviso sobre la persona y, al llegar la fecha, AFRUS te envía un correo (a ti, el usuario que lo creó) con el nombre, el correo y el teléfono de la persona y tu mensaje.
 
 1. **Crea el recordatorio.** En el perfil, pestaña **Recordatorios**, pulsa "Crear recordatorio".
 2. **Complétalo.** Escribe **Nombre** y **Mensaje**, elige la fecha en **Seleccionar Fecha** y la hora, y guarda.
 
-Verás *"El recordatorio se ha creado correctamente"*. La *"Lista de recordatorios"* muestra **ID**, **Nombre**, fecha de creación y **Estado**, con filtros por **Estado** (**Creado**, **Completado**, **Programado**, **Todos**) y por fechas. Cada fila se puede editar o eliminar. Afrus revisa los recordatorios cada 10 minutos, así que el correo puede llegar hasta unos 10 minutos después de la hora elegida; una vez enviado, el estado pasa a **Completado**.
+Verás *"El recordatorio se ha creado correctamente"*. La *"Lista de recordatorios"* muestra **ID**, **Nombre**, fecha de creación y **Estado**, con filtros por **Estado** (**Creado**, **Completado**, **Programado**, **Todos**) y por fechas. Cada fila se puede editar o eliminar. AFRUS revisa los recordatorios cada 10 minutos, así que el correo puede llegar hasta unos 10 minutos después de la hora elegida; una vez enviado, el estado pasa a **Completado**.
 
 **Notas: para dejar constancia de lo que ya pasó.** Sirven para registrar una interacción que ya ocurrió con la persona, de modo que todo tu equipo tenga el contexto.
 
@@ -172,7 +172,7 @@ Verás *"La nota se ha creado correctamente"*. La *"Lista de notas"* muestra **R
 - **En el perfil:** pestaña **Contacto**, tarjeta **Más información**, sección **Información Personalizada**. Cada campo aparece con su valor, o con "-" si está vacío. La sección solo aparece si la persona tiene algún campo personalizado.
 - **Al crear o editar:** se completan en la sección **Información Personalizada** de "Crear persona" o de "Editar" (en la pestaña **Contacto**).
 - **En la exportación:** salen como columnas al descargar con **Base de datos en tiempo real**.
-- **Dónde se definen:** en **Configuración > Avanzado > Campos personalizados**. Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.
+- **Dónde se definen:** en **Configuración > Avanzado > Campos personalizados**. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
 
 ## Cómo enviar links personalizados a una persona
 
@@ -205,7 +205,7 @@ Al terminar verás *"¡Link de pago creado con éxito!"* y *"Link de pago enviad
 
 2. **Elige el tipo y pulsa "Continuar".**
    - **Electrónica** (*"Pagos con tarjeta, Paypal u otros medios digitales"*): cobra con una tarjeta guardada de la persona o con otro medio configurado.
-   - **Manual** (*"Pagos en efectivo, consignación, billetera o cheque"*): registra un pago que ya recibiste fuera de Afrus.
+   - **Manual** (*"Pagos en efectivo, consignación, billetera o cheque"*): registra un pago que ya recibiste fuera de AFRUS.
 
 3. **Completa los datos.**
    - En **Electrónica**: **Método de pago** (la tarjeta usada más recientemente aparece primero, marcada **Usado recientemente**), **Monto**, **Moneda**, **Campaña** y **Widget**.
@@ -224,7 +224,7 @@ Verás *"La transacción se ha creado correctamente"*.
 
 2. **Elige el método de pago y el monto.** En **Metodo de pago** elige una tarjeta guardada de la persona u otro medio configurado, y escribe el **Monto** (obligatorio, mayor a 0).
 
-3. **Elige el día de cobro, si aparece.** Si la tarjeta usa el motor de recurrencias de Afrus, elige **Fecha automática (recomendada)**, **Fecha de creación de la suscripción** o **Fecha de cobro** (un día del 1 al 28).
+3. **Elige el día de cobro, si aparece.** Si la tarjeta usa el motor de recurrencias de AFRUS, elige **Fecha automática (recomendada)**, **Fecha de creación de la suscripción** o **Fecha de cobro** (un día del 1 al 28).
 
 4. **Asocia la campaña y el widget.** Elige **Campaña** y luego **Widget**, para que la suscripción cuente en sus resultados.
 
@@ -258,7 +258,7 @@ Si el correo rebotó, el perfil muestra *"Tiene Hard Bounce"* o *"Tiene Soft Bou
 | Descarga con **Datos analizados** | Cada 24 horas |
 | Archivos en **Data > Descargas** | Disponibles 7 días |
 | Exportación y borrado masivo | En segundo plano; puede tardar unos minutos |
-| Recordatorios | Afrus los revisa cada 10 minutos |
+| Recordatorios | AFRUS los revisa cada 10 minutos |
 
 ## Limitaciones conocidas
 

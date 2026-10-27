@@ -16,7 +16,7 @@ También disponible en [inglés](./pasarelas-de-pago-guide.en.md) y [portugués]
 
 También disponible en [inglés](./moneda-de-organizacion-guide.en.md) y [portugués](./moneda-de-organizacion-guide.pt.md).
 
-- Qué es la moneda de la organización y en qué partes de Afrus se usa
+- Qué es la moneda de la organización y en qué partes de AFRUS se usa
 
 ### [Guía de Campos personalizados](./campos-personalizados-guide.md)
 

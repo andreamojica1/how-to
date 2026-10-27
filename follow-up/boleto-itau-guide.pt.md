@@ -37,10 +37,10 @@ Cada lote prepara um boleto por pessoa, em reais (BRL), e gera o arquivo de reme
 
 O caminho completo tem quatro momentos:
 
-1. **Você gera o lote** na Afrus (passos abaixo).
-2. **Você baixa o arquivo de remessa** e o envia ao banco Itaú. Esse envio é feito fora da Afrus.
+1. **Você gera o lote** na AFRUS (passos abaixo).
+2. **Você baixa o arquivo de remessa** e o envia ao banco Itaú. Esse envio é feito fora da AFRUS.
 3. **O banco entrega um arquivo de retorno** com o resultado de cada boleto.
-4. **Você carrega esse arquivo** em **Follow up > Importaciones - itaú**: a Afrus registra as doações pagas e atualiza os indicadores desta tela (veja o guia de Importaciones - itaú).
+4. **Você carrega esse arquivo** em **Follow up > Importaciones - itaú**: a AFRUS registra as doações pagas e atualiza os indicadores desta tela (veja o guia de Importaciones - itaú).
 
 ### Parte 1 — Gerar o lote
 
@@ -75,7 +75,7 @@ Aparecem no geral, na lista, e por lote, no detalhe.
 |---|---|
 | **Generados** (Gerados) | Total de boletos gerados |
 | **Emitidos sin error** (Emitidos sem erro) | Boletos gerados corretamente, sem erro nos dados da pessoa nem do gateway de pagamento |
-| **Efectivamente cobrados** (Efetivamente pagos) | Boletos que, ao carregar o arquivo de retorno do banco, ficaram confirmados como doação na Afrus. Inclui o valor recebido |
+| **Efectivamente cobrados** (Efetivamente pagos) | Boletos que, ao carregar o arquivo de retorno do banco, ficaram confirmados como doação na AFRUS. Inclui o valor recebido |
 | **Rechazados** (Rejeitados) | Boletos que o banco informou como rejeitados no arquivo de retorno |
 | **Sin retorno todavía** (Sem retorno ainda) | Boletos emitidos para os quais ainda não foi carregado um arquivo de retorno |
 
@@ -84,7 +84,7 @@ Aparecem no geral, na lista, e por lote, no detalhe.
 | Status | O que significa | O que você pode fazer |
 |---|---|---|
 | **Sin retorno** (Sem retorno) | A resposta do banco para este boleto ainda não foi carregada | Carregar o arquivo de retorno quando o banco entregar |
-| **Cobrado** (Pago) | O banco confirmou e ficou registrado como doação na Afrus | Nada |
+| **Cobrado** (Pago) | O banco confirmou e ficou registrado como doação na AFRUS | Nada |
 | **Rechazado** (Rejeitado) | O banco rejeitou | Revisar o caso com a pessoa |
 | **Pagado - no registrado** (Pago - não registrado) | O banco confirmou o pagamento, mas não ficou registrado como doação, normalmente por dados incompletos (CEP ou documento) | Completar os dados da pessoa |
 | **Otro** (Outro) | Outra resposta do banco | Revisar o detalhe |
@@ -109,8 +109,8 @@ Aparecem em inglês, como estão: `created` (criado), `queued` (na fila), `pendi
 
 ## Perguntas frequentes
 
-**A Afrus envia o arquivo ao banco?**
-Não. Você baixa o arquivo de remessa e o envia ao banco fora da Afrus.
+**A AFRUS envia o arquivo ao banco?**
+Não. Você baixa o arquivo de remessa e o envia ao banco fora da AFRUS.
 
 **Quais dados bancários o arquivo usa e quem os configura?**
 > **Pendente de confirmação:** quais dados bancários da organização (agência, conta, carteira) o arquivo usa e como são configurados. Fale com a gente para revisar.

@@ -1,6 +1,6 @@
 # AI
 
-Documentación de **AI**: las herramientas de inteligencia artificial de Afrus: entrenamiento, envíos, chat, agentes, firmas, galería y plantillas.
+Documentación de **AI**: las herramientas de inteligencia artificial de AFRUS: entrenamiento, envíos, chat, agentes, firmas, galería y plantillas.
 
 > **[Volver al índice general](../README.md)**
 
@@ -59,7 +59,7 @@ También disponible en [inglés](./galeria-para-ai-guide.en.md) y [portugués](.
 También disponible en [inglés](./plantillas-ai-email-guide.en.md) y [portugués](./plantillas-ai-email-guide.pt.md).
 
 - Qué son las Plantillas AI Email y para qué sirven
-- Cómo activar o desactivar plantillas (propias y de Afrus)
+- Cómo activar o desactivar plantillas (propias y de AFRUS)
 - Cómo crear, editar, duplicar y eliminar tus propias plantillas
 
 ## Audiencia

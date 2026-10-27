@@ -1,6 +1,6 @@
 # Guia de Campanhas
 
-Depois de ler este guia, você vai saber o que é uma campanha na Afrus, para que serve, como vincular widgets e uma página de agradecimento a ela, como mostrar o progresso e os doadores no seu site e como medir o retorno com custos, Analytics e KPI Merge Tags.
+Depois de ler este guia, você vai saber o que é uma campanha na AFRUS, para que serve, como vincular widgets e uma página de agradecimento a ela, como mostrar o progresso e os doadores no seu site e como medir o retorno com custos, Analytics e KPI Merge Tags.
 
 *Módulo: Campanhas · Menu: **Fundraising > Campañas** · Público: equipes de captação, marketing digital e direção*
 
@@ -38,7 +38,7 @@ Ao vincular um widget, as doações e os cadastros feitos nele ficam associados 
 
 **Antes de começar:** a campanha precisa estar **ativa**. O editor de widgets só mostra campanhas ativas, pelo nome público.
 
-1. **Abra o widget.** Acesse **Fundraising > Widgets** e edite o widget que quer vincular. O editor abre em uma nova aba. Esta tela abre na versão anterior da Afrus, por isso tem uma aparência diferente.
+1. **Abra o widget.** Acesse **Fundraising > Widgets** e edite o widget que quer vincular. O editor abre em uma nova aba. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
    <!-- captura pendente: como-vincular-um-widget-a-uma-campanha-01 — editor de widgets, painel Renderización -->
 
 2. **Escolha a campanha.** No painel **Renderización** (Renderização), no campo **Elige tus campañas** (Escolha suas campanhas), selecione uma ou várias campanhas.
@@ -71,7 +71,7 @@ Assim, todos os widgets da campanha podem levar o doador para a mesma página de
 
 **Parte 2 — Em cada widget que deve usá-la**
 
-6. **Abra o widget.** Em **Fundraising > Widgets**, edite o widget. Esta tela abre na versão anterior da Afrus, por isso tem uma aparência diferente.
+6. **Abra o widget.** Em **Fundraising > Widgets**, edite o widget. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
 7. **Ative a página da campanha.** Na seção **Avanzado** (Avançado), área **Página de agradecimiento**, marque **Usa la página de agradecimiento de la campaña.** (Usa a página de agradecimento da campanha). Ao marcar, o botão "Configurar" da página de agradecimento própria do widget desaparece.
 8. **Salve as alterações do widget.**
 
@@ -134,7 +134,7 @@ Na campanha, o centro de custos é a aba **Costos** (Custos): *"Agrega en esta s
 **Para que serve:**
 
 - **Saber quanto você investiu** na campanha, com um total filtrável por datas.
-- **Calcular o retorno.** Com seus custos, a Afrus calcula Resultado, ROI, custo por transação, custo por doador recorrente e outros indicadores.
+- **Calcular o retorno.** Com seus custos, a AFRUS calcula Resultado, ROI, custo por transação, custo por doador recorrente e outros indicadores.
 - **Ativar o painel de Analytics.** O botão "Ver Analytics" só é habilitado quando a campanha tem pelo menos um custo registrado.
 
 **Como registrar um custo:**
@@ -167,7 +167,7 @@ Ao terminar, o custo aparece em **Lista de costos** (Lista de custos — colunas
 2. **Escolha o período.** Na aba **Resumen** (Resumo), escolha o período (por padrão, todo o histórico). Os cartões de indicadores são recalculados para esse período.
 3. **Baixe os indicadores (opcional).** Clique em "Descargar KPIs" (Baixar KPIs) para baixar um arquivo CSV com todos os indicadores do período (colunas KPI, Valor e Unidade).
 4. **Veja um widget em detalhe.** Em **Rendimiento por Widget** (Desempenho por widget), clique em um widget para abrir o **Analytics del Widget**: os mesmos indicadores, só desse widget e dos custos dele.
-5. **Veja a evolução.** Na aba **Tendencias** (Tendências), escolha o período (por padrão, o mês atual). A Afrus agrupa por dia até 31 dias, por semana até 90 dias e por mês acima disso.
+5. **Veja a evolução.** Na aba **Tendencias** (Tendências), escolha o período (por padrão, o mês atual). A AFRUS agrupa por dia até 31 dias, por semana até 90 dias e por mês acima disso.
 
 **Que dados você obtém no Resumen (cartões):**
 
@@ -273,7 +273,7 @@ Ao abrir a landing publicada, a tag mostra o valor calculado naquele momento com
 ## Perguntas frequentes
 
 **O que faz "Seleccionar por defecto" (Definir como padrão) no menu de uma campanha?**
-Marca a campanha padrão da sua organização (só pode haver uma). A ela são atribuídas as transações que chegam de alguns gateways de pagamento sem uma campanha conhecida, por exemplo cobranças de assinaturas criadas fora da Afrus.
+Marca a campanha padrão da sua organização (só pode haver uma). A ela são atribuídas as transações que chegam de alguns gateways de pagamento sem uma campanha conhecida, por exemplo cobranças de assinaturas criadas fora da AFRUS.
 
 **Por que não vejo minha campanha ao vinculá-la no widget?**
 Porque ela está inativa. O editor de widgets só mostra campanhas ativas: ligue **Campaña activa** no detalhe da campanha.

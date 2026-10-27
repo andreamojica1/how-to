@@ -17,7 +17,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-sirve-logs-de-analytics, como-analizar-logs-de-analytics
 --- CUERPO (HTML) ---
 <p><strong>Logs de analytics es el registro de cada aviso que tus formularios de donación enviaron a Google Analytics 4, a Meta (Facebook) o a Google Tag Manager.</strong> Lo encuentras en <strong>Trackers &gt; Logs de analytics</strong>.</p>
-<p>Si tienes conectada alguna de esas herramientas a un formulario, cada vez que una persona lo abre, avanza un paso o completa su donación, Afrus le avisa. A cada aviso se le llama <strong>evento</strong>. Aquí ves cada evento, qué se envió y qué respondió la herramienta.</p>
+<p>Si tienes conectada alguna de esas herramientas a un formulario, cada vez que una persona lo abre, avanza un paso o completa su donación, AFRUS le avisa. A cada aviso se le llama <strong>evento</strong>. Aquí ves cada evento, qué se envió y qué respondió la herramienta.</p>
 <p>Si tu formulario no tiene ninguna de esas herramientas configurada, no se envía nada y la pantalla queda vacía.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿La pantalla se actualiza sola?</strong> No. Recárgala para ver eventos nuevos.</p>
@@ -94,7 +94,7 @@ Imagen de portada: pendiente
 Relacionados: what-is-logs-de-analytics-for, how-to-read-logs-de-analytics
 --- CUERPO (HTML) ---
 <p><strong>Logs de analytics (Analytics logs) is the record of every notice your donation forms sent to Google Analytics 4, Meta (Facebook) or Google Tag Manager.</strong> You'll find it in <strong>Trackers &gt; Logs de analytics</strong>. Labels are shown as they appear in the Spanish version of the console.</p>
-<p>If one of those tools is connected to a form, every time a person opens it, moves forward a step or completes their donation, Afrus notifies it. Each notice is called an <strong>event</strong>. Here you see each event, what was sent and what the tool answered.</p>
+<p>If one of those tools is connected to a form, every time a person opens it, moves forward a step or completes their donation, AFRUS notifies it. Each notice is called an <strong>event</strong>. Here you see each event, what was sent and what the tool answered.</p>
 <p>If your form has none of those tools set up, nothing is sent and the screen stays empty.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Does the screen refresh by itself?</strong> No. Reload it to see new events.</p>
@@ -171,7 +171,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-serve-logs-de-analytics, como-analisar-logs-de-analytics
 --- CUERPO (HTML) ---
 <p><strong>Logs de analytics é o registro de cada aviso que seus formulários de doação enviaram ao Google Analytics 4, à Meta (Facebook) ou ao Google Tag Manager.</strong> Fica em <strong>Trackers &gt; Logs de analytics</strong>. Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>Se uma dessas ferramentas está conectada a um formulário, toda vez que uma pessoa o abre, avança uma etapa ou conclui a doação, a Afrus avisa a ferramenta. Cada aviso se chama <strong>evento</strong>. Aqui você vê cada evento, o que foi enviado e o que a ferramenta respondeu.</p>
+<p>Se uma dessas ferramentas está conectada a um formulário, toda vez que uma pessoa o abre, avança uma etapa ou conclui a doação, a AFRUS avisa a ferramenta. Cada aviso se chama <strong>evento</strong>. Aqui você vê cada evento, o que foi enviado e o que a ferramenta respondeu.</p>
 <p>Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é enviado e a tela fica vazia.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>A tela se atualiza sozinha?</strong> Não. Recarregue para ver eventos novos.</p>

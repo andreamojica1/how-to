@@ -37,10 +37,10 @@ Each batch prepares one boleto per person, in Brazilian reais (BRL), and produce
 
 The full journey has four moments:
 
-1. **You generate the batch** in Afrus (steps below).
-2. **You download the remessa file** and send it to Itaú bank. This is done outside Afrus.
+1. **You generate the batch** in AFRUS (steps below).
+2. **You download the remessa file** and send it to Itaú bank. This is done outside AFRUS.
 3. **The bank gives you a return file** with the result of each boleto.
-4. **You upload that file** in **Follow up > Importaciones - itaú**: Afrus records the paid donations and updates this screen's indicators (see the Importaciones - itaú guide).
+4. **You upload that file** in **Follow up > Importaciones - itaú**: AFRUS records the paid donations and updates this screen's indicators (see the Importaciones - itaú guide).
 
 ### Part 1 — Generate the batch
 
@@ -75,7 +75,7 @@ Shown overall in the list and per batch in the detail.
 |---|---|
 | **Generados** (Generated) | Total boletos generated |
 | **Emitidos sin error** (Issued without errors) | Boletos generated correctly, with no error in the person's data or the gateway |
-| **Efectivamente cobrados** (Actually collected) | Boletos that, when the bank's return file was uploaded, were confirmed as donations in Afrus. Includes the amount collected |
+| **Efectivamente cobrados** (Actually collected) | Boletos that, when the bank's return file was uploaded, were confirmed as donations in AFRUS. Includes the amount collected |
 | **Rechazados** (Rejected) | Boletos the bank reported as rejected in the return file |
 | **Sin retorno todavía** (No response yet) | Issued boletos with no return file uploaded yet |
 
@@ -84,7 +84,7 @@ Shown overall in the list and per batch in the detail.
 | Status | What it means | What you can do |
 |---|---|---|
 | **Sin retorno** (No response) | The bank's response for this boleto hasn't been uploaded yet | Upload the return file when the bank delivers it |
-| **Cobrado** (Collected) | The bank confirmed it and it was recorded as a donation in Afrus | Nothing |
+| **Cobrado** (Collected) | The bank confirmed it and it was recorded as a donation in AFRUS | Nothing |
 | **Rechazado** (Rejected) | The bank rejected it | Review the case with the person |
 | **Pagado - no registrado** (Paid – not recorded) | The bank confirmed it as paid, but it wasn't recorded as a donation, usually because of missing data (CEP or document) | Complete the person's data |
 | **Otro** (Other) | Another bank response | Check the detail |
@@ -109,8 +109,8 @@ Shown in English as is: `created`, `queued`, `pending` (in progress), `succeeded
 
 ## Frequently asked questions
 
-**Does Afrus send the file to the bank?**
-No. You download the remessa file and send it to the bank outside Afrus.
+**Does AFRUS send the file to the bank?**
+No. You download the remessa file and send it to the bank outside AFRUS.
 
 **Which bank details does the file use, and who sets them up?**
 > **Pending confirmation:** which of the organization's bank details (branch, account, portfolio) the file uses and how they are configured. Write to us to review it.

@@ -1,6 +1,6 @@
 # Guia de Tickets
 
-Depois de ler este guia, você vai saber o que são os Tickets de rifa na Afrus, como vendê-los com um widget de produto e como enviar a cada comprador os números dele no autoresponder.
+Depois de ler este guia, você vai saber o que são os Tickets de rifa na AFRUS, como vendê-los com um widget de produto e como enviar a cada comprador os números dele no autoresponder.
 
 *Módulo: Tickets · Menu: **Fundraising > Tickets** · Público: equipes de captação, eventos e comunicação*
 
@@ -53,7 +53,7 @@ Para vender tickets você precisa de duas coisas: a rifa (o Ticket, com sua faix
 
 ### Parte 2 — Crie o widget que a vende
 
-7. **Crie um widget novo.** Acesse **Fundraising > Widgets** e clique em "Nuevo widget" (Novo widget). O editor de widgets abre em uma nova aba. Esta tela abre na versão anterior da Afrus, por isso tem uma aparência diferente.
+7. **Crie um widget novo.** Acesse **Fundraising > Widgets** e clique em "Nuevo widget" (Novo widget). O editor de widgets abre em uma nova aba. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
 
 8. **Escolha o objetivo Produto.** Em **Objetivo**, escolha **Producto**. Só os widgets com esse objetivo atribuem números de ticket.
 

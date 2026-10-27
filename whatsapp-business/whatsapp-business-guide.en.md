@@ -1,6 +1,6 @@
 # WhatsApp Business guide
 
-After reading this guide you will be able to connect your WhatsApp Business account to Afrus, create templates, send bulk messages, send images and reply to your contacts from **Conversaciones** (Conversations).
+After reading this guide you will be able to connect your WhatsApp Business account to AFRUS, create templates, send bulk messages, send images and reply to your contacts from **Conversaciones** (Conversations).
 
 *Module: WhatsApp Business · Menu: **WhatsApp Business > Blast** and **WhatsApp Business > Conversaciones** · Audience: fundraising, communications and donor care teams*
 
@@ -10,14 +10,14 @@ After reading this guide you will be able to connect your WhatsApp Business acco
 
 ## What WhatsApp Business is
 
-**WhatsApp Business in Afrus is the connection to Meta's official WhatsApp Business API.** With it you send bulk messages using templates approved by Meta, and you reply from Afrus to the contacts who write to you.
+**WhatsApp Business in AFRUS is the connection to Meta's official WhatsApp Business API.** With it you send bulk messages using templates approved by Meta, and you reply from AFRUS to the contacts who write to you.
 
 The module has two screens: **WhatsApp Business > Blast**, your account dashboard with your numbers, templates and bulk sends, and **WhatsApp Business > Conversaciones**, where you read and reply to messages.
 
 ## What it is for
 
 - **Sending bulk campaigns on WhatsApp.** You send a Blast to a segment and each contact receives the message personalized with their own data.
-- **Creating and editing templates in Afrus.** You design them in Afrus and send them to Meta for review without leaving the platform.
+- **Creating and editing templates in AFRUS.** You design them in AFRUS and send them to Meta for review without leaving the platform.
 - **Replying to your contacts.** In **Conversaciones** you see and reply to incoming messages in real time.
 - **Measuring your sends.** You see how many messages were sent, delivered, read and failed.
 
@@ -25,30 +25,30 @@ The module has two screens: **WhatsApp Business > Blast**, your account dashboar
 
 - **A Meta Business Suite account with WhatsApp Business.** The connection is made with your Meta account.
 - **A payment method on your WhatsApp Business.** The connection screen recommends it as a prior step.
-- **Sending numbers validated in Meta.** Numbers are added from Meta's Phone Manager, not from Afrus.
+- **Sending numbers validated in Meta.** Numbers are added from Meta's Phone Manager, not from AFRUS.
 
 ---
 
 # Step by step
 
-## How to connect WhatsApp Business to Afrus
+## How to connect WhatsApp Business to AFRUS
 
-1. **Open the module.** Go to **WhatsApp Business > Blast**. If no account is connected yet, Afrus takes you to the **Conecta tu WhatsApp Business** (Connect your WhatsApp Business) screen, which lists the recommended prior steps.
+1. **Open the module.** Go to **WhatsApp Business > Blast**. If no account is connected yet, AFRUS takes you to the **Conecta tu WhatsApp Business** (Connect your WhatsApp Business) screen, which lists the recommended prior steps.
    <!-- screenshot pending: how-to-connect-whatsapp-business-to-afrus-01 — Conecta tu WhatsApp Business screen -->
 
-2. **Connect with Meta.** Click "Conectar con Facebook" (Connect with Facebook). A Meta window opens: sign in and choose (or create) your WhatsApp Business account and number. This authorizes Afrus to send on behalf of your account.
+2. **Connect with Meta.** Click "Conectar con Facebook" (Connect with Facebook). A Meta window opens: sign in and choose (or create) your WhatsApp Business account and number. This authorizes AFRUS to send on behalf of your account.
 
-3. **Check the verification.** When you finish, Afrus syncs your templates and opens **Verificando tu configuración** (Verifying your setup, **PASO 2 DE 3** — step 2 of 3). It checks **Cuenta de WhatsApp Business conectada** (account connected), **Número de teléfono registrado** (phone number registered) and **Plantillas sincronizadas** (templates synced).
+3. **Check the verification.** When you finish, AFRUS syncs your templates and opens **Verificando tu configuración** (Verifying your setup, **PASO 2 DE 3** — step 2 of 3). It checks **Cuenta de WhatsApp Business conectada** (account connected), **Número de teléfono registrado** (phone number registered) and **Plantillas sincronizadas** (templates synced).
 
 4. **Send a test message (optional).** In **Enviar mensaje de prueba (opcional)**, choose the **Número de teléfono de envío** (sending number), type the **Número de teléfono del destinatario** (recipient number) and click "Enviar mensaje de prueba" (Send test message). Then click "Ir al Dashboard" (Go to dashboard).
 
 When you finish you will see the **Conectado** (Connected) chip and your business name on the dashboard. Your numbers appear under **Números conectados** (Connected numbers).
 
-> **Important:** the connection with Meta expires. Afrus warns you with *"Tu conexión expirará en N días"* (Your connection will expire in N days) and, once expired, shows **Renueva tu conexión de WhatsApp Business** with the "Reconectar con Facebook" (Reconnect with Facebook) button.
+> **Important:** the connection with Meta expires. AFRUS warns you with *"Tu conexión expirará en N días"* (Your connection will expire in N days) and, once expired, shows **Renueva tu conexión de WhatsApp Business** with the "Reconectar con Facebook" (Reconnect with Facebook) button.
 
-> **Can it be undone?** You can disconnect with "Desconectar cuenta" (Disconnect account), but sends stop and, as the screen warns, you lose access to your templates from Afrus.
+> **Can it be undone?** You can disconnect with "Desconectar cuenta" (Disconnect account), but sends stop and, as the screen warns, you lose access to your templates from AFRUS.
 
-**To add a new number:** add it in Meta's Phone Manager and then click "Actualizar números" (Update numbers) or "Sincronizar con Meta" (Sync with Meta) in Afrus.
+**To add a new number:** add it in Meta's Phone Manager and then click "Actualizar números" (Update numbers) or "Sincronizar con Meta" (Sync with Meta) in AFRUS.
 
 ### Enabling the bulk send button
 
@@ -109,21 +109,21 @@ When you finish you will see *"Plantilla enviada para aprobación"* (Template se
 
 ### Part 3 — Send or schedule
 
-6. **Check your quota.** Click "Enviar" (Send). Afrus shows **Estado de Cuota Diaria** (Daily quota status) with the recipients, remaining quota and daily limit. If it isn't enough, you will see **Cuota Diaria Insuficiente** (Insufficient daily quota) and the "Enviar de todos modos" (Send anyway) button.
+6. **Check your quota.** Click "Enviar" (Send). AFRUS shows **Estado de Cuota Diaria** (Daily quota status) with the recipients, remaining quota and daily limit. If it isn't enough, you will see **Cuota Diaria Insuficiente** (Insufficient daily quota) and the "Enviar de todos modos" (Send anyway) button.
 
 7. **Send or schedule.** Choose **Enviar ahora** (Send now) or **Programar fecha** (Schedule, with date and time) and confirm with "Enviar" or "Programar".
 
-When you finish, Afrus sends the messages one by one. In the send's detail you see each recipient's status: **En cola** (Queued), **Enviado** (Sent), **Entregado** (Delivered), **Leído** (Read), **Error** or **No enviado** (Not sent).
+When you finish, AFRUS sends the messages one by one. In the send's detail you see each recipient's status: **En cola** (Queued), **Enviado** (Sent), **Entregado** (Delivered), **Leído** (Read), **Error** or **No enviado** (Not sent).
 
 > **Can it be undone?** Pending confirmation whether a send can be stopped once started. Always check the message with "Enviar prueba" before sending.
 
-**Who receives the message:** only contacts in the segment who have a phone number. Afrus leaves out those who rejected the WhatsApp Business channel and numbers Meta reported as "not on WhatsApp" (for 90 days; the exclusion lifts automatically if the person writes to you). If no one in the segment qualifies, you will see *"No hay destinatarios entregables en este segmento..."* (No deliverable recipients in this segment).
+**Who receives the message:** only contacts in the segment who have a phone number. AFRUS leaves out those who rejected the WhatsApp Business channel and numbers Meta reported as "not on WhatsApp" (for 90 days; the exclusion lifts automatically if the person writes to you). If no one in the segment qualifies, you will see *"No hay destinatarios entregables en este segmento..."* (No deliverable recipients in this segment).
 
-**Before sending**, Afrus checks that the template is still approved. If it isn't, you will see *"La plantilla ya no está aprobada"* (The template is no longer approved).
+**Before sending**, AFRUS checks that the template is still approved. If it isn't, you will see *"La plantilla ya no está aprobada"* (The template is no longer approved).
 
 ## How many messages can I send per day
 
-The daily limit is set by **Meta** according to your account tier; Afrus reads it and shows it in the **Límite diario compartido** (Shared daily limit) bar under **Números conectados**.
+The daily limit is set by **Meta** according to your account tier; AFRUS reads it and shows it in the **Límite diario compartido** (Shared daily limit) bar under **Números conectados**.
 
 | Account tier in Meta | Messages per day |
 |---|---|
@@ -136,9 +136,9 @@ The daily limit is set by **Meta** according to your account tier; Afrus reads i
 Keep in mind:
 
 - **The limit belongs to your Meta business portfolio, not to each number.** All your numbers share the same quota.
-- **Afrus only counts what is sent from Afrus.** Messages you send outside Afrus also use your quota, but Afrus can't see them.
+- **AFRUS only counts what is sent from AFRUS.** Messages you send outside AFRUS also use your quota, but AFRUS can't see them.
 - **The "Enviados hoy" (Sent today) counter works as a 24-hour window.**
-- **If a send reaches the limit**, it moves to **Límite alcanzado** (Limit reached) and resumes on its own when quota is available: Afrus checks these sends every 30 minutes. The screen says the remaining messages resume "in ~24 hours when the quota is freed".
+- **If a send reaches the limit**, it moves to **Límite alcanzado** (Limit reached) and resumes on its own when quota is available: AFRUS checks these sends every 30 minutes. The screen says the remaining messages resume "in ~24 hours when the quota is freed".
 
 > **Pending confirmation:** your account's exact tier is decided by Meta. Check the **Límite diario compartido** bar to see your actual limit.
 
@@ -146,8 +146,8 @@ Keep in mind:
 
 Your daily limit goes up when Meta assigns you a higher tier. What we know today:
 
-1. **Verify your business in Meta.** Moving to tier 1 comes after business verification. In Afrus, **Verificación del Negocio** appears as **Recomendado** on the **Preparación para Envío de Mensajes** card, with the message *"Verify your business to increase your daily messaging rate"*.
-2. **Take care of your message quality.** Tiers 2 and 3 are assigned based on quality. Check in Afrus that your number stays at **Número de Teléfono Registrado (Calidad OK)** without warnings.
+1. **Verify your business in Meta.** Moving to tier 1 comes after business verification. In AFRUS, **Verificación del Negocio** appears as **Recomendado** on the **Preparación para Envío de Mensajes** card, with the message *"Verify your business to increase your daily messaging rate"*.
+2. **Take care of your message quality.** Tiers 2 and 3 are assigned based on quality. Check in AFRUS that your number stays at **Número de Teléfono Registrado (Calidad OK)** without warnings.
 
 > **Pending confirmation:** the exact criteria and timelines Meta uses to raise an account's tier. They are set by Meta and may change.
 
@@ -156,14 +156,14 @@ Your daily limit goes up when Meta assigns you a higher tier. What we know today
 Images are sent in a template's header, as part of a bulk send.
 
 1. **Create a template with an image.** When creating the template, under **Contenido multimedia** choose **Imagen** and click "Subir" (JPEG or PNG up to 5MB). Wait for Meta to approve it.
-2. **Have the image in the Afrus gallery.** The image you uploaded when creating the template is only used for Meta's review and **is not saved in the gallery**. Upload it to the gallery with "Subir imagen" (Upload image).
-3. **Choose the image in the send.** In the Blast, under **Mapeo de Variables**, section **Media del Encabezado** (Header media), click "Seleccionar media de la galería" and choose the image (up to 5MB; Afrus accepts jpg, jpeg, png, gif and webp).
+2. **Have the image in the AFRUS gallery.** The image you uploaded when creating the template is only used for Meta's review and **is not saved in the gallery**. Upload it to the gallery with "Subir imagen" (Upload image).
+3. **Choose the image in the send.** In the Blast, under **Mapeo de Variables**, section **Media del Encabezado** (Header media), click "Seleccionar media de la galería" and choose the image (up to 5MB; AFRUS accepts jpg, jpeg, png, gif and webp).
 
 When you finish, every recipient gets that same image in the message header.
 
 > **Pending confirmation:** which menu screen opens the gallery to upload the image before the send.
 
-**Videos:** for now **it is not possible to send a Blast with a video template from Afrus** (known issue). You can create the video template and Meta approves it, but in the send the video can only be picked from the gallery, which only accepts images. In the meantime, use image templates or add an **Ir al sitio web** button that links to the video.
+**Videos:** for now **it is not possible to send a Blast with a video template from AFRUS** (known issue). You can create the video template and Meta approves it, but in the send the video can only be picked from the gallery, which only accepts images. In the meantime, use image templates or add an **Ir al sitio web** button that links to the video.
 
 **In Conversaciones** you can't attach files: you will see *"Adjuntar archivos no está disponible aún"* (Attaching files is not available yet).
 
@@ -175,15 +175,15 @@ When you finish, every recipient gets that same image in the message header.
 
 When you finish, your message appears in the chat instantly.
 
-> **Important:** if you send a template with an image, video or document header from Conversaciones, you will see *"El encabezado multimedia no se envía en mensajes directos de conversación"* (Media headers aren't sent in direct conversation messages): Afrus sends the template without the file and the send may fail. From Conversaciones, use text-only templates.
+> **Important:** if you send a template with an image, video or document header from Conversaciones, you will see *"El encabezado multimedia no se envía en mensajes directos de conversación"* (Media headers aren't sent in direct conversation messages): AFRUS sends the template without the file and the send may fail. From Conversaciones, use text-only templates.
 
 Images, videos, audio and documents a contact sends you are shown in the chat, but Meta makes them expire: after a while you will see *"Este recurso ya no está disponible. El contenido multimedia de WhatsApp expira y no puede recuperarse."* (This resource is no longer available…).
 
 ## What AI-generated messages in Conversaciones are
 
-**They are the messages sent by Alma, Afrus's autonomous fundraising agent, which writes on its own.** The **Generado por IA** filter in **Conversaciones** shows only conversations with messages from Alma.
+**They are the messages sent by Alma, AFRUS's autonomous fundraising agent, which writes on its own.** The **Generado por IA** filter in **Conversaciones** shows only conversations with messages from Alma.
 
-- **Messages your team writes from Afrus are not included in this filter**, even if you send them from Conversaciones.
+- **Messages your team writes from AFRUS are not included in this filter**, even if you send them from Conversaciones.
 - **A conversation with Alma may appear as a separate entry** from the regular conversation with the same contact.
 
 ---
@@ -215,24 +215,24 @@ Images, videos, audio and documents a contact sends you are shown in the chat, b
 - **The gallery and templates don't share files:** what you upload when creating a template doesn't appear in the gallery.
 - **You can't attach files in Conversaciones.**
 - **There is no "new conversation" button.**
-- **Numbers are added in Meta**, not in Afrus.
+- **Numbers are added in Meta**, not in AFRUS.
 
 ## Frequently asked questions
 
 **Can I be penalized?**
-Yes, it can happen: penalties are applied by Meta. Afrus shows you the risk signals: if your number's quality is red, **Número de Teléfono Registrado (Calidad OK)** shows a warning that the number may be limited and drop a tier; if Meta rejects your display name, that check fails; and templates can become **Pausada** or **Deshabilitada**. Also, Afrus doesn't retry messages Meta rejects permanently, for example because of a blocked account, a spam limit, content that violates policies or people who blocked your marketing messages. With **Marketing** templates, users can unsubscribe.
+Yes, it can happen: penalties are applied by Meta. AFRUS shows you the risk signals: if your number's quality is red, **Número de Teléfono Registrado (Calidad OK)** shows a warning that the number may be limited and drop a tier; if Meta rejects your display name, that check fails; and templates can become **Pausada** or **Deshabilitada**. Also, AFRUS doesn't retry messages Meta rejects permanently, for example because of a blocked account, a spam limit, content that violates policies or people who blocked your marketing messages. With **Marketing** templates, users can unsubscribe.
 
 > **Pending confirmation:** Meta's penalty rules beyond these signals. They are set by Meta.
 
-**If I send a message from Afrus, can I reply later from my phone, even after 24 hours without a reply from the contact?**
-In Afrus, not with free text: 24 hours after the contact's last message, the conversation becomes **Cerrada** and you can only send a template. If the contact replies, the window opens again.
+**If I send a message from AFRUS, can I reply later from my phone, even after 24 hours without a reply from the contact?**
+In AFRUS, not with free text: 24 hours after the contact's last message, the conversation becomes **Cerrada** and you can only send a template. If the contact replies, the window opens again.
 
-> **Pending confirmation:** whether you can use the same number in the WhatsApp app on your phone at the same time as in Afrus. It depends on Meta and on how the number was registered.
+> **Pending confirmation:** whether you can use the same number in the WhatsApp app on your phone at the same time as in AFRUS. It depends on Meta and on how the number was registered.
 
 **Can I start a conversation with a contact without sending a Blast first?**
 Not from **Conversaciones**: there is no "new conversation" button, and the list only shows chats where the contact wrote to you at least once. To write first, send a Blast with an approved template. If the person writes to your number first, the conversation does appear and you can reply with free text for 24 hours.
 
-> **Pending confirmation:** whether other Afrus features, such as automations, can send WhatsApp Business templates.
+> **Pending confirmation:** whether other AFRUS features, such as automations, can send WhatsApp Business templates.
 
 **How long does Meta take to approve a template?**
 According to the screen, between 5 minutes and 24 hours. The timeline is set by Meta.

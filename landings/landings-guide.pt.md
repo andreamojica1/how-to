@@ -1,6 +1,6 @@
 # Guia de Landings
 
-Depois de ler este guia, você vai saber criar e publicar landing pages na Afrus, colocar um widget nelas, acompanhá-las com analytics, usá-las como página de agradecimento e mudar o endereço delas.
+Depois de ler este guia, você vai saber criar e publicar landing pages na AFRUS, colocar um widget nelas, acompanhá-las com analytics, usá-las como página de agradecimento e mudar o endereço delas.
 
 *Módulo: Landings · Menu: **Fundraising > Landings** · Público: equipes de captação, marketing digital e comunicação*
 
@@ -10,9 +10,9 @@ Depois de ler este guia, você vai saber criar e publicar landing pages na Afrus
 
 ## O que é Landings
 
-**Landings é o módulo da Afrus para criar e publicar landing pages: páginas web de campanha, de doação ou de agradecimento.** Você as monta com um editor visual de arrastar e soltar, a partir de um modelo, de uma página sua anterior ou do seu próprio código HTML.
+**Landings é o módulo da AFRUS para criar e publicar landing pages: páginas web de campanha, de doação ou de agradecimento.** Você as monta com um editor visual de arrastar e soltar, a partir de um modelo, de uma página sua anterior ou do seu próprio código HTML.
 
-Cada landing é publicada no endereço da Afrus (`web.afrus.org`) ou em um domínio próprio da sua organização, por exemplo `doe.minhaorganizacao.org`.
+Cada landing é publicada no endereço da AFRUS (`web.afrus.org`) ou em um domínio próprio da sua organização, por exemplo `doe.minhaorganizacao.org`.
 
 ## Para que serve
 
@@ -82,7 +82,7 @@ Ao terminar, sua página fica publicada em `https://<domínio><caminho>`, por ex
 
 ## Como acompanhar minha landing com analytics
 
-A Afrus adiciona à sua página o código do Google Analytics ou do Google Tag Manager e o Pixel da Meta. As visitas e conversões são medidas **nessas ferramentas**, não dentro da Afrus.
+A AFRUS adiciona à sua página o código do Google Analytics ou do Google Tag Manager e o Pixel da Meta. As visitas e conversões são medidas **nessas ferramentas**, não dentro da AFRUS.
 
 **Antes de começar:** a landing precisa ter um design salvo. Se não tiver, ao salvar você verá *"Error al guardar datos avanzados"* (Erro ao salvar dados avançados).
 
@@ -99,7 +99,7 @@ A Afrus adiciona à sua página o código do Google Analytics ou do Google Tag M
 
 6. **Salve.** Clique em "Guardar Cambios" (Salvar alterações) ou em "Guardar" no topo. Você verá *"Datos avanzados y bloques de código guardados con éxito"* (salvos com sucesso).
 
-Ao terminar, a Afrus publica a página de novo com seu código de analytics, o Pixel, as tags de SEO e seus blocos de código.
+Ao terminar, a AFRUS publica a página de novo com seu código de analytics, o Pixel, as tags de SEO e seus blocos de código.
 
 > **Importante:** você só pode usar **um** dos dois, Google Analytics **ou** Google Tag Manager; trocar o tipo apaga o ID digitado. Se precisar dos dois, carregue um como bloco em **Custom Code** ou pelo Google Tag Manager.
 
@@ -111,7 +111,7 @@ Se o formato de um ID não for válido, ele não é salvo e você verá *"ID de 
 
 1. **Abra o editor visual.** Na aba **Landing page** da sua landing, crie a página (**Página de cero** > "Crear página") ou clique em "Editar" no design existente.
 
-2. **Escolha o widget.** Na barra superior, em **Seleccionar widget** (Selecionar widget), escolha o widget pelo nome. A Afrus copia o código dele e você verá *"Código del widget copiado al portapapeles"* (Código do widget copiado para a área de transferência).
+2. **Escolha o widget.** Na barra superior, em **Seleccionar widget** (Selecionar widget), escolha o widget pelo nome. A AFRUS copia o código dele e você verá *"Código del widget copiado al portapapeles"* (Código do widget copiado para a área de transferência).
    ![Barra do editor de landing pages com o seletor Seleccionar widget](img/como-poner-un-widget-en-una-landing-02.webp)
 
 3. **Cole o código em um bloco HTML.** Arraste para a tela um bloco **HTML** do painel de ferramentas e cole o código ali.
@@ -122,7 +122,7 @@ Se o formato de um ID não for válido, ele não é salvo e você verá *"ID de 
 
 Ao terminar, o widget aparece dentro da página publicada, igual a qualquer site onde você o incorpora.
 
-Os formulários sempre são adicionados como widget da Afrus: a ferramenta de formulário do próprio editor está desativada. Se você montou sua landing com a opção **HTML**, não há seletor: cole à mão o código de incorporação do widget.
+Os formulários sempre são adicionados como widget da AFRUS: a ferramenta de formulário do próprio editor está desativada. Se você montou sua landing com a opção **HTML**, não há seletor: cole à mão o código de incorporação do widget.
 
 ## Para que criar uma página de agradecimento
 
@@ -151,7 +151,7 @@ Uma landing de agradecimento mostra ao doador, logo depois de doar, **uma págin
 3. **Salve.** Clique em "Guardar" no editor; isso publica a página com a personalização ativada.
 
 4. **Indique onde ela é usada como agradecimento.** Escolha uma destas duas formas:
-   - **Pela campanha:** na seção **Página de agradecimiento** (Página de agradecimento) da campanha, escolha **Tipo** = **Landings**, depois **Elegir una landing** (Escolher uma landing), confira a pré-visualização e clique em "Usar plantilla" (salva sem mostrar mensagem). Além disso, no editor do widget, no painel **Pagina de agradecimiento**, marque **Usa la página de agradecimiento de la campaña.** (Usa a página de agradecimento da campanha). Sem essa caixa, o widget não usa a página da campanha. Esta tela abre na versão anterior da Afrus, por isso tem outra aparência.
+   - **Pela campanha:** na seção **Página de agradecimiento** (Página de agradecimento) da campanha, escolha **Tipo** = **Landings**, depois **Elegir una landing** (Escolher uma landing), confira a pré-visualização e clique em "Usar plantilla" (salva sem mostrar mensagem). Além disso, no editor do widget, no painel **Pagina de agradecimiento**, marque **Usa la página de agradecimiento de la campaña.** (Usa a página de agradecimento da campanha). Sem essa caixa, o widget não usa a página da campanha. Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.
    - **Pelo widget:** em **URL de la página de agradecimiento** (URL da página de agradecimento), cole o link da landing ("Copiar link" na lista de landings).
 
 5. **Teste com uma doação real.** Assim você confirma que o doador chega à sua página e vê os dados dele.
@@ -159,7 +159,7 @@ Uma landing de agradecimento mostra ao doador, logo depois de doar, **uma págin
 Ao terminar, depois de uma doação com sucesso, o doador chega à sua landing com os dados já preenchidos.
 
 **Lembre-se:**
-- **Só essas nove variáveis funcionam.** Qualquer outra (por exemplo `{{campaign}}`, campos personalizados ou variáveis dos e-mails) aparece do jeito que está, com as chaves. O botão "Merge tags" do editor mostra o catálogo completo de variáveis da Afrus, mas a maioria **não** funciona em landings.
+- **Só essas nove variáveis funcionam.** Qualquer outra (por exemplo `{{campaign}}`, campos personalizados ou variáveis dos e-mails) aparece do jeito que está, com as chaves. O botão "Merge tags" do editor mostra o catálogo completo de variáveis da AFRUS, mas a maioria **não** funciona em landings.
 - **Só no texto do corpo.** Não funcionam no título da página, na meta descrição, nos links de botões, nos textos alternativos de imagens nem nos valores de campos.
 - **Quando aparecem em branco.** Se o pagamento precisa de uma etapa posterior (verificação 3-D Secure, ou métodos com confirmação posterior como OXXO, PSE ou SEPA), ou se alguém abre a página diretamente, recarrega depois de 15 minutos ou a compartilha, as variáveis aparecem vazias. Escreva seus textos para que funcionem bem assim também.
 - Enquanto a página carrega os dados, o texto `{{...}}` pode aparecer por um instante.
@@ -183,7 +183,7 @@ Ao terminar, a página é publicada no novo endereço `https://<domínio><caminh
 
 > **Dá para desfazer?** Você pode voltar ao endereço anterior, mas enquanto isso **o link antigo deixa de funcionar e não redireciona para o novo**. Atualize todos os lugares onde você o colou: widgets, e-mails, anúncios e redes.
 
-> **Importante:** a Afrus não verifica se o caminho está livre. Se duas landings usarem o mesmo domínio e o mesmo caminho, nesse endereço aparece a última que foi salva. Use sempre caminhos únicos.
+> **Importante:** a AFRUS não verifica se o caminho está livre. Se duas landings usarem o mesmo domínio e o mesmo caminho, nesse endereço aparece a última que foi salva. Use sempre caminhos únicos.
 
 ---
 
@@ -208,7 +208,7 @@ Ao terminar, a página é publicada no novo endereço `https://<domínio><caminh
 - **O botão "Merge tags" só copia.** Não insere nada e mostra variáveis de e-mail que não funcionam em landings.
 - **Textos sem tradução.** Na galeria de modelos, o título e alguns botões podem aparecer em inglês (por exemplo "Gallery"); os textos de **Analytics**, **SEO** e **Custom Code** também estão em inglês.
 - **Formatos de favicon diferentes.** Ao criar, são aceitos jpg, png e svg; ao editar, também gif e webp.
-- **Não há estatísticas por landing dentro da Afrus.** As visitas são medidas no Google Analytics, no Google Tag Manager ou na Meta. A única comparação de resultados na Afrus é a de "Experimentos".
+- **Não há estatísticas por landing dentro da AFRUS.** As visitas são medidas no Google Analytics, no Google Tag Manager ou na Meta. A única comparação de resultados na AFRUS é a de "Experimentos".
 
 ## Perguntas frequentes
 
@@ -219,7 +219,7 @@ Não. Salvar o design no editor (ou na opção HTML) publica a página.
 Não pelo seletor: só um. Carregue o outro como bloco em **Custom Code** ou pelo Google Tag Manager.
 
 **Onde vejo quantas visitas minha landing teve?**
-Na sua ferramenta de analytics (Google Analytics, Google Tag Manager ou Meta). A Afrus não tem uma tela de estatísticas por landing.
+Na sua ferramenta de analytics (Google Analytics, Google Tag Manager ou Meta). A AFRUS não tem uma tela de estatísticas por landing.
 
 **Posso editar uma landing clássica?**
 Não. Use "Clonar a 2.0" para criar uma cópia editável.

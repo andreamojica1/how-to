@@ -8,7 +8,7 @@ Después de leer esta guía sabrás qué son las Tareas de suscripciones, cuánd
 
 ## Qué son las Tareas de suscripciones
 
-**Las Tareas de suscripciones son una lista de seguimiento que Afrus crea automáticamente cuando falla el cobro de una suscripción.** Cada tarea es un caso para que tu equipo contacte al donante y recupere su donación recurrente.
+**Las Tareas de suscripciones son una lista de seguimiento que AFRUS crea automáticamente cuando falla el cobro de una suscripción.** Cada tarea es un caso para que tu equipo contacte al donante y recupere su donación recurrente.
 
 La pantalla se llama **Tareas de Suscripciones** y muestra, para cada caso, la suscripción, el monto, la pasarela, la persona, el responsable y la fecha.
 
@@ -18,7 +18,7 @@ La pantalla se llama **Tareas de Suscripciones** y muestra, para cada caso, la s
 - **Repartir el trabajo.** Asigna cada caso a un **Responsable** de tu equipo.
 - **Llevar el control de lo resuelto.** Marca la tarea como **Completada** cuando terminaste la gestión.
 - **Tener el contexto a mano.** Ves **Monto**, **Pasarela**, **Persona** y **Razón de fallo**, y abres la suscripción desde la columna **Suscripción**.
-- **Trabajar la lista fuera de Afrus.** Exporta todas las tareas o una selección; el archivo queda en **Descargas**.
+- **Trabajar la lista fuera de AFRUS.** Exporta todas las tareas o una selección; el archivo queda en **Descargas**.
 
 ## Antes de empezar
 
@@ -31,9 +31,9 @@ La pantalla se llama **Tareas de Suscripciones** y muestra, para cada caso, la s
 
 ## Cada cuánto se actualiza
 
-- **Las tareas se crean en el momento.** Afrus crea la tarea en cuanto procesa el cobro fallido; no espera a una revisión diaria.
-- **Al crearse una tarea nueva**, los usuarios con rol owner o admin de tu organización reciben una notificación en Afrus.
-- **Si la suscripción ya tenía una tarea**, Afrus no crea otra: reabre la existente (vuelve a **Pendiente**) y le quita el **Responsable**, para que alguien la retome.
+- **Las tareas se crean en el momento.** AFRUS crea la tarea en cuanto procesa el cobro fallido; no espera a una revisión diaria.
+- **Al crearse una tarea nueva**, los usuarios con rol owner o admin de tu organización reciben una notificación en AFRUS.
+- **Si la suscripción ya tenía una tarea**, AFRUS no crea otra: reabre la existente (vuelve a **Pendiente**) y le quita el **Responsable**, para que alguien la retome.
 - **La pantalla no se refresca sola.** Los datos se cargan al abrirla y al cambiar fechas, búsqueda, filtro, orden o página. Si esperas un caso nuevo, recarga la página.
 
 ## ¿Cuando una suscripción vuelve a cobrarse bien, la tarea sale de la lista?
@@ -55,11 +55,11 @@ Además, cada tarea tiene un **Tipo**, que puedes cambiar a mano:
 
 | Tipo | Qué significa |
 |---|---|
-| **General** | El tipo con el que Afrus crea las tareas automáticamente. |
+| **General** | El tipo con el que AFRUS crea las tareas automáticamente. |
 | **Fallo Mensual** | Etiqueta disponible para clasificar el caso a mano. |
 | **Cancelada por el Sistema** | Etiqueta disponible para clasificar el caso a mano. |
 
-> **Pendiente de confirmar:** si algún proceso de Afrus asigna automáticamente los tipos **Fallo Mensual** y **Cancelada por el Sistema**.
+> **Pendiente de confirmar:** si algún proceso de AFRUS asigna automáticamente los tipos **Fallo Mensual** y **Cancelada por el Sistema**.
 
 ## Qué puedo hacer en cada estado
 
@@ -104,10 +104,10 @@ La tabla muestra 25 tareas por página (puedes cambiarlo a 10, 50 o 100), de la 
 No. Solo se crean cuando falla el cobro de una suscripción.
 
 **¿Por qué una tarea que ya estaba completada volvió a Pendiente y sin responsable?**
-Porque la suscripción volvió a tener un cobro fallido. Afrus reabre la misma tarea en lugar de crear otra.
+Porque la suscripción volvió a tener un cobro fallido. AFRUS reabre la misma tarea en lugar de crear otra.
 
 **¿Quién recibe el aviso de una tarea nueva?**
-Los usuarios con rol owner o admin de tu organización, con una notificación en Afrus.
+Los usuarios con rol owner o admin de tu organización, con una notificación en AFRUS.
 
 ---
 

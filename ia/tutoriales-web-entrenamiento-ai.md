@@ -10,18 +10,18 @@ Idioma: es
 Título: Qué es el Entrenamiento [AI RAG]
 Slug: que-es-el-entrenamiento-ai
 Categoría: AI
-Resumen: Aprende qué es el Entrenamiento [AI RAG]: el lugar donde le das a la IA de Afrus la información de tu organización.
+Resumen: Aprende qué es el Entrenamiento [AI RAG]: el lugar donde le das a la IA de AFRUS la información de tu organización.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-el-entrenamiento-ai, que-documentos-subir-al-entrenamiento-ai, que-escribir-en-instrucciones-de-la-ia, que-paginas-web-agregar-al-entrenamiento-ai, como-ver-lo-que-subi-al-entrenamiento-ai
 --- CUERPO (HTML) ---
-<p><strong>El Entrenamiento [AI RAG] es el lugar donde le das a la IA de Afrus la información de tu organización.</strong> Aquí subes documentos, agregas páginas web y escribes instrucciones.</p>
+<p><strong>El Entrenamiento [AI RAG] es el lugar donde le das a la IA de AFRUS la información de tu organización.</strong> Aquí subes documentos, agregas páginas web y escribes instrucciones.</p>
 <p>La IA usa todo eso para responder en <strong>Chat con AI</strong> y en los <strong>Agentes para la web</strong> (el chat que puedes poner en tu sitio). Mientras mejor sea la información, mejores serán sus respuestas.</p>
 <h2>Dónde lo encuentras</h2>
 <p>En el menú <strong>AI &gt; Entrenamiento [AI RAG]</strong>. Tiene tres pestañas: <strong>Documentos</strong>, <strong>Instrucciones</strong> y <strong>URL'S</strong>.</p>
 <h2>Antes de empezar</h2>
-<ul><li><strong>Activa la IA de Afrus.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li></ul>
+<ul><li><strong>Activa la IA de AFRUS.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li></ul>
 === FIN ===
 ```
 
@@ -51,7 +51,7 @@ Idioma: es
 Título: Qué se sube en Documentos y qué archivos se aceptan
 Slug: que-documentos-subir-al-entrenamiento-ai
 Categoría: AI
-Resumen: Aprende qué documentos subir al Entrenamiento de la IA de Afrus, qué tipos de archivo se aceptan y cómo subirlos.
+Resumen: Aprende qué documentos subir al Entrenamiento de la IA de AFRUS, qué tipos de archivo se aceptan y cómo subirlos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -60,7 +60,7 @@ Relacionados: que-es-el-entrenamiento-ai, para-que-sirve-el-entrenamiento-ai, qu
 <p>En <strong>Documentos</strong> subes los archivos que describen a tu organización: informes de impacto, presentaciones, preguntas frecuentes o descripciones de tus programas.</p>
 <p><strong>Archivos aceptados:</strong> PDF, DOC, DOCX, CSV, TXT y PPTX. La pantalla indica un máximo de 10 MB por archivo.</p>
 <h2>Antes de empezar</h2>
-<ul><li><strong>Activa la IA de Afrus.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li></ul>
+<ul><li><strong>Activa la IA de AFRUS.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li></ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre la pestaña Documentos.</strong> Entra a <strong>AI &gt; Entrenamiento [AI RAG]</strong> y elige <strong>Documentos</strong>.</li>
@@ -81,7 +81,7 @@ Idioma: es
 Título: Qué se sube en Instrucciones
 Slug: que-escribir-en-instrucciones-de-la-ia
 Categoría: AI
-Resumen: Aprende a escribir instrucciones para la IA de Afrus: qué debe saber de tu organización y cómo debe hablar.
+Resumen: Aprende a escribir instrucciones para la IA de AFRUS: qué debe saber de tu organización y cómo debe hablar.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -97,7 +97,7 @@ Relacionados: que-es-el-entrenamiento-ai, para-que-sirve-el-entrenamiento-ai, qu
 <li><strong>Guarda.</strong> Pulsa "Guardar instrucciones" de ese tema. Verás <em>"¡Instrucciones guardadas con éxito!"</em></li>
 </ol>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo crear temas nuevos?</strong> No. Los temas los define Afrus.</p>
+<p><strong>¿Puedo crear temas nuevos?</strong> No. Los temas los define AFRUS.</p>
 <p><strong>¿Para qué son los Atajos de conversación?</strong> Sirven para guardar preguntas como botones del chat, pero hoy esos botones no aparecen en <strong>Chat con AI</strong>.</p>
 === FIN ===
 ```
@@ -108,7 +108,7 @@ Idioma: es
 Título: Qué se sube en URL's
 Slug: que-paginas-web-agregar-al-entrenamiento-ai
 Categoría: AI
-Resumen: Aprende a agregar páginas web de tu organización al Entrenamiento de la IA de Afrus para que las use al responder.
+Resumen: Aprende a agregar páginas web de tu organización al Entrenamiento de la IA de AFRUS para que las use al responder.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -133,7 +133,7 @@ Idioma: es
 Título: Cómo ver lo que he subido al Entrenamiento [AI RAG]
 Slug: como-ver-lo-que-subi-al-entrenamiento-ai
 Categoría: AI
-Resumen: Aprende a revisar los documentos, instrucciones y páginas web que subiste al Entrenamiento de la IA de Afrus.
+Resumen: Aprende a revisar los documentos, instrucciones y páginas web que subiste al Entrenamiento de la IA de AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -159,19 +159,19 @@ Idioma: en
 Título: What AI Training (Entrenamiento [AI RAG]) is
 Slug: what-is-ai-training
 Categoría: AI
-Resumen: Learn what AI Training is: the place where you give Afrus AI your organization's information.
+Resumen: Learn what AI Training is: the place where you give AFRUS AI your organization's information.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-ai-training-for, which-documents-to-upload-to-ai-training, what-to-write-in-ai-instructions, which-web-pages-to-add-to-ai-training, how-to-see-what-you-uploaded-to-ai-training
 --- CUERPO (HTML) ---
 <p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
-<p><strong>AI Training is where you give Afrus AI your organization's information.</strong> Here you upload documents, add web pages and write instructions.</p>
+<p><strong>AI Training is where you give AFRUS AI your organization's information.</strong> Here you upload documents, add web pages and write instructions.</p>
 <p>The AI uses all of it to answer in <strong>Chat con AI</strong> (AI chat) and in the <strong>Agentes para la web</strong> (the chat you can put on your website). The better the information, the better the answers.</p>
 <h2>Where to find it</h2>
 <p>In the menu <strong>AI &gt; Entrenamiento [AI RAG]</strong>. It has three tabs: <strong>Documentos</strong> (Documents), <strong>Instrucciones</strong> (Instructions) and <strong>URL'S</strong>.</p>
 <h2>Before you start</h2>
-<ul><li><strong>Turn on Afrus AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li></ul>
+<ul><li><strong>Turn on AFRUS AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li></ul>
 === FIN ===
 ```
 
@@ -202,7 +202,7 @@ Idioma: en
 Título: What to upload in Documents and which files are accepted
 Slug: which-documents-to-upload-to-ai-training
 Categoría: AI
-Resumen: Learn which documents to upload to Afrus AI Training, which file types are accepted and how to upload them.
+Resumen: Learn which documents to upload to AFRUS AI Training, which file types are accepted and how to upload them.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -212,7 +212,7 @@ Relacionados: what-is-ai-training, what-is-ai-training-for, what-to-write-in-ai-
 <p>In <strong>Documentos</strong> you upload the files that describe your organization: impact reports, presentations, FAQs or descriptions of your programs.</p>
 <p><strong>Accepted files:</strong> PDF, DOC, DOCX, CSV, TXT and PPTX. The screen shows a maximum of 10 MB per file.</p>
 <h2>Before you start</h2>
-<ul><li><strong>Turn on Afrus AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li></ul>
+<ul><li><strong>Turn on AFRUS AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li></ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the Documents tab.</strong> Go to <strong>AI &gt; Entrenamiento [AI RAG]</strong> and choose <strong>Documentos</strong>.</li>
@@ -233,7 +233,7 @@ Idioma: en
 Título: What to upload in Instructions
 Slug: what-to-write-in-ai-instructions
 Categoría: AI
-Resumen: Learn how to write instructions for Afrus AI: what it should know about your organization and how it should talk.
+Resumen: Learn how to write instructions for AFRUS AI: what it should know about your organization and how it should talk.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -250,7 +250,7 @@ Relacionados: what-is-ai-training, what-is-ai-training-for, which-documents-to-u
 <li><strong>Save.</strong> Click that topic's "Guardar instrucciones" (Save instructions). You'll see <em>"¡Instrucciones guardadas con éxito!"</em></li>
 </ol>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I create new topics?</strong> No. Topics are defined by Afrus.</p>
+<p><strong>Can I create new topics?</strong> No. Topics are defined by AFRUS.</p>
 <p><strong>What are Conversation shortcuts for?</strong> They save questions as chat buttons, but today those buttons don't appear in <strong>Chat con AI</strong>.</p>
 === FIN ===
 ```
@@ -261,7 +261,7 @@ Idioma: en
 Título: What to upload in URLs
 Slug: which-web-pages-to-add-to-ai-training
 Categoría: AI
-Resumen: Learn how to add your organization's web pages to Afrus AI Training so the AI uses them when answering.
+Resumen: Learn how to add your organization's web pages to AFRUS AI Training so the AI uses them when answering.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -287,7 +287,7 @@ Idioma: en
 Título: How to see what you uploaded to AI Training
 Slug: how-to-see-what-you-uploaded-to-ai-training
 Categoría: AI
-Resumen: Learn how to review the documents, instructions and web pages you uploaded to Afrus AI Training.
+Resumen: Learn how to review the documents, instructions and web pages you uploaded to AFRUS AI Training.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -314,19 +314,19 @@ Idioma: pt-BR
 Título: O que é o Treinamento da IA (Entrenamiento [AI RAG])
 Slug: o-que-e-o-treinamento-da-ia
 Categoría: AI
-Resumen: Aprenda o que é o Treinamento da IA: o lugar onde você dá à IA da Afrus as informações da sua organização.
+Resumen: Aprenda o que é o Treinamento da IA: o lugar onde você dá à IA da AFRUS as informações da sua organização.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-o-treinamento-da-ia, quais-documentos-enviar-ao-treinamento-da-ia, o-que-escrever-nas-instrucoes-da-ia, quais-paginas-web-adicionar-ao-treinamento-da-ia, como-ver-o-que-enviei-ao-treinamento-da-ia
 --- CUERPO (HTML) ---
 <p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
-<p><strong>O Treinamento da IA é o lugar onde você dá à IA da Afrus as informações da sua organização.</strong> Aqui você envia documentos, adiciona páginas web e escreve instruções.</p>
+<p><strong>O Treinamento da IA é o lugar onde você dá à IA da AFRUS as informações da sua organização.</strong> Aqui você envia documentos, adiciona páginas web e escreve instruções.</p>
 <p>A IA usa tudo isso para responder no <strong>Chat con AI</strong> (chat com IA) e nos <strong>Agentes para la web</strong> (o chat que você pode colocar no seu site). Quanto melhores as informações, melhores as respostas.</p>
 <h2>Onde encontrar</h2>
 <p>No menu <strong>AI &gt; Entrenamiento [AI RAG]</strong>. Ele tem três abas: <strong>Documentos</strong>, <strong>Instrucciones</strong> (Instruções) e <strong>URL'S</strong>.</p>
 <h2>Antes de começar</h2>
-<ul><li><strong>Ative a IA da Afrus.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li></ul>
+<ul><li><strong>Ative a IA da AFRUS.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li></ul>
 === FIN ===
 ```
 
@@ -357,7 +357,7 @@ Idioma: pt-BR
 Título: O que enviar em Documentos e quais arquivos são aceitos
 Slug: quais-documentos-enviar-ao-treinamento-da-ia
 Categoría: AI
-Resumen: Aprenda quais documentos enviar ao Treinamento da IA da Afrus, quais tipos de arquivo são aceitos e como enviá-los.
+Resumen: Aprenda quais documentos enviar ao Treinamento da IA da AFRUS, quais tipos de arquivo são aceitos e como enviá-los.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -367,7 +367,7 @@ Relacionados: o-que-e-o-treinamento-da-ia, para-que-serve-o-treinamento-da-ia, o
 <p>Em <strong>Documentos</strong> você envia os arquivos que descrevem a sua organização: relatórios de impacto, apresentações, perguntas frequentes ou descrições dos seus programas.</p>
 <p><strong>Arquivos aceitos:</strong> PDF, DOC, DOCX, CSV, TXT e PPTX. A tela indica um máximo de 10 MB por arquivo.</p>
 <h2>Antes de começar</h2>
-<ul><li><strong>Ative a IA da Afrus.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li></ul>
+<ul><li><strong>Ative a IA da AFRUS.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li></ul>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra a aba Documentos.</strong> Acesse <strong>AI &gt; Entrenamiento [AI RAG]</strong> e escolha <strong>Documentos</strong>.</li>
@@ -388,7 +388,7 @@ Idioma: pt-BR
 Título: O que enviar em Instruções
 Slug: o-que-escrever-nas-instrucoes-da-ia
 Categoría: AI
-Resumen: Aprenda a escrever instruções para a IA da Afrus: o que ela deve saber da sua organização e como deve falar.
+Resumen: Aprenda a escrever instruções para a IA da AFRUS: o que ela deve saber da sua organização e como deve falar.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -405,7 +405,7 @@ Relacionados: o-que-e-o-treinamento-da-ia, para-que-serve-o-treinamento-da-ia, q
 <li><strong>Salve.</strong> Clique em "Guardar instrucciones" (Salvar instruções) desse tema. Você verá <em>"¡Instrucciones guardadas con éxito!"</em></li>
 </ol>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso criar temas novos?</strong> Não. Os temas são definidos pela Afrus.</p>
+<p><strong>Posso criar temas novos?</strong> Não. Os temas são definidos pela AFRUS.</p>
 <p><strong>Para que servem os Atalhos de conversa?</strong> Servem para salvar perguntas como botões do chat, mas hoje esses botões não aparecem no <strong>Chat con AI</strong>.</p>
 === FIN ===
 ```
@@ -416,7 +416,7 @@ Idioma: pt-BR
 Título: O que enviar em URLs
 Slug: quais-paginas-web-adicionar-ao-treinamento-da-ia
 Categoría: AI
-Resumen: Aprenda a adicionar páginas web da sua organização ao Treinamento da IA da Afrus para que ela as use ao responder.
+Resumen: Aprenda a adicionar páginas web da sua organização ao Treinamento da IA da AFRUS para que ela as use ao responder.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -442,7 +442,7 @@ Idioma: pt-BR
 Título: Como ver o que enviei ao Treinamento da IA
 Slug: como-ver-o-que-enviei-ao-treinamento-da-ia
 Categoría: AI
-Resumen: Aprenda a revisar os documentos, instruções e páginas web que você enviou ao Treinamento da IA da Afrus.
+Resumen: Aprenda a revisar os documentos, instruções e páginas web que você enviou ao Treinamento da IA da AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente

@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es el Blast de AI
 Slug: que-es-el-blast-de-ai
 Categoría: AI
-Resumen: Aprende qué es el Blast de AI: un envío masivo de correos en el que la IA de Afrus escribe el mensaje para cada persona.
+Resumen: Aprende qué es el Blast de AI: un envío masivo de correos en el que la IA de AFRUS escribe el mensaje para cada persona.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -50,14 +50,14 @@ Idioma: es
 Título: Cómo usar el Blast de AI
 Slug: como-usar-el-blast-de-ai
 Categoría: AI
-Resumen: Aprende a crear y enviar un Blast de AI en Afrus, paso a paso: público, diseño, mensaje y fecha de envío.
+Resumen: Aprende a crear y enviar un Blast de AI en AFRUS, paso a paso: público, diseño, mensaje y fecha de envío.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-el-blast-de-ai, para-que-sirve-el-blast-de-ai
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
-<ul><li><strong>Activa la IA de Afrus.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li>
+<ul><li><strong>Activa la IA de AFRUS.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li>
 <li><strong>Carga información en AI &gt; Entrenamiento [AI RAG].</strong> Es lo que la IA usa para escribir.</li>
 <li><strong>Ten lista tu cuenta de correo de envío y tus créditos,</strong> igual que para un Blast normal.</li></ul>
 <h2>Paso a paso</h2>
@@ -84,7 +84,7 @@ Idioma: en
 Título: What an AI Blast (Blast de AI) is
 Slug: what-is-an-ai-blast
 Categoría: AI
-Resumen: Learn what an AI Blast is: a mass email send where Afrus AI writes the message for each person.
+Resumen: Learn what an AI Blast is: a mass email send where AFRUS AI writes the message for each person.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -126,7 +126,7 @@ Idioma: en
 Título: How to use an AI Blast
 Slug: how-to-use-an-ai-blast
 Categoría: AI
-Resumen: Learn how to create and send an AI Blast in Afrus, step by step: audience, design, message and send date.
+Resumen: Learn how to create and send an AI Blast in AFRUS, step by step: audience, design, message and send date.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -134,7 +134,7 @@ Relacionados: what-is-an-ai-blast, what-is-an-ai-blast-for
 --- CUERPO (HTML) ---
 <p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
 <h2>Before you start</h2>
-<ul><li><strong>Turn on Afrus AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li>
+<ul><li><strong>Turn on AFRUS AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li>
 <li><strong>Upload information in AI &gt; Entrenamiento [AI RAG].</strong> That's what the AI uses to write.</li>
 <li><strong>Have your sending email account and credits ready,</strong> just like for a regular Blast.</li></ul>
 <h2>Step by step</h2>
@@ -161,7 +161,7 @@ Idioma: pt-BR
 Título: O que é o Blast de IA (Blast de AI)
 Slug: o-que-e-o-blast-de-ia
 Categoría: AI
-Resumen: Aprenda o que é o Blast de IA: um envio de e-mails em massa em que a IA da Afrus escreve a mensagem para cada pessoa.
+Resumen: Aprenda o que é o Blast de IA: um envio de e-mails em massa em que a IA da AFRUS escreve a mensagem para cada pessoa.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -203,7 +203,7 @@ Idioma: pt-BR
 Título: Como usar o Blast de IA
 Slug: como-usar-o-blast-de-ia
 Categoría: AI
-Resumen: Aprenda a criar e enviar um Blast de IA na Afrus, passo a passo: público, design, mensagem e data de envio.
+Resumen: Aprenda a criar e enviar um Blast de IA na AFRUS, passo a passo: público, design, mensagem e data de envio.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -211,7 +211,7 @@ Relacionados: o-que-e-o-blast-de-ia, para-que-serve-o-blast-de-ia
 --- CUERPO (HTML) ---
 <p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
 <h2>Antes de começar</h2>
-<ul><li><strong>Ative a IA da Afrus.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li>
+<ul><li><strong>Ative a IA da AFRUS.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li>
 <li><strong>Envie informações em AI &gt; Entrenamiento [AI RAG].</strong> É isso que a IA usa para escrever.</li>
 <li><strong>Tenha prontos sua conta de e-mail de envio e seus créditos,</strong> como em um Blast comum.</li></ul>
 <h2>Passo a passo</h2>

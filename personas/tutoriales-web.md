@@ -10,13 +10,13 @@ Idioma: es
 Título: Qué es el módulo Personas
 Slug: que-es-personas
 Categoría: Personas
-Resumen: Aprende qué es Personas: la base de contactos de tu organización en Afrus, con el perfil completo de cada donante.
+Resumen: Aprende qué es Personas: la base de contactos de tu organización en AFRUS, con el perfil completo de cada donante.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-personas, como-crear-una-persona, como-descargar-un-grupo-de-personas, como-filtrar-un-grupo-de-personas, como-ver-los-eventos-de-una-persona, como-activar-o-desactivar-el-opt-in, como-eliminar-una-persona, como-ver-las-transacciones-y-suscripciones-de-una-persona, recordatorios-y-notas-en-el-perfil-de-una-persona, donde-ver-los-campos-personalizados-de-una-persona, como-enviar-links-personalizados-a-una-persona, como-crear-una-transaccion-o-suscripcion-desde-el-perfil
 --- CUERPO (HTML) ---
-<p><strong>Personas es la base de contactos de tu organización en Afrus.</strong> Aquí está cada persona que se registró, donó o que tu equipo creó a mano, con sus datos, etiquetas, consentimientos de comunicación (opt-in), transacciones, suscripciones, notas, recordatorios y el historial de lo que ha hecho.</p>
+<p><strong>Personas es la base de contactos de tu organización en AFRUS.</strong> Aquí está cada persona que se registró, donó o que tu equipo creó a mano, con sus datos, etiquetas, consentimientos de comunicación (opt-in), transacciones, suscripciones, notas, recordatorios y el historial de lo que ha hecho.</p>
 <h2>Qué verás en la pantalla</h2>
 <ul>
 <li><strong>Indicadores globales:</strong> <strong>Total de personas</strong>, <strong>Activos</strong>, <strong>Suscriptores</strong> y <strong>Monto total</strong>.</li>
@@ -60,7 +60,7 @@ Idioma: es
 Título: Cómo crear una persona
 Slug: como-crear-una-persona
 Categoría: Personas
-Resumen: Aprende a crear una persona a mano en Afrus, con sus datos, etiquetas, campos personalizados y consentimiento.
+Resumen: Aprende a crear una persona a mano en AFRUS, con sus datos, etiquetas, campos personalizados y consentimiento.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -86,7 +86,7 @@ Idioma: es
 Título: Cómo descargar un grupo de personas
 Slug: como-descargar-un-grupo-de-personas
 Categoría: Personas
-Resumen: Aprende a exportar a Excel o CSV un grupo de personas filtrado desde Afrus y a encontrar el archivo en Descargas.
+Resumen: Aprende a exportar a Excel o CSV un grupo de personas filtrado desde AFRUS y a encontrar el archivo en Descargas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -114,7 +114,7 @@ Idioma: es
 Título: Cómo filtrar un grupo de personas
 Slug: como-filtrar-un-grupo-de-personas
 Categoría: Personas
-Resumen: Aprende a buscar y filtrar personas en Afrus por etiqueta, tipo, scoring, campaña, widget, UTM, contactabilidad y fechas.
+Resumen: Aprende a buscar y filtrar personas en AFRUS por etiqueta, tipo, scoring, campaña, widget, UTM, contactabilidad y fechas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -141,7 +141,7 @@ Idioma: es
 Título: Cómo ver los eventos que ha hecho una persona
 Slug: como-ver-los-eventos-de-una-persona
 Categoría: Personas
-Resumen: Aprende a revisar en Afrus el historial de eventos de una persona y el estado de su opt-in en cada canal.
+Resumen: Aprende a revisar en AFRUS el historial de eventos de una persona y el estado de su opt-in en cada canal.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -164,7 +164,7 @@ Idioma: es
 Título: Cómo activar o desactivar el opt-in de una persona
 Slug: como-activar-o-desactivar-el-opt-in
 Categoría: Personas
-Resumen: Aprende a cambiar en Afrus el consentimiento de comunicación (opt-in) de una persona, canal por canal.
+Resumen: Aprende a cambiar en AFRUS el consentimiento de comunicación (opt-in) de una persona, canal por canal.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -189,7 +189,7 @@ Idioma: es
 Título: Cómo eliminar una persona
 Slug: como-eliminar-una-persona
 Categoría: Personas
-Resumen: Aprende a eliminar una persona o un grupo de personas en Afrus, y qué se borra junto con ellas.
+Resumen: Aprende a eliminar una persona o un grupo de personas en AFRUS, y qué se borra junto con ellas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -253,12 +253,12 @@ Imagen de portada: pendiente
 Relacionados: que-es-personas, como-ver-los-eventos-de-una-persona, como-ver-las-transacciones-y-suscripciones-de-una-persona, donde-ver-los-campos-personalizados-de-una-persona
 --- CUERPO (HTML) ---
 <h2>Recordatorios: para no olvidar un seguimiento</h2>
-<p>Programas un aviso sobre la persona y, al llegar la fecha, Afrus te envía un correo con su nombre, correo y teléfono y tu mensaje.</p>
+<p>Programas un aviso sobre la persona y, al llegar la fecha, AFRUS te envía un correo con su nombre, correo y teléfono y tu mensaje.</p>
 <ol>
 <li><strong>Crea el recordatorio.</strong> En el perfil, pestaña <strong>Recordatorios</strong>, pulsa "Crear recordatorio".</li>
 <li><strong>Complétalo y guarda.</strong> Escribe <strong>Nombre</strong> y <strong>Mensaje</strong>, elige fecha en <strong>Seleccionar Fecha</strong> y la hora.</li>
 </ol>
-<p>Afrus revisa los recordatorios cada 10 minutos, así que el correo puede llegar hasta unos 10 minutos después. Una vez enviado, el estado pasa a <strong>Completado</strong>.</p>
+<p>AFRUS revisa los recordatorios cada 10 minutos, así que el correo puede llegar hasta unos 10 minutos después. Una vez enviado, el estado pasa a <strong>Completado</strong>.</p>
 <h2>Notas: para dejar constancia de lo que ya pasó</h2>
 <p>Registran una interacción que ya ocurrió con la persona, para que todo tu equipo tenga el contexto.</p>
 <ol>
@@ -277,7 +277,7 @@ Idioma: es
 Título: Dónde ver la información de los campos personalizados
 Slug: donde-ver-los-campos-personalizados-de-una-persona
 Categoría: Personas
-Resumen: Aprende dónde ver, completar y exportar los campos personalizados de tus personas en Afrus.
+Resumen: Aprende dónde ver, completar y exportar los campos personalizados de tus personas en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -287,7 +287,7 @@ Relacionados: que-es-personas, como-crear-una-persona, como-descargar-un-grupo-d
 <li><strong>En el perfil:</strong> pestaña <strong>Contacto</strong>, tarjeta <strong>Más información</strong>, sección <strong>Información Personalizada</strong>. Cada campo aparece con su valor, o "-" si está vacío. La sección solo aparece si la persona tiene algún campo personalizado.</li>
 <li><strong>Al crear o editar:</strong> en la sección <strong>Información Personalizada</strong> de "Crear persona" o de "Editar".</li>
 <li><strong>En la exportación:</strong> como columnas, al descargar con <strong>Base de datos en tiempo real</strong>.</li>
-<li><strong>Dónde se definen:</strong> en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.</li>
+<li><strong>Dónde se definen:</strong> en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.</li>
 </ul>
 === FIN ===
 ```
@@ -364,7 +364,7 @@ Idioma: en
 Título: What the People (Personas) module is
 Slug: what-is-people
 Categoría: Personas
-Resumen: Learn what Personas is: your organization's contact database on Afrus, with each donor's full profile.
+Resumen: Learn what Personas is: your organization's contact database on AFRUS, with each donor's full profile.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -372,7 +372,7 @@ Relacionados: what-is-people-for, how-to-create-a-person, how-to-download-a-grou
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 
-<p><strong>Personas is your organization's contact database on Afrus.</strong> It holds everyone who registered, donated or was created by hand by your team, with their details, tags, communication consents (opt-in), transactions, subscriptions, notes, reminders and the history of what they have done.</p>
+<p><strong>Personas is your organization's contact database on AFRUS.</strong> It holds everyone who registered, donated or was created by hand by your team, with their details, tags, communication consents (opt-in), transactions, subscriptions, notes, reminders and the history of what they have done.</p>
 <h2>What you will see on screen</h2>
 <ul>
 <li><strong>Indicadores globales</strong> (global indicators): <strong>Total de personas</strong> (total people), <strong>Activos</strong> (active), <strong>Suscriptores</strong> (subscribers) and <strong>Monto total</strong> (total amount).</li>
@@ -416,7 +416,7 @@ Idioma: en
 Título: How to create a person
 Slug: how-to-create-a-person
 Categoría: Personas
-Resumen: Learn how to create a person by hand on Afrus, with their details, tags, custom fields and consent.
+Resumen: Learn how to create a person by hand on AFRUS, with their details, tags, custom fields and consent.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -444,7 +444,7 @@ Idioma: en
 Título: How to download a group of people
 Slug: how-to-download-a-group-of-people
 Categoría: Personas
-Resumen: Learn how to export a filtered group of people from Afrus to Excel or CSV and find the file in Downloads.
+Resumen: Learn how to export a filtered group of people from AFRUS to Excel or CSV and find the file in Downloads.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -474,7 +474,7 @@ Idioma: en
 Título: How to filter a group of people
 Slug: how-to-filter-a-group-of-people
 Categoría: Personas
-Resumen: Learn how to search and filter people on Afrus by tag, type, scoring, campaign, widget, UTM, contactability and dates.
+Resumen: Learn how to search and filter people on AFRUS by tag, type, scoring, campaign, widget, UTM, contactability and dates.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -503,7 +503,7 @@ Idioma: en
 Título: How to see the events a person has done
 Slug: how-to-see-a-persons-events
 Categoría: Personas
-Resumen: Learn how to review a person's event history on Afrus and their opt-in status on each channel.
+Resumen: Learn how to review a person's event history on AFRUS and their opt-in status on each channel.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -528,7 +528,7 @@ Idioma: en
 Título: How to turn a person's opt-in on or off
 Slug: how-to-turn-opt-in-on-or-off
 Categoría: Personas
-Resumen: Learn how to change a person's communication consent (opt-in) on Afrus, channel by channel.
+Resumen: Learn how to change a person's communication consent (opt-in) on AFRUS, channel by channel.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -555,7 +555,7 @@ Idioma: en
 Título: How to delete a person
 Slug: how-to-delete-a-person
 Categoría: Personas
-Resumen: Learn how to delete one person or a group of people on Afrus, and what is deleted along with them.
+Resumen: Learn how to delete one person or a group of people on AFRUS, and what is deleted along with them.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -625,12 +625,12 @@ Relacionados: what-is-people, how-to-see-a-persons-events, how-to-see-a-persons-
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 
 <h2>Reminders: so you don't forget a follow-up</h2>
-<p>You schedule an alert about the person and, on the date, Afrus emails you their name, email and phone and your message.</p>
+<p>You schedule an alert about the person and, on the date, AFRUS emails you their name, email and phone and your message.</p>
 <ol>
 <li><strong>Create the reminder.</strong> In the profile, <strong>Recordatorios</strong> tab, click "Crear recordatorio" (Create reminder).</li>
 <li><strong>Fill it in and save.</strong> Write <strong>Nombre</strong> (name) and <strong>Mensaje</strong> (message), choose the date in <strong>Seleccionar Fecha</strong> and the time.</li>
 </ol>
-<p>Afrus checks reminders every 10 minutes, so the email may arrive up to about 10 minutes later. Once sent, the status changes to <strong>Completado</strong> (Completed).</p>
+<p>AFRUS checks reminders every 10 minutes, so the email may arrive up to about 10 minutes later. Once sent, the status changes to <strong>Completado</strong> (Completed).</p>
 <h2>Notes: to record what already happened</h2>
 <p>They log an interaction that already took place with the person, so your whole team has the context.</p>
 <ol>
@@ -649,7 +649,7 @@ Idioma: en
 Título: Where to see custom field information
 Slug: where-to-see-a-persons-custom-fields
 Categoría: Personas
-Resumen: Learn where to see, fill in and export your people's custom fields on Afrus.
+Resumen: Learn where to see, fill in and export your people's custom fields on AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -661,7 +661,7 @@ Relacionados: what-is-people, how-to-create-a-person, how-to-download-a-group-of
 <li><strong>In the profile:</strong> <strong>Contacto</strong> tab, <strong>Más información</strong> (More information) card, <strong>Información Personalizada</strong> (Custom information) section. Each field shows its value, or "-" if empty. The section only appears if the person has any custom field.</li>
 <li><strong>When creating or editing:</strong> in the <strong>Información Personalizada</strong> section of "Crear persona" or "Editar" (Edit).</li>
 <li><strong>In the export:</strong> as columns, when downloading with <strong>Base de datos en tiempo real</strong>.</li>
-<li><strong>Where they are defined:</strong> in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. This screen opens in the previous version of Afrus, so it looks different.</li>
+<li><strong>Where they are defined:</strong> in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. This screen opens in the previous version of AFRUS, so it looks different.</li>
 </ul>
 === FIN ===
 ```
@@ -718,7 +718,7 @@ Relacionados: what-is-people, how-to-see-a-persons-transactions-and-subscription
 <ol>
 <li><strong>Open the window.</strong> In the profile, click "Nueva transacción" (New transaction).</li>
 <li><strong>Choose the type and click "Continuar" (Continue).</strong> <strong>Electrónica</strong> (Electronic) charges a saved card or another configured method; <strong>Manual</strong> records a payment already received (<strong>Efectivo</strong> — cash, <strong>Cheque</strong> — check, <strong>Transferencia</strong> — transfer, or <strong>Billetera digital</strong> — digital wallet).</li>
-<li><strong>Fill in the details.</strong> <strong>Método de pago</strong> (payment method), <strong>Monto</strong> (amount), <strong>Moneda</strong> (currency), <strong>Campaña</strong> and then <strong>Widget</strong>. For Manual, also <strong>Referencia (Opcional)</strong>, <strong>Fecha de transacción</strong> (transaction date) and <strong>Fecha de registro en afrus</strong> (date recorded in Afrus).</li>
+<li><strong>Fill in the details.</strong> <strong>Método de pago</strong> (payment method), <strong>Monto</strong> (amount), <strong>Moneda</strong> (currency), <strong>Campaña</strong> and then <strong>Widget</strong>. For Manual, also <strong>Referencia (Opcional)</strong>, <strong>Fecha de transacción</strong> (transaction date) and <strong>Fecha de registro en afrus</strong> (date recorded in AFRUS).</li>
 <li><strong>Create the transaction.</strong> Click "Crear transacción" (Create transaction).</li>
 </ol>
 <h2>New subscription</h2>
@@ -742,7 +742,7 @@ Idioma: pt-BR
 Título: O que é o módulo Personas (Pessoas)
 Slug: o-que-e-personas
 Categoría: Personas
-Resumen: Aprenda o que é Personas: a base de contatos da sua organização na Afrus, com o perfil completo de cada doador.
+Resumen: Aprenda o que é Personas: a base de contatos da sua organização na AFRUS, com o perfil completo de cada doador.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -750,7 +750,7 @@ Relacionados: para-que-serve-personas, como-criar-uma-pessoa, como-baixar-um-gru
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 
-<p><strong>Personas é a base de contatos da sua organização na Afrus.</strong> Ali está cada pessoa que se cadastrou, doou ou foi criada manualmente pela sua equipe, com seus dados, tags, consentimentos de comunicação (opt-in), transações, assinaturas, notas, lembretes e o histórico do que ela fez.</p>
+<p><strong>Personas é a base de contatos da sua organização na AFRUS.</strong> Ali está cada pessoa que se cadastrou, doou ou foi criada manualmente pela sua equipe, com seus dados, tags, consentimentos de comunicação (opt-in), transações, assinaturas, notas, lembretes e o histórico do que ela fez.</p>
 <h2>O que você verá na tela</h2>
 <ul>
 <li><strong>Indicadores globales</strong> (indicadores globais): <strong>Total de personas</strong>, <strong>Activos</strong> (ativos), <strong>Suscriptores</strong> (assinantes) e <strong>Monto total</strong> (valor total).</li>
@@ -794,7 +794,7 @@ Idioma: pt-BR
 Título: Como criar uma pessoa
 Slug: como-criar-uma-pessoa
 Categoría: Personas
-Resumen: Aprenda a criar uma pessoa manualmente na Afrus, com seus dados, tags, campos personalizados e consentimento.
+Resumen: Aprenda a criar uma pessoa manualmente na AFRUS, com seus dados, tags, campos personalizados e consentimento.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -822,7 +822,7 @@ Idioma: pt-BR
 Título: Como baixar um grupo de pessoas
 Slug: como-baixar-um-grupo-de-pessoas
 Categoría: Personas
-Resumen: Aprenda a exportar para Excel ou CSV um grupo de pessoas filtrado na Afrus e a encontrar o arquivo em Downloads.
+Resumen: Aprenda a exportar para Excel ou CSV um grupo de pessoas filtrado na AFRUS e a encontrar o arquivo em Downloads.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -852,7 +852,7 @@ Idioma: pt-BR
 Título: Como filtrar um grupo de pessoas
 Slug: como-filtrar-um-grupo-de-pessoas
 Categoría: Personas
-Resumen: Aprenda a buscar e filtrar pessoas na Afrus por tag, tipo, scoring, campanha, widget, UTM, contatabilidade e datas.
+Resumen: Aprenda a buscar e filtrar pessoas na AFRUS por tag, tipo, scoring, campanha, widget, UTM, contatabilidade e datas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -881,7 +881,7 @@ Idioma: pt-BR
 Título: Como ver os eventos de uma pessoa
 Slug: como-ver-os-eventos-de-uma-pessoa
 Categoría: Personas
-Resumen: Aprenda a consultar na Afrus o histórico de eventos de uma pessoa e o status do opt-in em cada canal.
+Resumen: Aprenda a consultar na AFRUS o histórico de eventos de uma pessoa e o status do opt-in em cada canal.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -906,7 +906,7 @@ Idioma: pt-BR
 Título: Como ativar ou desativar o opt-in de uma pessoa
 Slug: como-ativar-ou-desativar-o-opt-in
 Categoría: Personas
-Resumen: Aprenda a alterar na Afrus o consentimento de comunicação (opt-in) de uma pessoa, canal por canal.
+Resumen: Aprenda a alterar na AFRUS o consentimento de comunicação (opt-in) de uma pessoa, canal por canal.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -933,7 +933,7 @@ Idioma: pt-BR
 Título: Como excluir uma pessoa
 Slug: como-excluir-uma-pessoa
 Categoría: Personas
-Resumen: Aprenda a excluir uma pessoa ou um grupo de pessoas na Afrus, e o que é apagado junto com elas.
+Resumen: Aprenda a excluir uma pessoa ou um grupo de pessoas na AFRUS, e o que é apagado junto com elas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -1003,12 +1003,12 @@ Relacionados: o-que-e-personas, como-ver-os-eventos-de-uma-pessoa, como-ver-as-t
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 
 <h2>Lembretes: para não esquecer um acompanhamento</h2>
-<p>Você agenda um aviso sobre a pessoa e, na data, a Afrus envia para você um e-mail com o nome, o e-mail e o telefone dela e a sua mensagem.</p>
+<p>Você agenda um aviso sobre a pessoa e, na data, a AFRUS envia para você um e-mail com o nome, o e-mail e o telefone dela e a sua mensagem.</p>
 <ol>
 <li><strong>Crie o lembrete.</strong> No perfil, aba <strong>Recordatorios</strong>, clique em "Crear recordatorio" (Criar lembrete).</li>
 <li><strong>Preencha e salve.</strong> Escreva <strong>Nombre</strong> (nome) e <strong>Mensaje</strong> (mensagem), escolha a data em <strong>Seleccionar Fecha</strong> e o horário.</li>
 </ol>
-<p>A Afrus verifica os lembretes a cada 10 minutos, então o e-mail pode chegar até uns 10 minutos depois. Depois de enviado, o status passa para <strong>Completado</strong> (Concluído).</p>
+<p>A AFRUS verifica os lembretes a cada 10 minutos, então o e-mail pode chegar até uns 10 minutos depois. Depois de enviado, o status passa para <strong>Completado</strong> (Concluído).</p>
 <h2>Notas: para registrar o que já aconteceu</h2>
 <p>Registram uma interação que já ocorreu com a pessoa, para que toda a equipe tenha o contexto.</p>
 <ol>
@@ -1027,7 +1027,7 @@ Idioma: pt-BR
 Título: Onde ver as informações dos campos personalizados
 Slug: onde-ver-os-campos-personalizados-de-uma-pessoa
 Categoría: Personas
-Resumen: Aprenda onde ver, preencher e exportar os campos personalizados das suas pessoas na Afrus.
+Resumen: Aprenda onde ver, preencher e exportar os campos personalizados das suas pessoas na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -1039,7 +1039,7 @@ Relacionados: o-que-e-personas, como-criar-uma-pessoa, como-baixar-um-grupo-de-p
 <li><strong>No perfil:</strong> aba <strong>Contacto</strong>, cartão <strong>Más información</strong> (Mais informações), seção <strong>Información Personalizada</strong> (Informação personalizada). Cada campo aparece com seu valor, ou "-" se estiver vazio. A seção só aparece se a pessoa tiver algum campo personalizado.</li>
 <li><strong>Ao criar ou editar:</strong> na seção <strong>Información Personalizada</strong> de "Crear persona" ou de "Editar".</li>
 <li><strong>Na exportação:</strong> como colunas, ao baixar com <strong>Base de datos en tiempo real</strong>.</li>
-<li><strong>Onde são definidos:</strong> em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta tela abre na versão anterior da Afrus, por isso tem outra aparência.</li>
+<li><strong>Onde são definidos:</strong> em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.</li>
 </ul>
 === FIN ===
 ```
@@ -1096,7 +1096,7 @@ Relacionados: o-que-e-personas, como-ver-as-transacoes-e-assinaturas-de-uma-pess
 <ol>
 <li><strong>Abra a janela.</strong> No perfil, clique em "Nueva transacción" (Nova transação).</li>
 <li><strong>Escolha o tipo e clique em "Continuar".</strong> <strong>Electrónica</strong> (Eletrônica) cobra em um cartão salvo ou outro meio configurado; <strong>Manual</strong> registra um pagamento já recebido (<strong>Efectivo</strong> — dinheiro, <strong>Cheque</strong>, <strong>Transferencia</strong> — transferência, ou <strong>Billetera digital</strong> — carteira digital).</li>
-<li><strong>Preencha os dados.</strong> <strong>Método de pago</strong> (forma de pagamento), <strong>Monto</strong> (valor), <strong>Moneda</strong> (moeda), <strong>Campaña</strong> e depois <strong>Widget</strong>. Em Manual, também <strong>Referencia (Opcional)</strong>, <strong>Fecha de transacción</strong> (data da transação) e <strong>Fecha de registro en afrus</strong> (data de registro na Afrus).</li>
+<li><strong>Preencha os dados.</strong> <strong>Método de pago</strong> (forma de pagamento), <strong>Monto</strong> (valor), <strong>Moneda</strong> (moeda), <strong>Campaña</strong> e depois <strong>Widget</strong>. Em Manual, também <strong>Referencia (Opcional)</strong>, <strong>Fecha de transacción</strong> (data da transação) e <strong>Fecha de registro en afrus</strong> (data de registro na AFRUS).</li>
 <li><strong>Crie a transação.</strong> Clique em "Crear transacción" (Criar transação).</li>
 </ol>
 <h2>Nova assinatura</h2>

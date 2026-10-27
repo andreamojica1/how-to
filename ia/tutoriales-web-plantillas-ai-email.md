@@ -19,7 +19,7 @@ Relacionados: para-que-sirven-las-plantillas-ai-email, como-usar-las-plantillas-
 <p><strong>Las Plantillas AI Email son los diseños que usa la IA para armar tus correos automáticos.</strong> La IA escribe los textos y la plantilla define cómo se ven.</p>
 <p>Las encuentras en <strong>AI &gt; Plantillas AI Email</strong>. Hay dos tipos:</p>
 <ul>
-<li><strong>Global:</strong> las prepara Afrus. Puedes activarlas o desactivarlas.</li>
+<li><strong>Global:</strong> las prepara AFRUS. Puedes activarlas o desactivarlas.</li>
 <li><strong>Propia:</strong> las crea tu organización. Puedes editarlas, duplicarlas o eliminarlas.</li>
 </ul>
 === FIN ===
@@ -38,12 +38,12 @@ Imagen de portada: pendiente
 Relacionados: que-son-las-plantillas-ai-email, como-usar-las-plantillas-ai-email
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Darle tu estilo a los correos con IA.</strong> Cuando un correo con IA usa diseño de plantilla (en Blast de AI y en autoresponders con IA), Afrus elige al azar una de tus plantillas activas y la IA rellena los textos.</li>
-<li><strong>Decidir qué diseños se usan.</strong> Solo se usan las activas: tus plantillas en <strong>Habilitado</strong> y las de Afrus que no desactivaste.</li>
-<li><strong>No quedarte sin diseño.</strong> Si no hay ninguna activa, Afrus usa un diseño estándar.</li>
+<li><strong>Darle tu estilo a los correos con IA.</strong> Cuando un correo con IA usa diseño de plantilla (en Blast de AI y en autoresponders con IA), AFRUS elige al azar una de tus plantillas activas y la IA rellena los textos.</li>
+<li><strong>Decidir qué diseños se usan.</strong> Solo se usan las activas: tus plantillas en <strong>Habilitado</strong> y las de AFRUS que no desactivaste.</li>
+<li><strong>No quedarte sin diseño.</strong> Si no hay ninguna activa, AFRUS usa un diseño estándar.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo elegir qué plantilla usa cada envío?</strong> No. Afrus elige al azar entre las activas. Si quieres que se use una sola, deja solo esa activa.</p>
+<p><strong>¿Puedo elegir qué plantilla usa cada envío?</strong> No. AFRUS elige al azar entre las activas. Si quieres que se use una sola, deja solo esa activa.</p>
 === FIN ===
 ```
 
@@ -95,7 +95,7 @@ Relacionados: what-are-ai-email-templates-for, how-to-use-ai-email-templates
 <p><strong>AI email templates are the designs the AI uses to build your automatic emails.</strong> The AI writes the texts and the template defines how they look.</p>
 <p>You'll find them in <strong>AI &gt; Plantillas AI Email</strong> (AI email templates). Labels are shown as they appear in the Spanish version of the console. There are two kinds:</p>
 <ul>
-<li><strong>Global:</strong> prepared by Afrus. You can turn them on or off.</li>
+<li><strong>Global:</strong> prepared by AFRUS. You can turn them on or off.</li>
 <li><strong>Propia</strong> (Own): created by your organization. You can edit, duplicate or delete them.</li>
 </ul>
 === FIN ===
@@ -114,12 +114,12 @@ Imagen de portada: pendiente
 Relacionados: what-are-ai-email-templates, how-to-use-ai-email-templates
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Giving AI emails your style.</strong> When an AI email uses a template design (in AI Blast and AI autoresponders), Afrus picks one of your active templates at random and the AI fills in the texts.</li>
-<li><strong>Deciding which designs are used.</strong> Only active ones are used: your templates set to <strong>Habilitado</strong> (Enabled) and the Afrus ones you haven't turned off.</li>
-<li><strong>Never running out of a design.</strong> If none is active, Afrus uses a standard design.</li>
+<li><strong>Giving AI emails your style.</strong> When an AI email uses a template design (in AI Blast and AI autoresponders), AFRUS picks one of your active templates at random and the AI fills in the texts.</li>
+<li><strong>Deciding which designs are used.</strong> Only active ones are used: your templates set to <strong>Habilitado</strong> (Enabled) and the AFRUS ones you haven't turned off.</li>
+<li><strong>Never running out of a design.</strong> If none is active, AFRUS uses a standard design.</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I choose which template each send uses?</strong> No. Afrus picks at random among the active ones. If you want only one used, leave only that one active.</p>
+<p><strong>Can I choose which template each send uses?</strong> No. AFRUS picks at random among the active ones. If you want only one used, leave only that one active.</p>
 === FIN ===
 ```
 
@@ -172,7 +172,7 @@ Relacionados: para-que-servem-os-modelos-de-email-com-ia, como-usar-os-modelos-d
 <p><strong>Os modelos de e-mail com IA são os layouts que a IA usa para montar seus e-mails automáticos.</strong> A IA escreve os textos e o modelo define o visual.</p>
 <p>Eles ficam em <strong>AI &gt; Plantillas AI Email</strong> (Modelos de e-mail com IA). Os nomes de tela aparecem como na versão em espanhol do console. Há dois tipos:</p>
 <ul>
-<li><strong>Global:</strong> preparados pela Afrus. Você pode ativá-los ou desativá-los.</li>
+<li><strong>Global:</strong> preparados pela AFRUS. Você pode ativá-los ou desativá-los.</li>
 <li><strong>Propia</strong> (Próprio): criados pela sua organização. Você pode editá-los, duplicá-los ou excluí-los.</li>
 </ul>
 === FIN ===
@@ -191,12 +191,12 @@ Imagen de portada: pendiente
 Relacionados: o-que-sao-os-modelos-de-email-com-ia, como-usar-os-modelos-de-email-com-ia
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Dar o seu estilo aos e-mails com IA.</strong> Quando um e-mail com IA usa layout de modelo (no Blast de AI e nos autoresponders com IA), a Afrus escolhe ao acaso um dos seus modelos ativos e a IA preenche os textos.</li>
-<li><strong>Decidir quais layouts são usados.</strong> Só são usados os ativos: os seus em <strong>Habilitado</strong> e os da Afrus que você não desativou.</li>
-<li><strong>Nunca ficar sem layout.</strong> Se nenhum estiver ativo, a Afrus usa um layout padrão.</li>
+<li><strong>Dar o seu estilo aos e-mails com IA.</strong> Quando um e-mail com IA usa layout de modelo (no Blast de AI e nos autoresponders com IA), a AFRUS escolhe ao acaso um dos seus modelos ativos e a IA preenche os textos.</li>
+<li><strong>Decidir quais layouts são usados.</strong> Só são usados os ativos: os seus em <strong>Habilitado</strong> e os da AFRUS que você não desativou.</li>
+<li><strong>Nunca ficar sem layout.</strong> Se nenhum estiver ativo, a AFRUS usa um layout padrão.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso escolher qual modelo cada envio usa?</strong> Não. A Afrus escolhe ao acaso entre os ativos. Se quiser que só um seja usado, deixe apenas esse ativo.</p>
+<p><strong>Posso escolher qual modelo cada envio usa?</strong> Não. A AFRUS escolhe ao acaso entre os ativos. Se quiser que só um seja usado, deixe apenas esse ativo.</p>
 === FIN ===
 ```
 

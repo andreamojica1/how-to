@@ -9,18 +9,18 @@ Idioma: es
 Título: Qué es un widget
 Slug: que-es-un-widget
 Categoría: Widgets
-Resumen: Aprende qué es un widget de Afrus: un formulario de donación, registro o pago que se arma por bloques y se inserta en tu sitio web.
+Resumen: Aprende qué es un widget de AFRUS: un formulario de donación, registro o pago que se arma por bloques y se inserta en tu sitio web.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-un-widget, tipos-de-widgets-en-afrus, como-cambiar-los-estilos-del-widget, como-agregar-un-nuevo-pais-a-un-widget, snippets-obligatorios-y-sugeridos, como-configurar-los-metodos-de-pago-del-widget, como-configurar-el-snippet-donacion, scape-recurrent-donacion-unica-como-enlace, cards-de-conversion-unica-a-recurrente, cover-your-cost, como-configurar-una-pagina-de-agradecimiento-en-el-widget, opciones-avanzadas-del-widget, como-insertar-un-widget-en-tu-sitio-web
 --- CUERPO (HTML) ---
-<p><strong>Un widget es un formulario de Afrus (de donación, de registro, de pago, etc.) que se arma por bloques llamados snippets y se inserta en cualquier sitio web o landing con un pequeño código.</strong></p>
+<p><strong>Un widget es un formulario de AFRUS (de donación, de registro, de pago, etc.) que se arma por bloques llamados snippets y se inserta en cualquier sitio web o landing con un pequeño código.</strong></p>
 <p>Cada widget tiene un <strong>Objetivo</strong> (por ejemplo, donación o registro), uno o varios países con su idioma y moneda, y una lista de snippets: información personal, montos, medio de pago, términos y condiciones, botón, etc.</p>
 <h2>Dónde lo encuentras</h2>
 <p>En <strong>Fundraising &gt; Widgets</strong> verás la pantalla <strong>Gestión de Widgets</strong>, con el botón "Nuevo widget", filtros (<strong>Campaña</strong>, <strong>Objetivo</strong>, <strong>Estado</strong>, <strong>Por defecto</strong>, <strong>Etiqueta</strong>) y una tabla con <strong>Estado</strong>, <strong>Nombre</strong>, <strong>Fecha</strong>, <strong>Objetivo</strong>, <strong>Recaudado</strong>, <strong>Transacciones</strong>, <strong>Suscripciones</strong>, <strong>Vistas</strong> y <strong>Registros</strong>.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Por qué el editor se ve distinto al resto de la consola?</strong> Porque "Nuevo widget" y "Editar" abren el editor en la versión anterior de Afrus, en una pestaña nueva. Por eso ahí el botón de crear dice "Nuevo formulario".</p>
+<p><strong>¿Por qué el editor se ve distinto al resto de la consola?</strong> Porque "Nuevo widget" y "Editar" abren el editor en la versión anterior de AFRUS, en una pestaña nueva. Por eso ahí el botón de crear dice "Nuevo formulario".</p>
 === FIN ===
 ```
 
@@ -36,7 +36,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-widget, tipos-de-widgets-en-afrus, como-cambiar-los-estilos-del-widget, como-agregar-un-nuevo-pais-a-un-widget
 --- CUERPO (HTML) ---
-<p>Un widget es un formulario de Afrus que insertas en tu sitio o landing. Esto es lo que te permite hacer:</p>
+<p>Un widget es un formulario de AFRUS que insertas en tu sitio o landing. Esto es lo que te permite hacer:</p>
 <ul>
 <li><strong>Recibir donaciones desde tu sitio.</strong> Únicas, mensuales o anuales, sin que el donante salga de tu página.</li>
 <li><strong>Captar registros (leads), vender productos o tickets y cobrar pagos.</strong> Cada uso tiene su propio tipo de widget.</li>
@@ -53,13 +53,13 @@ Idioma: es
 Título: Qué tipos de widgets existen y para qué se usa cada uno
 Slug: tipos-de-widgets-en-afrus
 Categoría: Widgets
-Resumen: Aprende qué tipos de widget (objetivos) ofrece Afrus, para qué sirve cada uno y cómo crear el que necesitas.
+Resumen: Aprende qué tipos de widget (objetivos) ofrece AFRUS, para qué sirve cada uno y cómo crear el que necesitas.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-widget, para-que-sirve-un-widget, como-cambiar-los-estilos-del-widget, como-agregar-un-nuevo-pais-a-un-widget
 --- CUERPO (HTML) ---
-<p>El tipo de widget es su <strong>Objetivo</strong>. Se elige al crearlo y define qué snippets se agregan solos. Los objetivos que ves son los que Afrus tiene habilitados para tu organización.</p>
+<p>El tipo de widget es su <strong>Objetivo</strong>. Se elige al crearlo y define qué snippets se agregan solos. Los objetivos que ves son los que AFRUS tiene habilitados para tu organización.</p>
 <ul>
 <li><strong>Transacción:</strong> donaciones únicas, mensuales o anuales.</li>
 <li><strong>Registros / Registro:</strong> captar datos de personas (leads), sin pago.</li>
@@ -70,7 +70,7 @@ Relacionados: que-es-un-widget, para-que-sirve-un-widget, como-cambiar-los-estil
 </ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el editor.</strong> En <strong>Fundraising &gt; Widgets</strong>, haz clic en "Nuevo widget". Se abre la versión anterior de Afrus en una pestaña nueva; ahí haz clic en "Nuevo formulario".</li>
+<li><strong>Abre el editor.</strong> En <strong>Fundraising &gt; Widgets</strong>, haz clic en "Nuevo widget". Se abre la versión anterior de AFRUS en una pestaña nueva; ahí haz clic en "Nuevo formulario".</li>
 <li><strong>Elige el objetivo.</strong> Escribe el <strong>Nombre del formulario</strong> (máximo 50 caracteres), elige el <strong>Objetivo</strong> y haz clic en "Crear".</li>
 <li><strong>Vincula una campaña.</strong> En <strong>Renderización</strong>, elige al menos una en <strong>Elige tus campañas</strong>. Es obligatorio.</li>
 <li><strong>Elige cómo se muestra.</strong> En <strong>Mecanismo de renderización</strong>, elige <strong>Estandar</strong> (incrustado en la página) o <strong>Popup</strong> (se abre desde un botón; completa <strong>Texto del botón Pop up</strong>).</li>
@@ -87,13 +87,13 @@ Idioma: es
 Título: Cómo cambiar los estilos del widget
 Slug: como-cambiar-los-estilos-del-widget
 Categoría: Widgets
-Resumen: Aprende a cambiar la forma de los campos, los colores, la tipografía, el encabezado y el pie de tu widget de Afrus.
+Resumen: Aprende a cambiar la forma de los campos, los colores, la tipografía, el encabezado y el pie de tu widget de AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-widget, tipos-de-widgets-en-afrus, como-agregar-un-nuevo-pais-a-un-widget, para-que-sirve-un-widget
 --- CUERPO (HTML) ---
-<p>El editor del widget se abre en la versión anterior de Afrus, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
+<p>El editor del widget se abre en la versión anterior de AFRUS, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre el panel Estilo.</strong> En la pestaña <strong>Editar</strong> del editor, abre <strong>Estilo</strong>.</li>
 <li><strong>Elige la forma de los campos.</strong> En <strong>Seleccione un estilo para el formulario</strong>: <strong>Cuadrado</strong>, <strong>Cuadrado redondeado</strong>, <strong>Redondeado</strong> o <strong>Línea</strong>.</li>
@@ -120,7 +120,7 @@ Imagen de portada: pendiente
 Relacionados: que-es-un-widget, como-cambiar-los-estilos-del-widget, snippets-obligatorios-y-sugeridos, tipos-de-widgets-en-afrus
 --- CUERPO (HTML) ---
 <p>Cada país del widget tiene su propio <strong>Idioma</strong>, su propia <strong>Moneda</strong> y sus propios snippets (montos, pasarelas, campos). Quien abre el widget ve el país desde donde navega, si está configurado; si no, ve el país por defecto (con estrella).</p>
-<p>El editor del widget se abre en la versión anterior de Afrus, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
+<p>El editor del widget se abre en la versión anterior de AFRUS, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
 <ol>
 <li><strong>Agrega el país.</strong> En la columna central, haz clic en <strong>Nuevo país</strong>.</li>
 <li><strong>Completa idioma y moneda.</strong> Elige <strong>Seleccione un país</strong>, el <strong>Idioma</strong> (Español, English, Portugues, Italian o Deutsch) y revisa la <strong>Moneda</strong>. En widgets de <strong>Pagos</strong>, elige también el formato decimal.</li>
@@ -146,7 +146,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-widget, como-agregar-un-nuevo-pais-a-un-widget, como-configurar-los-metodos-de-pago-del-widget, como-cambiar-los-estilos-del-widget
 --- CUERPO (HTML) ---
-<p>En el editor, los snippets son <strong>obligatorios</strong> u <strong>opcionales</strong>. Afrus no marca snippets como "sugeridos": cuáles conviene usar depende de tu formulario.</p>
+<p>En el editor, los snippets son <strong>obligatorios</strong> u <strong>opcionales</strong>. AFRUS no marca snippets como "sugeridos": cuáles conviene usar depende de tu formulario.</p>
 <h2>Obligatorios</h2>
 <ul>
 <li><strong>Información personal:</strong> siempre va primero.</li>
@@ -156,10 +156,10 @@ Relacionados: que-es-un-widget, como-agregar-un-nuevo-pais-a-un-widget, como-con
 <li><strong>Los que exige la pasarela:</strong> se agregan solos al guardar Medio de pago, con el aviso <em>"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"</em>.</li>
 </ul>
 <h2>Opcionales</h2>
-<p>Imagen, Texto, Separador, Campo personalizado, Campo predeterminado, Dirección o Dirección Fija, Documento, Ofrecer única a recurrente, ID de la campaña de Salesforce y, en misas, Imagen con texto, Intención y Regala intención. Algunos solo aparecen si Afrus los habilitó para tu organización.</p>
+<p>Imagen, Texto, Separador, Campo personalizado, Campo predeterminado, Dirección o Dirección Fija, Documento, Ofrecer única a recurrente, ID de la campaña de Salesforce y, en misas, Imagen con texto, Intención y Regala intención. Algunos solo aparecen si AFRUS los habilitó para tu organización.</p>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el editor del widget.</strong> Se abre en la versión anterior de Afrus.</li>
+<li><strong>Abre el editor del widget.</strong> Se abre en la versión anterior de AFRUS.</li>
 <li><strong>Agrega el snippet.</strong> Haz clic en "Agregar" y elígelo.</li>
 <li><strong>Configúralo.</strong> Complétalo en <strong>Configuración del snippet</strong> y guárdalo con <strong>Guardar Snippet</strong>.</li>
 <li><strong>Ordénalo.</strong> Arrástralo a su posición.</li>
@@ -183,7 +183,7 @@ Relacionados: que-es-un-widget, snippets-obligatorios-y-sugeridos, como-configur
 <ul><li><strong>Conecta la pasarela</strong> en <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>. En el widget solo aparecen las pasarelas conectadas que aceptan la moneda del país.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el snippet Medio de pago.</strong> En el editor del widget (versión anterior de Afrus), elige el país y haz clic en <strong>Medio de pago</strong>.</li>
+<li><strong>Abre el snippet Medio de pago.</strong> En el editor del widget (versión anterior de AFRUS), elige el país y haz clic en <strong>Medio de pago</strong>.</li>
 <li><strong>Elige las periodicidades.</strong> En <strong>Seleccionar periodicidades</strong>, marca <strong>Única</strong>, <strong>Mensual</strong> y/o <strong>Anual</strong>.</li>
 <li><strong>Elige las pasarelas.</strong> En <strong>Selecionar pasarelas de pago</strong>.</li>
 <li><strong>Empata método y periodicidad.</strong> En <strong>Empatar periodicidad y método de pago</strong>, marca en qué periodicidades se ofrece cada método.</li>
@@ -212,7 +212,7 @@ Relacionados: que-es-un-widget, como-configurar-los-metodos-de-pago-del-widget, 
 <ul><li><strong>Configura primero Medio de pago.</strong> Las frecuencias del snippet Donación salen de las periodicidades marcadas ahí.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el snippet Donación.</strong> En el editor del widget (versión anterior de Afrus), elige el país y haz clic en <strong>Donación</strong>.</li>
+<li><strong>Abre el snippet Donación.</strong> En el editor del widget (versión anterior de AFRUS), elige el país y haz clic en <strong>Donación</strong>.</li>
 <li><strong>Elige las opciones.</strong> <strong>Quiero campo de monto</strong> (monto libre), <strong>No quiero sugerir cantidades.</strong>, <strong>Quiero escribir una frase de solicitud para cada cantidad</strong> y <strong>Quiero poner una imagen y descripción por cada cantidad</strong>.</li>
 <li><strong>Configura los montos.</strong> Haz clic en "Configurar frecuencias". En cada pestaña agrega hasta 4 montos, marca con estrella el predeterminado (obligatorio) y, si quieres, un <strong>Mínimo</strong>. Si hay varias frecuencias, elige la preseleccionada con <strong>Seleccionar frecuencia por defecto</strong>.</li>
 <li><strong>Agrega imágenes (opcional).</strong> Una por monto, con "Subir imagen" o desde <strong>Galería</strong>: jpg, webp o png, recomendado 150 × 150 píxeles y hasta 1 MB.</li>
@@ -242,7 +242,7 @@ Relacionados: que-es-un-widget, como-configurar-el-snippet-donacion, cards-de-co
 <ul><li><strong>En el snippet Donación</strong>, <strong>Mensual</strong> debe estar activa con al menos un monto, y <strong>Única</strong> también debe estar activa.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el snippet Donación</strong> en el editor del widget (versión anterior de Afrus).</li>
+<li><strong>Abre el snippet Donación</strong> en el editor del widget (versión anterior de AFRUS).</li>
 <li><strong>Activa la opción.</strong> Marca <strong>Mostrar la donación única solo como enlace debajo del botón de pago</strong>.</li>
 <li><strong>Guarda.</strong> <strong>Guardar Snippet</strong> y luego "Guardar Widget".</li>
 </ol>
@@ -266,12 +266,12 @@ Relacionados: que-es-un-widget, scape-recurrent-donacion-unica-como-enlace, cove
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
 <ul>
-<li><strong>Afrus debe habilitar</strong> el snippet <strong>Ofrecer única a recurrente</strong> para tu organización. Solo existe en widgets de objetivo <strong>Transacción</strong>.</li>
+<li><strong>AFRUS debe habilitar</strong> el snippet <strong>Ofrecer única a recurrente</strong> para tu organización. Solo existe en widgets de objetivo <strong>Transacción</strong>.</li>
 <li><strong>La frecuencia mensual</strong> debe estar habilitada en el snippet <strong>Donación</strong> con al menos un monto.</li>
 </ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Agrega el snippet.</strong> En el editor del widget (versión anterior de Afrus), "Agregar" y elige <strong>Ofrecer única a recurrente</strong>. Se coloca solo después de Donación.</li>
+<li><strong>Agrega el snippet.</strong> En el editor del widget (versión anterior de AFRUS), "Agregar" y elige <strong>Ofrecer única a recurrente</strong>. Se coloca solo después de Donación.</li>
 <li><strong>Actívalo.</strong> Activa <strong>Habilitar</strong>.</li>
 <li><strong>Personaliza la tarjeta (opcional).</strong> <strong>Título</strong>, <strong>Subtítulo</strong> y colores.</li>
 <li><strong>Define las tasas.</strong> <strong>Tasa 1 (%)</strong> y <strong>Tasa 2 (%)</strong>, enteros de 1 a 99 (vienen en 50 y 25): los porcentajes del monto único que se proponen como mensual.</li>
@@ -280,10 +280,10 @@ Relacionados: que-es-un-widget, scape-recurrent-donacion-unica-como-enlace, cove
 <h2>Qué ve el donante</h2>
 <ul>
 <li><strong>Durante el formulario:</strong> la tarjeta <em>"Conviértete en donante mensual"</em> con dos montos mensuales y la opción de mantener su donación única.</li>
-<li><strong>Después de pagar</strong> (donación única con tarjeta en una pasarela gestionada por Afrus): <em>"Conviértelo en un regalo mensual"</em>. Si acepta, se crea además una suscripción mensual; la donación ya cobrada no cambia.</li>
+<li><strong>Después de pagar</strong> (donación única con tarjeta en una pasarela gestionada por AFRUS): <em>"Conviértelo en un regalo mensual"</em>. Si acepta, se crea además una suscripción mensual; la donación ya cobrada no cambia.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Funciona con PayPal o Pix?</strong> Solo la oferta dentro del formulario. La oferta después del pago requiere tarjeta en una pasarela gestionada por Afrus.</p>
+<p><strong>¿Funciona con PayPal o Pix?</strong> Solo la oferta dentro del formulario. La oferta después del pago requiere tarjeta en una pasarela gestionada por AFRUS.</p>
 === FIN ===
 ```
 
@@ -302,14 +302,14 @@ Relacionados: que-es-un-widget, cards-de-conversion-unica-a-recurrente, como-con
 <p>Con <strong>Cover Your Cost</strong>, el donante puede cubrir la comisión de la pasarela, para que tu organización reciba el monto completo de la donación.</p>
 <h2>Antes de empezar</h2>
 <ul>
-<li><strong>Afrus debe activarlo</strong> para tu organización; no se activa desde la consola.</li>
+<li><strong>AFRUS debe activarlo</strong> para tu organización; no se activa desde la consola.</li>
 <li><strong>Se configura por pasarela</strong>, no dentro del widget.</li>
 </ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre la pasarela.</strong> En <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>.</li>
 <li><strong>Activa la opción.</strong> En <strong>Cover Your Cost</strong>, activa <strong>Activar Cover Your Cost</strong>.</li>
-<li><strong>Define la comisión.</strong> <strong>Comisión de pasarela (%)</strong>, mínimo 0.01. Sumada a la <strong>Comisión Afrus (%)</strong> debe ser menor a 80 %.</li>
+<li><strong>Define la comisión.</strong> <strong>Comisión de pasarela (%)</strong>, mínimo 0.01. Sumada a la <strong>Comisión AFRUS (%)</strong> debe ser menor a 80 %.</li>
 <li><strong>Elige si viene preseleccionada.</strong> Con <strong>Preseleccionar la opción para el donante</strong>.</li>
 <li><strong>Guarda la pasarela.</strong> Repite en cada pasarela que deba ofrecerlo.</li>
 </ol>
@@ -331,7 +331,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-widget, cover-your-cost, opciones-avanzadas-del-widget, cards-de-conversion-unica-a-recurrente
 --- CUERPO (HTML) ---
-<p>El editor del widget se abre en la versión anterior de Afrus, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
+<p>El editor del widget se abre en la versión anterior de AFRUS, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre el panel.</strong> En la pestaña <strong>Editar</strong>, abre el panel <strong>Avanzado</strong> y, dentro, <strong>Página de agradecimiento</strong>.</li>
 <li><strong>Opción A: la de la campaña.</strong> Marca <strong>Usa la página de agradecimiento de la campaña.</strong></li>
@@ -356,13 +356,13 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-un-widget, como-configurar-una-pagina-de-agradecimiento-en-el-widget, como-insertar-un-widget-en-tu-sitio-web, cover-your-cost
 --- CUERPO (HTML) ---
-<p>El editor del widget se abre en la versión anterior de Afrus, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><p>Todas estas opciones están en el panel <strong>Avanzado</strong> y se guardan con "Guardar Widget".</p>
+<p>El editor del widget se abre en la versión anterior de AFRUS, en una pestaña nueva, por eso se ve distinto. Para abrirlo, en <strong>Fundraising &gt; Widgets</strong> haz clic en "Editar" en la fila del widget.</p><p>Todas estas opciones están en el panel <strong>Avanzado</strong> y se guardan con "Guardar Widget".</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Recaptcha.</strong> Activa el interruptor para que el donante siempre escriba un código de verificación de 6 caracteres. Sin él, el captcha igual puede aparecer ante un intento sospechoso.</li>
 <li><strong>Google Tag Manager 4.</strong> Pega tu <strong>Código de seguimiento</strong> (ID del contenedor) para recibir los eventos del recorrido del donante.</li>
-<li><strong>Protocolo de medición.</strong> Completa <strong>Measurement Id</strong> y <strong>Api secret</strong> de GA4: Afrus envía los eventos, incluida la compra, también desde el servidor.</li>
-<li><strong>Facebook Capi.</strong> Completa <strong>Pixel id</strong> y <strong>Access Token</strong>: Afrus envía los eventos a Meta desde el navegador y desde el servidor.</li>
+<li><strong>Protocolo de medición.</strong> Completa <strong>Measurement Id</strong> y <strong>Api secret</strong> de GA4: AFRUS envía los eventos, incluida la compra, también desde el servidor.</li>
+<li><strong>Facebook Capi.</strong> Completa <strong>Pixel id</strong> y <strong>Access Token</strong>: AFRUS envía los eventos a Meta desde el navegador y desde el servidor.</li>
 <li><strong>Face to Face</strong> (widgets transaccionales). Para donaciones presenciales: activa <strong>Face to Face</strong> y completa <strong>Correo del captador</strong> (obligatorio) y <strong>Correo del supervisor</strong>. El autocompletado del navegador se desactiva solo.</li>
 <li><strong>Guarda.</strong> Haz clic en "Guardar Widget".</li>
 </ol>
@@ -378,7 +378,7 @@ Idioma: es
 Título: Cómo insertar un widget en tu sitio web
 Slug: como-insertar-un-widget-en-tu-sitio-web
 Categoría: Widgets
-Resumen: Aprende a copiar el código de tu widget de Afrus y pegarlo en tu sitio web, con ancho personalizado si lo necesitas.
+Resumen: Aprende a copiar el código de tu widget de AFRUS y pegarlo en tu sitio web, con ancho personalizado si lo necesitas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -391,7 +391,7 @@ Relacionados: que-es-un-widget, opciones-avanzadas-del-widget, como-configurar-u
 <li><strong>Pégalo en tu página.</strong> En un bloque o componente HTML de tu sitio. El widget aparecerá ahí.</li>
 </ol>
 <h2>Si necesitas otro ancho</h2>
-<p>En el editor del widget (versión anterior de Afrus), pestaña <strong>Instalar</strong>, define el ancho en <strong>Configura el ancho del formulario</strong> (px, %, em, rem o vw), haz clic en "Guardar Widget" y copia el <strong>Código de inserción</strong>.</p>
+<p>En el editor del widget (versión anterior de AFRUS), pestaña <strong>Instalar</strong>, define el ancho en <strong>Configura el ancho del formulario</strong> (px, %, em, rem o vw), haz clic en "Guardar Widget" y copia el <strong>Código de inserción</strong>.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Necesito un código por país?</strong> No. El código es el mismo para todos los países; el país se elige solo.</p>
 <p><strong>¿Por qué no recibe donaciones?</strong> Revisa que el interruptor <strong>Estado</strong> del widget esté activo.</p>
@@ -406,18 +406,18 @@ Idioma: en
 Título: What a widget is
 Slug: what-is-a-widget
 Categoría: Widgets
-Resumen: Learn what an Afrus widget is: a donation, registration or payment form built from blocks and embedded on your website.
+Resumen: Learn what an AFRUS widget is: a donation, registration or payment form built from blocks and embedded on your website.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget-for, widget-types-in-afrus, how-to-change-the-widget-styles, how-to-add-a-new-country-to-a-widget, required-and-suggested-snippets, how-to-set-up-widget-payment-methods, how-to-set-up-the-donation-snippet, scape-recurrent-one-time-donation-as-link, conversion-cards-one-time-to-recurring, cover-your-cost-donors-cover-costs, how-to-set-up-a-thank-you-page-in-the-widget, advanced-widget-options, how-to-embed-a-widget-on-your-website
 --- CUERPO (HTML) ---
-<p><strong>A widget is an Afrus form (donation, registration, payment, etc.) built from blocks called snippets and embedded on any website or landing page with a short code.</strong></p>
+<p><strong>A widget is an AFRUS form (donation, registration, payment, etc.) built from blocks called snippets and embedded on any website or landing page with a short code.</strong></p>
 <p>Each widget has an <strong>Objetivo</strong> (Goal), one or more countries with their language and currency, and a list of snippets: personal information, amounts, payment method, terms and conditions, button, etc.</p>
 <h2>Where to find it</h2>
 <p>Labels are shown as they appear in the Spanish version of the console.</p><p>In <strong>Fundraising &gt; Widgets</strong> you will see the <strong>Gestión de Widgets</strong> (Widget management) screen, with the "Nuevo widget" (New widget) button, filters (campaign, goal, status, default, tag) and a table with status, name, date, goal, amount raised, transactions, subscriptions, views and registrations.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Why does the editor look different from the rest of the console?</strong> Because "Nuevo widget" and "Editar" open the editor in the previous version of Afrus, in a new tab. That's why the create button there says "Nuevo formulario" (New form).</p>
+<p><strong>Why does the editor look different from the rest of the console?</strong> Because "Nuevo widget" and "Editar" open the editor in the previous version of AFRUS, in a new tab. That's why the create button there says "Nuevo formulario" (New form).</p>
 === FIN ===
 ```
 
@@ -433,7 +433,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget, widget-types-in-afrus, how-to-change-the-widget-styles, how-to-add-a-new-country-to-a-widget
 --- CUERPO (HTML) ---
-<p>A widget is an Afrus form you embed on your site or landing page. This is what it lets you do:</p>
+<p>A widget is an AFRUS form you embed on your site or landing page. This is what it lets you do:</p>
 <ul>
 <li><strong>Receive donations on your site.</strong> One-time, monthly or yearly, without donors leaving your page.</li>
 <li><strong>Capture leads, sell products or tickets and collect payments.</strong> Each use has its own widget type.</li>
@@ -450,13 +450,13 @@ Idioma: en
 Título: Which widget types exist and what each one is for
 Slug: widget-types-in-afrus
 Categoría: Widgets
-Resumen: Learn which widget types (goals) Afrus offers, what each one is for and how to create the one you need.
+Resumen: Learn which widget types (goals) AFRUS offers, what each one is for and how to create the one you need.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget, what-is-a-widget-for, how-to-change-the-widget-styles, how-to-add-a-new-country-to-a-widget
 --- CUERPO (HTML) ---
-<p>Labels are shown as they appear in the Spanish version of the console.</p><p>The widget type is its <strong>Objetivo</strong> (Goal). It is chosen when you create the widget and defines which snippets are added automatically. The goals you see are the ones Afrus has enabled for your organization.</p>
+<p>Labels are shown as they appear in the Spanish version of the console.</p><p>The widget type is its <strong>Objetivo</strong> (Goal). It is chosen when you create the widget and defines which snippets are added automatically. The goals you see are the ones AFRUS has enabled for your organization.</p>
 <ul>
 <li><strong>Transacción</strong> (Transaction): one-time, monthly or yearly donations.</li>
 <li><strong>Registros / Registro</strong> (Registration): capturing people's details (leads), no payment.</li>
@@ -467,7 +467,7 @@ Relacionados: what-is-a-widget, what-is-a-widget-for, how-to-change-the-widget-s
 </ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, click "Nuevo widget". The previous version of Afrus opens in a new tab; there, click "Nuevo formulario".</li>
+<li><strong>Open the editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, click "Nuevo widget". The previous version of AFRUS opens in a new tab; there, click "Nuevo formulario".</li>
 <li><strong>Choose the goal.</strong> Type the <strong>Nombre del formulario</strong> (Form name, up to 50 characters), choose the <strong>Objetivo</strong> and click "Crear" (Create).</li>
 <li><strong>Link a campaign.</strong> In <strong>Renderización</strong>, choose at least one in <strong>Elige tus campañas</strong>. It is required.</li>
 <li><strong>Choose how it is displayed.</strong> In <strong>Mecanismo de renderización</strong>, choose <strong>Estandar</strong> (embedded in the page) or <strong>Popup</strong> (opens from a button; fill in <strong>Texto del botón Pop up</strong>).</li>
@@ -484,13 +484,13 @@ Idioma: en
 Título: How to change the widget's styles
 Slug: how-to-change-the-widget-styles
 Categoría: Widgets
-Resumen: Learn how to change the field shape, colors, fonts, header and footer of your Afrus widget.
+Resumen: Learn how to change the field shape, colors, fonts, header and footer of your AFRUS widget.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget, widget-types-in-afrus, how-to-add-a-new-country-to-a-widget, what-is-a-widget-for
 --- CUERPO (HTML) ---
-<p>The widget editor opens in the previous version of Afrus, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
+<p>The widget editor opens in the previous version of AFRUS, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
 <ol>
 <li><strong>Open the Estilo panel.</strong> In the editor's <strong>Editar</strong> tab, open <strong>Estilo</strong> (Style).</li>
 <li><strong>Choose the field shape.</strong> In <strong>Seleccione un estilo para el formulario</strong>: <strong>Cuadrado</strong>, <strong>Cuadrado redondeado</strong>, <strong>Redondeado</strong> or <strong>Línea</strong> (square, rounded square, rounded, line).</li>
@@ -517,7 +517,7 @@ Imagen de portada: pendiente
 Relacionados: what-is-a-widget, how-to-change-the-widget-styles, required-and-suggested-snippets, widget-types-in-afrus
 --- CUERPO (HTML) ---
 <p>Each country in the widget has its own language, currency and snippets (amounts, gateways, fields). Whoever opens the widget sees the country they are browsing from, if it is set up; otherwise they see the default country (with a star).</p>
-<p>The widget editor opens in the previous version of Afrus, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
+<p>The widget editor opens in the previous version of AFRUS, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
 <ol>
 <li><strong>Add the country.</strong> In the center column, click <strong>Nuevo país</strong> (New country).</li>
 <li><strong>Fill in language and currency.</strong> Choose <strong>Seleccione un país</strong> (Select a country), the <strong>Idioma</strong> (Español, English, Portugues, Italian or Deutsch) and check the <strong>Moneda</strong> (currency). In <strong>Pagos</strong> widgets, also choose the decimal format.</li>
@@ -543,7 +543,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget, how-to-add-a-new-country-to-a-widget, how-to-set-up-widget-payment-methods, how-to-change-the-widget-styles
 --- CUERPO (HTML) ---
-<p>Labels are shown as they appear in the Spanish version of the console.</p><p>In the editor, snippets are either <strong>required</strong> or <strong>optional</strong>. Afrus does not mark snippets as "suggested": which ones are worth using depends on your form.</p>
+<p>Labels are shown as they appear in the Spanish version of the console.</p><p>In the editor, snippets are either <strong>required</strong> or <strong>optional</strong>. AFRUS does not mark snippets as "suggested": which ones are worth using depends on your form.</p>
 <h2>Required</h2>
 <ul>
 <li><strong>Información personal</strong> (Personal information): always first.</li>
@@ -553,10 +553,10 @@ Relacionados: what-is-a-widget, how-to-add-a-new-country-to-a-widget, how-to-set
 <li><strong>Those required by the gateway:</strong> added automatically when you save the payment method, with the notice <em>"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"</em> (required by the payment gateway).</li>
 </ul>
 <h2>Optional</h2>
-<p>Image, Text, Separator, Custom field, Default field, Address or Fixed address, ID document, Offer one-time to recurring, Salesforce campaign ID and, for masses, Image with text, Intention and Gift intention. Some only appear if Afrus enabled them for your organization.</p>
+<p>Image, Text, Separator, Custom field, Default field, Address or Fixed address, ID document, Offer one-time to recurring, Salesforce campaign ID and, for masses, Image with text, Intention and Gift intention. Some only appear if AFRUS enabled them for your organization.</p>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the widget editor.</strong> It opens in the previous version of Afrus.</li>
+<li><strong>Open the widget editor.</strong> It opens in the previous version of AFRUS.</li>
 <li><strong>Add the snippet.</strong> Click "Agregar" (Add) and choose it.</li>
 <li><strong>Set it up.</strong> Fill it in under <strong>Configuración del snippet</strong> and save it with <strong>Guardar Snippet</strong>.</li>
 <li><strong>Order it.</strong> Drag it into position.</li>
@@ -580,7 +580,7 @@ Relacionados: what-is-a-widget, required-and-suggested-snippets, how-to-set-up-t
 <ul><li><strong>Connect the gateway</strong> in <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Settings &gt; Payments &gt; Payment gateways). The widget only shows connected gateways that accept the country's currency.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the Medio de pago snippet.</strong> In the widget editor (previous version of Afrus), choose the country and click <strong>Medio de pago</strong>.</li>
+<li><strong>Open the Medio de pago snippet.</strong> In the widget editor (previous version of AFRUS), choose the country and click <strong>Medio de pago</strong>.</li>
 <li><strong>Choose the frequencies.</strong> In <strong>Seleccionar periodicidades</strong>, check <strong>Única</strong>, <strong>Mensual</strong> and/or <strong>Anual</strong> (one-time, monthly, yearly).</li>
 <li><strong>Choose the gateways.</strong> In <strong>Selecionar pasarelas de pago</strong>.</li>
 <li><strong>Match method and frequency.</strong> In <strong>Empatar periodicidad y método de pago</strong>, check which frequencies each method is offered in.</li>
@@ -609,7 +609,7 @@ Relacionados: what-is-a-widget, how-to-set-up-widget-payment-methods, scape-recu
 <ul><li><strong>Set up the payment method first.</strong> The Donation snippet frequencies come from the frequencies checked there.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the Donation snippet.</strong> In the widget editor (previous version of Afrus), choose the country and click <strong>Donación</strong>.</li>
+<li><strong>Open the Donation snippet.</strong> In the widget editor (previous version of AFRUS), choose the country and click <strong>Donación</strong>.</li>
 <li><strong>Choose the options.</strong> <strong>Quiero campo de monto</strong> (free amount field), <strong>No quiero sugerir cantidades.</strong> (don't suggest amounts), <strong>Quiero escribir una frase de solicitud para cada cantidad</strong> (a phrase per amount) and <strong>Quiero poner una imagen y descripción por cada cantidad</strong> (an image per amount).</li>
 <li><strong>Set the amounts.</strong> Click "Configurar frecuencias" (Set up frequencies). On each tab add up to 4 amounts, mark the default with the star (required) and, optionally, a <strong>Mínimo</strong> (minimum). With several frequencies, choose the preselected one with <strong>Seleccionar frecuencia por defecto</strong>.</li>
 <li><strong>Add images (optional).</strong> One per amount, with "Subir imagen" (Upload image) or from <strong>Galería</strong>: jpg, webp or png, recommended 150 × 150 pixels and up to 1 MB.</li>
@@ -639,7 +639,7 @@ Relacionados: what-is-a-widget, how-to-set-up-the-donation-snippet, conversion-c
 <ul><li><strong>In the Donation snippet</strong>, <strong>Mensual</strong> must be active with at least one amount, and <strong>Única</strong> must also be active.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the Donation snippet</strong> in the widget editor (previous version of Afrus).</li>
+<li><strong>Open the Donation snippet</strong> in the widget editor (previous version of AFRUS).</li>
 <li><strong>Turn on the option.</strong> Check <strong>Mostrar la donación única solo como enlace debajo del botón de pago</strong> (show the one-time donation only as a link below the payment button).</li>
 <li><strong>Save.</strong> <strong>Guardar Snippet</strong> and then "Guardar Widget".</li>
 </ol>
@@ -663,12 +663,12 @@ Relacionados: what-is-a-widget, scape-recurrent-one-time-donation-as-link, cover
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Before you start</h2>
 <ul>
-<li><strong>Afrus must enable</strong> the <strong>Ofrecer única a recurrente</strong> (Offer one-time to recurring) snippet for your organization. It only exists in <strong>Transacción</strong> widgets.</li>
+<li><strong>AFRUS must enable</strong> the <strong>Ofrecer única a recurrente</strong> (Offer one-time to recurring) snippet for your organization. It only exists in <strong>Transacción</strong> widgets.</li>
 <li><strong>The monthly frequency</strong> must be enabled in the Donation snippet with at least one amount.</li>
 </ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Add the snippet.</strong> In the widget editor (previous version of Afrus), click "Agregar" and choose <strong>Ofrecer única a recurrente</strong>. It is placed right after Donation.</li>
+<li><strong>Add the snippet.</strong> In the widget editor (previous version of AFRUS), click "Agregar" and choose <strong>Ofrecer única a recurrente</strong>. It is placed right after Donation.</li>
 <li><strong>Turn it on.</strong> Turn on <strong>Habilitar</strong> (Enable).</li>
 <li><strong>Customize the card (optional).</strong> <strong>Título</strong>, <strong>Subtítulo</strong> and colors.</li>
 <li><strong>Set the rates.</strong> <strong>Tasa 1 (%)</strong> and <strong>Tasa 2 (%)</strong>, whole numbers from 1 to 99 (default 50 and 25): the percentages of the one-time amount proposed as monthly.</li>
@@ -677,10 +677,10 @@ Relacionados: what-is-a-widget, scape-recurrent-one-time-donation-as-link, cover
 <h2>What donors see</h2>
 <ul>
 <li><strong>During the form:</strong> the card <em>"Conviértete en donante mensual"</em> (Become a monthly donor) with two monthly amounts and the option to keep their one-time donation.</li>
-<li><strong>After paying</strong> (one-time card donation through a gateway managed by Afrus): <em>"Conviértelo en un regalo mensual"</em> (Make it a monthly gift). If they accept, a monthly subscription is also created; the donation already charged does not change.</li>
+<li><strong>After paying</strong> (one-time card donation through a gateway managed by AFRUS): <em>"Conviértelo en un regalo mensual"</em> (Make it a monthly gift). If they accept, a monthly subscription is also created; the donation already charged does not change.</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>Does it work with PayPal or Pix?</strong> Only the in-form offer. The after-payment offer requires a card through a gateway managed by Afrus.</p>
+<p><strong>Does it work with PayPal or Pix?</strong> Only the in-form offer. The after-payment offer requires a card through a gateway managed by AFRUS.</p>
 === FIN ===
 ```
 
@@ -699,14 +699,14 @@ Relacionados: what-is-a-widget, conversion-cards-one-time-to-recurring, how-to-s
 <p>Labels are shown as they appear in the Spanish version of the console.</p><p>With <strong>Cover Your Cost</strong>, donors can cover the gateway fee, so your organization receives the full donation amount.</p>
 <h2>Before you start</h2>
 <ul>
-<li><strong>Afrus must turn it on</strong> for your organization; it can't be turned on from the console.</li>
+<li><strong>AFRUS must turn it on</strong> for your organization; it can't be turned on from the console.</li>
 <li><strong>It is set up per gateway</strong>, not inside the widget.</li>
 </ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the gateway.</strong> In <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>.</li>
 <li><strong>Turn it on.</strong> In <strong>Cover Your Cost</strong>, turn on <strong>Activar Cover Your Cost</strong>.</li>
-<li><strong>Set the fee.</strong> <strong>Comisión de pasarela (%)</strong> (gateway fee), minimum 0.01. Together with the <strong>Comisión Afrus (%)</strong> it must be under 80%.</li>
+<li><strong>Set the fee.</strong> <strong>Comisión de pasarela (%)</strong> (gateway fee), minimum 0.01. Together with the <strong>Comisión AFRUS (%)</strong> it must be under 80%.</li>
 <li><strong>Choose whether it is preselected.</strong> With <strong>Preseleccionar la opción para el donante</strong>.</li>
 <li><strong>Save the gateway.</strong> Repeat for each gateway that should offer it.</li>
 </ol>
@@ -728,7 +728,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget, cover-your-cost-donors-cover-costs, advanced-widget-options, conversion-cards-one-time-to-recurring
 --- CUERPO (HTML) ---
-<p>The widget editor opens in the previous version of Afrus, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
+<p>The widget editor opens in the previous version of AFRUS, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Step by step</h2>
 <ol>
 <li><strong>Open the panel.</strong> In the <strong>Editar</strong> tab, open the <strong>Avanzado</strong> (Advanced) panel and, inside it, <strong>Página de agradecimiento</strong> (Thank-you page).</li>
 <li><strong>Option A: the campaign's page.</strong> Check <strong>Usa la página de agradecimiento de la campaña.</strong> (Use the campaign's thank-you page).</li>
@@ -753,13 +753,13 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-a-widget, how-to-set-up-a-thank-you-page-in-the-widget, how-to-embed-a-widget-on-your-website, cover-your-cost-donors-cover-costs
 --- CUERPO (HTML) ---
-<p>The widget editor opens in the previous version of Afrus, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><p>All these options are in the <strong>Avanzado</strong> (Advanced) panel and are saved with "Guardar Widget".</p>
+<p>The widget editor opens in the previous version of AFRUS, in a new tab, which is why it looks different. To open it, in <strong>Fundraising &gt; Widgets</strong> click "Editar" (Edit) on the widget's row.</p><p>Labels are shown as they appear in the Spanish version of the console.</p><p>All these options are in the <strong>Avanzado</strong> (Advanced) panel and are saved with "Guardar Widget".</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Recaptcha.</strong> Turn on the switch so donors always type a 6-character verification code. Without it, the captcha can still appear on a suspicious attempt.</li>
 <li><strong>Google Tag Manager 4.</strong> Paste your <strong>Código de seguimiento</strong> (container ID) to receive the donor journey events.</li>
-<li><strong>Protocolo de medición</strong> (Measurement protocol). Fill in GA4's <strong>Measurement Id</strong> and <strong>Api secret</strong>: Afrus sends events, including the purchase, also from the server.</li>
-<li><strong>Facebook Capi.</strong> Fill in <strong>Pixel id</strong> and <strong>Access Token</strong>: Afrus sends events to Meta from the browser and from the server.</li>
+<li><strong>Protocolo de medición</strong> (Measurement protocol). Fill in GA4's <strong>Measurement Id</strong> and <strong>Api secret</strong>: AFRUS sends events, including the purchase, also from the server.</li>
+<li><strong>Facebook Capi.</strong> Fill in <strong>Pixel id</strong> and <strong>Access Token</strong>: AFRUS sends events to Meta from the browser and from the server.</li>
 <li><strong>Face to Face</strong> (transaction widgets). For in-person donations: turn on <strong>Face to Face</strong> and fill in <strong>Correo del captador</strong> (fundraiser email, required) and <strong>Correo del supervisor</strong> (supervisor email). Browser autofill is turned off automatically.</li>
 <li><strong>Save.</strong> Click "Guardar Widget".</li>
 </ol>
@@ -775,7 +775,7 @@ Idioma: en
 Título: How to embed a widget on your website
 Slug: how-to-embed-a-widget-on-your-website
 Categoría: Widgets
-Resumen: Learn how to copy your Afrus widget's code and paste it on your website, with a custom width if you need one.
+Resumen: Learn how to copy your AFRUS widget's code and paste it on your website, with a custom width if you need one.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -788,7 +788,7 @@ Relacionados: what-is-a-widget, advanced-widget-options, how-to-set-up-a-thank-y
 <li><strong>Paste it on your page.</strong> In an HTML block or component on your site. The widget will appear there.</li>
 </ol>
 <h2>If you need a different width</h2>
-<p>In the widget editor (previous version of Afrus), <strong>Instalar</strong> (Install) tab, set the width in <strong>Configura el ancho del formulario</strong> (px, %, em, rem or vw), click "Guardar Widget" and copy the <strong>Código de inserción</strong> (Embed code).</p>
+<p>In the widget editor (previous version of AFRUS), <strong>Instalar</strong> (Install) tab, set the width in <strong>Configura el ancho del formulario</strong> (px, %, em, rem or vw), click "Guardar Widget" and copy the <strong>Código de inserción</strong> (Embed code).</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Do I need one code per country?</strong> No. The code is the same for all countries; the country is chosen automatically.</p>
 <p><strong>Why isn't it receiving donations?</strong> Check that the widget's <strong>Estado</strong> (Status) switch is on.</p>
@@ -803,18 +803,18 @@ Idioma: pt-BR
 Título: O que é um widget
 Slug: o-que-e-um-widget
 Categoría: Widgets
-Resumen: Aprenda o que é um widget da Afrus: um formulário de doação, cadastro ou pagamento montado por blocos e inserido no seu site.
+Resumen: Aprenda o que é um widget da AFRUS: um formulário de doação, cadastro ou pagamento montado por blocos e inserido no seu site.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-um-widget, tipos-de-widget-na-afrus, como-mudar-os-estilos-do-widget, como-adicionar-um-novo-pais-a-um-widget, snippets-obrigatorios-e-sugeridos, como-configurar-os-metodos-de-pagamento-do-widget, como-configurar-o-snippet-doacao, scape-recurrent-doacao-unica-como-link, cards-de-conversao-unica-para-recorrente, cover-your-cost-doador-cobre-os-custos, como-configurar-uma-pagina-de-agradecimento-no-widget, opcoes-avancadas-do-widget, como-inserir-um-widget-no-seu-site
 --- CUERPO (HTML) ---
-<p><strong>Um widget é um formulário da Afrus (de doação, de cadastro, de pagamento etc.) montado com blocos chamados snippets e inserido em qualquer site ou landing com um pequeno código.</strong></p>
+<p><strong>Um widget é um formulário da AFRUS (de doação, de cadastro, de pagamento etc.) montado com blocos chamados snippets e inserido em qualquer site ou landing com um pequeno código.</strong></p>
 <p>Cada widget tem um <strong>Objetivo</strong>, um ou mais países com seu idioma e moeda, e uma lista de snippets: informações pessoais, valores, meio de pagamento, termos e condições, botão etc.</p>
 <h2>Onde encontrar</h2>
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>Em <strong>Fundraising &gt; Widgets</strong> você verá a tela <strong>Gestión de Widgets</strong> (Gestão de widgets), com o botão "Nuevo widget" (Novo widget), filtros (campanha, objetivo, status, padrão, etiqueta) e uma tabela com status, nome, data, objetivo, arrecadado, transações, assinaturas, visualizações e cadastros.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Por que o editor tem outra aparência?</strong> Porque "Nuevo widget" e "Editar" abrem o editor na versão anterior da Afrus, em uma nova aba. Por isso lá o botão de criar diz "Nuevo formulario" (Novo formulário).</p>
+<p><strong>Por que o editor tem outra aparência?</strong> Porque "Nuevo widget" e "Editar" abrem o editor na versão anterior da AFRUS, em uma nova aba. Por isso lá o botão de criar diz "Nuevo formulario" (Novo formulário).</p>
 === FIN ===
 ```
 
@@ -830,7 +830,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, tipos-de-widget-na-afrus, como-mudar-os-estilos-do-widget, como-adicionar-um-novo-pais-a-um-widget
 --- CUERPO (HTML) ---
-<p>Um widget é um formulário da Afrus que você insere no seu site ou landing. Veja o que ele permite fazer:</p>
+<p>Um widget é um formulário da AFRUS que você insere no seu site ou landing. Veja o que ele permite fazer:</p>
 <ul>
 <li><strong>Receber doações no seu site.</strong> Únicas, mensais ou anuais, sem o doador sair da sua página.</li>
 <li><strong>Captar cadastros (leads), vender produtos ou tickets e cobrar pagamentos.</strong> Cada uso tem seu tipo de widget.</li>
@@ -847,13 +847,13 @@ Idioma: pt-BR
 Título: Quais tipos de widget existem e para que serve cada um
 Slug: tipos-de-widget-na-afrus
 Categoría: Widgets
-Resumen: Aprenda quais tipos de widget (objetivos) a Afrus oferece, para que serve cada um e como criar o que você precisa.
+Resumen: Aprenda quais tipos de widget (objetivos) a AFRUS oferece, para que serve cada um e como criar o que você precisa.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, para-que-serve-um-widget, como-mudar-os-estilos-do-widget, como-adicionar-um-novo-pais-a-um-widget
 --- CUERPO (HTML) ---
-<p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>O tipo de widget é o seu <strong>Objetivo</strong>. Ele é escolhido na criação e define quais snippets são adicionados automaticamente. Os objetivos que você vê são os que a Afrus habilitou para a sua organização.</p>
+<p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>O tipo de widget é o seu <strong>Objetivo</strong>. Ele é escolhido na criação e define quais snippets são adicionados automaticamente. Os objetivos que você vê são os que a AFRUS habilitou para a sua organização.</p>
 <ul>
 <li><strong>Transacción</strong> (Transação): doações únicas, mensais ou anuais.</li>
 <li><strong>Registros / Registro</strong> (Cadastro): captar dados de pessoas (leads), sem pagamento.</li>
@@ -864,7 +864,7 @@ Relacionados: o-que-e-um-widget, para-que-serve-um-widget, como-mudar-os-estilos
 </ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o editor.</strong> Em <strong>Fundraising &gt; Widgets</strong>, clique em "Nuevo widget". A versão anterior da Afrus abre em uma nova aba; lá, clique em "Nuevo formulario".</li>
+<li><strong>Abra o editor.</strong> Em <strong>Fundraising &gt; Widgets</strong>, clique em "Nuevo widget". A versão anterior da AFRUS abre em uma nova aba; lá, clique em "Nuevo formulario".</li>
 <li><strong>Escolha o objetivo.</strong> Digite o <strong>Nombre del formulario</strong> (nome, até 50 caracteres), escolha o <strong>Objetivo</strong> e clique em "Crear" (Criar).</li>
 <li><strong>Vincule uma campanha.</strong> Em <strong>Renderización</strong>, escolha pelo menos uma em <strong>Elige tus campañas</strong>. É obrigatório.</li>
 <li><strong>Escolha como ele aparece.</strong> Em <strong>Mecanismo de renderización</strong>, escolha <strong>Estandar</strong> (incorporado na página) ou <strong>Popup</strong> (abre a partir de um botão; preencha <strong>Texto del botón Pop up</strong>).</li>
@@ -881,13 +881,13 @@ Idioma: pt-BR
 Título: Como mudar os estilos do widget
 Slug: como-mudar-os-estilos-do-widget
 Categoría: Widgets
-Resumen: Aprenda a mudar o formato dos campos, as cores, a tipografia, o cabeçalho e o rodapé do seu widget da Afrus.
+Resumen: Aprenda a mudar o formato dos campos, as cores, a tipografia, o cabeçalho e o rodapé do seu widget da AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, tipos-de-widget-na-afrus, como-adicionar-um-novo-pais-a-um-widget, para-que-serve-um-widget
 --- CUERPO (HTML) ---
-<p>O editor do widget abre na versão anterior da Afrus, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
+<p>O editor do widget abre na versão anterior da AFRUS, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o painel Estilo.</strong> Na aba <strong>Editar</strong> do editor, abra <strong>Estilo</strong>.</li>
 <li><strong>Escolha o formato dos campos.</strong> Em <strong>Seleccione un estilo para el formulario</strong>: <strong>Cuadrado</strong>, <strong>Cuadrado redondeado</strong>, <strong>Redondeado</strong> ou <strong>Línea</strong> (quadrado, quadrado arredondado, arredondado, linha).</li>
@@ -914,7 +914,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, como-mudar-os-estilos-do-widget, snippets-obrigatorios-e-sugeridos, tipos-de-widget-na-afrus
 --- CUERPO (HTML) ---
 <p>Cada país do widget tem seu próprio idioma, moeda e snippets (valores, gateways, campos). Quem abre o widget vê o país de onde navega, se ele estiver configurado; se não, vê o país padrão (com estrela).</p>
-<p>O editor do widget abre na versão anterior da Afrus, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
+<p>O editor do widget abre na versão anterior da AFRUS, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
 <ol>
 <li><strong>Adicione o país.</strong> Na coluna central, clique em <strong>Nuevo país</strong> (Novo país).</li>
 <li><strong>Preencha idioma e moeda.</strong> Escolha <strong>Seleccione un país</strong> (Selecione um país), o <strong>Idioma</strong> (Español, English, Portugues, Italian ou Deutsch) e confira a <strong>Moneda</strong> (moeda). Em widgets de <strong>Pagos</strong>, escolha também o formato decimal.</li>
@@ -940,7 +940,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, como-adicionar-um-novo-pais-a-um-widget, como-configurar-os-metodos-de-pagamento-do-widget, como-mudar-os-estilos-do-widget
 --- CUERPO (HTML) ---
-<p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>No editor, os snippets são <strong>obrigatórios</strong> ou <strong>opcionais</strong>. A Afrus não marca snippets como "sugeridos": quais vale a pena usar depende do seu formulário.</p>
+<p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>No editor, os snippets são <strong>obrigatórios</strong> ou <strong>opcionais</strong>. A AFRUS não marca snippets como "sugeridos": quais vale a pena usar depende do seu formulário.</p>
 <h2>Obrigatórios</h2>
 <ul>
 <li><strong>Información personal</strong> (Informações pessoais): sempre vem primeiro.</li>
@@ -950,10 +950,10 @@ Relacionados: o-que-e-um-widget, como-adicionar-um-novo-pais-a-um-widget, como-c
 <li><strong>Os exigidos pelo gateway:</strong> adicionados automaticamente ao salvar o meio de pagamento, com o aviso <em>"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"</em> (exigido pelo gateway de pagamento).</li>
 </ul>
 <h2>Opcionais</h2>
-<p>Imagem, Texto, Separador, Campo personalizado, Campo padrão, Endereço ou Endereço fixo, Documento, Oferecer única para recorrente, ID da campanha do Salesforce e, em missas, Imagem com texto, Intenção e Presentear intenção. Alguns só aparecem se a Afrus os habilitou para a sua organização.</p>
+<p>Imagem, Texto, Separador, Campo personalizado, Campo padrão, Endereço ou Endereço fixo, Documento, Oferecer única para recorrente, ID da campanha do Salesforce e, em missas, Imagem com texto, Intenção e Presentear intenção. Alguns só aparecem se a AFRUS os habilitou para a sua organização.</p>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o editor do widget.</strong> Ele abre na versão anterior da Afrus.</li>
+<li><strong>Abra o editor do widget.</strong> Ele abre na versão anterior da AFRUS.</li>
 <li><strong>Adicione o snippet.</strong> Clique em "Agregar" (Adicionar) e escolha-o.</li>
 <li><strong>Configure-o.</strong> Preencha em <strong>Configuración del snippet</strong> e salve com <strong>Guardar Snippet</strong>.</li>
 <li><strong>Ordene-o.</strong> Arraste-o para a posição desejada.</li>
@@ -977,7 +977,7 @@ Relacionados: o-que-e-um-widget, snippets-obrigatorios-e-sugeridos, como-configu
 <ul><li><strong>Conecte o gateway</strong> em <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Configuração &gt; Pagamentos &gt; Gateways de pagamento). O widget mostra apenas os gateways conectados que aceitam a moeda do país.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o snippet Medio de pago.</strong> No editor do widget (versão anterior da Afrus), escolha o país e clique em <strong>Medio de pago</strong>.</li>
+<li><strong>Abra o snippet Medio de pago.</strong> No editor do widget (versão anterior da AFRUS), escolha o país e clique em <strong>Medio de pago</strong>.</li>
 <li><strong>Escolha as periodicidades.</strong> Em <strong>Seleccionar periodicidades</strong>, marque <strong>Única</strong>, <strong>Mensual</strong> e/ou <strong>Anual</strong>.</li>
 <li><strong>Escolha os gateways.</strong> Em <strong>Selecionar pasarelas de pago</strong>.</li>
 <li><strong>Combine método e periodicidade.</strong> Em <strong>Empatar periodicidad y método de pago</strong>, marque em quais periodicidades cada método é oferecido.</li>
@@ -1006,7 +1006,7 @@ Relacionados: o-que-e-um-widget, como-configurar-os-metodos-de-pagamento-do-widg
 <ul><li><strong>Configure primeiro o meio de pagamento.</strong> As frequências do snippet Doação vêm das periodicidades marcadas lá.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o snippet Donación.</strong> No editor do widget (versão anterior da Afrus), escolha o país e clique em <strong>Donación</strong> (Doação).</li>
+<li><strong>Abra o snippet Donación.</strong> No editor do widget (versão anterior da AFRUS), escolha o país e clique em <strong>Donación</strong> (Doação).</li>
 <li><strong>Escolha as opções.</strong> <strong>Quiero campo de monto</strong> (valor livre), <strong>No quiero sugerir cantidades.</strong> (não sugerir valores), <strong>Quiero escribir una frase de solicitud para cada cantidad</strong> (uma frase por valor) e <strong>Quiero poner una imagen y descripción por cada cantidad</strong> (uma imagem por valor).</li>
 <li><strong>Configure os valores.</strong> Clique em "Configurar frecuencias". Em cada aba, adicione até 4 valores, marque o padrão com a estrela (obrigatório) e, se quiser, um <strong>Mínimo</strong>. Com várias frequências, escolha a pré-selecionada com <strong>Seleccionar frecuencia por defecto</strong>.</li>
 <li><strong>Adicione imagens (opcional).</strong> Uma por valor, com "Subir imagen" ou da <strong>Galería</strong>: jpg, webp ou png, recomendado 150 × 150 pixels e até 1 MB.</li>
@@ -1036,7 +1036,7 @@ Relacionados: o-que-e-um-widget, como-configurar-o-snippet-doacao, cards-de-conv
 <ul><li><strong>No snippet Doação</strong>, <strong>Mensual</strong> precisa estar ativa com pelo menos um valor, e <strong>Única</strong> também precisa estar ativa.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o snippet Donación</strong> no editor do widget (versão anterior da Afrus).</li>
+<li><strong>Abra o snippet Donación</strong> no editor do widget (versão anterior da AFRUS).</li>
 <li><strong>Ative a opção.</strong> Marque <strong>Mostrar la donación única solo como enlace debajo del botón de pago</strong> (mostrar a doação única só como link abaixo do botão de pagamento).</li>
 <li><strong>Salve.</strong> <strong>Guardar Snippet</strong> e depois "Guardar Widget".</li>
 </ol>
@@ -1060,12 +1060,12 @@ Relacionados: o-que-e-um-widget, scape-recurrent-doacao-unica-como-link, cover-y
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Antes de começar</h2>
 <ul>
-<li><strong>A Afrus precisa habilitar</strong> o snippet <strong>Ofrecer única a recurrente</strong> (Oferecer única para recorrente) para a sua organização. Ele só existe em widgets de <strong>Transacción</strong>.</li>
+<li><strong>A AFRUS precisa habilitar</strong> o snippet <strong>Ofrecer única a recurrente</strong> (Oferecer única para recorrente) para a sua organização. Ele só existe em widgets de <strong>Transacción</strong>.</li>
 <li><strong>A frequência mensal</strong> precisa estar habilitada no snippet Doação com pelo menos um valor.</li>
 </ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Adicione o snippet.</strong> No editor do widget (versão anterior da Afrus), clique em "Agregar" e escolha <strong>Ofrecer única a recurrente</strong>. Ele é colocado logo depois de Doação.</li>
+<li><strong>Adicione o snippet.</strong> No editor do widget (versão anterior da AFRUS), clique em "Agregar" e escolha <strong>Ofrecer única a recurrente</strong>. Ele é colocado logo depois de Doação.</li>
 <li><strong>Ative-o.</strong> Ative <strong>Habilitar</strong>.</li>
 <li><strong>Personalize o cartão (opcional).</strong> <strong>Título</strong>, <strong>Subtítulo</strong> e cores.</li>
 <li><strong>Defina as taxas.</strong> <strong>Tasa 1 (%)</strong> e <strong>Tasa 2 (%)</strong>, inteiros de 1 a 99 (vêm com 50 e 25): as porcentagens do valor único propostas como mensal.</li>
@@ -1074,10 +1074,10 @@ Relacionados: o-que-e-um-widget, scape-recurrent-doacao-unica-como-link, cover-y
 <h2>O que o doador vê</h2>
 <ul>
 <li><strong>Durante o formulário:</strong> o cartão <em>"Conviértete en donante mensual"</em> (Torne-se doador mensal) com dois valores mensais e a opção de manter a doação única.</li>
-<li><strong>Depois de pagar</strong> (doação única com cartão em um gateway gerenciado pela Afrus): <em>"Conviértelo en un regalo mensual"</em> (Transforme em uma doação mensal). Se aceitar, é criada também uma assinatura mensal; a doação já cobrada não muda.</li>
+<li><strong>Depois de pagar</strong> (doação única com cartão em um gateway gerenciado pela AFRUS): <em>"Conviértelo en un regalo mensual"</em> (Transforme em uma doação mensal). Se aceitar, é criada também uma assinatura mensal; a doação já cobrada não muda.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>Funciona com PayPal ou Pix?</strong> Só a oferta dentro do formulário. A oferta depois do pagamento exige cartão em um gateway gerenciado pela Afrus.</p>
+<p><strong>Funciona com PayPal ou Pix?</strong> Só a oferta dentro do formulário. A oferta depois do pagamento exige cartão em um gateway gerenciado pela AFRUS.</p>
 === FIN ===
 ```
 
@@ -1096,14 +1096,14 @@ Relacionados: o-que-e-um-widget, cards-de-conversao-unica-para-recorrente, como-
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>Com <strong>Cover Your Cost</strong>, o doador pode cobrir a taxa do gateway, para que sua organização receba o valor integral da doação.</p>
 <h2>Antes de começar</h2>
 <ul>
-<li><strong>A Afrus precisa ativá-lo</strong> para a sua organização; não dá para ativar pelo console.</li>
+<li><strong>A AFRUS precisa ativá-lo</strong> para a sua organização; não dá para ativar pelo console.</li>
 <li><strong>Ele é configurado por gateway</strong>, não dentro do widget.</li>
 </ul>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o gateway.</strong> Em <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>.</li>
 <li><strong>Ative a opção.</strong> Em <strong>Cover Your Cost</strong>, ative <strong>Activar Cover Your Cost</strong>.</li>
-<li><strong>Defina a taxa.</strong> <strong>Comisión de pasarela (%)</strong> (taxa do gateway), mínimo 0.01. Somada à <strong>Comisión Afrus (%)</strong> precisa ser menor que 80%.</li>
+<li><strong>Defina a taxa.</strong> <strong>Comisión de pasarela (%)</strong> (taxa do gateway), mínimo 0.01. Somada à <strong>Comisión AFRUS (%)</strong> precisa ser menor que 80%.</li>
 <li><strong>Escolha se vem pré-selecionada.</strong> Com <strong>Preseleccionar la opción para el donante</strong>.</li>
 <li><strong>Salve o gateway.</strong> Repita em cada gateway que deve oferecê-lo.</li>
 </ol>
@@ -1125,7 +1125,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, cover-your-cost-doador-cobre-os-custos, opcoes-avancadas-do-widget, cards-de-conversao-unica-para-recorrente
 --- CUERPO (HTML) ---
-<p>O editor do widget abre na versão anterior da Afrus, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
+<p>O editor do widget abre na versão anterior da AFRUS, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o painel.</strong> Na aba <strong>Editar</strong>, abra o painel <strong>Avanzado</strong> (Avançado) e, dentro dele, <strong>Página de agradecimiento</strong> (Página de agradecimento).</li>
 <li><strong>Opção A: a da campanha.</strong> Marque <strong>Usa la página de agradecimiento de la campaña.</strong> (Usar a página de agradecimento da campanha).</li>
@@ -1150,13 +1150,13 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, como-configurar-uma-pagina-de-agradecimento-no-widget, como-inserir-um-widget-no-seu-site, cover-your-cost-doador-cobre-os-custos
 --- CUERPO (HTML) ---
-<p>O editor do widget abre na versão anterior da Afrus, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>Todas estas opções ficam no painel <strong>Avanzado</strong> (Avançado) e são salvas com "Guardar Widget".</p>
+<p>O editor do widget abre na versão anterior da AFRUS, em uma nova aba, por isso tem outra aparência. Para abri-lo, em <strong>Fundraising &gt; Widgets</strong> clique em "Editar" na linha do widget.</p><p>Os nomes de tela aparecem como na versão em espanhol do console.</p><p>Todas estas opções ficam no painel <strong>Avanzado</strong> (Avançado) e são salvas com "Guardar Widget".</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Recaptcha.</strong> Ative a chave para que o doador sempre digite um código de verificação de 6 caracteres. Sem ela, o captcha ainda pode aparecer em uma tentativa suspeita.</li>
 <li><strong>Google Tag Manager 4.</strong> Cole o seu <strong>Código de seguimiento</strong> (ID do contêiner) para receber os eventos da jornada do doador.</li>
-<li><strong>Protocolo de medición</strong> (Protocolo de medição). Preencha <strong>Measurement Id</strong> e <strong>Api secret</strong> do GA4: a Afrus envia os eventos, incluindo a compra, também a partir do servidor.</li>
-<li><strong>Facebook Capi.</strong> Preencha <strong>Pixel id</strong> e <strong>Access Token</strong>: a Afrus envia os eventos à Meta pelo navegador e pelo servidor.</li>
+<li><strong>Protocolo de medición</strong> (Protocolo de medição). Preencha <strong>Measurement Id</strong> e <strong>Api secret</strong> do GA4: a AFRUS envia os eventos, incluindo a compra, também a partir do servidor.</li>
+<li><strong>Facebook Capi.</strong> Preencha <strong>Pixel id</strong> e <strong>Access Token</strong>: a AFRUS envia os eventos à Meta pelo navegador e pelo servidor.</li>
 <li><strong>Face to Face</strong> (widgets de transação). Para doações presenciais: ative <strong>Face to Face</strong> e preencha <strong>Correo del captador</strong> (e-mail do captador, obrigatório) e <strong>Correo del supervisor</strong> (e-mail do supervisor). O preenchimento automático do navegador é desativado sozinho.</li>
 <li><strong>Salve.</strong> Clique em "Guardar Widget".</li>
 </ol>
@@ -1172,7 +1172,7 @@ Idioma: pt-BR
 Título: Como inserir um widget no seu site
 Slug: como-inserir-um-widget-no-seu-site
 Categoría: Widgets
-Resumen: Aprenda a copiar o código do seu widget da Afrus e colá-lo no seu site, com largura personalizada se precisar.
+Resumen: Aprenda a copiar o código do seu widget da AFRUS e colá-lo no seu site, com largura personalizada se precisar.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -1185,7 +1185,7 @@ Relacionados: o-que-e-um-widget, opcoes-avancadas-do-widget, como-configurar-uma
 <li><strong>Cole na sua página.</strong> Em um bloco ou componente HTML do seu site. O widget aparecerá ali.</li>
 </ol>
 <h2>Se precisar de outra largura</h2>
-<p>No editor do widget (versão anterior da Afrus), aba <strong>Instalar</strong>, defina a largura em <strong>Configura el ancho del formulario</strong> (px, %, em, rem ou vw), clique em "Guardar Widget" e copie o <strong>Código de inserción</strong> (código de inserção).</p>
+<p>No editor do widget (versão anterior da AFRUS), aba <strong>Instalar</strong>, defina a largura em <strong>Configura el ancho del formulario</strong> (px, %, em, rem ou vw), clique em "Guardar Widget" e copie o <strong>Código de inserción</strong> (código de inserção).</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Preciso de um código por país?</strong> Não. O código é o mesmo para todos os países; o país é escolhido automaticamente.</p>
 <p><strong>Por que ele não recebe doações?</strong> Confira se a chave <strong>Estado</strong> do widget está ativa.</p>

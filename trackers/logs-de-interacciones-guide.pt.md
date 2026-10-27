@@ -1,6 +1,6 @@
 # Guia de Logs de interacciones
 
-Com este guia, você vai conseguir conferir se um e-mail ou um WhatsApp foi enviado a uma pessoa pela Afrus, ver o que foi enviado e reenviar se deu erro.
+Com este guia, você vai conseguir conferir se um e-mail ou um WhatsApp foi enviado a uma pessoa pela AFRUS, ver o que foi enviado e reenviar se deu erro.
 
 *Módulo: Trackers · Menu: **Trackers > Logs de interacciones** (Logs de interações) · Público: equipes de comunicação e atendimento a doadores*
 
@@ -10,9 +10,9 @@ Com este guia, você vai conseguir conferir se um e-mail ou um WhatsApp foi envi
 
 ## O que é Logs de interacciones
 
-**É o histórico de cada e-mail e cada WhatsApp que a Afrus preparou para uma pessoa, com o status de envio.**
+**É o histórico de cada e-mail e cada WhatsApp que a AFRUS preparou para uma pessoa, com o status de envio.**
 
-Toda vez que a Afrus prepara uma mensagem para alguém (por exemplo, um e-mail automático de agradecimento ou um envio em massa), ela cria uma linha nesta lista. Ali você vê para quem era, por onde saiu e se foi enviada corretamente.
+Toda vez que a AFRUS prepara uma mensagem para alguém (por exemplo, um e-mail automático de agradecimento ou um envio em massa), ela cria uma linha nesta lista. Ali você vê para quem era, por onde saiu e se foi enviada corretamente.
 
 ## Para que serve
 
@@ -44,14 +44,14 @@ Toda vez que a Afrus prepara uma mensagem para alguém (por exemplo, um e-mail a
 
 | Status | O que significa |
 |---|---|
-| **Procesado** (Processado) | A Afrus entregou a mensagem ao serviço de e-mail ou de WhatsApp sem erro. **Não confirma** que chegou à caixa de entrada nem que foi lida |
+| **Procesado** (Processado) | A AFRUS entregou a mensagem ao serviço de e-mail ou de WhatsApp sem erro. **Não confirma** que chegou à caixa de entrada nem que foi lida |
 | **En cola** (Na fila) | A mensagem está esperando a vez de sair |
 | **Fallido** (Falhou) | Houve um erro ao enviar |
-| **No enviado** (Não enviado) | A Afrus decidiu não enviar, por exemplo porque a pessoa não pode ser contatada por esse canal ou porque o envio em massa foi interrompido |
+| **No enviado** (Não enviado) | A AFRUS decidiu não enviar, por exemplo porque a pessoa não pode ser contatada por esse canal ou porque o envio em massa foi interrompido |
 
 > **Importante:** as linhas **No enviado** não aparecem ao abrir a tela. Para vê-las, filtre **Estado** por **No enviado**.
 
-Se não aparecer nenhuma linha, a Afrus não preparou nenhuma mensagem para essa pessoa.
+Se não aparecer nenhuma linha, a AFRUS não preparou nenhuma mensagem para essa pessoa.
 
 **Quer saber se o e-mail foi aberto ou voltou?** Esta tela não mostra isso. Veja a aba **Eventos** do perfil da pessoa ou o detalhe do envio em massa.
 
@@ -73,7 +73,7 @@ Se não aparecer nenhuma linha, a Afrus não preparou nenhuma mensagem para essa
 
 6. **Escolha a mensagem.** Na lista, marque uma ou mais linhas com status **Fallido** e clique em "Acciones" (Ações) > "Reenviar". No detalhe, clique em "Reenviar".
 
-7. **Confira.** Você verá *"Comunicación reenviada correctamente"* (Mensagem reenviada com sucesso) e a linha passará para **En cola**. A Afrus envia de novo exatamente a mesma mensagem.
+7. **Confira.** Você verá *"Comunicación reenviada correctamente"* (Mensagem reenviada com sucesso) e a linha passará para **En cola**. A AFRUS envia de novo exatamente a mesma mensagem.
 
 > **Dá para desfazer?** Não. Depois de reenviada, a mensagem sai de novo. Reenvie só as mensagens **Fallido**: se reenviar uma **Procesado**, a pessoa recebe duas vezes. Mensagens **En cola** não podem ser reenviadas.
 
@@ -91,7 +91,7 @@ Se não aparecer nenhuma linha, a Afrus não preparou nenhuma mensagem para essa
 ## Perguntas frequentes
 
 **"Procesado" quer dizer que a pessoa recebeu o e-mail?**
-Não. Quer dizer que a Afrus entregou ao serviço de envio sem erro. Para saber se chegou, foi aberto ou voltou, veja a aba **Eventos** do perfil da pessoa.
+Não. Quer dizer que a AFRUS entregou ao serviço de envio sem erro. Para saber se chegou, foi aberto ou voltou, veja a aba **Eventos** do perfil da pessoa.
 
 **Quanto tempo uma mensagem leva para passar de "En cola" a "Procesado"?**
 > **Pendente de confirmação:** não há um tempo fixo; depende de quantas mensagens estão esperando.

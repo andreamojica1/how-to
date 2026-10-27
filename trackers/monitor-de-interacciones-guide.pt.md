@@ -12,14 +12,14 @@ Com este guia, você vai saber se a sua organização pode continuar enviando e-
 
 **É um painel que mostra a saúde dos seus e-mails em massa (blasts).** Ele diz quantos e-mails você enviou, quantos voltaram, quantos foram marcados como spam e se a sua conta de envio está em risco.
 
-Um e-mail **volta** (bounce) quando não chega ao destino, por exemplo porque o endereço não existe. Uma **reclamação** (complaint) é quando a pessoa marca o seu e-mail como spam. Se houver muitas devoluções ou reclamações, a Afrus pode limitar ou bloquear seus envios.
+Um e-mail **volta** (bounce) quando não chega ao destino, por exemplo porque o endereço não existe. Uma **reclamação** (complaint) é quando a pessoa marca o seu e-mail como spam. Se houver muitas devoluções ou reclamações, a AFRUS pode limitar ou bloquear seus envios.
 
 Este painel conta só os e-mails em massa. Não inclui os e-mails automáticos (autoresponders), os e-mails de transações nem os WhatsApp.
 
 ## Para que serve
 
 - **Saber se você pode continuar enviando.** Você vê se a conta está ativa, em alerta ou bloqueada.
-- **Cuidar da sua taxa de devoluções e reclamações.** Você compara seus números com os limites da Afrus.
+- **Cuidar da sua taxa de devoluções e reclamações.** Você compara seus números com os limites da AFRUS.
 - **Encontrar o envio que causou problemas.** Assim você sabe qual lista limpar.
 
 ---
@@ -39,10 +39,10 @@ Este painel conta só os e-mails em massa. Não inclui os e-mails automáticos (
 |---|---|---|
 | **Activa** (Ativa) | Você pode enviar sem problema | Nada |
 | **Alerta** | Suas devoluções ou reclamações passaram do primeiro limite. Você ainda pode enviar, mas a conta está em risco de bloqueio | Limpe suas listas antes do próximo envio |
-| **Bloqueada** | Suas devoluções ou reclamações passaram do limite de bloqueio, ou a Afrus bloqueou a conta. Você não pode enviar | Escreva para o suporte em support@afrus.app |
-| **Envío limitado** (Envio limitado) | A conta estava bloqueada, mas a Afrus liberou um número de envios para você | Limpe suas listas e envie só para grupos menores que o seu saldo de envios |
+| **Bloqueada** | Suas devoluções ou reclamações passaram do limite de bloqueio, ou a AFRUS bloqueou a conta. Você não pode enviar | Escreva para o suporte em support@afrus.app |
+| **Envío limitado** (Envio limitado) | A conta estava bloqueada, mas a AFRUS liberou um número de envios para você | Limpe suas listas e envie só para grupos menores que o seu saldo de envios |
 
-> **Importante:** se a Afrus bloqueou a sua conta, ela continua **Bloqueada** mesmo que seus números melhorem. Para desbloquear, escreva para o suporte.
+> **Importante:** se a AFRUS bloqueou a sua conta, ela continua **Bloqueada** mesmo que seus números melhorem. Para desbloquear, escreva para o suporte.
 
 Com **Envío limitado**, uma campanha com mais destinatários do que envios disponíveis não é enviada.
 
@@ -85,7 +85,7 @@ Os limites só se aplicam a partir de 1.000 e-mails enviados. Se você tiver men
 **Minha conta está em Alerta. Posso enviar?**
 Sim, mas você está em risco de bloqueio. Antes do próximo envio, tire das suas listas os e-mails inválidos ou muito antigos.
 
-**Quais são os limites da Afrus?**
+**Quais são os limites da AFRUS?**
 Você os vê na seção **Variable de notificación**, ao lado da sua taxa atual. São os mesmos para todas as organizações.
 
 **Quanto tempo uma devolução leva para aparecer?**

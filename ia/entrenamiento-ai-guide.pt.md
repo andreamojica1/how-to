@@ -1,6 +1,6 @@
 # Guia de Treinamento da IA (Entrenamiento [AI RAG])
 
-Com este guia você vai poder ensinar à IA da Afrus quem é a sua organização: enviar documentos, adicionar páginas web e escrever instruções.
+Com este guia você vai poder ensinar à IA da AFRUS quem é a sua organização: enviar documentos, adicionar páginas web e escrever instruções.
 
 *Módulo: AI · Menu: **AI > Entrenamiento [AI RAG]** · Público: equipes de comunicação e captação*
 
@@ -10,7 +10,7 @@ Com este guia você vai poder ensinar à IA da Afrus quem é a sua organização
 
 ## O que é o Treinamento da IA
 
-**É o lugar onde você dá à IA da Afrus as informações da sua organização.** Aqui você envia documentos, adiciona páginas web e escreve instruções.
+**É o lugar onde você dá à IA da AFRUS as informações da sua organização.** Aqui você envia documentos, adiciona páginas web e escreve instruções.
 
 A IA usa tudo isso para responder no **Chat con AI** (chat com IA) e nos **Agentes para la web** (o chat que você pode colocar no seu site). Quanto melhores as informações, melhores as respostas.
 
@@ -26,7 +26,7 @@ A tela tem três abas: **Documentos**, **Instrucciones** (Instruções) e **URL'
 
 ## Antes de começar
 
-- **Ative a IA da Afrus.** Ela é ativada pelo **Business profile** (menu de perfil, canto superior): crie seu perfil e, na última etapa, clique em "Enviar AI" (enviar para a IA). Se ainda não fez isso, ao entrar você verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile) com o botão "Crear Business Profile" (Criar Business Profile).
+- **Ative a IA da AFRUS.** Ela é ativada pelo **Business profile** (menu de perfil, canto superior): crie seu perfil e, na última etapa, clique em "Enviar AI" (enviar para a IA). Se ainda não fez isso, ao entrar você verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile) com o botão "Crear Business Profile" (Criar Business Profile).
 
 ---
 
@@ -74,7 +74,7 @@ Por exemplo: "Somos uma fundação que protege florestas na Colômbia. Fale de f
 
 As instruções valem para toda a sua organização, e a IA as usa junto com os documentos desse tema.
 
-> **Fique atento:** os temas (atributos) são definidos pela Afrus; não é possível criar novos aqui.
+> **Fique atento:** os temas (atributos) são definidos pela AFRUS; não é possível criar novos aqui.
 
 **Atalhos de conversa:** nesta mesma aba você verá **Atajos de conversación** (Atalhos de conversa), para salvar perguntas frequentes como botões do chat. Hoje esses botões não aparecem no **Chat con AI**, então por enquanto não é preciso configurá-los.
 

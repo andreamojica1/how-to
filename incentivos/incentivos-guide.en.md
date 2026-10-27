@@ -12,7 +12,7 @@ This guide shows you how to give a gift to people who donate from a certain amou
 
 **An incentive is a gift your organization offers to people who donate from a minimum amount.** For example: a book, a calendar or a digital certificate.
 
-Incentives are set up inside a campaign and appear on your donation forms (widgets). In Afrus you will also see them called **gift** or **reward**: they are all the same thing.
+Incentives are set up inside a campaign and appear on your donation forms (widgets). In AFRUS you will also see them called **gift** or **reward**: they are all the same thing.
 
 There are two types:
 
@@ -23,7 +23,7 @@ There are two types:
 
 - **Encourage bigger donations.** Donors see which gift they get with each amount and how much more they need for the next one.
 - **Get more monthly donors.** You can ask for a different amount for one-time donors and for monthly donors.
-- **Deliver digital gifts with no manual work.** Afrus sends them by email on its own.
+- **Deliver digital gifts with no manual work.** AFRUS sends them by email on its own.
 - **Organize the shipping of physical gifts.** You get a list of who should receive each gift, at which address, and whether you already sent it.
 - **Let donors give to someone else.** A donor can donate in someone's name (for a birthday or a tribute, for example) and that person receives a card.
 - **Run promotions with coupons.** A coupon makes the gift easier to get.
@@ -33,7 +33,7 @@ There are two types:
 1. **You set up** the gifts inside the campaign and choose which forms show them.
 2. **The donor chooses** an amount and a gift on the form.
 3. **The payment is confirmed.**
-4. **Afrus assigns the gift,** takes one unit off the stock and adds it to the delivery list.
+4. **AFRUS assigns the gift,** takes one unit off the stock and adds it to the delivery list.
 5. **You deliver** the physical gift (digital gifts arrive on their own) and mark each shipment.
 
 The gift is assigned only when the payment is confirmed. If the payment fails, nothing is taken off the stock and there is nothing to deliver.
@@ -156,7 +156,7 @@ With this option, the donor donates in someone else's name, for example for a bi
 
 1. **Prepare the card delivery.** The card is sent by a workflow. Create it first, as explained in "Why create a workflow for incentives".
 2. **Turn on the option.** In the campaign's **Incentives** tab, turn on the **For third parties** switch.
-3. **Choose a tag.** Select the **Tag de segmentación para terceros** (Third-party segmentation tag). It's required; if you don't have one, create it there. Afrus adds it to each person who receives a gift, so you can find them later.
+3. **Choose a tag.** Select the **Tag de segmentación para terceros** (Third-party segmentation tag). It's required; if you don't have one, create it there. AFRUS adds it to each person who receives a gift, so you can find them later.
 
 When you finish, your forms will show the option **Donar a nombre de otra persona** (Donate in someone else's name). If you don't choose the tag, the option doesn't appear.
 
@@ -200,7 +200,7 @@ Only one can be the campaign's **featured** gift.
 
 **The workflow is what sends digital gifts and cards for someone else.** Without it, those gifts don't arrive.
 
-You create it once and it works on its own: every time a donation with a gift is confirmed, Afrus sends the email. You can attach, for example, a PDF certificate.
+You create it once and it works on its own: every time a donation with a gift is confirmed, AFRUS sends the email. You can attach, for example, a PDF certificate.
 
 To create it:
 
@@ -210,7 +210,7 @@ To create it:
 4. **Add a single step.** Choose **Enviar correo** (Send email), write your message and attach the file if you need it. It works best with a single step.
 5. **Turn on the workflow before you publish** your gifts.
 
-> **Important:** if there is no active workflow, the delivery shows as **Con problema** (With a problem). Afrus tries again several times over the following hours, so if you create it in time, the gift arrives.
+> **Important:** if there is no active workflow, the delivery shows as **Con problema** (With a problem). AFRUS tries again several times over the following hours, so if you create it in time, the gift arrives.
 
 ## Which incentives require a workflow
 

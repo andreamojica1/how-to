@@ -10,18 +10,18 @@ Idioma: es
 Título: Qué es un autoresponder
 Slug: que-es-un-autoresponder
 Categoría: Autoresponders
-Resumen: Aprende qué es un autoresponder: el correo que Afrus envía solo a una persona cuando ocurre algo, como una donación.
+Resumen: Aprende qué es un autoresponder: el correo que AFRUS envía solo a una persona cuando ocurre algo, como una donación.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirven-los-autoresponders, como-crear-y-usar-un-autoresponder, autoresponders-para-un-formulario-en-varios-idiomas, autoresponder-generico-por-campana-o-por-formulario
 --- CUERPO (HTML) ---
-<p><strong>Un autoresponder es un correo que Afrus envía solo, a una persona, cuando pasa algo.</strong> Por ejemplo: cuando alguien se registra, cuando su donación se confirma o falla, o cuando se le cobra su donación mensual.</p>
-<p>Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento. Los encuentras en <strong>Interacciones &gt; Autoresponders</strong>.</p>
+<p><strong>Un autoresponder es un correo que AFRUS envía solo, a una persona, cuando pasa algo.</strong> Por ejemplo: cuando alguien se registra, cuando su donación se confirma o falla, o cuando se le cobra su donación mensual.</p>
+<p>Tú escribes el correo una vez y AFRUS lo envía cada vez que ocurre ese evento. Los encuentras en <strong>Interacciones &gt; Autoresponders</strong>.</p>
 <h2>Estados</h2>
 <ul><li><strong>Activo:</strong> se envía cuando ocurre el evento.</li><li><strong>Inactivo:</strong> está apagado y no se envía.</li><li><strong>Borrador:</strong> se guardó sin diseño y no se envía.</li><li><strong>No configurado:</strong> no hay correo para ese evento en el idioma elegido.</li></ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Cuánto tarda en llegar?</strong> Afrus revisa los eventos nuevos cada 5 minutos, así que suele llegar a los pocos minutos.</p>
+<p><strong>¿Cuánto tarda en llegar?</strong> AFRUS revisa los eventos nuevos cada 5 minutos, así que suele llegar a los pocos minutos.</p>
 === FIN ===
 ```
 
@@ -58,7 +58,7 @@ Imagen de portada: pendiente
 Relacionados: que-es-un-autoresponder, para-que-sirven-los-autoresponders, autoresponders-para-un-formulario-en-varios-idiomas, autoresponder-generico-por-campana-o-por-formulario
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
-<ul><li><strong>Un correo de envío.</strong> Siempre puedes usar el de Afrus. Para enviar desde el correo de tu organización, primero hay que verificar tu dominio (tarjeta de arriba de la lista).</li></ul>
+<ul><li><strong>Un correo de envío.</strong> Siempre puedes usar el de AFRUS. Para enviar desde el correo de tu organización, primero hay que verificar tu dominio (tarjeta de arriba de la lista).</li></ul>
 <h2>Paso a paso</h2>
 <ol><li><strong>Abre los autoresponders.</strong> Ve a <strong>Interacciones &gt; Autoresponders</strong>.</li>
 <li><strong>Elige el idioma</strong> arriba de la lista.</li>
@@ -90,8 +90,8 @@ Imagen de portada: pendiente
 Relacionados: que-es-un-autoresponder, para-que-sirven-los-autoresponders, como-crear-y-usar-un-autoresponder, autoresponder-generico-por-campana-o-por-formulario
 --- CUERPO (HTML) ---
 <ul><li><strong>Cada idioma es un correo distinto.</strong> Cambia el selector de idioma y crea cada versión aparte.</li>
-<li><strong>Afrus elige el idioma de la persona.</strong> Si la persona tiene un idioma, recibe el correo en ese idioma.</li>
-<li><strong>Si falta un idioma, se usa el genérico.</strong> Afrus envía tu autoresponder <strong>Genérico</strong>, aunque esté en otro idioma: es mejor que no enviar nada.</li>
+<li><strong>AFRUS elige el idioma de la persona.</strong> Si la persona tiene un idioma, recibe el correo en ese idioma.</li>
+<li><strong>Si falta un idioma, se usa el genérico.</strong> AFRUS envía tu autoresponder <strong>Genérico</strong>, aunque esté en otro idioma: es mejor que no enviar nada.</li>
 <li><strong>Los de campaña y de formulario son más estrictos.</strong> Solo se envían en su idioma exacto; si no existen, llega el genérico.</li></ul>
 <p><strong>Recomendación:</strong> crea el autoresponder en cada idioma que usan tus donantes, empezando por el <strong>Genérico</strong>.</p>
 === FIN ===
@@ -103,7 +103,7 @@ Idioma: es
 Título: Autoresponder genérico, por campaña o por formulario
 Slug: autoresponder-generico-por-campana-o-por-formulario
 Categoría: Autoresponders
-Resumen: Aprende cuándo conviene crear un autoresponder genérico, uno por campaña o uno por formulario, y cuál envía Afrus.
+Resumen: Aprende cuándo conviene crear un autoresponder genérico, uno por campaña o uno por formulario, y cuál envía AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -112,8 +112,8 @@ Relacionados: que-es-un-autoresponder, para-que-sirven-los-autoresponders, como-
 <ul><li><strong>Genérico:</strong> úsalo siempre, como base. Es el que llega cuando no hay uno más específico.</li>
 <li><strong>Por campaña:</strong> cuando una campaña necesita su propio mensaje, por ejemplo "Gracias por apoyar nuestra campaña de Navidad".</li>
 <li><strong>Por formulario:</strong> cuando un formulario concreto necesita su propio mensaje, por ejemplo tu página de emergencias.</li></ul>
-<h2>Cuál envía Afrus</h2>
-<p>Afrus busca primero el más específico: campaña y formulario juntos, después campaña, después formulario y, al final, el <strong>Genérico</strong>. Solo cuenta lo que esté <strong>Activo</strong>.</p>
+<h2>Cuál envía AFRUS</h2>
+<p>AFRUS busca primero el más específico: campaña y formulario juntos, después campaña, después formulario y, al final, el <strong>Genérico</strong>. Solo cuenta lo que esté <strong>Activo</strong>.</p>
 <p><strong>Recomendación:</strong> crea primero el <strong>Genérico</strong> de cada evento importante, para que nadie se quede sin respuesta.</p>
 === FIN ===
 ```
@@ -126,18 +126,18 @@ Idioma: en
 Título: What an autoresponder is
 Slug: what-is-an-autoresponder
 Categoría: Autoresponders
-Resumen: Learn what an autoresponder is: the email Afrus sends on its own to a person when something happens, such as a donation.
+Resumen: Learn what an autoresponder is: the email AFRUS sends on its own to a person when something happens, such as a donation.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-autoresponders-for, how-to-create-and-use-an-autoresponder, autoresponders-for-a-form-in-several-languages, generic-campaign-or-form-autoresponder
 --- CUERPO (HTML) ---
-<p><strong>An autoresponder is an email that Afrus sends on its own, to one person, when something happens.</strong> For example: when someone signs up, when their donation is confirmed or fails, or when their monthly donation is charged.</p>
-<p>You write the email once and Afrus sends it every time that event happens. You find them in <strong>Interacciones &gt; Autoresponders</strong>. Labels are shown as they appear in the Spanish version of the console.</p>
+<p><strong>An autoresponder is an email that AFRUS sends on its own, to one person, when something happens.</strong> For example: when someone signs up, when their donation is confirmed or fails, or when their monthly donation is charged.</p>
+<p>You write the email once and AFRUS sends it every time that event happens. You find them in <strong>Interacciones &gt; Autoresponders</strong>. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Statuses</h2>
 <ul><li><strong>Activo</strong> (Active): sent when the event happens.</li><li><strong>Inactivo</strong> (Inactive): turned off, not sent.</li><li><strong>Borrador</strong> (Draft): saved without a design, not sent.</li><li><strong>No configurado</strong> (Not configured): no email for that event in the chosen language.</li></ul>
 <h2>Frequently asked questions</h2>
-<p><strong>How long does it take to arrive?</strong> Afrus checks for new events every 5 minutes, so it usually arrives within a few minutes.</p>
+<p><strong>How long does it take to arrive?</strong> AFRUS checks for new events every 5 minutes, so it usually arrives within a few minutes.</p>
 === FIN ===
 ```
 
@@ -174,7 +174,7 @@ Imagen de portada: pendiente
 Relacionados: what-is-an-autoresponder, what-are-autoresponders-for, autoresponders-for-a-form-in-several-languages, generic-campaign-or-form-autoresponder
 --- CUERPO (HTML) ---
 <h2>Before you start</h2>
-<ul><li><strong>A sending address.</strong> You can always use Afrus's. To send from your organization's address, your domain must be verified first (card above the list).</li></ul>
+<ul><li><strong>A sending address.</strong> You can always use AFRUS's. To send from your organization's address, your domain must be verified first (card above the list).</li></ul>
 <h2>Step by step</h2>
 <ol><li><strong>Open autoresponders.</strong> Go to <strong>Interacciones &gt; Autoresponders</strong>.</li>
 <li><strong>Choose the language</strong> above the list.</li>
@@ -206,8 +206,8 @@ Imagen de portada: pendiente
 Relacionados: what-is-an-autoresponder, what-are-autoresponders-for, how-to-create-and-use-an-autoresponder, generic-campaign-or-form-autoresponder
 --- CUERPO (HTML) ---
 <ul><li><strong>Each language is a separate email.</strong> Switch the language selector and create each version separately.</li>
-<li><strong>Afrus picks the person's language.</strong> If the person has a language, they get the email in that language.</li>
-<li><strong>If a language is missing, the generic one is used.</strong> Afrus sends your <strong>Genérico</strong> autoresponder, even if it's in another language: better than sending nothing.</li>
+<li><strong>AFRUS picks the person's language.</strong> If the person has a language, they get the email in that language.</li>
+<li><strong>If a language is missing, the generic one is used.</strong> AFRUS sends your <strong>Genérico</strong> autoresponder, even if it's in another language: better than sending nothing.</li>
 <li><strong>Campaign and form emails are stricter.</strong> They're only sent in their exact language; if they don't exist, the generic one arrives.</li></ul>
 <p><strong>Recommendation:</strong> create the autoresponder in every language your donors use, starting with <strong>Genérico</strong>.</p>
 === FIN ===
@@ -219,7 +219,7 @@ Idioma: en
 Título: Generic, campaign or form autoresponder
 Slug: generic-campaign-or-form-autoresponder
 Categoría: Autoresponders
-Resumen: Learn when to create a generic autoresponder, one per campaign or one per form, and which one Afrus sends.
+Resumen: Learn when to create a generic autoresponder, one per campaign or one per form, and which one AFRUS sends.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -228,8 +228,8 @@ Relacionados: what-is-an-autoresponder, what-are-autoresponders-for, how-to-crea
 <ul><li><strong>Genérico</strong> (Generic): always use it, as a base. It's sent when there isn't a more specific one.</li>
 <li><strong>Por campaña</strong> (By campaign): when a campaign needs its own message, for example "Thank you for supporting our Christmas campaign".</li>
 <li><strong>Por formulario</strong> (By form): when a specific form needs its own message, for example your emergency page.</li></ul>
-<h2>Which one Afrus sends</h2>
-<p>Afrus looks for the most specific one first: campaign and form together, then campaign, then form and, finally, <strong>Genérico</strong>. Only <strong>Activo</strong> emails count.</p>
+<h2>Which one AFRUS sends</h2>
+<p>AFRUS looks for the most specific one first: campaign and form together, then campaign, then form and, finally, <strong>Genérico</strong>. Only <strong>Activo</strong> emails count.</p>
 <p><strong>Recommendation:</strong> create the <strong>Genérico</strong> email for each important event first, so nobody goes without a reply.</p>
 === FIN ===
 ```
@@ -242,18 +242,18 @@ Idioma: pt-BR
 Título: O que é um autoresponder
 Slug: o-que-e-um-autoresponder
 Categoría: Autoresponders
-Resumen: Aprenda o que é um autoresponder: o e-mail que a Afrus envia sozinha para uma pessoa quando algo acontece, como uma doação.
+Resumen: Aprenda o que é um autoresponder: o e-mail que a AFRUS envia sozinha para uma pessoa quando algo acontece, como uma doação.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-servem-os-autoresponders, como-criar-e-usar-um-autoresponder, autoresponders-para-um-formulario-em-varios-idiomas, autoresponder-generico-por-campanha-ou-por-formulario
 --- CUERPO (HTML) ---
-<p><strong>Um autoresponder é um e-mail que a Afrus envia sozinha, para uma pessoa, quando algo acontece.</strong> Por exemplo: quando alguém se cadastra, quando a doação é confirmada ou falha, ou quando a doação mensal é cobrada.</p>
-<p>Você escreve o e-mail uma vez e a Afrus o envia sempre que esse evento acontece. Você os encontra em <strong>Interacciones &gt; Autoresponders</strong>. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p><strong>Um autoresponder é um e-mail que a AFRUS envia sozinha, para uma pessoa, quando algo acontece.</strong> Por exemplo: quando alguém se cadastra, quando a doação é confirmada ou falha, ou quando a doação mensal é cobrada.</p>
+<p>Você escreve o e-mail uma vez e a AFRUS o envia sempre que esse evento acontece. Você os encontra em <strong>Interacciones &gt; Autoresponders</strong>. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Status</h2>
 <ul><li><strong>Activo</strong> (Ativo): é enviado quando o evento acontece.</li><li><strong>Inactivo</strong> (Inativo): está desligado e não é enviado.</li><li><strong>Borrador</strong> (Rascunho): salvo sem design, não é enviado.</li><li><strong>No configurado</strong> (Não configurado): não há e-mail para esse evento no idioma escolhido.</li></ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>Quanto tempo demora para chegar?</strong> A Afrus verifica os eventos novos a cada 5 minutos, então costuma chegar em poucos minutos.</p>
+<p><strong>Quanto tempo demora para chegar?</strong> A AFRUS verifica os eventos novos a cada 5 minutos, então costuma chegar em poucos minutos.</p>
 === FIN ===
 ```
 
@@ -290,7 +290,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-e-um-autoresponder, para-que-servem-os-autoresponders, autoresponders-para-um-formulario-em-varios-idiomas, autoresponder-generico-por-campanha-ou-por-formulario
 --- CUERPO (HTML) ---
 <h2>Antes de começar</h2>
-<ul><li><strong>Um e-mail de envio.</strong> Você sempre pode usar o da Afrus. Para enviar com o e-mail da sua organização, primeiro é preciso verificar seu domínio (cartão acima da lista).</li></ul>
+<ul><li><strong>Um e-mail de envio.</strong> Você sempre pode usar o da AFRUS. Para enviar com o e-mail da sua organização, primeiro é preciso verificar seu domínio (cartão acima da lista).</li></ul>
 <h2>Passo a passo</h2>
 <ol><li><strong>Abra os autoresponders.</strong> Acesse <strong>Interacciones &gt; Autoresponders</strong>.</li>
 <li><strong>Escolha o idioma</strong> acima da lista.</li>
@@ -322,8 +322,8 @@ Imagen de portada: pendiente
 Relacionados: o-que-e-um-autoresponder, para-que-servem-os-autoresponders, como-criar-e-usar-um-autoresponder, autoresponder-generico-por-campanha-ou-por-formulario
 --- CUERPO (HTML) ---
 <ul><li><strong>Cada idioma é um e-mail diferente.</strong> Mude o seletor de idioma e crie cada versão à parte.</li>
-<li><strong>A Afrus escolhe o idioma da pessoa.</strong> Se a pessoa tem um idioma, recebe o e-mail nesse idioma.</li>
-<li><strong>Se faltar um idioma, usa-se o genérico.</strong> A Afrus envia seu autoresponder <strong>Genérico</strong>, mesmo em outro idioma: é melhor do que não enviar nada.</li>
+<li><strong>A AFRUS escolhe o idioma da pessoa.</strong> Se a pessoa tem um idioma, recebe o e-mail nesse idioma.</li>
+<li><strong>Se faltar um idioma, usa-se o genérico.</strong> A AFRUS envia seu autoresponder <strong>Genérico</strong>, mesmo em outro idioma: é melhor do que não enviar nada.</li>
 <li><strong>Os de campanha e de formulário são mais rígidos.</strong> Só são enviados no idioma exato; se não existirem, chega o genérico.</li></ul>
 <p><strong>Recomendação:</strong> crie o autoresponder em cada idioma que seus doadores usam, começando pelo <strong>Genérico</strong>.</p>
 === FIN ===
@@ -335,7 +335,7 @@ Idioma: pt-BR
 Título: Autoresponder genérico, por campanha ou por formulário
 Slug: autoresponder-generico-por-campanha-ou-por-formulario
 Categoría: Autoresponders
-Resumen: Aprenda quando criar um autoresponder genérico, um por campanha ou um por formulário, e qual a Afrus envia.
+Resumen: Aprenda quando criar um autoresponder genérico, um por campanha ou um por formulário, e qual a AFRUS envia.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -344,8 +344,8 @@ Relacionados: o-que-e-um-autoresponder, para-que-servem-os-autoresponders, como-
 <ul><li><strong>Genérico:</strong> use sempre, como base. É o que chega quando não há um mais específico.</li>
 <li><strong>Por campaña</strong> (Por campanha): quando uma campanha precisa de uma mensagem própria, por exemplo "Obrigado por apoiar nossa campanha de Natal".</li>
 <li><strong>Por formulario</strong> (Por formulário): quando um formulário específico precisa de uma mensagem própria, por exemplo sua página de emergência.</li></ul>
-<h2>Qual a Afrus envia</h2>
-<p>A Afrus procura primeiro o mais específico: campanha e formulário juntos, depois campanha, depois formulário e, por fim, o <strong>Genérico</strong>. Só contam os que estão <strong>Activo</strong>.</p>
+<h2>Qual a AFRUS envia</h2>
+<p>A AFRUS procura primeiro o mais específico: campanha e formulário juntos, depois campanha, depois formulário e, por fim, o <strong>Genérico</strong>. Só contam os que estão <strong>Activo</strong>.</p>
 <p><strong>Recomendação:</strong> crie primeiro o <strong>Genérico</strong> de cada evento importante, para que ninguém fique sem resposta.</p>
 === FIN ===
 ```

@@ -20,7 +20,7 @@ Las páginas que creas aquí viven solo en **Fundraising > Experiences AI**: no 
 
 ## Antes de empezar
 
-- **Activa la IA de Afrus.** Si no está activa, al entrar verás el aviso *"Activación necesaria para usar afrus experience"* con el botón "Ir a business profile". Para activarla, completa tu **Business profile** (menú de perfil, esquina superior) y, en el último paso, pulsa "Enviar AI". Cuando el estado del perfil diga **Sincronizado con AI**, ya puedes usar el módulo.
+- **Activa la IA de AFRUS.** Si no está activa, al entrar verás el aviso *"Activación necesaria para usar afrus experience"* con el botón "Ir a business profile". Para activarla, completa tu **Business profile** (menú de perfil, esquina superior) y, en el último paso, pulsa "Enviar AI". Cuando el estado del perfil diga **Sincronizado con AI**, ya puedes usar el módulo.
 - **Ten un widget de donación creado** si vas a hacer una página de **Donación**.
 
 ---
@@ -58,7 +58,7 @@ Al terminar, tu página queda en línea en la dirección que se muestra en **URL
 
 ## Cómo cambiar la plantilla de mi landing
 
-Al crear la experiencia, Afrus le asigna al azar una de las plantillas disponibles para su tipo. Puedes cambiarla cuando quieras.
+Al crear la experiencia, AFRUS le asigna al azar una de las plantillas disponibles para su tipo. Puedes cambiarla cuando quieras.
 
 1. **Abre el editor.** En **Fundraising > Experiences AI**, pulsa el ícono de lápiz de la experiencia.
 2. **Cambia el diseño.** En la barra superior, pulsa "Cambiar diseño". Cada clic pasa a la siguiente plantilla disponible del mismo tipo (Donación o Agradecimiento); al llegar a la última, vuelve a la primera. Los textos que ya tienes se conservan y se acomodan al nuevo diseño.
@@ -127,7 +127,7 @@ Las preguntas frecuentes de la página son las del paso **Preguntas Frecuentes**
 
 ## Limitaciones conocidas
 
-- **Meta y moneda:** no se pueden definir ni cambiar desde este módulo. La experiencia guarda una meta por defecto de 10.000. Por ahora no hay una alternativa dentro de Afrus.
+- **Meta y moneda:** no se pueden definir ni cambiar desde este módulo. La experiencia guarda una meta por defecto de 10.000. Por ahora no hay una alternativa dentro de AFRUS.
 - **Solo dos tipos:** puedes crear **Donación** o **Agradecimiento**. Aunque "Registro" aparece en algunos textos y en el filtro **Tipos**, no se puede crear; y el filtro **Tipos** no tiene opción para Agradecimiento.
 - **Etiqueta en Agradecimiento:** en la pestaña **Configuracion** de una experiencia de Agradecimiento, la etiqueta superior dice "Registro".
 - **"Editar con IA" en Agradecimiento:** no genera nada y la vista previa puede quedarse cargando. Recarga la página y edita el texto a mano.

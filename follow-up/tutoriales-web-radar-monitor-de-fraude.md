@@ -86,7 +86,7 @@ Relacionados: que-es-el-radar-monitor-de-fraude, cada-cuanto-se-actualiza-el-rad
 <p>Una transacción aparece en el Radar cuando queda marcada como fraude:</p>
 <ul>
 <li><strong>Por tu equipo</strong>, con la acción <strong>Marcar como Fraude</strong> en <strong>Transacciones</strong>, o</li>
-<li><strong>Por el equipo de Afrus</strong>, por ejemplo al cargar un listado de transacciones fraudulentas.</li>
+<li><strong>Por el equipo de AFRUS</strong>, por ejemplo al cargar un listado de transacciones fraudulentas.</li>
 </ul>
 <h2>Paso a paso: marcar una transacción como fraude</h2>
 <ol>
@@ -101,20 +101,20 @@ Relacionados: que-es-el-radar-monitor-de-fraude, cada-cuanto-se-actualiza-el-rad
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué mecanismos tiene Afrus para combatir el fraude
+Título: Qué mecanismos tiene AFRUS para combatir el fraude
 Slug: mecanismos-de-afrus-contra-el-fraude
 Categoría: Follow up
-Resumen: Aprende qué protecciones combina Afrus para frenar el fraude en tus formularios de donación.
+Resumen: Aprende qué protecciones combina AFRUS para frenar el fraude en tus formularios de donación.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-el-radar-monitor-de-fraude, cuando-una-transaccion-se-considera-fraudulenta, cada-cuanto-se-actualiza-el-radar, para-que-sirve-el-radar-monitor-de-fraude
 --- CUERPO (HTML) ---
-<p>Afrus combina varias protecciones. Algunas dependen de la configuración de cada organización:</p>
+<p>AFRUS combina varias protecciones. Algunas dependen de la configuración de cada organización:</p>
 <ul>
 <li><strong>Verificación anti-bots (reCAPTCHA)</strong> en los pagos con widgets, que puede activarse en un formulario cuando se detecta actividad anómala.</li>
 <li><strong>Límites a los intentos de pago repetidos</strong>, para frenar a quien prueba muchas tarjetas.</li>
-<li><strong>Protección automática de formularios:</strong> ante una actividad de pagos fallidos inusual, Afrus puede exigir la verificación anti-bots, limitar temporalmente el formulario o desactivarlo, y avisarte por correo.</li>
+<li><strong>Protección automática de formularios:</strong> ante una actividad de pagos fallidos inusual, AFRUS puede exigir la verificación anti-bots, limitar temporalmente el formulario o desactivarlo, y avisarte por correo.</li>
 <li><strong>Verificación por código:</strong> ante actividad sospechosa en un formulario, se le puede pedir al donante un código de verificación antes de cobrar.</li>
 <li><strong>Bloqueo de correos en lista negra</strong> y otros controles sobre cada pago.</li>
 <li><strong>Detección de registros automatizados (bots)</strong> en los formularios de registro (ver <strong>Follow up &gt; Leads spam</strong>).</li>
@@ -212,7 +212,7 @@ Relacionados: what-is-the-fraud-radar, how-often-the-fraud-radar-updates, afrus-
 <p>A transaction appears on the Radar when it is marked as fraud:</p>
 <ul>
 <li><strong>By your team</strong>, with the <strong>Marcar como Fraude</strong> (Mark as fraud) action in <strong>Transacciones</strong> (Transactions), or</li>
-<li><strong>By the Afrus team</strong>, for example when loading a list of fraudulent transactions.</li>
+<li><strong>By the AFRUS team</strong>, for example when loading a list of fraudulent transactions.</li>
 </ul>
 <h2>Step by step: mark a transaction as fraud</h2>
 <ol>
@@ -227,21 +227,21 @@ Relacionados: what-is-the-fraud-radar, how-often-the-fraud-radar-updates, afrus-
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What mechanisms Afrus has to fight fraud
+Título: What mechanisms AFRUS has to fight fraud
 Slug: afrus-anti-fraud-mechanisms
 Categoría: Follow up
-Resumen: Learn which protections Afrus combines to stop fraud on your donation forms.
+Resumen: Learn which protections AFRUS combines to stop fraud on your donation forms.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-the-fraud-radar, when-is-a-transaction-considered-fraudulent, how-often-the-fraud-radar-updates, what-is-the-fraud-radar-for
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
-<p>Afrus combines several protections. Some depend on each organization's setup:</p>
+<p>AFRUS combines several protections. Some depend on each organization's setup:</p>
 <ul>
 <li><strong>Anti-bot verification (reCAPTCHA)</strong> on widget payments, which can be switched on for a form when unusual activity is detected.</li>
 <li><strong>Limits on repeated payment attempts</strong>, to stop anyone testing many cards.</li>
-<li><strong>Automatic form protection:</strong> when there is unusual failed-payment activity, Afrus can require anti-bot verification, temporarily limit the form or deactivate it, and notify you by email.</li>
+<li><strong>Automatic form protection:</strong> when there is unusual failed-payment activity, AFRUS can require anti-bot verification, temporarily limit the form or deactivate it, and notify you by email.</li>
 <li><strong>Code verification:</strong> when there is suspicious activity on a form, the donor can be asked for a verification code before being charged.</li>
 <li><strong>Blocking blacklisted emails</strong> and other checks on every payment.</li>
 <li><strong>Detection of automated sign-ups (bots)</strong> on registration forms (see <strong>Follow up &gt; Leads spam</strong>).</li>
@@ -339,7 +339,7 @@ Relacionados: o-que-e-o-radar-monitor-de-fraude, com-que-frequencia-o-radar-e-at
 <p>Uma transação aparece no Radar quando é marcada como fraude:</p>
 <ul>
 <li><strong>Pela sua equipe</strong>, com a ação <strong>Marcar como Fraude</strong> em <strong>Transacciones</strong> (Transações), ou</li>
-<li><strong>Pela equipe da Afrus</strong>, por exemplo ao carregar uma lista de transações fraudulentas.</li>
+<li><strong>Pela equipe da AFRUS</strong>, por exemplo ao carregar uma lista de transações fraudulentas.</li>
 </ul>
 <h2>Passo a passo: marcar uma transação como fraude</h2>
 <ol>
@@ -354,21 +354,21 @@ Relacionados: o-que-e-o-radar-monitor-de-fraude, com-que-frequencia-o-radar-e-at
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Quais mecanismos a Afrus tem para combater a fraude
+Título: Quais mecanismos a AFRUS tem para combater a fraude
 Slug: mecanismos-da-afrus-contra-fraude
 Categoría: Follow up
-Resumen: Aprenda quais proteções a Afrus combina para frear a fraude nos seus formulários de doação.
+Resumen: Aprenda quais proteções a AFRUS combina para frear a fraude nos seus formulários de doação.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-o-radar-monitor-de-fraude, quando-uma-transacao-e-considerada-fraudulenta, com-que-frequencia-o-radar-e-atualizado, para-que-serve-o-radar-monitor-de-fraude
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>A Afrus combina várias proteções. Algumas dependem da configuração de cada organização:</p>
+<p>A AFRUS combina várias proteções. Algumas dependem da configuração de cada organização:</p>
 <ul>
 <li><strong>Verificação anti-bots (reCAPTCHA)</strong> nos pagamentos com widgets, que pode ser ativada em um formulário quando é detectada atividade anômala.</li>
 <li><strong>Limites para tentativas de pagamento repetidas</strong>, para frear quem testa muitos cartões.</li>
-<li><strong>Proteção automática de formulários:</strong> diante de uma atividade incomum de pagamentos recusados, a Afrus pode exigir a verificação anti-bots, limitar temporariamente o formulário ou desativá-lo, e avisar você por e-mail.</li>
+<li><strong>Proteção automática de formulários:</strong> diante de uma atividade incomum de pagamentos recusados, a AFRUS pode exigir a verificação anti-bots, limitar temporariamente o formulário ou desativá-lo, e avisar você por e-mail.</li>
 <li><strong>Verificação por código:</strong> diante de atividade suspeita em um formulário, pode ser pedido ao doador um código de verificação antes da cobrança.</li>
 <li><strong>Bloqueio de e-mails em lista negra</strong> e outros controles em cada pagamento.</li>
 <li><strong>Detecção de cadastros automatizados (bots)</strong> nos formulários de cadastro (veja <strong>Follow up &gt; Leads spam</strong>).</li>

@@ -1,6 +1,6 @@
 # AI Training guide (Entrenamiento [AI RAG])
 
-With this guide you will be able to teach Afrus AI about your organization: upload documents, add web pages and write instructions for it.
+With this guide you will be able to teach AFRUS AI about your organization: upload documents, add web pages and write instructions for it.
 
 *Module: AI · Menu: **AI > Entrenamiento [AI RAG]** · Audience: communications and fundraising teams*
 
@@ -10,7 +10,7 @@ With this guide you will be able to teach Afrus AI about your organization: uplo
 
 ## What AI Training is
 
-**It is where you give Afrus AI your organization's information.** Here you upload documents, add web pages and write instructions.
+**It is where you give AFRUS AI your organization's information.** Here you upload documents, add web pages and write instructions.
 
 The AI uses all of it to answer in **Chat con AI** (AI chat) and in the **Agentes para la web** (the chat you can put on your website). The better the information you give it, the better its answers.
 
@@ -26,7 +26,7 @@ The screen has three tabs: **Documentos** (Documents), **Instrucciones** (Instru
 
 ## Before you start
 
-- **Turn on Afrus AI.** It is turned on from the **Business profile** (profile menu, top corner): create your profile and, in the last step, click "Enviar AI" (Send to AI). If you haven't, you will see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile) with the "Crear Business Profile" (Create Business Profile) button.
+- **Turn on AFRUS AI.** It is turned on from the **Business profile** (profile menu, top corner): create your profile and, in the last step, click "Enviar AI" (Send to AI). If you haven't, you will see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile) with the "Crear Business Profile" (Create Business Profile) button.
 
 ---
 
@@ -74,7 +74,7 @@ For example: "We are a foundation that protects forests in Colombia. Speak in a 
 
 Instructions apply to your whole organization, and the AI uses them together with that topic's documents.
 
-> **Keep in mind:** topics (attributes) are defined by Afrus; you can't create new ones here.
+> **Keep in mind:** topics (attributes) are defined by AFRUS; you can't create new ones here.
 
 **Conversation shortcuts:** on this same tab you'll see **Atajos de conversación** (Conversation shortcuts), to save common questions as chat buttons. Today those buttons don't appear in **Chat con AI**, so for now you don't need to set them up.
 

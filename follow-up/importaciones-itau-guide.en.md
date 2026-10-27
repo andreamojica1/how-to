@@ -1,6 +1,6 @@
 # Itaú imports guide
 
-After reading this guide you will know what **Importaciones - itaú** (Itaú imports) is, what it is for, and how to upload the Itaú bank's return file so Afrus records the donations from paid boletos.
+After reading this guide you will know what **Importaciones - itaú** (Itaú imports) is, what it is for, and how to upload the Itaú bank's return file so AFRUS records the donations from paid boletos.
 
 *Module: Follow up · Menu: **Follow up > Importaciones - itaú** · Audience: fundraising and finance teams at organizations in Brazil*
 
@@ -10,7 +10,7 @@ After reading this guide you will know what **Importaciones - itaú** (Itaú imp
 
 ## What Itaú imports is
 
-**Importaciones - itaú is where you upload the return file the Itaú bank gives you (CNAB 400 format) after processing your boletos, so Afrus records the paid boletos as donations.**
+**Importaciones - itaú is where you upload the return file the Itaú bank gives you (CNAB 400 format) after processing your boletos, so AFRUS records the paid boletos as donations.**
 
 It is the last step of the **Follow up > Boleto Itaú** journey: you generate the boletos, send them to the bank, the bank returns the result and you upload it here.
 
@@ -22,7 +22,7 @@ It is the last step of the **Follow up > Boleto Itaú** journey: you generate th
 
 ## Before you start
 
-- **Have the bank's return file** (CNAB 400) for boletos generated with Afrus.
+- **Have the bank's return file** (CNAB 400) for boletos generated with AFRUS.
 - **Have an active campaign** to record the donations in.
 - **Check people's data.** To record the donation, each person needs a CEP (postal code), document type and document number.
 
@@ -51,9 +51,9 @@ You will see the **Importación en proceso** (Import in progress) dialog: *"El p
 
 > **Can it be undone?** **Pending confirmation:** whether an import can be cancelled. Check the campaign and the file before clicking "Importar".
 
-### What Afrus does with the file
+### What AFRUS does with the file
 
-For each line in the file, Afrus identifies the person the boleto belongs to. If they have a CEP, document type and number, it records a **successful donation** for the boleto's amount, in Brazilian reais (BRL), with boleto as the payment method, in the chosen campaign and widget. If that data is missing, the line goes to **Error** and the boleto shows as **Pagado - no registrado** (Paid – not recorded) in **Follow up > Boleto Itaú**.
+For each line in the file, AFRUS identifies the person the boleto belongs to. If they have a CEP, document type and number, it records a **successful donation** for the boleto's amount, in Brazilian reais (BRL), with boleto as the payment method, in the chosen campaign and widget. If that data is missing, the line goes to **Error** and the boleto shows as **Pagado - no registrado** (Paid – not recorded) in **Follow up > Boleto Itaú**.
 
 The import is finished when every line has been processed.
 

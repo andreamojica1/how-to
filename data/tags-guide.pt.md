@@ -66,7 +66,7 @@ O novo nome aparece em todas as pessoas que têm essa tag.
 
 > **Dá para desfazer?** Não. Se você excluir uma tag, não dá para recuperá-la.
 
-> **Importante:** uma tag que está sendo usada em outras partes da Afrus (por exemplo, em uma sequência, um newsletter ou uma etiqueta automática) não pode ser excluída. Nesse caso aparece um erro que não explica o motivo. Se isso acontecer, veja onde você usa essa tag e tire-a de lá primeiro.
+> **Importante:** uma tag que está sendo usada em outras partes da AFRUS (por exemplo, em uma sequência, um newsletter ou uma etiqueta automática) não pode ser excluída. Nesse caso aparece um erro que não explica o motivo. Se isso acontecer, veja onde você usa essa tag e tire-a de lá primeiro.
 
 ## Estatísticas das tags
 
@@ -110,7 +110,7 @@ Se você marcar várias categorias, a tag vai para quem cumprir **qualquer** uma
 ## Perguntas frequentes
 
 **Posso ter duas tags com o mesmo nome?**
-> **Pendente de confirmação:** se a Afrus permite duas tags com o mesmo nome. Recomendamos usar nomes diferentes para não se confundir.
+> **Pendente de confirmação:** se a AFRUS permite duas tags com o mesmo nome. Recomendamos usar nomes diferentes para não se confundir.
 
 **Onde vejo as tags de uma pessoa?**
 No perfil dela, seção **Etiquetas**, e na coluna **Tags** de **Personas**.

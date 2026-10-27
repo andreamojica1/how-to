@@ -12,7 +12,7 @@ With this guide you will be able to check that your donation forms are notifying
 
 **It is the record of every notice your donation forms sent to Google Analytics 4, Meta or Google Tag Manager.**
 
-If one of those tools is connected to a form (widget), every time a person opens the form, moves forward a step or completes their donation, Afrus notifies that tool. Each notice is called an **event**. This screen shows each event, what was sent and what the tool answered.
+If one of those tools is connected to a form (widget), every time a person opens the form, moves forward a step or completes their donation, AFRUS notifies that tool. Each notice is called an **event**. This screen shows each event, what was sent and what the tool answered.
 
 If your form has none of those tools set up, nothing is sent and this screen stays empty.
 
@@ -56,9 +56,9 @@ If your form has none of those tools set up, nothing is sent and this screen sta
 
 - **Meta:** if it worked, you'll see what Meta returned. If it failed, you'll see `success: false` and a message with the reason, for example that the form is missing the Pixel details.
 - **Google Analytics 4:** if you see `missing_ga_credentials`, the form is missing its GA4 connection details and **the event was not sent**. If you see `success: false`, Google answered with an error. If there's no error, Google received the notice; to confirm it recorded it, check GA4's real-time report.
-- **Google Tag Manager:** it's normal to see `logged_only: true`. Afrus only notes the event here; Tag Manager receives it directly from the person's browser.
+- **Google Tag Manager:** it's normal to see `logged_only: true`. AFRUS only notes the event here; Tag Manager receives it directly from the person's browser.
 
-If you have Meta conversions from Afrus turned on, you'll also see `FACEBOOK-…` rows created by Afrus after each payment.
+If you have Meta conversions from AFRUS turned on, you'll also see `FACEBOOK-…` rows created by AFRUS after each payment.
 
 ---
 

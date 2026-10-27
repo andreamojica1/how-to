@@ -1,6 +1,6 @@
 # Payment gateways guide
 
-This guide explains what payment gateways are in Afrus, why you need them, and how to turn on Cover Your Cost so donors can cover the fee.
+This guide explains what payment gateways are in AFRUS, why you need them, and how to turn on Cover Your Cost so donors can cover the fee.
 
 *Module: Settings · Menu: **Configuración > Pagos > Pasarelas de pago** (Settings > Payments > Payment gateways) · Audience: admin and fundraising teams*
 
@@ -38,14 +38,14 @@ Once a gateway is connected, you choose it in each form, in the **Medio de pago*
 
 With Cover Your Cost, the donor can pay a little more to cover the gateway fee. This way your organization receives the full donation amount.
 
-**Before you start:** Afrus has to turn on Cover Your Cost for your organization. If you don't see the **Cover Your Cost** section when you open a gateway, write to us to activate it.
+**Before you start:** AFRUS has to turn on Cover Your Cost for your organization. If you don't see the **Cover Your Cost** section when you open a gateway, write to us to activate it.
 
 1. **Open the gateway.** Go to **Configuración > Pagos > Pasarelas de pago** and open the gateway where you want to offer it.
    ![Gateway window with the Cover Your Cost section and the Activar Cover Your Cost switch](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Turn it on.** In the **Cover Your Cost** section, turn on **Activar Cover Your Cost** (Turn on Cover Your Cost).
 
-3. **Enter the gateway fee.** In **Comisión de pasarela (%)** (Gateway fee %), enter the percentage that gateway charges you (minimum 0.01). The **Comisión Afrus (%)** (Afrus fee %) is shown for reference only; you can't change it.
+3. **Enter the gateway fee.** In **Comisión de pasarela (%)** (Gateway fee %), enter the percentage that gateway charges you (minimum 0.01). The **Comisión AFRUS (%)** (AFRUS fee %) is shown for reference only; you can't change it.
 
 4. **Choose how the donor sees it.** With **Preseleccionar la opción para el donante** (Preselect the option for the donor) on, the donor sees it already turned on and can remove it. Off, they see it turned off and can turn it on.
 
@@ -59,14 +59,14 @@ When you finish, when a donor pays with that gateway, the last step of the form 
 
 **Keep in mind:**
 - It is set up per gateway, not per form.
-- The gateway fee plus the Afrus fee must add up to less than 80%.
-- If you see *"No se pudo cargar la comisión de Afrus. Inténtalo de nuevo."* (The Afrus fee could not be loaded. Try again.), the gateway can't be saved at that moment. Try again.
+- The gateway fee plus the AFRUS fee must add up to less than 80%.
+- If you see *"No se pudo cargar la comisión de AFRUS. Inténtalo de nuevo."* (The AFRUS fee could not be loaded. Try again.), the gateway can't be saved at that moment. Try again.
 
 ---
 
 ## Connecting a gateway
 
-> **Pending confirmation:** whether your organization can connect a gateway on its own, what details each one asks for, and the steps for AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal and Conekta. In the meantime, if you need to connect a new gateway, write to Afrus support.
+> **Pending confirmation:** whether your organization can connect a gateway on its own, what details each one asks for, and the steps for AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal and Conekta. In the meantime, if you need to connect a new gateway, write to AFRUS support.
 
 ## Frequently asked questions
 

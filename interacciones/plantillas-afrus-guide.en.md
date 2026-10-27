@@ -1,18 +1,18 @@
-# Plantillas Afrus guide
+# Plantillas AFRUS guide
 
-With this guide you will be able to find ready-made designs for your emails and pages, create your own templates and tell which ones are yours and which come with Afrus.
+With this guide you will be able to find ready-made designs for your emails and pages, create your own templates and tell which ones are yours and which come with AFRUS.
 
-*Module: Plantillas Afrus (Afrus templates) · Menu: **Interacciones > Plantillas Afrus** · Audience: communications and design teams*
+*Module: Plantillas AFRUS (AFRUS templates) · Menu: **Interacciones > Plantillas AFRUS** · Audience: communications and design teams*
 
 > **About the labels in this guide:** buttons, fields and menus are written exactly as they appear in the Spanish version of the console, with an English explanation where it helps.
 
 ---
 
-## What Plantillas Afrus are
+## What Plantillas AFRUS are
 
-**Plantillas Afrus is a library of ready-to-use designs:** emails, pages (landings), attachments and certificates.
+**Plantillas AFRUS is a library of ready-to-use designs:** emails, pages (landings), attachments and certificates.
 
-Some come with Afrus and are available to every organization. Others are the ones your team creates for your organization.
+Some come with AFRUS and are available to every organization. Others are the ones your team creates for your organization.
 
 ## What they are for
 
@@ -26,8 +26,8 @@ Some come with Afrus and are available to every organization. Others are the one
 
 ## What types of templates there are
 
-When you open **Interacciones > Plantillas Afrus** you will see a table with all your templates.
-![Plantillas Afrus list with the Tipo, Objetivo and Estado filters and the Status, Name, Type, Goal, Owner and Language columns](img/plantillas-afrus-01.webp)
+When you open **Interacciones > Plantillas AFRUS** you will see a table with all your templates.
+![Plantillas AFRUS list with the Tipo, Objetivo and Estado filters and the Status, Name, Type, Goal, Owner and Language columns](img/plantillas-afrus-01.webp)
 
 **By type:**
 
@@ -44,8 +44,8 @@ You can filter the table by type, goal and status to find what you need.
 
 ## How to create a new template
 
-1. **Open templates.** Go to **Interacciones > Plantillas Afrus** and click "Crear plantilla Afrus" (Create Afrus template).
-   ![Crear plantilla Afrus form with Información general: template name, status, type, goal and language](img/plantillas-afrus-02.webp)
+1. **Open templates.** Go to **Interacciones > Plantillas AFRUS** and click "Crear plantilla AFRUS" (Create AFRUS template).
+   ![Crear plantilla AFRUS form with Información general: template name, status, type, goal and language](img/plantillas-afrus-02.webp)
 
 2. **Fill in the general information.**
    - **Nombre de plantilla** (Template name, required): a name your team will recognize.
@@ -56,21 +56,21 @@ You can filter the table by type, goal and status to find what you need.
 
 3. **Design the content.** In **Contenido de la plantilla** (Template content), click "Abrir Editor Visual" (Open visual editor) to design it without code. If you have the design in HTML, you can also paste it there.
 
-4. **Save.** Click "Crear" (Create). You will see *"Plantilla Afrus creada exitosamente"* (Afrus template created successfully).
+4. **Save.** Click "Crear" (Create). You will see *"Plantilla AFRUS creada exitosamente"* (AFRUS template created successfully).
 
-**Do you have designs in the previous version of Afrus?** With "Importar diseños de Afrus Classic" (Import designs from Afrus Classic) you can bring them into the creation form.
+**Do you have designs in the previous version of AFRUS?** With "Importar diseños de AFRUS Classic" (Import designs from AFRUS Classic) you can bring them into the creation form.
 
 **To edit one of your templates:** on its row, use "Editar plantilla" (Edit template), make the changes and click "Guardar cambios" (Save changes).
 
 > **Can it be undone?** Deleting a template ("Eliminar plantilla") removes it from your library.
 > **Pending confirmation:** whether a deleted template can be recovered.
 
-## How to tell your templates from the ones Afrus provides
+## How to tell your templates from the ones AFRUS provides
 
 Look at the **Propietario** (Owner) column:
 
 - **Organización** (Organization): your team created it. You can edit it, turn it on or off and delete it.
-- **Genérica** (Generic): it comes with Afrus and is shared by every organization. It can't be edited or deleted.
+- **Genérica** (Generic): it comes with AFRUS and is shared by every organization. It can't be edited or deleted.
 
 **Want to change a generic template?** Use "Duplicar plantilla en mi organización" (Duplicate template in my organization). This creates a copy that's yours (**Organización**), and that one you can edit.
 
@@ -91,11 +91,11 @@ Email galleries show **Email** templates: the generic ones and your organization
 
 ## Frequently asked questions
 
-**Can I edit an Afrus template?**
+**Can I edit an AFRUS template?**
 Not directly. Duplicate it in your organization and edit the copy.
 
 **Can other organizations see my templates?**
-No. **Organización** templates are yours only. **Genérica** templates are the ones Afrus shares with everyone.
+No. **Organización** templates are yours only. **Genérica** templates are the ones AFRUS shares with everyone.
 
 **Which users can create templates?**
 > **Pending confirmation:** which user profiles have permission.

@@ -7,7 +7,7 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué son las Transacciones en Afrus
+Título: Qué son las Transacciones en AFRUS
 Slug: que-son-las-transacciones
 Categoría: Transacciones
 Resumen: Aprende qué es el módulo Transacciones: la lista de todos los pagos de tu organización, únicos y recurrentes.
@@ -103,7 +103,7 @@ Relacionados: que-son-las-transacciones, como-crear-un-agradecimiento-con-ia-des
 <h2>Antes de empezar</h2>
 <ul>
 <li>La transacción debe estar en estado <strong>Exitoso</strong>.</li>
-<li>Su pasarela debe permitir reembolsos desde Afrus; si no, la opción <strong>Reembolsar</strong> no aparece.</li>
+<li>Su pasarela debe permitir reembolsos desde AFRUS; si no, la opción <strong>Reembolsar</strong> no aparece.</li>
 <li>Tu usuario necesita permiso para operaciones bancarias con transacciones. Si el reembolso falla por eso, pide a un administrador que lo haga.</li>
 </ul>
 <h2>Paso a paso</h2>
@@ -139,7 +139,7 @@ Relacionados: que-son-las-transacciones, como-reembolsar-una-donacion, como-filt
 </ol>
 <p>Las transacciones pasan a <strong>Fraude</strong>, desaparecen de la lista y aparecen en <strong>Follow up &gt; Radar - monitor de fraude</strong>.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Devuelve el dinero o cancela la suscripción?</strong> No. Solo cambia el estado en Afrus. Si necesitas devolver el pago, reembólsalo antes.</p>
+<p><strong>¿Devuelve el dinero o cancela la suscripción?</strong> No. Solo cambia el estado en AFRUS. Si necesitas devolver el pago, reembólsalo antes.</p>
 <p><strong>¿Puedo marcar toda la base de una vez?</strong> No. Solo se marcan las filas seleccionadas en la página actual.</p>
 <p><strong>¿Se puede deshacer?</strong> No. No hay opción para revertirlo.</p>
 === FIN ===
@@ -251,7 +251,7 @@ Relacionados: que-son-las-transacciones, para-que-sirven-las-transacciones, como
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What Transactions are in Afrus
+Título: What Transactions are in AFRUS
 Slug: what-are-transactions
 Categoría: Transacciones
 Resumen: Learn what the Transactions module is: the list of every payment your organization receives, one-time and recurring.
@@ -351,7 +351,7 @@ Relacionados: what-are-transactions, how-to-create-an-ai-thank-you-from-transact
 <h2>Before you start</h2>
 <ul>
 <li>The transaction must be <strong>Exitoso</strong> (Successful).</li>
-<li>Its gateway must allow refunds from Afrus; otherwise the <strong>Reembolsar</strong> (Refund) option doesn't appear.</li>
+<li>Its gateway must allow refunds from AFRUS; otherwise the <strong>Reembolsar</strong> (Refund) option doesn't appear.</li>
 <li>Your user needs permission for banking operations on transactions. If the refund fails for that reason, ask an administrator to do it.</li>
 </ul>
 <h2>Step by step</h2>
@@ -388,7 +388,7 @@ Relacionados: what-are-transactions, how-to-refund-a-donation, how-to-filter-a-g
 </ol>
 <p>The transactions change to <strong>Fraude</strong>, disappear from the list and appear in <strong>Follow up &gt; Radar - monitor de fraude</strong>.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Does it return the money or cancel the subscription?</strong> No. It only changes the status in Afrus. If you need to return the payment, refund it first.</p>
+<p><strong>Does it return the money or cancel the subscription?</strong> No. It only changes the status in AFRUS. If you need to return the payment, refund it first.</p>
 <p><strong>Can I mark the whole database at once?</strong> No. Only the rows selected on the current page are marked.</p>
 <p><strong>Can it be undone?</strong> No. There is no option to reverse it.</p>
 === FIN ===
@@ -504,7 +504,7 @@ Relacionados: what-are-transactions, what-are-transactions-for, how-to-filter-a-
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que são as Transações na Afrus
+Título: O que são as Transações na AFRUS
 Slug: o-que-sao-as-transacoes
 Categoría: Transacciones
 Resumen: Aprenda o que é o módulo Transações: a lista de todos os pagamentos da sua organização, únicos e recorrentes.
@@ -604,7 +604,7 @@ Relacionados: o-que-sao-as-transacoes, como-criar-um-agradecimento-com-ia-em-tra
 <h2>Antes de começar</h2>
 <ul>
 <li>A transação precisa estar com status <strong>Exitoso</strong> (Aprovada).</li>
-<li>O gateway dela precisa permitir reembolsos pela Afrus; senão, a opção <strong>Reembolsar</strong> não aparece.</li>
+<li>O gateway dela precisa permitir reembolsos pela AFRUS; senão, a opção <strong>Reembolsar</strong> não aparece.</li>
 <li>Seu usuário precisa de permissão para operações bancárias com transações. Se o reembolso falhar por isso, peça a um administrador.</li>
 </ul>
 <h2>Passo a passo</h2>
@@ -641,7 +641,7 @@ Relacionados: o-que-sao-as-transacoes, como-reembolsar-uma-doacao, como-filtrar-
 </ol>
 <p>As transações passam para <strong>Fraude</strong>, somem da lista e aparecem em <strong>Follow up &gt; Radar - monitor de fraude</strong>.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Devolve o dinheiro ou cancela a assinatura?</strong> Não. Só muda o status na Afrus. Se precisar devolver o pagamento, reembolse antes.</p>
+<p><strong>Devolve o dinheiro ou cancela a assinatura?</strong> Não. Só muda o status na AFRUS. Se precisar devolver o pagamento, reembolse antes.</p>
 <p><strong>Posso marcar a base inteira de uma vez?</strong> Não. Só as linhas selecionadas na página atual são marcadas.</p>
 <p><strong>Dá para desfazer?</strong> Não. Não há opção para reverter.</p>
 === FIN ===

@@ -12,7 +12,7 @@ Com este guia, você vai conseguir conferir se seus formulários de doação est
 
 **É o registro de cada aviso que seus formulários de doação enviaram ao Google Analytics 4, à Meta ou ao Google Tag Manager.**
 
-Se uma dessas ferramentas está conectada a um formulário (widget), toda vez que uma pessoa abre o formulário, avança uma etapa ou conclui a doação, a Afrus avisa essa ferramenta. Cada aviso se chama **evento**. Esta tela mostra cada evento, o que foi enviado e o que a ferramenta respondeu.
+Se uma dessas ferramentas está conectada a um formulário (widget), toda vez que uma pessoa abre o formulário, avança uma etapa ou conclui a doação, a AFRUS avisa essa ferramenta. Cada aviso se chama **evento**. Esta tela mostra cada evento, o que foi enviado e o que a ferramenta respondeu.
 
 Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é enviado e esta tela fica vazia.
 
@@ -56,9 +56,9 @@ Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é en
 
 - **Meta:** se funcionou, você verá o que a Meta devolveu. Se falhou, verá `success: false` e uma mensagem com o motivo, por exemplo que faltam no formulário os dados do Pixel.
 - **Google Analytics 4:** se aparecer `missing_ga_credentials`, faltam no formulário os dados de conexão com o GA4 e **o evento não foi enviado**. Se aparecer `success: false`, o Google respondeu com erro. Se não houver erro, o Google recebeu o aviso; para confirmar que registrou, veja o relatório em tempo real do GA4.
-- **Google Tag Manager:** o normal é ver `logged_only: true`. A Afrus só anota o evento aqui; o Tag Manager o recebe diretamente do navegador da pessoa.
+- **Google Tag Manager:** o normal é ver `logged_only: true`. A AFRUS só anota o evento aqui; o Tag Manager o recebe diretamente do navegador da pessoa.
 
-Se você tem a conversão da Meta pela Afrus ativada, também verá linhas `FACEBOOK-…` criadas pela Afrus depois de cada pagamento.
+Se você tem a conversão da Meta pela AFRUS ativada, também verá linhas `FACEBOOK-…` criadas pela AFRUS depois de cada pagamento.
 
 ---
 

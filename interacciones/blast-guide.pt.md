@@ -27,7 +27,7 @@ Na mesma tela também é possível fazer envios por WhatsApp Business. Este guia
 ## Antes de começar
 
 - **Tenha pronto seu grupo de destinatários.** Pode ser um segmento salvo (em **Data > Segmentos > Avanzado** ou **Básico**) ou uma etiqueta.
-- **Verifique seu domínio de e-mail (recomendado).** Assim seus e-mails saem com o endereço da sua organização, e não de uma conta da Afrus. Explicamos em "Como evitar que meus e-mails caiam no spam".
+- **Verifique seu domínio de e-mail (recomendado).** Assim seus e-mails saem com o endereço da sua organização, e não de uma conta da AFRUS. Explicamos em "Como evitar que meus e-mails caiam no spam".
 - **Confira se sua conta não está bloqueada.** Se estiver, você verá *"Cuenta bloqueada, no puedes enviar interacciones…"* (Conta bloqueada, você não pode enviar interações) e precisará falar com o suporte.
 
 ---
@@ -43,14 +43,14 @@ Na mesma tela também é possível fazer envios por WhatsApp Business. Este guia
 
 2. **Dê um nome.** A tela mostra uma linha por dado (**Nombre**, **Canal**, **Destinatario**, **Campaña (Opcional)** e **Etiqueta (Opcional)**), cada uma com seu botão "Agregar" (Adicionar). Em **Nombre**, clique em "Agregar" e escreva o **Nombre del envío** (nome do envio). Só você vê; ele ajuda a encontrar o envio depois.
 
-3. **Escolha os destinatários.** Em **Destinatario** (Destinatário), clique em "Agregar". Em **Enviar a** (Enviar para), abra **Seleccionar segmento** (Selecionar segmento) e escolha seu grupo em uma das abas: **Segmentos** (grupos que a Afrus já traz), **Mis segmentos** (os que você salvou) ou **Etiquetas**. Clique em "Aceptar" (Aceitar).
+3. **Escolha os destinatários.** Em **Destinatario** (Destinatário), clique em "Agregar". Em **Enviar a** (Enviar para), abra **Seleccionar segmento** (Selecionar segmento) e escolha seu grupo em uma das abas: **Segmentos** (grupos que a AFRUS já traz), **Mis segmentos** (os que você salvou) ou **Etiquetas**. Clique em "Aceptar" (Aceitar).
    ![Seletor Enviar a aberto com as abas Segmentos, Mis segmentos e Etiquetas](img/como-enviar-un-blast-03.webp)
 
-   Você verá quantas pessoas podem recebê-lo, por exemplo *"N entregables de M Destinatarios"* (N entregáveis de M destinatários). A Afrus deixa de fora quem não pode receber e-mails (por exemplo, quem cancelou a inscrição ou tem um e-mail que não existe).
+   Você verá quantas pessoas podem recebê-lo, por exemplo *"N entregables de M Destinatarios"* (N entregáveis de M destinatários). A AFRUS deixa de fora quem não pode receber e-mails (por exemplo, quem cancelou a inscrição ou tem um e-mail que não existe).
 
 4. **Escolha o canal.** Marque **Correo** (E-mail).
 
-5. **Adicione campanha e etiqueta (opcional).** Se você escolher uma **Etiqueta**, a Afrus a coloca em cada pessoa que recebe o e-mail. Assim depois você encontra quem recebeu este envio.
+5. **Adicione campanha e etiqueta (opcional).** Se você escolher uma **Etiqueta**, a AFRUS a coloca em cada pessoa que recebe o e-mail. Assim depois você encontra quem recebeu este envio.
 
 6. **Continue.** Clique em "Continuar".
 
@@ -120,18 +120,18 @@ O que fazer:
 
 1. **Abra o detalhe.** Na **Lista de envíos**, clique em "Detalles" do envio.
 2. **Veja o erro.** Confira a seção **Incidencias** (Ocorrências) e os **Estados de emails**. Com "Ver Eventos" você vê o que aconteceu com o e-mail de cada pessoa.
-3. **Reenvie.** Se o envio estiver **Fallido**, aparece o botão "Reenviar" (*"¿Reenviar blast?"*). A Afrus tenta de novo com as pessoas que tiveram erro.
+3. **Reenvie.** Se o envio estiver **Fallido**, aparece o botão "Reenviar" (*"¿Reenviar blast?"*). A AFRUS tenta de novo com as pessoas que tiveram erro.
    <!-- captura pendente: por-que-meu-blast-tem-status-fallido-03 — detalhe de um envio com falha e o botão Reenviar -->
 
 > **Pendente de confirmação:** quais são as causas mais comuns de um envio **Fallido**.
 
-**E se aparecer Bloqueado?** A Afrus interrompeu o resto do envio porque houve devoluções ou reclamações demais. Você recebe um e-mail de aviso e uma notificação no console. Um envio bloqueado não pode ser enviado de novo pela tela, para não mandar o e-mail duas vezes a quem já recebeu: fale com o suporte.
+**E se aparecer Bloqueado?** A AFRUS interrompeu o resto do envio porque houve devoluções ou reclamações demais. Você recebe um e-mail de aviso e uma notificação no console. Um envio bloqueado não pode ser enviado de novo pela tela, para não mandar o e-mail duas vezes a quem já recebeu: fale com o suporte.
 
 ## Onde ver os e-mails que voltaram
 
 Um e-mail **volta** (bounce) quando não chega à pessoa. Há dois tipos:
 
-- **Hard Bounce (devolução permanente):** o endereço não existe. A Afrus deixa de enviar e-mails para essa pessoa.
+- **Hard Bounce (devolução permanente):** o endereço não existe. A AFRUS deixa de enviar e-mails para essa pessoa.
 - **Soft Bounce (devolução temporária):** um problema passageiro, por exemplo a caixa cheia. Essa pessoa continua recebendo e-mails.
 
 Você pode vê-los em três lugares:
@@ -147,7 +147,7 @@ Você pode vê-los em três lugares:
 
 ## Como remover soft e hard bounces
 
-**Primeiro, uma boa notícia:** você não precisa excluir ninguém para parar de enviar e-mails. A Afrus já deixa fora dos seus envios as pessoas com **Hard Bounce**, quem cancelou a inscrição (**Opt Out**) e quem tem o e-mail desabilitado. As pessoas com **Soft Bounce** continuam recebendo, porque o problema delas costuma ser temporário.
+**Primeiro, uma boa notícia:** você não precisa excluir ninguém para parar de enviar e-mails. A AFRUS já deixa fora dos seus envios as pessoas com **Hard Bounce**, quem cancelou a inscrição (**Opt Out**) e quem tem o e-mail desabilitado. As pessoas com **Soft Bounce** continuam recebendo, porque o problema delas costuma ser temporário.
 
 Se mesmo assim você quiser tirá-las da sua base:
 
@@ -157,11 +157,11 @@ Se mesmo assim você quiser tirá-las da sua base:
 
 > **Pendente de confirmação:** se existe um filtro ou segmento que reúna todas as pessoas com devolução, para excluí-las de uma vez.
 
-> **Dá para desfazer?** Não. Excluir uma pessoa é definitivo: também são apagadas as doações, assinaturas e todo o histórico dela. Se a pessoa doa ou tem uma assinatura ativa, pense duas vezes: a Afrus já não envia e-mails para ela se tiver **Hard Bounce**.
+> **Dá para desfazer?** Não. Excluir uma pessoa é definitivo: também são apagadas as doações, assinaturas e todo o histórico dela. Se a pessoa doa ou tem uma assinatura ativa, pense duas vezes: a AFRUS já não envia e-mails para ela se tiver **Hard Bounce**.
 
 ## Como limpar minha base para não bloquearem meus envios
 
-A Afrus cuida da sua conta de e-mail. Enquanto um envio sai, ela verifica quantos e-mails voltam e quantas pessoas marcam como spam:
+A AFRUS cuida da sua conta de e-mail. Enquanto um envio sai, ela verifica quantos e-mails voltam e quantas pessoas marcam como spam:
 
 - Se passarem do limite de aviso, o envio fica em **Alerta**.
 - Se passarem do limite de bloqueio, o resto do envio é interrompido e fica **Bloqueado**. Você recebe um aviso por e-mail e no console.
@@ -181,10 +181,10 @@ Se sua conta for bloqueada, você não poderá fazer novos envios até falar com
 
 ## Como evitar que meus e-mails caiam no spam
 
-Estas são as ações que a Afrus permite para melhorar a chegada dos seus e-mails:
+Estas são as ações que a AFRUS permite para melhorar a chegada dos seus e-mails:
 
-1. **Verifique seu domínio de e-mail.** Assim seus e-mails saem com o endereço da sua organização (por exemplo, de @suaorg.org) e não de uma conta da Afrus. A própria tela recomenda isso para *"mejorar la entregabilidad"* (melhorar a entregabilidade).
-   - No topo de **Interacciones > Blast** você vê se seu domínio está verificado. Se não estiver, clique em "Configurar DNS". Esta tela abre na versão anterior da Afrus, por isso ela parece diferente.
+1. **Verifique seu domínio de e-mail.** Assim seus e-mails saem com o endereço da sua organização (por exemplo, de @suaorg.org) e não de uma conta da AFRUS. A própria tela recomenda isso para *"mejorar la entregabilidad"* (melhorar a entregabilidade).
+   - No topo de **Interacciones > Blast** você vê se seu domínio está verificado. Se não estiver, clique em "Configurar DNS". Esta tela abre na versão anterior da AFRUS, por isso ela parece diferente.
    - Siga os 4 passos: escreva seu domínio e adicione no seu provedor de domínio os registros que a tela mostra. Se você não souber fazer isso, peça ajuda a quem cuida do seu site.
    - A verificação pode levar até 48 horas. Com "Comprobar estado" (Verificar status) você confere de novo.
    ![Cartão Dominio verificado acima da Lista de envíos do Blast](img/como-evitar-que-mis-correos-lleguen-a-spam-01.webp)
@@ -193,17 +193,17 @@ Estas são as ações que a Afrus permite para melhorar a chegada dos seus e-mai
 
 3. **Mantenha sua base limpa.** Menos devoluções e menos reclamações ajudam seus e-mails a chegar. Siga "Como limpar minha base para não bloquearem meus envios".
 
-4. **Deixe as pessoas cancelarem a inscrição.** Todos os e-mails da Afrus têm um link para cancelar a inscrição; se seu design não tiver, a Afrus adiciona no final. É melhor alguém cancelar a inscrição do que marcar seu e-mail como spam.
+4. **Deixe as pessoas cancelarem a inscrição.** Todos os e-mails da AFRUS têm um link para cancelar a inscrição; se seu design não tiver, a AFRUS adiciona no final. É melhor alguém cancelar a inscrição do que marcar seu e-mail como spam.
 
 5. **Sempre envie um teste para você** e confira se o assunto e o conteúdo estão bons.
 
-> **Pendente de confirmação:** outras recomendações de conteúdo (assunto, imagens, links) próprias da Afrus.
+> **Pendente de confirmação:** outras recomendações de conteúdo (assunto, imagens, links) próprias da AFRUS.
 
 ## Boas práticas para envios em massa
 
-Algumas a Afrus faz por você; outras são nossas recomendações.
+Algumas a AFRUS faz por você; outras são nossas recomendações.
 
-**O que a Afrus já faz por você:**
+**O que a AFRUS já faz por você:**
 - Só envia para pessoas que aceitaram receber e-mails e não cancelaram a inscrição.
 - Deixa de fora quem tem e-mail inválido (**Hard Bounce**), quem marcou como spam e quem cancelou a inscrição.
 - Adiciona um link para cancelar a inscrição em todos os e-mails.
@@ -229,10 +229,10 @@ Não. Você só pode editar envios em **Borrador** ou **Programado**.
 Sim. Em **Contenido**, escolha **Correos enviados**. Você também pode usar "Duplicar" na lista de envios.
 
 **Por que o número de destinatários é menor que o do meu segmento?**
-Porque a Afrus deixa de fora quem não pode receber e-mails: hard bounces, descadastros, e-mails desabilitados, pessoas sem aceitação dos termos e pessoas marcadas como spam.
+Porque a AFRUS deixa de fora quem não pode receber e-mails: hard bounces, descadastros, e-mails desabilitados, pessoas sem aceitação dos termos e pessoas marcadas como spam.
 
 **Meus segmentos são atualizados a cada 24 horas?**
-A aba **Mis segmentos** diz isso, mas a Afrus calcula para quem enviar com os dados do momento do envio.
+A aba **Mis segmentos** diz isso, mas a AFRUS calcula para quem enviar com os dados do momento do envio.
 
 **A que horas sai um envio programado?**
 No horário que você escolher, no fuso do seu computador. Ele pode sair alguns minutos depois.
