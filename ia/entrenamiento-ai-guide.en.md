@@ -38,8 +38,6 @@ In **Documentos** you upload the files that describe your organization: impact r
 
 **Accepted file types:** PDF, DOC, DOCX, CSV, TXT and PPTX. The screen shows a maximum of 10 MB per file.
 
-> **Pending confirmation:** whether the 10 MB limit is always applied.
-
 1. **Open the Documents tab.** Go to **AI > Entrenamiento [AI RAG]** and choose **Documentos**.
    ![Documentos tab with the Suelta aquí tus documentos drop area and the Nuevo button](img/entrenamiento-ai-02.webp)
 

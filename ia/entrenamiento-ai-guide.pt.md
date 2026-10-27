@@ -38,8 +38,6 @@ Em **Documentos** você envia os arquivos que descrevem a sua organização: rel
 
 **Tipos de arquivo aceitos:** PDF, DOC, DOCX, CSV, TXT e PPTX. A tela indica um máximo de 10 MB por arquivo.
 
-> **Pendente de confirmação:** se o limite de 10 MB é sempre aplicado.
-
 1. **Abra a aba Documentos.** Acesse **AI > Entrenamiento [AI RAG]** e escolha **Documentos**.
    ![Aba Documentos com a área Suelta aquí tus documentos e o botão Nuevo](img/entrenamiento-ai-02.webp)
 

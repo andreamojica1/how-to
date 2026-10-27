@@ -36,8 +36,6 @@ En **Documentos** subes los archivos que describen a tu organización: informes 
 
 **Tipos de archivo aceptados:** PDF, DOC, DOCX, CSV, TXT y PPTX. La pantalla indica un máximo de 10 MB por archivo.
 
-> **Pendiente de confirmar:** si el límite de 10 MB se aplica siempre.
-
 1. **Abre la pestaña Documentos.** Entra a **AI > Entrenamiento [AI RAG]** y elige **Documentos**.
    ![Pestaña Documentos con la zona Suelta aquí tus documentos y el botón Nuevo](img/entrenamiento-ai-02.webp)
 
