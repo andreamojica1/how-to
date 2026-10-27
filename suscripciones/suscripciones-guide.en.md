@@ -111,7 +111,7 @@ When you finish you will see *"Suscripción actualizada correctamente."* or *"Su
 > - In the **Modificar fecha** window, the confirmation message appears in English (*"Update subscription"*); this is expected.
 > - Some gateways don't allow changes from AFRUS. In that case you will see *"Este gateway actualmente no soporta la actualización de suscripciones."* (This gateway does not currently support updating subscriptions.)
 > - Subscriptions waiting for the payer's acceptance cannot be modified: you will see *"Acción no disponible"* (Action not available).
-> - With the Recurrent Payments gateway there is no date field. The screen says: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Recurring payments are made on the first business day of each month. If the payment fails, it is retried weekly until it succeeds.)
+> - With the Recurrent Payments gateway there is no date field. The screen says: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Recurring payments are made on the first business day of each month. If the payment fails, it is retried weekly until it succeeds.) In practice, the charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month.
 
 > **Can it be undone?** Yes. Click "Modificar" again and set the previous date or amount.
 
@@ -166,14 +166,14 @@ It depends on each subscription's payment gateway:
 | Case | Who decides the date | What we know |
 |---|---|---|
 | Gateways that charge on their own (Stripe, PayU, Pagar.me) | The gateway | The gateway decides when to charge, not AFRUS |
-| Recurrent Payments | The gateway | The screen says: first business day of each month; if it fails, weekly retry until it succeeds |
+| Recurrent Payments | The gateway | The charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month |
 | Subscriptions charged by the AFRUS engine | AFRUS | You can choose the charge day with "Modificar" (see "How to change a subscription's charge date") |
 
 In addition, in **Ajustes de Organización > Servicio de recurrencia** (Organization settings > Recurrence service; screen **Configuración del Motor de Recurrencia**) your organization can choose **Modo mejorado** (Enhanced mode: Standard or Charities), **Periodicidad** (Frequency: Mensual, Trimestral, Semestral or Anual — monthly, quarterly, semi-annual or annual) and **Modo de reintento** (Retry mode: Standard retries, Charities retries or Custom). The screen says: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (Changes will apply to the next billing cycles.)
 
 > **Retries and cancellation:**
 > - **Recurrent Payments:** 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription.
-> - **Credit cards:** 5 retries are made over 12 consecutive months before the subscription is cancelled.
+> - **Credit cards:** by default, 3 retries are made over 12 consecutive months before the subscription is cancelled. You can adjust the retries in **Ajustes de Organización > Servicio de recurrencia** (Organization settings > Recurrence service).
 
 ## Subscription statuses
 

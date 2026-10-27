@@ -62,7 +62,7 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 Inician a las 5 a. m., pero se procesan en colas y la hora puede variar un poco.
 
 **¿Cuántas veces se reintenta un cobro fallido antes de cancelar la suscripción?**
-Se intenta cobrar 5 veces por mes durante 12 meses antes de cancelar la recurrencia.
+Por defecto, se intenta cobrar 3 veces por mes durante 12 meses antes de cancelar la recurrencia. Puedes ajustar los reintentos en esta pantalla, en **Modo de reintento**.
 
 **¿Los cambios afectan a las suscripciones que ya existen?**
 La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.

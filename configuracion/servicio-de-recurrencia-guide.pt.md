@@ -64,7 +64,7 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 Começam às 5h da manhã, mas são processadas em filas e o horário pode variar um pouco.
 
 **Quantas vezes uma cobrança que falhou é tentada de novo antes de a assinatura ser cancelada?**
-A cobrança é tentada 5 vezes por mês durante 12 meses antes de a recorrência ser cancelada.
+Por padrão, a cobrança é tentada 3 vezes por mês durante 12 meses antes de a recorrência ser cancelada. Você pode ajustar as novas tentativas nesta tela, em **Modo de reintento** (Modo de nova tentativa).
 
 **As mudanças afetam as assinaturas que já existem?**
 A tela indica que as mudanças valem para os próximos ciclos de cobrança.

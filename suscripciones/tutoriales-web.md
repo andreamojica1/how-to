@@ -188,13 +188,13 @@ Relacionados: que-es-suscripciones, como-descargar-un-grupo-de-suscripciones, co
 <p>La fecha de cobro de una donación recurrente depende de la pasarela de pago de cada suscripción.</p>
 <ul>
 <li><strong>Pasarelas que cobran por su cuenta (Stripe, PayU, Pagar.me):</strong> la pasarela decide cuándo cobra, no AFRUS.</li>
-<li><strong>Recurrent Payments:</strong> la pantalla informa que los pagos se realizan el primer día hábil de cada mes y que, si fallan, se reintentan semanalmente hasta que sean exitosos.</li>
+<li><strong>Recurrent Payments:</strong> el día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes.</li>
 <li><strong>Suscripciones que cobra el motor de AFRUS:</strong> puedes elegir el día de cobro desde el botón "Modificar" del detalle de la suscripción.</li>
 </ul>
 <h2>Configuración de la recurrencia</h2>
 <p>En <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> tu organización puede elegir <strong>Modo mejorado</strong> (Standard o Charities), <strong>Periodicidad</strong> (Mensual, Trimestral, Semestral o Anual) y <strong>Modo de reintento</strong> (Standard retries, Charities retries o Custom). La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Cuántas veces se reintenta un cobro?</strong> En Recurrent Payments se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción. Con tarjetas de crédito se hacen 5 reintentos durante 12 meses seguidos antes de cancelar la suscripción.</p>
+<p><strong>¿Cuántas veces se reintenta un cobro?</strong> En Recurrent Payments se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción. Con tarjetas de crédito, por defecto se hacen 3 reintentos durante 12 meses seguidos antes de cancelar la suscripción. Puedes ajustar los reintentos en <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong>.</p>
 === FIN ===
 ```
 
@@ -226,7 +226,7 @@ En todas puedes cambiar también el monto.</li>
 <p>Verás un mensaje de suscripción actualizada. Si estaba <strong>Activa</strong>, sigue <strong>Activa</strong>.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Se puede deshacer?</strong> Sí: vuelve a pulsar "Modificar" y pon la fecha anterior.</p>
-<p><strong>¿Por qué no puedo cambiarla?</strong> Algunas pasarelas no lo permiten desde AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), y las suscripciones que esperan la aceptación del pagador no se pueden modificar. Con Recurrent Payments no hay campo de fecha: cobra el primer día hábil de cada mes.</p>
+<p><strong>¿Por qué no puedo cambiarla?</strong> Algunas pasarelas no lo permiten desde AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), y las suscripciones que esperan la aceptación del pagador no se pueden modificar. Con Recurrent Payments no hay campo de fecha: el día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes.</p>
 <p><strong>¿Por qué el mensaje sale en inglés?</strong> En la ventana "Modificar fecha" la confirmación aparece como <em>"Update subscription"</em>. Es normal.</p>
 === FIN ===
 ```
@@ -417,13 +417,13 @@ Relacionados: what-is-subscriptions, how-to-download-a-group-of-subscriptions, h
 <p>The charge date of a recurring donation depends on each subscription's payment gateway.</p>
 <ul>
 <li><strong>Gateways that charge on their own (Stripe, PayU, Pagar.me):</strong> the gateway decides when to charge, not AFRUS.</li>
-<li><strong>Recurrent Payments:</strong> the screen says payments are made on the first business day of each month and, if they fail, they are retried weekly until they succeed.</li>
+<li><strong>Recurrent Payments:</strong> the charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month.</li>
 <li><strong>Subscriptions charged by the AFRUS engine:</strong> you can choose the charge day with the "Modificar" (Modify) button in the subscription detail.</li>
 </ul>
 <h2>Recurrence settings</h2>
 <p>In <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Organization settings &gt; Recurrence service) your organization can choose <strong>Modo mejorado</strong> (Enhanced mode: Standard or Charities), <strong>Periodicidad</strong> (Frequency: monthly, quarterly, semi-annual or annual) and <strong>Modo de reintento</strong> (Retry mode: Standard retries, Charities retries or Custom). The screen says changes apply to the next billing cycles.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>How many times is a charge retried?</strong> With Recurrent Payments, 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription. With credit cards, 5 retries are made over 12 consecutive months before the subscription is cancelled.</p>
+<p><strong>How many times is a charge retried?</strong> With Recurrent Payments, 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription. With credit cards, by default 3 retries are made over 12 consecutive months before the subscription is cancelled. You can adjust the retries in <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Organization settings &gt; Recurrence service).</p>
 === FIN ===
 ```
 
@@ -455,7 +455,7 @@ In all of them you can also change the amount.</li>
 <p>You will see a subscription-updated message. If it was <strong>Activa</strong> (Active), it stays <strong>Activa</strong>.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Can it be undone?</strong> Yes: click "Modificar" again and set the previous date.</p>
-<p><strong>Why can't I change it?</strong> Some gateways don't allow it from AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), and subscriptions waiting for the payer's acceptance cannot be modified. With Recurrent Payments there is no date field: it charges on the first business day of each month.</p>
+<p><strong>Why can't I change it?</strong> Some gateways don't allow it from AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), and subscriptions waiting for the payer's acceptance cannot be modified. With Recurrent Payments there is no date field: the charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month.</p>
 <p><strong>Why is the message in English?</strong> In the "Modificar fecha" window the confirmation appears as <em>"Update subscription"</em>. This is expected.</p>
 === FIN ===
 ```
@@ -646,13 +646,13 @@ Relacionados: o-que-e-assinaturas, como-baixar-um-grupo-de-assinaturas, como-fil
 <p>A data de cobrança de uma doação recorrente depende do gateway de pagamento de cada assinatura.</p>
 <ul>
 <li><strong>Gateways que cobram por conta própria (Stripe, PayU, Pagar.me):</strong> o gateway decide quando cobra, não a AFRUS.</li>
-<li><strong>Recurrent Payments:</strong> a tela informa que os pagamentos são feitos no primeiro dia útil de cada mês e, se falharem, são tentados de novo toda semana até dar certo.</li>
+<li><strong>Recurrent Payments:</strong> o dia da cobrança depende do dia em que o doador pagou e vai sendo antecipado, até possivelmente chegar ao primeiro dia do mês.</li>
 <li><strong>Assinaturas cobradas pelo motor da AFRUS:</strong> você pode escolher o dia de cobrança pelo botão "Modificar" no detalhe da assinatura.</li>
 </ul>
 <h2>Configuração da recorrência</h2>
 <p>Em <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Ajustes da organização &gt; Serviço de recorrência) sua organização pode escolher <strong>Modo mejorado</strong> (Modo aprimorado: Standard ou Charities), <strong>Periodicidad</strong> (Periodicidade: mensal, trimestral, semestral ou anual) e <strong>Modo de reintento</strong> (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa que as mudanças se aplicam aos próximos ciclos de cobrança.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Quantas vezes uma cobrança é tentada de novo?</strong> No Recurrent Payments, são feitas de 7 a 10 tentativas de cobrança por mês, e a cobrança é mensal, sem limite, até que sua organização cancele a assinatura. Com cartões de crédito, são feitas 5 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura.</p>
+<p><strong>Quantas vezes uma cobrança é tentada de novo?</strong> No Recurrent Payments, são feitas de 7 a 10 tentativas de cobrança por mês, e a cobrança é mensal, sem limite, até que sua organização cancele a assinatura. Com cartões de crédito, por padrão são feitas 3 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura. Você pode ajustar as novas tentativas em <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Ajustes da organização &gt; Serviço de recorrência).</p>
 === FIN ===
 ```
 
@@ -684,7 +684,7 @@ Em todas você também pode mudar o valor.</li>
 <p>Você verá uma mensagem de assinatura atualizada. Se estava <strong>Activa</strong> (Ativa), continua <strong>Activa</strong>.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Dá para desfazer?</strong> Sim: clique de novo em "Modificar" e coloque a data anterior.</p>
-<p><strong>Por que não consigo mudar?</strong> Alguns gateways não permitem pela AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), e assinaturas que esperam a aceitação do pagador não podem ser modificadas. Com Recurrent Payments não há campo de data: a cobrança é no primeiro dia útil de cada mês.</p>
+<p><strong>Por que não consigo mudar?</strong> Alguns gateways não permitem pela AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), e assinaturas que esperam a aceitação do pagador não podem ser modificadas. Com Recurrent Payments não há campo de data: o dia da cobrança depende do dia em que o doador pagou e vai sendo antecipado, até possivelmente chegar ao primeiro dia do mês.</p>
 <p><strong>Por que a mensagem aparece em inglês?</strong> Na janela "Modificar fecha" a confirmação aparece como <em>"Update subscription"</em>. É normal.</p>
 === FIN ===
 ```

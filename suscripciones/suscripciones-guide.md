@@ -109,7 +109,7 @@ Al terminar verás *"Suscripción actualizada correctamente."* o *"Suscripción 
 > - En la ventana **Modificar fecha**, el mensaje de confirmación aparece en inglés (*"Update subscription"*); es normal.
 > - Algunas pasarelas no permiten cambios desde AFRUS. En ese caso verás *"Este gateway actualmente no soporta la actualización de suscripciones."*
 > - Las suscripciones que esperan la aceptación del pagador no se pueden modificar: verás *"Acción no disponible"*.
-> - Con la pasarela Recurrent Payments no hay campo de fecha. La pantalla informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."*
+> - Con la pasarela Recurrent Payments no hay campo de fecha. La pantalla informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* En la práctica, el día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes.
 
 > **¿Se puede deshacer?** Sí. Puedes volver a pulsar "Modificar" y poner la fecha o el monto anteriores.
 
@@ -164,14 +164,14 @@ Depende de la pasarela de pago de cada suscripción:
 | Caso | Quién decide la fecha | Qué sabemos |
 |---|---|---|
 | Pasarelas que cobran por su cuenta (Stripe, PayU, Pagar.me) | La pasarela | La pasarela decide cuándo cobra, no AFRUS |
-| Recurrent Payments | La pasarela | La pantalla informa: el primer día hábil de cada mes; si falla, reintento semanal hasta que sea exitoso |
+| Recurrent Payments | La pasarela | El día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes |
 | Suscripciones que cobra el motor de AFRUS | AFRUS | Puedes elegir el día de cobro con "Modificar" (ver "Cómo cambiar la fecha de cobro") |
 
 Además, en **Ajustes de Organización > Servicio de recurrencia** (pantalla **Configuración del Motor de Recurrencia**) tu organización puede elegir **Modo mejorado** (Standard o Charities), **Periodicidad** (Mensual, Trimestral, Semestral o Anual) y **Modo de reintento** (Standard retries, Charities retries o Custom). La pantalla indica: *"Los cambios se aplicarán a los próximos ciclos de cobro."*
 
 > **Reintentos y cancelación:**
 > - **Recurrent Payments:** se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción.
-> - **Tarjetas de crédito:** se hacen 5 reintentos durante 12 meses seguidos antes de cancelar la suscripción.
+> - **Tarjetas de crédito:** por defecto se hacen 3 reintentos durante 12 meses seguidos antes de cancelar la suscripción. Puedes ajustar los reintentos en **Ajustes de Organización > Servicio de recurrencia**.
 
 ## Estados de una suscripción
 

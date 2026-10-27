@@ -64,7 +64,7 @@ There you choose, for example, how often a donation is charged and what to do wh
 They start at 5 a.m., but they are processed in queues, so the time may vary a little.
 
 **How many times is a failed charge retried before the subscription is cancelled?**
-The charge is attempted 5 times a month for 12 months before the recurring donation is cancelled.
+By default, the charge is attempted 3 times a month for 12 months before the recurring donation is cancelled. You can adjust the retries on this screen, in **Modo de reintento** (Retry mode).
 
 **Do the changes affect existing subscriptions?**
 The screen says changes apply to the next billing cycles.

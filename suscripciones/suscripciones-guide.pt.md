@@ -111,7 +111,7 @@ Ao terminar, você verá *"Suscripción actualizada correctamente."* ou *"Suscri
 > - Na janela **Modificar fecha**, a mensagem de confirmação aparece em inglês (*"Update subscription"*); isso é normal.
 > - Alguns gateways não permitem mudanças pela AFRUS. Nesse caso você verá *"Este gateway actualmente no soporta la actualización de suscripciones."* (Este gateway não permite atualizar assinaturas no momento.)
 > - Assinaturas que esperam a aceitação do pagador não podem ser modificadas: você verá *"Acción no disponible"* (Ação não disponível).
-> - Com o gateway Recurrent Payments não há campo de data. A tela informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Os pagamentos recorrentes são feitos no primeiro dia útil de cada mês. Se o pagamento falhar, é tentado de novo toda semana até dar certo.)
+> - Com o gateway Recurrent Payments não há campo de data. A tela informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Os pagamentos recorrentes são feitos no primeiro dia útil de cada mês. Se o pagamento falhar, é tentado de novo toda semana até dar certo.) Na prática, o dia da cobrança depende do dia em que o doador pagou e vai sendo antecipado, até possivelmente chegar ao primeiro dia do mês.
 
 > **Dá para desfazer?** Sim. Clique de novo em "Modificar" e coloque a data ou o valor anteriores.
 
@@ -166,14 +166,14 @@ Depende do gateway de pagamento de cada assinatura:
 | Caso | Quem decide a data | O que sabemos |
 |---|---|---|
 | Gateways que cobram por conta própria (Stripe, PayU, Pagar.me) | O gateway | O gateway decide quando cobra, não a AFRUS |
-| Recurrent Payments | O gateway | A tela informa: primeiro dia útil de cada mês; se falhar, nova tentativa semanal até dar certo |
+| Recurrent Payments | O gateway | O dia da cobrança depende do dia em que o doador pagou e vai sendo antecipado, até possivelmente chegar ao primeiro dia do mês |
 | Assinaturas cobradas pelo motor da AFRUS | A AFRUS | Você pode escolher o dia de cobrança com "Modificar" (veja "Como mudar a data de cobrança") |
 
 Além disso, em **Ajustes de Organización > Servicio de recurrencia** (Ajustes da organização > Serviço de recorrência; tela **Configuración del Motor de Recurrencia**) sua organização pode escolher **Modo mejorado** (Modo aprimorado: Standard ou Charities), **Periodicidad** (Periodicidade: Mensual, Trimestral, Semestral ou Anual) e **Modo de reintento** (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (As mudanças serão aplicadas aos próximos ciclos de cobrança.)
 
 > **Novas tentativas e cancelamento:**
 > - **Recurrent Payments:** são feitas de 7 a 10 tentativas de cobrança por mês, e a cobrança é mensal, sem limite, até que sua organização cancele a assinatura.
-> - **Cartões de crédito:** são feitas 5 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura.
+> - **Cartões de crédito:** por padrão, são feitas 3 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura. Você pode ajustar as novas tentativas em **Ajustes de Organización > Servicio de recurrencia** (Ajustes da organização > Serviço de recorrência).
 
 ## Status de uma assinatura
 
