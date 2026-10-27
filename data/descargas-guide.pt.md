@@ -42,12 +42,12 @@ O **Reporte general** (Relatório geral) é a exceção: o botão "Descargar" (B
    <!-- captura pendente: descargas-01 — mensagem de início da exportação em Personas, com o link Ir a descargas -->
 
 2. **Abra Downloads.** Acesse **Data > Descargas**. Em **Personas** você também pode usar o link "Ir a descargas" (Ir para downloads) da mensagem.
-   <!-- captura pendente: descargas-02 — tela Descargas com o cartão Registro de descargas e várias linhas -->
+   ![Tela Descargas com o cartão Registro de descargas e a lista de arquivos](img/descargas-02.webp)
 
 3. **Espere ficar pronto.** A lista se atualiza sozinha quando o arquivo termina. Pode levar alguns minutos.
 
 4. **Baixe.** Clique no botão de download da linha. Você verá *"¡Archivo descargado con éxito!"* (Arquivo baixado com sucesso!).
-   <!-- captura pendente: descargas-04 — linha com o botão de download pronto -->
+   ![Linha da lista com o botão de download na coluna Acciones](img/descargas-04.webp)
 
 Os arquivos chegam em formato Excel (.xlsx).
 
@@ -55,7 +55,7 @@ Os arquivos chegam em formato Excel (.xlsx).
 
 Na coluna **Acciones** (Ações) de cada linha você vê um ícone que indica o status do arquivo:
 
-<!-- captura pendente: descargas-05 — lista com linhas em estados diferentes: botão de download, círculo girando, exclamação e relógio -->
+![Coluna Acciones com um arquivo pronto para baixar e outro com o ícone de relógio](img/descargas-05.webp)
 
 | O que você vê | O que significa | O que você pode fazer |
 |---|---|---|

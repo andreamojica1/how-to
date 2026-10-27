@@ -14,7 +14,7 @@ This guide explains what payment gateways are in Afrus, why you need them, and h
 
 Gateways are set up once for your whole organization, in **Configuración > Pagos > Pasarelas de pago**. You can also get there from the profile menu (top corner), option **Ajustes de organización** (Organization settings).
 
-<!-- screenshot pending: what-are-payment-gateways-01 — Payment gateways screen with the organization's gateways -->
+![Pasarelas de pago screen with the gateway list, each status and the Configurar button](img/que-son-las-pasarelas-de-pago-01.webp)
 
 ## What they are for
 
@@ -41,7 +41,7 @@ With Cover Your Cost, the donor can pay a little more to cover the gateway fee. 
 **Before you start:** Afrus has to turn on Cover Your Cost for your organization. If you don't see the **Cover Your Cost** section when you open a gateway, write to us to activate it.
 
 1. **Open the gateway.** Go to **Configuración > Pagos > Pasarelas de pago** and open the gateway where you want to offer it.
-   <!-- screenshot pending: how-to-turn-cover-your-cost-on-or-off-01 — gateway open with the Cover Your Cost section -->
+   ![Gateway window with the Cover Your Cost section and the Activar Cover Your Cost switch](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Turn it on.** In the **Cover Your Cost** section, turn on **Activar Cover Your Cost** (Turn on Cover Your Cost).
 

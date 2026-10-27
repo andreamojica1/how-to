@@ -33,7 +33,7 @@ At the top of **Interacciones > Autoresponders** and **Interacciones > Blast** y
 | **No tienes un dominio verificado para Email** (No verified email domain) | Your emails go out from an Afrus account |
 | **Error en registros DNS** (DNS record error) | There is a problem with the records; they need fixing |
 
-<!-- screenshot pending: what-is-onboarding-automation-01 — sending-domain card at the top of Autoresponders -->
+![Sending-domain card at the top of Autoresponders with the Configurar DNS button](img/que-es-la-automatizacion-onboarding-01.webp)
 
 ---
 

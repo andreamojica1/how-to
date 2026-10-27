@@ -28,12 +28,12 @@ A person can have several tags. On the **Data > Tags** screen you create, change
 ## How to create a new tag
 
 1. **Open your tags.** Go to **Data > Tags**. You will see the **Tags** tab with the list of your tags.
-   <!-- screenshot pending: how-to-create-a-new-tag-01 — Tags screen with the tag list and the Nuevo tag button -->
+   ![Tags tab with the tag list and the Nuevo tag button](img/como-crear-un-nuevo-tag-01.webp)
 
 2. **Create a new one.** Click "Nuevo tag" (New tag).
 
 3. **Fill in the details.** Write the **Nombre** (Name, required). If you want, add a **Descripción (opcional)** (Description, optional) of up to 200 characters so your team knows what it is for. Choose a **Color** to recognize it easily.
-   <!-- screenshot pending: how-to-create-a-new-tag-03 — new tag form with Name, Description and Color -->
+   ![Crear tag window with Nombre, Descripción (opcional) and Color](img/como-crear-un-nuevo-tag-03.webp)
 
 4. **Save.** You will see *"Tag creado correctamente."* (Tag created successfully).
 
@@ -44,7 +44,7 @@ The tag now appears in the list and you can add it to your contacts.
 ## What the 3 icons of each tag do
 
 Each row of the tag list has three icons:
-<!-- screenshot pending: what-the-tag-icons-do-01 — tag row with the Ver personas, edit (pencil) and delete (trash) icons -->
+![Tag row with the view people, edit (pencil) and delete (trash can) icons](img/que-hacen-los-iconos-de-tags-01.webp)
 
 | Icon | What it does |
 |---|---|
@@ -80,7 +80,7 @@ The **Leads** column tells you how many people each tag has. You can search for 
 
 1. **Open the tab.** In **Data > Tags**, go to **Analysis**.
 2. **Choose a tag.** You will see these numbers:
-   <!-- screenshot pending: tag-statistics-02 — Analysis tab with a tag's number cards -->
+   ![Analysis tab with the number cards for a tag](img/estadisticas-de-tags-02.webp)
 
 | Number | What it tells you |
 |---|---|

@@ -27,7 +27,7 @@ Os números são calculados na hora, com os dados mais recentes, toda vez que vo
 ## Como analisar o Reporte general
 
 1. **Abra o relatório.** Acesse **Data > Reporte general**. Ao abrir, você verá o último mês completo (por exemplo, se estamos em outubro, verá setembro).
-   <!-- captura pendente: relatorio-geral-01 — tela Vista general com o seletor de período e a zona Global -->
+   ![Tela Vista general com o seletor Presets e a área Global](img/reporte-general-01.webp)
 
 2. **Escolha o período.** Use os filtros de cima (explicamos em "Para que servem os filtros Presets, Año e Mes").
 
@@ -41,10 +41,10 @@ Os números são calculados na hora, com os dados mais recentes, toda vez que vo
 | **04 Personas** (Pessoas) | Quantos contatos novos você tem | **Personas nuevas** (Pessoas novas), **Leads**, **Donantes** e **Donantes recurrentes** |
 | **05 Comunicaciones** (Comunicações) | Quanto você se comunicou | **Emails enviados** (E-mails enviados) e **Mensajes WhatsApp enviados** (Mensagens de WhatsApp enviadas) |
 
-   <!-- captura pendente: relatorio-geral-03 — zonas Suscripciones e Transacciones com seus indicadores -->
+   ![Áreas Suscripciones e Transacciones com seus indicadores](img/reporte-general-03.webp)
 
 4. **Veja de onde vêm.** As tabelas "por origem" (**Nuevas suscripciones por origen**, **Transacciones por origen** e **Nuevos leads por origen**) separam os resultados **Por campaña** (Por campanha), **Por widget**, **Por UTM campaign**, **Por UTM medium**, **Por UTM source** e **Por URL de landing**. Assim você sabe qual campanha ou qual formulário traz mais doadores.
-   <!-- captura pendente: relatorio-geral-04 — tabela Transacciones por origen com a aba Por campaña -->
+   ![Tabela Transacciones por origen aberta, com Por campaña e Por widget](img/reporte-general-04.webp)
 
 **Algumas dicas para ler bem:**
 
@@ -70,7 +70,7 @@ Eles servem para escolher o período que você quer ver e baixar.
 
 **Año** (Ano) e **Mes** (Mês) servem para escolher um mês ou um ano específico, até 8 anos atrás. Por exemplo, para comparar a campanha de dezembro deste ano com a do ano passado, veja primeiro um dezembro e depois o outro.
 
-<!-- captura pendente: filtros-presets-ano-e-mes-01 — seletor de período com Presets, Año e Mes -->
+![Seletor de período com o menu Presets aberto e os seletores Año e Mes](img/para-que-son-los-filtros-presets-ano-y-mes-01.webp)
 
 > **Atenção:** não há filtro por campanha nem por moeda, nem intervalo de datas livre, nem comparação automática com o período anterior.
 
@@ -79,7 +79,7 @@ Eles servem para escolher o período que você quer ver e baixar.
 - **O botão "Descargar" (Baixar) de cima** baixa um arquivo CSV (abre no Excel ou no Google Sheets) com todos os indicadores do período escolhido. Ele tem quatro colunas: **Sección** (Seção), **KPI**, **Actual** (Atual) e **Unidad** (Unidade).
 - **Cada tabela "por origem" tem seu próprio botão "Descargar"**, que baixa só aquela tabela.
 
-<!-- captura pendente: o-que-baixa-o-botao-descargar-01 — botão Descargar no alto da tela -->
+![Botão Descargar no topo da tela do relatório](img/que-descarga-el-boton-descargar-01.webp)
 
 > **Atenção:** se uma tabela por origem tiver mais de 5.000 linhas, ela não pode ser baixada e você verá uma mensagem de erro. Escolha um período mais curto e tente de novo.
 

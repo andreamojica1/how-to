@@ -29,7 +29,7 @@ Este tablero solo cuenta los correos masivos. No incluye los correos automático
 ### Parte 1 — Revisa el estado de tu cuenta
 
 1. **Abre el monitor.** Entra a **Trackers > Monitor de interacciones**. Se abre la pestaña **Monitor Email**.
-   <!-- captura pendiente: monitor-de-interacciones-01 — pantalla Monitor de interacciones con el Estado de la cuenta, la Variable de notificación y los Indicadores principales -->
+   ![Pantalla Monitor de interacciones con el Estado de la cuenta, la Variable de notificación y los Indicadores principales](img/monitor-de-interacciones-01.webp)
 
 2. **Mira el Estado de la cuenta.** Verás una de estas etiquetas:
 
@@ -64,7 +64,7 @@ Los límites solo se aplican a partir de 1.000 correos enviados. Si tienes menos
    - **Verde:** por debajo del límite de alerta.
    - **Amarillo:** entre el límite de alerta y el de bloqueo.
    - **Rojo:** en el límite de bloqueo o por encima.
-   <!-- captura pendiente: monitor-de-interacciones-06 — tabla Lista de blast con las tasas en verde, amarillo y rojo -->
+   ![Tabla Lista de blast con las columnas Bounce Rate y Complaint Rate en colores](img/monitor-de-interacciones-06.webp)
 
 7. **Abre el envío.** Haz clic en su **ID** para ver el detalle. La tabla muestra 5 envíos por página; puedes cambiarlo a 10, 25 o 50.
 

@@ -27,7 +27,7 @@ Some come with Afrus and are available to every organization. Others are the one
 ## What types of templates there are
 
 When you open **Interacciones > Plantillas Afrus** you will see a table with all your templates.
-<!-- screenshot pending: plantillas-afrus-01 — Plantillas Afrus list with Status, Name, Type, Goal, Owner and Language columns -->
+![Plantillas Afrus list with the Tipo, Objetivo and Estado filters and the Status, Name, Type, Goal, Owner and Language columns](img/plantillas-afrus-01.webp)
 
 **By type:**
 
@@ -45,7 +45,7 @@ You can filter the table by type, goal and status to find what you need.
 ## How to create a new template
 
 1. **Open templates.** Go to **Interacciones > Plantillas Afrus** and click "Crear plantilla Afrus" (Create Afrus template).
-   <!-- screenshot pending: plantillas-afrus-02 — Create Afrus template form -->
+   ![Crear plantilla Afrus form with Información general: template name, status, type, goal and language](img/plantillas-afrus-02.webp)
 
 2. **Fill in the general information.**
    - **Nombre de plantilla** (Template name, required): a name your team will recognize.

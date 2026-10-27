@@ -27,7 +27,7 @@ Cada vez que Afrus prepara un mensaje para alguien (por ejemplo, un correo de ag
 ### Parte 1 — Busca a la persona
 
 1. **Abre la pantalla.** Entra a **Trackers > Logs de interacciones**.
-   <!-- captura pendiente: logs-de-interacciones-01 — pantalla Logs de interacciones con las tarjetas de totales, el buscador y la tabla -->
+   ![Pantalla Logs de interacciones con las tarjetas de totales, el buscador, los filtros y la tabla](img/logs-de-interacciones-01.webp)
 
 2. **Busca a la persona.** En el buscador elige **Lead ID**, **Correo electrónico** o **Teléfono** y escribe el dato **completo y exacto**. Si escribes solo una parte, no la encuentra.
 
@@ -36,7 +36,7 @@ Cada vez que Afrus prepara un mensaje para alguien (por ejemplo, un correo de ag
 4. **Lee la columna Estado.** Te dice qué pasó con el mensaje (ver la tabla de abajo).
 
 5. **Mira el mensaje.** Pulsa "Ver detalle" para ver la fecha y hora exactas y la vista previa del correo o del WhatsApp.
-   <!-- captura pendiente: logs-de-interacciones-05 — detalle de una interacción con la sección Detalles y la Previsualización -->
+   ![Detalle de una interacción con la sección Detalles y la Previsualización](img/logs-de-interacciones-05.webp)
 
 **Qué significa cada estado:**
 

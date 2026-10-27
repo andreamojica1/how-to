@@ -39,12 +39,12 @@ Na mesma tela também é possível fazer envios por WhatsApp Business. Este guia
 ### Parte 1 — Escolha para quem você vai escrever
 
 1. **Crie o envio.** Acesse **Interacciones > Blast** e clique em "Crear envío" (Criar envio).
-   <!-- captura pendente: como-enviar-um-blast-01 — lista de envios de Interacciones > Blast com o botão Crear envío -->
+   ![Lista de envios de Interacciones > Blast com o botão Crear envío](img/como-enviar-un-blast-01.webp)
 
 2. **Dê um nome.** Escreva o **Nombre del envío** (nome do envio). Só você vê; ele ajuda a encontrar o envio depois.
 
 3. **Escolha os destinatários.** Em **Enviar a** (Enviar para), abra o seletor e escolha seu grupo em uma das abas: **Segmentos** (grupos que a Afrus já traz), **Mis segmentos** (os que você salvou) ou **Etiquetas**. Clique em "Aceptar" (Aceitar).
-   <!-- captura pendente: como-enviar-um-blast-03 — janela Seleccionar segmento com as abas Segmentos, Mis segmentos e Etiquetas -->
+   ![Seletor Enviar a aberto com as abas Segmentos, Mis segmentos e Etiquetas](img/como-enviar-un-blast-03.webp)
 
    Você verá quantas pessoas podem recebê-lo, por exemplo *"N entregables de M Destinatarios"* (N entregáveis de M destinatários). A Afrus deixa de fora quem não pode receber e-mails (por exemplo, quem cancelou a inscrição ou tem um e-mail que não existe).
 
@@ -139,7 +139,7 @@ Você pode vê-los em três lugares:
 1. **No detalhe de cada envio.** Em **Interacciones > Blast**, abra "Detalles" e veja a **Tasa de Rebote** e os **Estados de emails**, com "Ver Eventos" para cada pessoa.
 
 2. **No monitor de interações.** Em **Trackers > Monitor de interacciones** você vê o total de **Hard bounces** e **Soft bounces** de todos os seus envios e uma tabela com as devoluções de cada envio. Assim você descobre qual envio teve mais devoluções. Clique no **ID** para abrir o detalhe.
-   <!-- captura pendente: onde-ver-os-emails-que-voltaram-02 — Monitor de interacciones com os indicadores e a Lista de blast -->
+   ![Monitor de interacciones com os Indicadores principales (Hard bounces, Soft bounces) e a tabela Lista de blast](img/donde-ver-los-correos-rebotados-02.webp)
 
 3. **No perfil de cada pessoa.** Em **Personas**, o e-mail de cada pessoa tem um ícone com o status. No perfil você verá *"Tiene Hard Bounce"* ou *"Tiene Soft Bounce"* (Tem hard / soft bounce) e, na aba **Eventos**, o detalhe de cada e-mail.
 
@@ -169,7 +169,7 @@ A Afrus cuida da sua conta de e-mail. Enquanto um envio sai, ela verifica quanto
 Se sua conta for bloqueada, você não poderá fazer novos envios até falar com o suporte. Por isso vale a pena manter sua base limpa.
 
 1. **Veja o status da sua conta.** Acesse **Trackers > Monitor de interacciones**. **Estado de la cuenta** (Status da conta) mostra se ela está **Activa** (Ativa), em **Alerta**, **Bloqueada** ou com **Envío limitado** (Envio limitado). Abaixo, você vê sua taxa de devoluções e de reclamações comparada com o limite.
-   <!-- captura pendente: como-limpar-minha-base-01 — cartão Monitor de email com Estado de la cuenta e Variable de notificación -->
+   ![Cartão Monitor de email com o Estado de la cuenta e a Variable de notificación](img/como-limpiar-mi-base-01.webp)
 
 2. **Encontre os envios com problemas.** Na tabela **Lista de blast**, os envios em amarelo ou vermelho são os que tiveram mais devoluções ou reclamações.
 
@@ -187,7 +187,7 @@ Estas são as ações que a Afrus permite para melhorar a chegada dos seus e-mai
    - No topo de **Interacciones > Blast** você vê se seu domínio está verificado. Se não estiver, clique em "Configurar DNS". Esta tela abre na versão anterior da Afrus, por isso ela parece diferente.
    - Siga os 4 passos: escreva seu domínio e adicione no seu provedor de domínio os registros que a tela mostra. Se você não souber fazer isso, peça ajuda a quem cuida do seu site.
    - A verificação pode levar até 48 horas. Com "Comprobar estado" (Verificar status) você confere de novo.
-   <!-- captura pendente: como-evitar-que-meus-emails-caiam-no-spam-01 — cartão do domínio de envio no topo da lista de Blast -->
+   ![Cartão Dominio verificado acima da Lista de envíos do Blast](img/como-evitar-que-mis-correos-lleguen-a-spam-01.webp)
 
 2. **Envie de um endereço da sua organização.** Depois de verificar o domínio, você poderá escolher como remetente os e-mails dos usuários da sua organização com esse domínio.
 

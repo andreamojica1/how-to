@@ -42,7 +42,7 @@ La pantalla **Follow up > Links de pago** no tiene botón para crear: sirve para
 ## Cómo crear un link de pago
 
 1. **Abre la tarjeta Link de pago.** En **Home**, o en el perfil de la persona (**Personas**, pestaña **Contacto**).
-   <!-- captura pendiente: como-crear-un-link-de-pago-01 — tarjeta Link de pago en Home -->
+   ![Tarjeta Link de pago en el perfil de una persona, con la frecuencia, el monto, el mensaje personalizado y el botón Enviar](img/como-crear-un-link-de-pago-01.webp)
 
 2. **Escribe los datos de la persona.** Desde **Home**, completa **Nombre**, **Apellido** y **Correo electrónico** (obligatorio). Desde el perfil de una persona, estos datos ya vienen de su ficha.
 

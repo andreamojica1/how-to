@@ -12,7 +12,7 @@ Con esta guía vas a poder enviar un correo masivo en el que la IA escribe el me
 
 Tú eliges a quién enviarlo, cuál es el objetivo y qué quieres decir. La IA escribe un correo distinto para cada persona, usando lo que cargaste en **AI > Entrenamiento [AI RAG]**.
 
-<!-- captura pendiente: blast-de-ai-01 — portada "¿Qué es un Blast AI?" con el botón Comenzar Blast AI -->
+![Portada ¿Qué es un Blast AI? con el botón Comenzar Blast AI](img/blast-de-ai-01.webp)
 
 ## Para qué sirve
 
@@ -39,7 +39,7 @@ Tú eliges a quién enviarlo, cuál es el objetivo y qué quieres decir. La IA e
 1. **Empieza el blast.** Entra a **AI > Blast de AI** y pulsa "Comenzar Blast AI".
 
 2. **Ponle nombre y objetivo.** Escribe el **Nombre del blast** y elige el **Objetivo del blast**: hablar de tu organización, pedir donaciones, hablar de tu causa, hablar de tu impacto, compartir historias o promover una campaña.
-   <!-- captura pendiente: blast-de-ai-02 — paso Configuración con nombre, objetivo y Enviar a -->
+   ![Paso Configuración con Nombre del blast, Objetivo del blast y Enviar a](img/blast-de-ai-02.webp)
 
 3. **Elige a quién enviarlo.** En **Enviar a**, usa la pestaña **Segmentos Predefinidos** o **Etiquetas** y elige **un** segmento o **una** etiqueta. Debajo verás cuántas personas lo recibirán.
 

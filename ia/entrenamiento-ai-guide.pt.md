@@ -16,7 +16,7 @@ A IA usa tudo isso para responder no **Chat con AI** (chat com IA) e nos **Agent
 
 A tela tem três abas: **Documentos**, **Instrucciones** (Instruções) e **URL'S**.
 
-<!-- captura pendente: entrenamiento-ai-01 — tela de Treinamento com as abas Documentos, Instrucciones e URL'S -->
+![Tela de Treinamento com as abas Documentos, Instrucciones e URL'S](img/entrenamiento-ai-01.webp)
 
 ## Para que serve
 
@@ -41,7 +41,7 @@ Em **Documentos** você envia os arquivos que descrevem a sua organização: rel
 > **Pendente de confirmação:** se o limite de 10 MB é sempre aplicado.
 
 1. **Abra a aba Documentos.** Acesse **AI > Entrenamiento [AI RAG]** e escolha **Documentos**.
-   <!-- captura pendente: entrenamiento-ai-02 — aba Documentos com a área "Suelta aquí tus documentos" -->
+   ![Aba Documentos com a área Suelta aquí tus documentos e o botão Nuevo](img/entrenamiento-ai-02.webp)
 
 2. **Escolha seus arquivos.** Arraste-os para **Suelta aquí tus documentos** (Solte aqui seus documentos) ou clique em "Nuevo" (Novo). Você pode escolher vários de uma vez.
 
@@ -83,7 +83,7 @@ As instruções valem para toda a sua organização, e a IA as usa junto com os 
 Em **URL'S** você adiciona páginas web da sua organização para a IA ler: por exemplo a página "Quem somos", a dos seus programas ou a de uma campanha.
 
 1. **Abra a aba URL'S.** Em **AI > Entrenamiento [AI RAG]**, escolha **URL'S** (seção **Fuentes Web**, Fontes web).
-   <!-- captura pendente: entrenamiento-ai-05 — aba URL'S com o botão Agregar más URL -->
+   ![Aba URL'S, seção Fuentes Web, com o botão Agregar más URL](img/entrenamiento-ai-05.webp)
 
 2. **Adicione um endereço.** Clique em "Agregar más URL" (Adicionar mais URLs) e clique na nova linha para abri-la.
 

@@ -33,7 +33,7 @@ No topo de **Interacciones > Autoresponders** e de **Interacciones > Blast** voc
 | **No tienes un dominio verificado para Email** (Você não tem um domínio verificado) | Seus e-mails saem de uma conta da Afrus |
 | **Error en registros DNS** (Erro nos registros DNS) | Há um problema nos registros; é preciso corrigi-los |
 
-<!-- captura pendente: o-que-e-a-automacao-onboarding-01 — cartão do domínio de envio no topo de Autoresponders -->
+![Cartão do domínio de envio no topo de Autoresponders com o botão Configurar DNS](img/que-es-la-automatizacion-onboarding-01.webp)
 
 ---
 

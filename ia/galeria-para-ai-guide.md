@@ -27,7 +27,7 @@ Puedes agregar imágenes de tres formas: subiéndolas desde tu computadora, busc
 ### Agregar imágenes
 
 1. **Abre la galería.** Ve a **AI > Galería para AI**.
-   <!-- captura pendiente: galeria-para-ai-01 — pantalla IA Media con el buscador, el botón cargar, los filtros y las imágenes -->
+   ![Pantalla IA Media con el buscador, el botón cargar, los filtros y las imágenes](img/galeria-para-ai-01.webp)
 
 2. **Abre la ventana de carga.** Haz clic en "cargar". Se abre **Subir recursos**.
 
@@ -35,7 +35,7 @@ Puedes agregar imágenes de tres formas: subiéndolas desde tu computadora, busc
    - **Subir recursos:** primero elige los atributos en "Seleccionar atributos" y luego haz clic en "Subir" y elige el archivo. Se sube apenas lo eliges.
    - **Banco de Imágenes:** escribe lo que buscas (por ejemplo, "voluntarios"), haz clic en "Buscar" y luego en la foto que te guste.
    - **Generar Imagen:** describe la imagen que quieres (o usa una de las ideas sugeridas), haz clic en "Generar" y luego en la imagen para guardarla.
-   <!-- captura pendiente: galeria-para-ai-03 — ventana Subir recursos con las pestañas Subir recursos, Banco de Imágenes y Generar Imagen -->
+   ![Ventana Subir recursos con las pestañas Subir recursos, Banco de Imágenes y Generar Imagen](img/galeria-para-ai-03.webp)
 
 Al terminar verás *"¡Archivo subido con éxito!"* o *"¡Imagen subida con éxito!"*.
 
@@ -45,7 +45,7 @@ Al terminar verás *"¡Archivo subido con éxito!"* o *"¡Imagen subida con éxi
 
 1. **Busca la imagen** en la galería.
 2. **Elige sus atributos.** En la tarjeta de la imagen, marca uno o varios. Si necesitas uno nuevo, haz clic en "+", escribe el **Nombre del atributo** y haz clic en "Crear atributo".
-   <!-- captura pendiente: galeria-para-ai-05 — tarjeta de una imagen con sus atributos y el botón + -->
+   ![Tarjetas de imágenes con el selector de atributos y el botón +](img/galeria-para-ai-05.webp)
 
 Así la IA sabe qué imágenes usar en cada tipo de correo.
 

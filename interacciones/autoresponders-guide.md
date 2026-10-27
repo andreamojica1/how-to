@@ -35,14 +35,14 @@ Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento.
 ### Parte 1 — Elige dónde y cuándo se envía
 
 1. **Abre los autoresponders.** Ve a **Interacciones > Autoresponders**.
-   <!-- captura pendiente: autoresponders-01 — lista de Autoresponders con las pestañas Genérico, Por Campaña, Por widget y el selector de idioma -->
+   ![Lista de Autoresponders con las pestañas Genérico, Por Campaña y Por widget, el selector de idioma y el botón Nuevo autoresponder](img/autoresponders-01.webp)
 
 2. **Elige el idioma.** Arriba de la lista, elige **Español (ES)**, **Inglés (EN)** o **Portugués (PT)**. El autoresponder que crees quedará en ese idioma.
 
 3. **Empieza uno nuevo.** Haz clic en "Nuevo autoresponder".
 
 4. **Elige dónde aplica.** En **Contexto**, elige **Genérico** (para toda la organización), **Por campaña** (y elige la campaña) o **Por formulario** (y elige el formulario). Haz clic en "Siguiente".
-   <!-- captura pendiente: autoresponders-04 — asistente Nuevo autoresponder, paso Contexto -->
+   ![Asistente Nuevo autoresponder en el paso Contexto con las opciones Genérico, Por campaña y Por formulario](img/autoresponders-04.webp)
 
 5. **Elige el momento.** En **Evento**, elige cuándo se envía, por ejemplo **Transacción registrada** ("Cuando se confirma una transacción exitosa"). Solo aparecen los eventos que todavía no tienen correo en ese idioma.
 
@@ -53,7 +53,7 @@ Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento.
 ### Parte 2 — Escribe los datos del correo
 
 8. **Elige el remitente.** En **Correo de envío**, elige desde qué correo sale.
-   <!-- captura pendiente: autoresponders-08 — editor del autoresponder, paso Configuración -->
+   ![Editor del autoresponder en el paso Configuración con Correo de envío, Asunto del correo y Archivo adjunto](img/autoresponders-08.webp)
 
 9. **Ponle un nombre interno (opcional).** En **Nombre interno** escribe un nombre que solo verá tu equipo.
 
@@ -70,7 +70,7 @@ Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento.
     - **Galería de diseños:** partes de una plantilla ya hecha.
     - **Autoresponders:** copias un correo que ya tienes.
     - **Editor con código:** para quien trabaja con HTML.
-    <!-- captura pendiente: autoresponders-13 — paso Diseño con las cuatro opciones -->
+    ![Paso Diseño con las opciones Diseño en blanco, Galería de diseños, Autoresponders y Editor con código](img/autoresponders-13.webp)
 
 14. **Publícalo.** Arriba a la derecha, enciende **Publicado**.
 
@@ -96,7 +96,7 @@ Si prefieres que Afrus escriba el correo por ti:
 - **Editar:** en la fila del evento, usa el ícono de editar, cambia lo que necesites y haz clic en "Guardar".
 - **Pausar:** apaga el interruptor de la fila. Queda **Inactivo** y no se envía.
 - **Ver resultados:** el ícono de ver abre **Ver detalles**, con cuántos correos se enviaron, cuántos se abrieron y cuántos tuvieron clics, y una vista previa del correo. Con "Ver log" ves la lista de cada correo enviado o fallido.
-  <!-- captura pendiente: autoresponders-ver-01 — pantalla Ver detalles con las estadísticas -->
+  ![Pantalla Ver detalles con los mensajes enviados, la tasa de apertura, de clics y las métricas de entrega](img/autoresponders-ver-01.webp)
 - **Eliminar:** ícono de eliminar en la fila.
 
 > **¿Se puede deshacer?** No. Eliminar un autoresponder lo borra al instante, sin pedir confirmación. Si solo quieres dejar de enviarlo por un tiempo, mejor apágalo con el interruptor.

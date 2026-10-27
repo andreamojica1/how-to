@@ -29,7 +29,7 @@ Si tu formulario no tiene ninguna de esas herramientas configurada, no se envía
 1. **Haz una donación de prueba** en tu formulario, o espera a que lleguen donaciones reales.
 
 2. **Abre la pantalla.** Entra a **Trackers > Logs de analytics** y elige un rango de fechas que incluya tu prueba. Al abrirla se muestra el mes en curso.
-   <!-- captura pendiente: logs-de-analytics-02 — pantalla Logs de analytics con la barra de fechas, el buscador, los filtros y la tabla -->
+   ![Pantalla Logs de analytics con la barra de fechas, el buscador, el filtro Plataforma y la tabla](img/logs-de-analytics-02.webp)
 
 3. **Busca a la persona.** Escribe su correo o su ID en el buscador y pulsa la **lupa**. Con Enter no busca.
 
@@ -39,7 +39,7 @@ Si tu formulario no tiene ninguna de esas herramientas configurada, no se envía
    - `GOOGLE-TAG-MANAGER-…` es Google Tag Manager.
 
 5. **Abre el detalle.** Pulsa el ícono del ojo en la fila. La ventana **Log** muestra lo que se envió y lo que respondió la herramienta.
-   <!-- captura pendiente: logs-de-analytics-05 — ventana Log con lo enviado y la respuesta -->
+   ![Ventana Log con lo enviado (request) y la respuesta (response)](img/logs-de-analytics-05.webp)
 
 **Qué evento es cada uno** (la parte final de la **Descripción**):
 

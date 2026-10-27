@@ -31,7 +31,7 @@ Arriba de **Interacciones > Autoresponders** y de **Interacciones > Blast** ver�
 | **No tienes un dominio verificado para Email** | Tus correos salen desde una cuenta de Afrus |
 | **Error en registros DNS** | Hay un problema con los registros; hay que corregirlos |
 
-<!-- captura pendiente: que-es-la-automatizacion-onboarding-01 — tarjeta del dominio de envío arriba de Autoresponders -->
+![Tarjeta del dominio de envío arriba de Autoresponders con el botón Configurar DNS](img/que-es-la-automatizacion-onboarding-01.webp)
 
 ---
 

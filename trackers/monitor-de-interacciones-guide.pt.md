@@ -31,7 +31,7 @@ Este painel conta só os e-mails em massa. Não inclui os e-mails automáticos (
 ### Parte 1 — Confira o status da sua conta
 
 1. **Abra o monitor.** Acesse **Trackers > Monitor de interacciones**. A aba **Monitor Email** é aberta.
-   <!-- captura pendente: monitor-de-interacciones-01 — tela Monitor de interacciones com o status da conta, a Variable de notificación e os Indicadores principales -->
+   ![Tela Monitor de interacciones com o status da conta, a Variable de notificación e os Indicadores principales](img/monitor-de-interacciones-01.webp)
 
 2. **Veja o Estado de la cuenta (Status da conta).** Você verá um destes rótulos:
 
@@ -66,7 +66,7 @@ Os limites só se aplicam a partir de 1.000 e-mails enviados. Se você tiver men
    - **Verde:** abaixo do limite de alerta.
    - **Amarelo:** entre o limite de alerta e o de bloqueio.
    - **Vermelho:** no limite de bloqueio ou acima.
-   <!-- captura pendente: monitor-de-interacciones-06 — tabela Lista de blast com as taxas em verde, amarelo e vermelho -->
+   ![Tabela Lista de blast com as colunas Bounce Rate e Complaint Rate em cores](img/monitor-de-interacciones-06.webp)
 
 7. **Abra o envio.** Clique no **ID** para ver o detalhe. A tabela mostra 5 envios por página; você pode mudar para 10, 25 ou 50.
 

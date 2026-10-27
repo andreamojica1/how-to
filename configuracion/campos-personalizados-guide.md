@@ -66,7 +66,7 @@ Los campos se llenan:
 ## Dónde la puedo ver
 
 1. **En el perfil de la persona.** Abre la persona en **Personas**, pestaña **Contacto**, tarjeta **Más información**, sección **Información Personalizada**. Verás cada campo con su valor, o "-" si está vacío. La sección solo aparece si la persona tiene algún campo personalizado.
-   <!-- captura pendiente: donde-ver-los-campos-personalizados-01 — perfil de persona con la sección Información Personalizada -->
+   ![Perfil de una persona, pestaña Contacto, con la sección Información Personalizada en la tarjeta Más información](img/donde-ver-los-campos-personalizados-01.webp)
 
 2. **En la descarga de personas.** Al descargar tu lista de personas con **Base de datos en tiempo real**, cada campo personalizado sale en su propia columna.
 

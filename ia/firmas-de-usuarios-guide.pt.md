@@ -35,7 +35,7 @@ Cada usuário pode ter apenas uma assinatura.
 ### Criar ou editar uma assinatura
 
 1. **Abra as assinaturas.** Acesse **AI > Firmas de usuarios**. Você verá os usuários da sua organização e, ao lado de cada um, se está **Con firma** (com assinatura) ou **Sin firma** (sem assinatura). Para encontrar alguém, use "Buscar por nombre" (Buscar por nome).
-   <!-- captura pendente: firmas-de-usuarios-01 — tela Personalizar usuarios com a lista, a busca e as etiquetas Con firma / Sin firma -->
+   ![Tela Personalizar usuarios com a busca e as etiquetas Con firma e Sin firma](img/firmas-de-usuarios-01.webp)
 
 2. **Abra a assinatura do usuário.** Clique em "Crear firma" (Criar assinatura) ou em "Editar firma" (Editar assinatura), se ele já tiver uma.
 
@@ -44,7 +44,7 @@ Cada usuário pode ter apenas uma assinatura.
    - **Correo desde el que se enviarán los mensajes** (e-mail de envio): escolha um dos e-mails de envio da sua organização.
    - **Cargo para firma** (cargo).
    - **Reply to**: o e-mail onde você quer receber as respostas.
-   <!-- captura pendente: firmas-de-usuarios-03 — formulário de assinatura com nome, e-mail de envio, cargo e Reply to -->
+   ![Formulário de assinatura com nome, e-mail de envio, cargo e Reply to](img/firmas-de-usuarios-03.webp)
 
 4. **Escreva a descrição ou deixe a IA escrever.** A **Descripción de usuario** (descrição do usuário) também é obrigatória, mesmo sem asterisco. Para a IA escrever:
    - escolha o **Tono de comunicación** (tom), por exemplo Formal, Cercano (próximo) ou Inspirador;
@@ -53,7 +53,7 @@ Cada usuário pode ter apenas uma assinatura.
    - clique em "Generar" (Gerar).
 
    Se você já tem um texto, "Mejorar" (Melhorar) reescreve e "Regenerar" cria uma nova versão. Você também pode escrever por conta própria.
-   <!-- captura pendente: firmas-de-usuarios-04 — seção Descripción de usuario com tom, estilo, tamanho e os botões Generar, Mejorar e Regenerar -->
+   ![Seção Descripción de usuario com tom, estilo, tamanho e os botões Generar, Mejorar e Regenerar](img/firmas-de-usuarios-04.webp)
 
 5. **Salve.** Clique em "Crear firma" (ou "Actualizar firma", Atualizar assinatura). Você verá *"Firma creada exitosamente"* ou *"Firma actualizada exitosamente"* (assinatura criada / atualizada com sucesso).
 

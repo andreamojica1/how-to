@@ -31,7 +31,7 @@ Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é en
 1. **Faça uma doação de teste** no seu formulário, ou espere chegarem doações reais.
 
 2. **Abra a tela.** Acesse **Trackers > Logs de analytics** e escolha um período que inclua o seu teste. Ao abrir, aparece o mês atual.
-   <!-- captura pendente: logs-de-analytics-02 — tela Logs de analytics com a barra de datas, o campo de busca, os filtros e a tabela -->
+   ![Tela Logs de analytics com a barra de datas, o campo de busca, o filtro Plataforma e a tabela](img/logs-de-analytics-02.webp)
 
 3. **Busque a pessoa.** Digite o e-mail ou o ID dela no campo de busca e clique na **lupa**. O Enter não busca.
 
@@ -41,7 +41,7 @@ Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é en
    - `GOOGLE-TAG-MANAGER-…` é o Google Tag Manager.
 
 5. **Abra o detalhe.** Clique no ícone do olho na linha. A janela **Log** mostra o que foi enviado e o que a ferramenta respondeu.
-   <!-- captura pendente: logs-de-analytics-05 — janela Log com o que foi enviado e a resposta -->
+   ![Janela Log com o que foi enviado (request) e a resposta (response)](img/logs-de-analytics-05.webp)
 
 **Qual evento é cada um** (a parte final da **Descripción**):
 

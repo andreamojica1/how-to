@@ -35,22 +35,22 @@ Ahí eliges, por ejemplo, cada cuánto se cobra y qué hacer cuando un cobro fal
 ## Cómo configurar el Servicio de recurrencia
 
 1. **Abre la pantalla.** Ve a **Configuración > Pagos > Servicio de recurrencia**. Verás el título **Configuración del Motor de Recurrencia**.
-   <!-- captura pendiente: como-configurar-el-servicio-de-recurrencia-01 — pantalla Configuración del Motor de Recurrencia con todas sus opciones -->
+   ![Pantalla Configuración del Motor de Recurrencia con Configuración actual y los campos Modo mejorado, Periodicidad y Modo de reintento](img/como-configurar-el-servicio-de-recurrencia-01.webp)
 
 2. **Elige el modo.** En **Modo mejorado**, elige **Standard** o **Charities**. Con **Charities** podrás elegir además los días de cobro.
 
 3. **Elige cada cuánto se cobra.** En **Periodicidad**, elige **Mensual**, **Trimestral**, **Semestral** o **Anual**.
-   <!-- captura pendiente: como-configurar-el-servicio-de-recurrencia-03 — opciones de Periodicidad desplegadas -->
+   ![Lista Periodicidad abierta con Mensual, Trimestral, Semestral y Anual](img/como-configurar-el-servicio-de-recurrencia-03.webp)
 
 4. **Si elegiste Charities, marca los días de cobro.** Aparece **Días de cobro (Charities)** para que elijas en qué días se cobra.
 
 5. **Decide qué pasa si un cobro falla.** En **Modo de reintento**, elige **Standard retries**, **Charities retries** o **Custom** (personalizado).
-   <!-- captura pendiente: como-configurar-el-servicio-de-recurrencia-05 — opciones de Modo de reintento -->
+   ![Lista Modo de reintento abierta con Standard retries, Charities retries y Custom](img/como-configurar-el-servicio-de-recurrencia-05.webp)
 
 6. **Si elegiste Custom, define los reintentos.** En **Tipo de configuración de reintentos** elige:
    - **Consecutivo:** indica el **Máximo de intentos**.
    - **Fechas específicas:** elige las **Fechas específicas de reintento**.
-   <!-- captura pendiente: como-configurar-el-servicio-de-recurrencia-06 — opciones de reintento personalizadas -->
+   ![Modo de reintento Custom con Tipo de configuración de reintentos y Máximo de intentos](img/como-configurar-el-servicio-de-recurrencia-06.webp)
 
 7. **Guarda los cambios.** Se aplicarán a los próximos ciclos de cobro.
 

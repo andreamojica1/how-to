@@ -37,22 +37,22 @@ There you choose, for example, how often a donation is charged and what to do wh
 ## How to set up the Recurrence service
 
 1. **Open the screen.** Go to **Configuración > Pagos > Servicio de recurrencia**. You will see the title **Configuración del Motor de Recurrencia**.
-   <!-- screenshot pending: how-to-set-up-the-recurrence-service-01 — Recurrence engine settings screen with all its options -->
+   ![Configuración del Motor de Recurrencia screen with the current settings and the Modo mejorado, Periodicidad and Modo de reintento fields](img/como-configurar-el-servicio-de-recurrencia-01.webp)
 
 2. **Choose the mode.** In **Modo mejorado** (Enhanced mode), choose **Standard** or **Charities**. With **Charities** you can also choose the charge days.
 
 3. **Choose how often to charge.** In **Periodicidad** (Frequency), choose **Mensual** (monthly), **Trimestral** (quarterly), **Semestral** (every six months) or **Anual** (yearly).
-   <!-- screenshot pending: how-to-set-up-the-recurrence-service-03 — Frequency options open -->
+   ![Periodicidad list open with Mensual, Trimestral, Semestral and Anual](img/como-configurar-el-servicio-de-recurrencia-03.webp)
 
 4. **If you chose Charities, pick the charge days.** **Días de cobro (Charities)** (Charge days) appears so you can choose which days to charge.
 
 5. **Decide what happens if a charge fails.** In **Modo de reintento** (Retry mode), choose **Standard retries**, **Charities retries** or **Custom**.
-   <!-- screenshot pending: how-to-set-up-the-recurrence-service-05 — Retry mode options -->
+   ![Modo de reintento list open with Standard retries, Charities retries and Custom](img/como-configurar-el-servicio-de-recurrencia-05.webp)
 
 6. **If you chose Custom, set the retries.** In **Tipo de configuración de reintentos** (Retry setup type) choose:
    - **Consecutivo** (Consecutive): set the **Máximo de intentos** (Maximum attempts).
    - **Fechas específicas** (Specific dates): choose the **Fechas específicas de reintento** (Specific retry dates).
-   <!-- screenshot pending: how-to-set-up-the-recurrence-service-06 — custom retry options -->
+   ![Custom retry mode with Tipo de configuración de reintentos and Máximo de intentos](img/como-configurar-el-servicio-de-recurrencia-06.webp)
 
 7. **Save your changes.** They will apply to the next billing cycles.
 

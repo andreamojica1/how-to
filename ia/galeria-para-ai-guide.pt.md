@@ -29,7 +29,7 @@ Você pode adicionar imagens de três formas: enviando do seu computador, buscan
 ### Adicionar imagens
 
 1. **Abra a galeria.** Acesse **AI > Galería para AI**.
-   <!-- captura pendente: galeria-para-ai-01 — tela IA Media com a busca, o botão cargar, os filtros e as imagens -->
+   ![Tela IA Media com a busca, o botão cargar, os filtros e as imagens](img/galeria-para-ai-01.webp)
 
 2. **Abra a janela de envio.** Clique em "cargar" (enviar). Abre a janela **Subir recursos** (Enviar recursos).
 
@@ -37,7 +37,7 @@ Você pode adicionar imagens de três formas: enviando do seu computador, buscan
    - **Subir recursos** (Enviar): primeiro escolha os atributos em "Seleccionar atributos" (Selecionar atributos), depois clique em "Subir" (Enviar) e escolha o arquivo. Ele é enviado assim que você escolhe.
    - **Banco de Imágenes** (Banco de imagens): digite o que procura (por exemplo, "voluntários"), clique em "Buscar" e depois na foto que você gostar.
    - **Generar Imagen** (Gerar imagem): descreva a imagem que quer (ou use uma das ideias sugeridas), clique em "Generar" (Gerar) e depois na imagem para salvá-la.
-   <!-- captura pendente: galeria-para-ai-03 — janela Subir recursos com as abas Subir recursos, Banco de Imágenes e Generar Imagen -->
+   ![Janela Subir recursos com as abas Subir recursos, Banco de Imágenes e Generar Imagen](img/galeria-para-ai-03.webp)
 
 Ao terminar, você verá *"¡Archivo subido con éxito!"* ou *"¡Imagen subida con éxito!"* (arquivo / imagem enviada com sucesso).
 
@@ -47,7 +47,7 @@ Ao terminar, você verá *"¡Archivo subido con éxito!"* ou *"¡Imagen subida c
 
 1. **Encontre a imagem** na galeria.
 2. **Escolha os atributos.** No cartão da imagem, marque um ou vários. Se precisar de um novo, clique em "+", digite o **Nombre del atributo** (nome do atributo) e clique em "Crear atributo" (Criar atributo).
-   <!-- captura pendente: galeria-para-ai-05 — cartão de uma imagem com seus atributos e o botão + -->
+   ![Cartões de imagens com o seletor de atributos e o botão +](img/galeria-para-ai-05.webp)
 
 Assim a IA sabe quais imagens usar em cada tipo de e-mail.
 

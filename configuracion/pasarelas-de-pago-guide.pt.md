@@ -14,7 +14,7 @@ Com este guia você vai entender o que são os gateways de pagamento na Afrus, p
 
 Os gateways são configurados uma vez para toda a organização, em **Configuración > Pagos > Pasarelas de pago**. Você também chega lá pelo menu de perfil (canto superior), opção **Ajustes de organización** (Configurações da organização).
 
-<!-- captura pendente: o-que-sao-os-gateways-de-pagamento-01 — tela de gateways de pagamento com a lista da organização -->
+![Tela Pasarelas de pago com a lista de gateways, o status e o botão Configurar](img/que-son-las-pasarelas-de-pago-01.webp)
 
 ## Para que servem
 
@@ -41,7 +41,7 @@ Com o Cover Your Cost, o doador pode pagar um pouco mais para cobrir a taxa do g
 **Antes de começar:** a Afrus precisa ativar o Cover Your Cost para sua organização. Se você não vê a seção **Cover Your Cost** ao abrir um gateway, escreva para nós para ativá-la.
 
 1. **Abra o gateway.** Acesse **Configuración > Pagos > Pasarelas de pago** e abra o gateway onde quer oferecê-lo.
-   <!-- captura pendente: como-ativar-ou-desativar-o-cover-your-cost-01 — gateway aberto com a seção Cover Your Cost -->
+   ![Janela do gateway com a seção Cover Your Cost e a chave Activar Cover Your Cost](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Ative a opção.** Na seção **Cover Your Cost**, ative **Activar Cover Your Cost** (Ativar Cover Your Cost).
 

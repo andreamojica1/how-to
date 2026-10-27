@@ -16,7 +16,7 @@ The AI uses all of it to answer in **Chat con AI** (AI chat) and in the **Agente
 
 The screen has three tabs: **Documentos** (Documents), **Instrucciones** (Instructions) and **URL'S**.
 
-<!-- screenshot pending: entrenamiento-ai-01 — Training screen with the Documentos, Instrucciones and URL'S tabs -->
+![Training screen with the Documentos, Instrucciones and URL'S tabs](img/entrenamiento-ai-01.webp)
 
 ## What it is for
 
@@ -41,7 +41,7 @@ In **Documentos** you upload the files that describe your organization: impact r
 > **Pending confirmation:** whether the 10 MB limit is always applied.
 
 1. **Open the Documents tab.** Go to **AI > Entrenamiento [AI RAG]** and choose **Documentos**.
-   <!-- screenshot pending: entrenamiento-ai-02 — Documentos tab with the "Suelta aquí tus documentos" drop area -->
+   ![Documentos tab with the Suelta aquí tus documentos drop area and the Nuevo button](img/entrenamiento-ai-02.webp)
 
 2. **Choose your files.** Drag them onto **Suelta aquí tus documentos** (Drop your documents here) or click "Nuevo" (New). You can choose several at once.
 
@@ -83,7 +83,7 @@ Instructions apply to your whole organization, and the AI uses them together wit
 In **URL'S** you add your organization's web pages for the AI to read: for example your "About us" page, your programs page or a campaign page.
 
 1. **Open the URL'S tab.** In **AI > Entrenamiento [AI RAG]**, choose **URL'S** (section **Fuentes Web**, Web sources).
-   <!-- screenshot pending: entrenamiento-ai-05 — URL'S tab with the Agregar más URL button -->
+   ![URL'S tab, Fuentes Web section, with the Agregar más URL button](img/entrenamiento-ai-05.webp)
 
 2. **Add an address.** Click "Agregar más URL" (Add more URLs) and click the new row to open it.
 

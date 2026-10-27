@@ -37,22 +37,22 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 ## Como configurar o Serviço de recorrência
 
 1. **Abra a tela.** Acesse **Configuración > Pagos > Servicio de recurrencia**. Você verá o título **Configuración del Motor de Recurrencia**.
-   <!-- captura pendente: como-configurar-o-servico-de-recorrencia-01 — tela de configuração do motor de recorrência com todas as opções -->
+   ![Tela Configuración del Motor de Recurrencia com a configuração atual e os campos Modo mejorado, Periodicidad e Modo de reintento](img/como-configurar-el-servicio-de-recurrencia-01.webp)
 
 2. **Escolha o modo.** Em **Modo mejorado** (Modo aprimorado), escolha **Standard** ou **Charities**. Com **Charities**, você também pode escolher os dias de cobrança.
 
 3. **Escolha a cada quanto tempo cobrar.** Em **Periodicidad** (Periodicidade), escolha **Mensual** (mensal), **Trimestral**, **Semestral** ou **Anual**.
-   <!-- captura pendente: como-configurar-o-servico-de-recorrencia-03 — opções de Periodicidade abertas -->
+   ![Lista Periodicidad aberta com Mensual, Trimestral, Semestral e Anual](img/como-configurar-el-servicio-de-recurrencia-03.webp)
 
 4. **Se escolheu Charities, marque os dias de cobrança.** Aparece **Días de cobro (Charities)** (Dias de cobrança) para você escolher em quais dias cobrar.
 
 5. **Decida o que acontece se uma cobrança falhar.** Em **Modo de reintento** (Modo de nova tentativa), escolha **Standard retries**, **Charities retries** ou **Custom** (personalizado).
-   <!-- captura pendente: como-configurar-o-servico-de-recorrencia-05 — opções de Modo de nova tentativa -->
+   ![Lista Modo de reintento aberta com Standard retries, Charities retries e Custom](img/como-configurar-el-servicio-de-recurrencia-05.webp)
 
 6. **Se escolheu Custom, defina as novas tentativas.** Em **Tipo de configuración de reintentos** (Tipo de configuração de novas tentativas), escolha:
    - **Consecutivo:** indique o **Máximo de intentos** (máximo de tentativas).
    - **Fechas específicas** (Datas específicas): escolha as **Fechas específicas de reintento** (datas específicas de nova tentativa).
-   <!-- captura pendente: como-configurar-o-servico-de-recorrencia-06 — opções personalizadas de nova tentativa -->
+   ![Modo de reintento Custom com Tipo de configuración de reintentos e Máximo de intentos](img/como-configurar-el-servicio-de-recurrencia-06.webp)
 
 7. **Salve as mudanças.** Elas serão aplicadas aos próximos ciclos de cobrança.
 

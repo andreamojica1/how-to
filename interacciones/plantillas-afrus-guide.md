@@ -25,7 +25,7 @@ Algunas las trae Afrus y están disponibles para todas las organizaciones. Otras
 ## Qué tipos de plantillas hay
 
 Al entrar a **Interacciones > Plantillas Afrus** verás una tabla con todas tus plantillas.
-<!-- captura pendiente: plantillas-afrus-01 — lista de Plantillas Afrus con columnas Estado, Nombre, Tipo, Objetivo, Propietario e Idioma -->
+![Lista de Plantillas Afrus con los filtros Tipo, Objetivo y Estado y las columnas Estado, Nombre, Tipo, Objetivo, Propietario e Idioma](img/plantillas-afrus-01.webp)
 
 **Por tipo:**
 
@@ -43,7 +43,7 @@ Puedes filtrar la tabla por tipo, objetivo y estado para encontrar lo que buscas
 ## Cómo crear una nueva plantilla
 
 1. **Abre las plantillas.** Ve a **Interacciones > Plantillas Afrus** y haz clic en "Crear plantilla Afrus".
-   <!-- captura pendiente: plantillas-afrus-02 — formulario Crear plantilla Afrus -->
+   ![Formulario Crear plantilla Afrus con Información general: Nombre de plantilla, Estado, Tipo de plantilla, Objetivo e Idioma](img/plantillas-afrus-02.webp)
 
 2. **Completa la información general.**
    - **Nombre de plantilla** (obligatorio): un nombre que tu equipo reconozca.
