@@ -92,14 +92,8 @@ Not for now. AFRUS sends payment links by email only.
 **Does the link work for a monthly donation?**
 Yes. In **Seleccionar la frecuencia** choose **Mensual**.
 
-**What does the person see if they open a link they already used?**
-> **Pending confirmation:** what the form shows when a **Finalizado** link is opened.
-
-**What language is the email in?**
-> **Pending confirmation:** AFRUS picks the template by organization type and language; not every case has been verified.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

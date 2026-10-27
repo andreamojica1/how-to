@@ -75,11 +75,8 @@ No. They are kept in this list until you restore them.
 **Do people in quarantine receive my emails?**
 No. They stay out of automated emails, segments and reports until you restore them.
 
-**Is this classification active in my organization?**
-> **Pending confirmation:** whether the classification is active for every organization. If in doubt, write to us.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

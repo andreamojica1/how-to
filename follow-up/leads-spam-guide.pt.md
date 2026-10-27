@@ -75,11 +75,8 @@ Não. Elas ficam guardadas nesta lista até você restaurá-las.
 **As pessoas em quarentena recebem meus e-mails?**
 Não. Elas ficam fora dos e-mails automáticos, segmentos e relatórios até você restaurá-las.
 
-**Essa classificação está ativa na minha organização?**
-> **Pendente de confirmação:** se a classificação está ativa em todas as organizações. Em caso de dúvida, fale com a gente.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

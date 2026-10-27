@@ -49,8 +49,6 @@ You will see the **Importación en proceso** (Import in progress) dialog: *"El p
 
 > **Important:** this dialog can appear even if the file upload failed. Always confirm your import appears in the **Follow up > Importaciones - itaú** list.
 
-> **Can it be undone?** **Pending confirmation:** whether an import can be cancelled. Check the campaign and the file before clicking "Importar".
-
 ### What AFRUS does with the file
 
 For each line in the file, AFRUS identifies the person the boleto belongs to. If they have a CEP, document type and number, it records a **successful donation** for the boleto's amount, in Brazilian reais (BRL), with boleto as the payment method, in the chosen campaign and widget. If that data is missing, the line goes to **Error** and the boleto shows as **Pagado - no registrado** (Paid – not recorded) in **Follow up > Boleto Itaú**.
@@ -92,10 +90,6 @@ The import is finished when every line has been processed.
 
 **What happens to boletos the bank rejected?**
 They show as **Rechazado** (Rejected) in **Follow up > Boleto Itaú**.
-> **Pending confirmation:** how the import handles lines for rejected boletos. Write to us if you see a donation that doesn't belong.
-
-**What happens if I upload the same file twice?**
-> **Pending confirmation.** In the meantime, check the list before uploading a file again.
 
 **Can I use an inactive campaign?**
 No. Only active campaigns are listed.
@@ -104,4 +98,4 @@ No. Only active campaigns are listed.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

@@ -49,8 +49,6 @@ Você verá o diálogo **Importación en proceso** (Importação em andamento): 
 
 > **Importante:** esse diálogo pode aparecer mesmo que o envio do arquivo tenha falhado. Confirme sempre que a sua importação aparece na lista de **Follow up > Importaciones - itaú**.
 
-> **Dá para desfazer?** **Pendente de confirmação:** se uma importação pode ser cancelada. Confira a campanha e o arquivo antes de clicar em "Importar".
-
 ### O que a AFRUS faz com o arquivo
 
 Para cada linha do arquivo, a AFRUS identifica a pessoa do boleto. Se ela tiver CEP, tipo e número de documento, a AFRUS registra uma **doação com sucesso** pelo valor do boleto, em reais (BRL), com método boleto, na campanha e no widget escolhidos. Se faltarem esses dados, a linha fica com **Error** e o boleto aparece como **Pagado - no registrado** (Pago - não registrado) em **Follow up > Boleto Itaú**.
@@ -92,10 +90,6 @@ A importação fica finalizada quando todas as linhas terminam de ser processada
 
 **O que acontece com os boletos que o banco rejeitou?**
 Eles aparecem como **Rechazado** (Rejeitado) em **Follow up > Boleto Itaú**.
-> **Pendente de confirmação:** como a importação trata as linhas de boletos rejeitados. Fale com a gente se encontrar uma doação que não deveria estar lá.
-
-**O que acontece se eu carregar o mesmo arquivo duas vezes?**
-> **Pendente de confirmação.** Enquanto isso, confira a lista antes de carregar um arquivo de novo.
 
 **Posso usar uma campanha inativa?**
 Não. Só aparecem campanhas ativas.
@@ -104,4 +98,4 @@ Não. Só aparecem campanhas ativas.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

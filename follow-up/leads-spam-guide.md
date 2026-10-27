@@ -73,11 +73,8 @@ No. Quedan guardadas en esta lista hasta que las restaures.
 **¿Las personas en cuarentena reciben mis correos?**
 No. Quedan fuera de los correos automáticos, segmentos y reportes hasta que las restaures.
 
-**¿Está activa esta clasificación en mi organización?**
-> **Pendiente de confirmar:** si la clasificación está activa en todas las organizaciones. Si tienes dudas, escríbenos.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

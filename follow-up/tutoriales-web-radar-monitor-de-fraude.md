@@ -115,7 +115,7 @@ Relacionados: que-es-el-radar-monitor-de-fraude, cuando-una-transaccion-se-consi
 <li><strong>Verificación anti-bots (reCAPTCHA)</strong> en los pagos con widgets, que puede activarse en un formulario cuando se detecta actividad anómala.</li>
 <li><strong>Límites a los intentos de pago repetidos</strong>, para frenar a quien prueba muchas tarjetas.</li>
 <li><strong>Protección automática de formularios:</strong> ante una actividad de pagos fallidos inusual, AFRUS puede exigir la verificación anti-bots, limitar temporalmente el formulario o desactivarlo, y avisarte por correo.</li>
-<li><strong>Verificación por código:</strong> ante actividad sospechosa en un formulario, se le puede pedir al donante un código de verificación antes de cobrar.</li>
+<li><strong>Verificación por código (OTP):</strong> ante actividad sospechosa en un formulario, AFRUS le envía al donante un código de verificación por WhatsApp, que debe ingresar antes de que se haga el cobro.</li>
 <li><strong>Bloqueo de correos en lista negra</strong> y otros controles sobre cada pago.</li>
 <li><strong>Detección de registros automatizados (bots)</strong> en los formularios de registro (ver <strong>Follow up &gt; Leads spam</strong>).</li>
 <li><strong>Marcado manual de fraude</strong> por tu equipo, con el Radar para el seguimiento.</li>
@@ -242,7 +242,7 @@ Relacionados: what-is-the-fraud-radar, when-is-a-transaction-considered-fraudule
 <li><strong>Anti-bot verification (reCAPTCHA)</strong> on widget payments, which can be switched on for a form when unusual activity is detected.</li>
 <li><strong>Limits on repeated payment attempts</strong>, to stop anyone testing many cards.</li>
 <li><strong>Automatic form protection:</strong> when there is unusual failed-payment activity, AFRUS can require anti-bot verification, temporarily limit the form or deactivate it, and notify you by email.</li>
-<li><strong>Code verification:</strong> when there is suspicious activity on a form, the donor can be asked for a verification code before being charged.</li>
+<li><strong>Code verification (OTP):</strong> when there is suspicious activity on a form, AFRUS sends the donor a verification code by WhatsApp, which they must enter before the charge is made.</li>
 <li><strong>Blocking blacklisted emails</strong> and other checks on every payment.</li>
 <li><strong>Detection of automated sign-ups (bots)</strong> on registration forms (see <strong>Follow up &gt; Leads spam</strong>).</li>
 <li><strong>Manual fraud marking</strong> by your team, with the Radar for follow-up.</li>
@@ -369,7 +369,7 @@ Relacionados: o-que-e-o-radar-monitor-de-fraude, quando-uma-transacao-e-consider
 <li><strong>Verificação anti-bots (reCAPTCHA)</strong> nos pagamentos com widgets, que pode ser ativada em um formulário quando é detectada atividade anômala.</li>
 <li><strong>Limites para tentativas de pagamento repetidas</strong>, para frear quem testa muitos cartões.</li>
 <li><strong>Proteção automática de formulários:</strong> diante de uma atividade incomum de pagamentos recusados, a AFRUS pode exigir a verificação anti-bots, limitar temporariamente o formulário ou desativá-lo, e avisar você por e-mail.</li>
-<li><strong>Verificação por código:</strong> diante de atividade suspeita em um formulário, pode ser pedido ao doador um código de verificação antes da cobrança.</li>
+<li><strong>Verificação por código (OTP):</strong> diante de atividade suspeita em um formulário, a AFRUS envia ao doador um código de verificação pelo WhatsApp, que ele precisa informar antes da cobrança.</li>
 <li><strong>Bloqueio de e-mails em lista negra</strong> e outros controles em cada pagamento.</li>
 <li><strong>Detecção de cadastros automatizados (bots)</strong> nos formulários de cadastro (veja <strong>Follow up &gt; Leads spam</strong>).</li>
 <li><strong>Marcação manual de fraude</strong> pela sua equipe, com o Radar para o acompanhamento.</li>

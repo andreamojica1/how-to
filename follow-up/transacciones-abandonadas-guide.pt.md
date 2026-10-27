@@ -58,10 +58,10 @@ Nesta tela, "Acciones" só oferece exportar: não permite atribuir etiquetas nem
 Não. Se o pagamento termina, aprovado ou recusado, não conta como abandono.
 
 **A AFRUS envia um e-mail automático para essas pessoas?**
-> **Pendente de confirmação:** existe uma automação para leads abandonados, mas ela depende da configuração de cada organização.
+Sim, desde que o e-mail de **Transacción abandonada** (Transação abandonada) esteja configurado em **Interacciones > Autoresponders**.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

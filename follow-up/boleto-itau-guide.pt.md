@@ -89,8 +89,6 @@ Aparecem no geral, na lista, e por lote, no detalhe.
 | **Pagado - no registrado** (Pago - não registrado) | O banco confirmou o pagamento, mas não ficou registrado como doação, normalmente por dados incompletos (CEP ou documento) | Completar os dados da pessoa |
 | **Otro** (Outro) | Outra resposta do banco | Revisar o detalhe |
 
-> **Pendente de confirmação:** como registrar a doação de um boleto **Pagado - no registrado** depois de completar os dados.
-
 ## Status de um lote
 
 Aparecem em inglês, como estão: `created` (criado), `queued` (na fila), `pending` (em processamento), `succeeded` (concluído com sucesso) e `failed` (falhou).
@@ -106,14 +104,8 @@ Aparecem em inglês, como estão: `created` (criado), `queued` (na fila), `pendi
 **A AFRUS envia o arquivo ao banco?**
 Não. Você baixa o arquivo de remessa e o envia ao banco fora da AFRUS.
 
-**Quais dados bancários o arquivo usa e quem os configura?**
-> **Pendente de confirmação:** quais dados bancários da organização (agência, conta, carteira) o arquivo usa e como são configurados. Fale com a gente para revisar.
-
-**Ao gerar o boleto é criada uma transação pendente?**
-> **Pendente de confirmação.**
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

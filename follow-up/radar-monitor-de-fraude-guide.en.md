@@ -65,12 +65,10 @@ AFRUS combines several protections. Some depend on each organization's setup:
 - **Anti-bot verification (reCAPTCHA)** on widget payments, which can be switched on for a form when unusual activity is detected.
 - **Limits on repeated payment attempts**, to stop anyone testing many cards.
 - **Automatic form protection:** when there is unusual failed-payment activity, AFRUS can require anti-bot verification, temporarily limit the form or deactivate it, and notify you by email.
-- **Code verification:** when there is suspicious activity on a form, the donor can be asked for a verification code before being charged.
+- **Code verification (OTP):** when there is suspicious activity on a form, AFRUS sends the donor a verification code by WhatsApp, which they must enter before the charge is made.
 - **Blocking blacklisted emails** and other checks on every payment.
 - **Detection of automated sign-ups (bots)** on registration forms (see **Follow up > Leads spam**).
 - **Manual fraud marking** by your team, with the Radar for follow-up.
-
-> **Pending confirmation:** which protections are active for your organization. Write to us if you'd like to review it.
 
 ---
 
@@ -86,4 +84,4 @@ It's probably from a previous month. The filter uses the transaction date: widen
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

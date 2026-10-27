@@ -90,14 +90,8 @@ No por ahora. AFRUS envía los links de pago solo por correo electrónico.
 **¿El link sirve para una donación mensual?**
 Sí. En **Seleccionar la frecuencia** elige **Mensual**.
 
-**¿Qué ve la persona si abre un link que ya usó?**
-> **Pendiente de confirmar:** qué muestra el formulario al abrir un link **Finalizado**.
-
-**¿En qué idioma llega el correo?**
-> **Pendiente de confirmar:** AFRUS elige la plantilla según el tipo de organización y el idioma; no está verificado cada caso.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

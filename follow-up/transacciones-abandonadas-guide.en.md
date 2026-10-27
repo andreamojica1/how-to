@@ -58,10 +58,10 @@ On this screen, "Acciones" only offers export: you can't add tags or delete.
 No. If the payment finishes, whether it succeeds or fails, it doesn't count as abandoned.
 
 **Does AFRUS send these people an automatic email?**
-> **Pending confirmation:** there is an automation for abandoned leads, but it depends on each organization's setup.
+Yes, as long as the **Transacción abandonada** (Abandoned transaction) email is set up in **Interacciones > Autoresponders**.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

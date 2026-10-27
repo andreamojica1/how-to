@@ -89,8 +89,6 @@ Shown overall in the list and per batch in the detail.
 | **Pagado - no registrado** (Paid – not recorded) | The bank confirmed it as paid, but it wasn't recorded as a donation, usually because of missing data (CEP or document) | Complete the person's data |
 | **Otro** (Other) | Another bank response | Check the detail |
 
-> **Pending confirmation:** how to record the donation for a **Pagado - no registrado** boleto after completing the data.
-
 ## Batch statuses
 
 Shown in English as is: `created`, `queued`, `pending` (in progress), `succeeded` and `failed`.
@@ -106,14 +104,8 @@ Shown in English as is: `created`, `queued`, `pending` (in progress), `succeeded
 **Does AFRUS send the file to the bank?**
 No. You download the remessa file and send it to the bank outside AFRUS.
 
-**Which bank details does the file use, and who sets them up?**
-> **Pending confirmation:** which of the organization's bank details (branch, account, portfolio) the file uses and how they are configured. Write to us to review it.
-
-**Does generating a boleto create a pending transaction?**
-> **Pending confirmation.**
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

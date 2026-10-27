@@ -65,12 +65,10 @@ A AFRUS combina várias proteções. Algumas dependem da configuração de cada 
 - **Verificação anti-bots (reCAPTCHA)** nos pagamentos com widgets, que pode ser ativada em um formulário quando é detectada atividade anômala.
 - **Limites para tentativas de pagamento repetidas**, para frear quem testa muitos cartões.
 - **Proteção automática de formulários:** diante de uma atividade incomum de pagamentos recusados, a AFRUS pode exigir a verificação anti-bots, limitar temporariamente o formulário ou desativá-lo, e avisar você por e-mail.
-- **Verificação por código:** diante de atividade suspeita em um formulário, pode ser pedido ao doador um código de verificação antes da cobrança.
+- **Verificação por código (OTP):** diante de atividade suspeita em um formulário, a AFRUS envia ao doador um código de verificação pelo WhatsApp, que ele precisa informar antes da cobrança.
 - **Bloqueio de e-mails em lista negra** e outros controles em cada pagamento.
 - **Detecção de cadastros automatizados (bots)** nos formulários de cadastro (veja **Follow up > Leads spam**).
 - **Marcação manual de fraude** pela sua equipe, com o Radar para o acompanhamento.
-
-> **Pendente de confirmação:** quais proteções estão ativas para a sua organização. Fale com a gente se quiser revisar.
 
 ---
 
@@ -86,4 +84,4 @@ Provavelmente ela é de um mês anterior. O filtro usa a data da transação: am
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

@@ -87,8 +87,6 @@ Se muestran en general en la lista y por lote en el detalle.
 | **Pagado - no registrado** | El banco lo confirmó como pagado, pero no quedó como donación, normalmente por datos incompletos (CEP o documento) | Completar los datos de la persona |
 | **Otro** | Otra respuesta del banco | Revisar el detalle |
 
-> **Pendiente de confirmar:** cómo registrar una donación de un boleto **Pagado - no registrado** después de completar los datos.
-
 ## Estados de un lote
 
 Se muestran en inglés tal cual: `created` (creado), `queued` (en cola), `pending` (en proceso), `succeeded` (terminado con éxito) y `failed` (falló).
@@ -104,14 +102,8 @@ Se muestran en inglés tal cual: `created` (creado), `queued` (en cola), `pendin
 **¿AFRUS envía el archivo al banco?**
 No. Descargas el archivo remessa y lo envías al banco por fuera de AFRUS.
 
-**¿Qué datos bancarios usa el archivo y quién los configura?**
-> **Pendiente de confirmar:** qué datos bancarios de la organización (agencia, cuenta, cartera) usa el archivo y cómo se configuran. Escríbenos para revisarlo.
-
-**¿Al generar el boleto se crea una transacción pendiente?**
-> **Pendiente de confirmar.**
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*
