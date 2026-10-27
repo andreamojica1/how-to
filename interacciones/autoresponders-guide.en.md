@@ -59,7 +59,7 @@ You write the email once and Afrus sends it every time that event happens.
 
 9. **Give it an internal name (optional).** In **Nombre interno** (Internal name), write a name only your team will see.
 
-10. **Write the subject.** In **Asunto del correo** (Email subject), write what the person will see in their inbox. With "Mapa de mergetags" (Merge tag map) you can add the person's details, such as their name, to make the email more personal.
+10. **Write the subject.** In **Asunto del correo** (Email subject), write what the person will see in their inbox. With "Mapa de mergetags" (Merge tag map) you can add the person's details, such as their name, to make the email more personal. Below it is the **Evento disparador** (Trigger event): it comes filled in from the wizard, so just check that it is the right one.
 
 11. **Attach a file (optional).** In **Archivo adjunto** (Attachment) you can choose one. By default there is none.
 

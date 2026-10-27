@@ -39,9 +39,9 @@ Desde la misma pantalla también se pueden hacer envíos por WhatsApp Business. 
 1. **Crea el envío.** Ve a **Interacciones > Blast** y haz clic en "Crear envío".
    ![Lista de envíos de Interacciones > Blast con el botón Crear envío](img/como-enviar-un-blast-01.webp)
 
-2. **Ponle un nombre.** Escribe el **Nombre del envío**. Solo lo ves tú; te ayuda a encontrarlo después.
+2. **Ponle un nombre.** La pantalla muestra una fila por dato (**Nombre**, **Canal**, **Destinatario**, **Campaña (Opcional)** y **Etiqueta (Opcional)**), cada una con su botón "Agregar". En **Nombre**, haz clic en "Agregar" y escribe el **Nombre del envío**. Solo lo ves tú; te ayuda a encontrarlo después.
 
-3. **Elige los destinatarios.** En **Enviar a**, abre el selector y elige tu grupo en una de las pestañas: **Segmentos** (grupos que Afrus ya trae), **Mis segmentos** (los que guardaste) o **Etiquetas**. Haz clic en "Aceptar".
+3. **Elige los destinatarios.** En **Destinatario**, haz clic en "Agregar". En **Enviar a**, abre **Seleccionar segmento** y elige tu grupo en una de las pestañas: **Segmentos** (grupos que Afrus ya trae), **Mis segmentos** (los que guardaste) o **Etiquetas**. Haz clic en "Aceptar".
    ![Selector de Enviar a abierto con las pestañas Segmentos, Mis segmentos y Etiquetas](img/como-enviar-un-blast-03.webp)
 
    Verás cuántas personas pueden recibirlo, por ejemplo *"N entregables de M Destinatarios"*. Afrus deja fuera a quien no puede recibir correos (por ejemplo, quien se dio de baja o tiene un correo que no existe).
@@ -81,7 +81,7 @@ Al terminar verás *"¡Envío realizado satisfactoriamente!"* o *"¡Envío progr
 
 ## Cómo ver las estadísticas de un Blast
 
-1. **Busca tu envío.** En **Interacciones > Blast**, mira la **Lista de envíos**. La lista abre con los envíos de **hoy**: para ver envíos anteriores, cambia las fechas arriba.
+1. **Busca tu envío.** En **Interacciones > Blast**, mira la **Lista de envíos**. La lista abre con los envíos del mes en curso (**MTD**): para ver envíos anteriores, cambia las fechas arriba.
 
 2. **Abre el detalle.** En la fila del envío, haz clic en "Detalles".
    <!-- captura pendiente: como-ver-las-estadisticas-de-un-blast-02 — detalle de un envío con Resumen de Audiencia, Interacción de Destinatarios y Métricas de Entrega -->

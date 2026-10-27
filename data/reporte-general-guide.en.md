@@ -43,7 +43,7 @@ The numbers are calculated on the spot, with the latest data, every time you ope
 
    ![Suscripciones and Transacciones sections with their indicators](img/reporte-general-03.webp)
 
-4. **See where they come from.** The "by origin" tables (**Nuevas suscripciones por origen**, **Transacciones por origen** and **Nuevos leads por origen**) split results **Por campaña** (By campaign), **Por widget**, **Por UTM campaign**, **Por UTM medium**, **Por UTM source** and **Por URL de landing** (By landing URL). This way you know which campaign or form brings you the most donors.
+4. **See where they come from.** The "by origin" tables (**Nuevas suscripciones por origen**, **Transacciones por origen** and **Nuevos leads por origen**) split results into blocks, one below the other: **Por campaña** (By campaign), **Por widget**, **Por UTM campaign**, **Por UTM medium**, **Por UTM source** and **Por URL de landing** (By landing URL). Each table starts closed: click its title to open it. Each block has its own "Descargar" (Download) button. This way you know which campaign or form brings you the most donors.
    ![Transacciones por origen table expanded, with Por campaña and Por widget](img/reporte-general-04.webp)
 
 **Some keys to read it well:**

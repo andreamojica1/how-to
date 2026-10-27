@@ -68,8 +68,8 @@ Relacionados: que-es-un-blast, como-ver-las-estadisticas-de-un-blast, por-que-mi
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Crea el envío.</strong> Ve a <strong>Interacciones &gt; Blast</strong> y haz clic en "Crear envío".</li>
-<li><strong>Ponle un nombre.</strong> Escribe el <strong>Nombre del envío</strong>. Solo lo ves tú.</li>
-<li><strong>Elige los destinatarios.</strong> En <strong>Enviar a</strong>, elige tu grupo en <strong>Segmentos</strong>, <strong>Mis segmentos</strong> o <strong>Etiquetas</strong> y haz clic en "Aceptar". Verás cuántas personas pueden recibirlo.</li>
+<li><strong>Ponle un nombre.</strong> En <strong>Nombre</strong>, haz clic en "Agregar" y escribe el <strong>Nombre del envío</strong>. Solo lo ves tú.</li>
+<li><strong>Elige los destinatarios.</strong> En <strong>Destinatario</strong>, haz clic en "Agregar". En <strong>Enviar a</strong>, elige tu grupo en <strong>Segmentos</strong>, <strong>Mis segmentos</strong> o <strong>Etiquetas</strong> y haz clic en "Aceptar". Verás cuántas personas pueden recibirlo.</li>
 <li><strong>Elige el canal.</strong> Marca <strong>Correo</strong> y haz clic en "Continuar".</li>
 <li><strong>Indica quién envía.</strong> En <strong>Remitente</strong>, completa el nombre, el correo de envío y el correo para respuestas. Haz clic en "Guardar".</li>
 <li><strong>Escribe el asunto</strong> y haz clic en "Guardar".</li>
@@ -98,7 +98,7 @@ Relacionados: que-es-un-blast, como-enviar-un-blast, donde-ver-los-correos-rebot
 --- CUERPO (HTML) ---
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Busca tu envío.</strong> En <strong>Interacciones &gt; Blast</strong>, mira la <strong>Lista de envíos</strong>. Abre con los envíos de hoy: cambia las fechas para ver anteriores.</li>
+<li><strong>Busca tu envío.</strong> En <strong>Interacciones &gt; Blast</strong>, mira la <strong>Lista de envíos</strong>. Abre con los envíos del mes en curso (MTD): cambia las fechas para ver anteriores.</li>
 <li><strong>Abre el detalle.</strong> En la fila del envío, haz clic en "Detalles".</li>
 <li><strong>Lee los resultados.</strong> Verás cuántas personas lo recibieron, la <strong>Tasa de Apertura</strong>, la <strong>Tasa de Clics</strong>, cuántos se dieron de baja, cuántos correos rebotaron, cuántas personas lo marcaron como spam y qué enlaces se abrieron más.</li>
 </ol>
@@ -323,8 +323,8 @@ Relacionados: what-is-a-blast, how-to-see-blast-statistics, why-does-my-blast-sh
 <h2>Step by step</h2>
 <ol>
 <li><strong>Create the send.</strong> Go to <strong>Interacciones &gt; Blast</strong> and click "Crear envío" (Create send).</li>
-<li><strong>Give it a name.</strong> Type the <strong>Nombre del envío</strong> (send name). Only you see it.</li>
-<li><strong>Choose the recipients.</strong> In <strong>Enviar a</strong> (Send to), choose your group in <strong>Segmentos</strong>, <strong>Mis segmentos</strong> (my segments) or <strong>Etiquetas</strong> (tags) and click "Aceptar" (Accept). You will see how many people can receive it.</li>
+<li><strong>Give it a name.</strong> In <strong>Nombre</strong>, click "Agregar" (Add) and type the <strong>Nombre del envío</strong> (send name). Only you see it.</li>
+<li><strong>Choose the recipients.</strong> In <strong>Destinatario</strong> (Recipient), click "Agregar". In <strong>Enviar a</strong> (Send to), choose your group in <strong>Segmentos</strong>, <strong>Mis segmentos</strong> (my segments) or <strong>Etiquetas</strong> (tags) and click "Aceptar" (Accept). You will see how many people can receive it.</li>
 <li><strong>Choose the channel.</strong> Select <strong>Correo</strong> (Email) and click "Continuar" (Continue).</li>
 <li><strong>Say who is sending.</strong> In <strong>Remitente</strong> (Sender), fill in the name, the sending address and the reply-to address. Click "Guardar" (Save).</li>
 <li><strong>Write the subject</strong> and click "Guardar".</li>
@@ -354,7 +354,7 @@ Relacionados: what-is-a-blast, how-to-send-a-blast, where-to-see-bounced-emails,
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Find your send.</strong> In <strong>Interacciones &gt; Blast</strong>, look at the <strong>Lista de envíos</strong> (list of sends). It opens with today's sends: change the dates to see older ones.</li>
+<li><strong>Find your send.</strong> In <strong>Interacciones &gt; Blast</strong>, look at the <strong>Lista de envíos</strong> (list of sends). It opens with the current month's sends (MTD): change the dates to see older ones.</li>
 <li><strong>Open the details.</strong> In the send's row, click "Detalles" (Details).</li>
 <li><strong>Read the results.</strong> You will see how many people received it, the <strong>Tasa de Apertura</strong> (open rate), the <strong>Tasa de Clics</strong> (click rate), how many unsubscribed, how many emails bounced, how many people marked it as spam and which links were opened most.</li>
 </ol>
@@ -580,8 +580,8 @@ Relacionados: o-que-e-um-blast, como-ver-as-estatisticas-de-um-blast, por-que-me
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Crie o envio.</strong> Acesse <strong>Interacciones &gt; Blast</strong> e clique em "Crear envío" (Criar envio).</li>
-<li><strong>Dê um nome.</strong> Escreva o <strong>Nombre del envío</strong> (nome do envio). Só você vê.</li>
-<li><strong>Escolha os destinatários.</strong> Em <strong>Enviar a</strong> (Enviar para), escolha seu grupo em <strong>Segmentos</strong>, <strong>Mis segmentos</strong> (meus segmentos) ou <strong>Etiquetas</strong> e clique em "Aceptar" (Aceitar). Você verá quantas pessoas podem recebê-lo.</li>
+<li><strong>Dê um nome.</strong> Em <strong>Nombre</strong>, clique em "Agregar" (Adicionar) e escreva o <strong>Nombre del envío</strong> (nome do envio). Só você vê.</li>
+<li><strong>Escolha os destinatários.</strong> Em <strong>Destinatario</strong> (Destinatário), clique em "Agregar". Em <strong>Enviar a</strong> (Enviar para), escolha seu grupo em <strong>Segmentos</strong>, <strong>Mis segmentos</strong> (meus segmentos) ou <strong>Etiquetas</strong> e clique em "Aceptar" (Aceitar). Você verá quantas pessoas podem recebê-lo.</li>
 <li><strong>Escolha o canal.</strong> Marque <strong>Correo</strong> (E-mail) e clique em "Continuar".</li>
 <li><strong>Indique quem envia.</strong> Em <strong>Remitente</strong> (Remetente), preencha o nome, o e-mail de envio e o e-mail para respostas. Clique em "Guardar" (Salvar).</li>
 <li><strong>Escreva o assunto</strong> e clique em "Guardar".</li>
@@ -611,7 +611,7 @@ Relacionados: o-que-e-um-blast, como-enviar-um-blast, onde-ver-os-emails-que-vol
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Encontre seu envio.</strong> Em <strong>Interacciones &gt; Blast</strong>, veja a <strong>Lista de envíos</strong> (lista de envios). Ela abre com os envios de hoje: mude as datas para ver os anteriores.</li>
+<li><strong>Encontre seu envio.</strong> Em <strong>Interacciones &gt; Blast</strong>, veja a <strong>Lista de envíos</strong> (lista de envios). Ela abre com os envios do mês atual (MTD): mude as datas para ver os anteriores.</li>
 <li><strong>Abra o detalhe.</strong> Na linha do envio, clique em "Detalles" (Detalhes).</li>
 <li><strong>Leia os resultados.</strong> Você verá quantas pessoas receberam, a <strong>Tasa de Apertura</strong> (taxa de abertura), a <strong>Tasa de Clics</strong> (taxa de cliques), quantas cancelaram a inscrição, quantos e-mails voltaram, quantas pessoas marcaram como spam e quais links foram mais abertos.</li>
 </ol>

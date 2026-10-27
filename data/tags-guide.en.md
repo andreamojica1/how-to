@@ -30,7 +30,7 @@ A person can have several tags. On the **Data > Tags** screen you create, change
 1. **Open your tags.** Go to **Data > Tags**. You will see the **Tags** tab with the list of your tags.
    ![Tags tab with the tag list and the Nuevo tag button](img/como-crear-un-nuevo-tag-01.webp)
 
-2. **Create a new one.** Click "Nuevo tag" (New tag).
+2. **Create a new one.** Click "Nuevo tag" (New tag). The **Crear tag** (Create tag) window opens.
 
 3. **Fill in the details.** Write the **Nombre** (Name, required). If you want, add a **Descripción (opcional)** (Description, optional) of up to 200 characters so your team knows what it is for. Choose a **Color** to recognize it easily.
    ![Crear tag window with Nombre, Descripción (opcional) and Color](img/como-crear-un-nuevo-tag-03.webp)

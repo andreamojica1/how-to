@@ -62,7 +62,7 @@ Relacionados: que-son-los-tags, que-hacen-los-iconos-de-tags, estadisticas-de-ta
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre los tags.</strong> Ve a <strong>Data &gt; Tags</strong>.</li>
-<li><strong>Crea uno nuevo.</strong> Haz clic en "Nuevo tag".</li>
+<li><strong>Crea uno nuevo.</strong> Haz clic en "Nuevo tag". Se abre la ventana <strong>Crear tag</strong>.</li>
 <li><strong>Completa los datos.</strong> Escribe el <strong>Nombre</strong> (obligatorio). Si quieres, agrega una <strong>Descripción (opcional)</strong> de hasta 200 caracteres y elige un <strong>Color</strong>.</li>
 <li><strong>Guarda.</strong> Verás <em>"Tag creado correctamente."</em></li>
 </ol>
@@ -182,7 +182,7 @@ Relacionados: what-are-tags, what-the-tag-icons-do, tag-statistics
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open your tags.</strong> Go to <strong>Data &gt; Tags</strong>.</li>
-<li><strong>Create a new one.</strong> Click "Nuevo tag" (New tag).</li>
+<li><strong>Create a new one.</strong> Click "Nuevo tag" (New tag). The <strong>Crear tag</strong> (Create tag) window opens.</li>
 <li><strong>Fill in the details.</strong> Write the <strong>Nombre</strong> (Name, required). If you want, add a <strong>Descripción (opcional)</strong> (Description) of up to 200 characters and choose a <strong>Color</strong>.</li>
 <li><strong>Save.</strong> You will see <em>"Tag creado correctamente."</em> (Tag created successfully).</li>
 </ol>
@@ -302,7 +302,7 @@ Relacionados: o-que-sao-as-tags, o-que-fazem-os-icones-das-tags, estatisticas-da
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra as tags.</strong> Acesse <strong>Data &gt; Tags</strong>.</li>
-<li><strong>Crie uma nova.</strong> Clique em "Nuevo tag" (Nova tag).</li>
+<li><strong>Crie uma nova.</strong> Clique em "Nuevo tag" (Nova tag). Abre a janela <strong>Crear tag</strong> (Criar tag).</li>
 <li><strong>Preencha os dados.</strong> Escreva o <strong>Nombre</strong> (Nome, obrigatório). Se quiser, adicione uma <strong>Descripción (opcional)</strong> (Descrição) de até 200 caracteres e escolha uma <strong>Color</strong> (Cor).</li>
 <li><strong>Salve.</strong> Você verá <em>"Tag creado correctamente."</em> (Tag criada com sucesso).</li>
 </ol>

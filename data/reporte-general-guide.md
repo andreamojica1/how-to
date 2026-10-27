@@ -41,7 +41,7 @@ Los números se calculan en el momento, con los datos más recientes, cada vez q
 
    ![Zonas Suscripciones y Transacciones con sus indicadores](img/reporte-general-03.webp)
 
-4. **Mira de dónde vienen.** Las tablas "por origen" (**Nuevas suscripciones por origen**, **Transacciones por origen** y **Nuevos leads por origen**) separan los resultados **Por campaña**, **Por widget**, **Por UTM campaign**, **Por UTM medium**, **Por UTM source** y **Por URL de landing**. Así sabes qué campaña o qué formulario te trae más donantes.
+4. **Mira de dónde vienen.** Las tablas "por origen" (**Nuevas suscripciones por origen**, **Transacciones por origen** y **Nuevos leads por origen**) separan los resultados en bloques, uno debajo de otro: **Por campaña**, **Por widget**, **Por UTM campaign**, **Por UTM medium**, **Por UTM source** y **Por URL de landing**. Cada tabla aparece cerrada: haz clic en su título para abrirla. Cada bloque tiene su propio botón "Descargar". Así sabes qué campaña o qué formulario te trae más donantes.
    ![Tabla Transacciones por origen abierta, con Por campaña y Por widget](img/reporte-general-04.webp)
 
 **Algunas claves para leerlo bien:**
