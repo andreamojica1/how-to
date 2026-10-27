@@ -75,7 +75,7 @@ Relacionados: que-son-los-incentivos, para-que-son-los-cupones-de-incentivos, qu
 <h2>Antes de empezar</h2>
 <ul>
 <li><strong>Una campaña creada</strong> en <strong>Fundraising &gt; Campañas</strong>.</li>
-<li><strong>Al menos un formulario de donación</strong> (widget con montos para elegir).</li>
+<li><strong>Al menos un Widget de Transacción</strong> (widget con montos para elegir).</li>
 <li><strong>Una foto de cada regalo:</strong> en JPG, PNG o WEBP, de hasta 2 MB y de al menos 800 × 800 píxeles. Sin foto, el regalo no se muestra.</li>
 <li><strong>Importante:</strong> los regalos aparecen en tus formularios apenas guardas; no hay borrador. Si quieres probar antes, hazlo con una copia de tu formulario.</li>
 </ul>
@@ -172,7 +172,7 @@ Imagen de portada: pendiente
 Relacionados: que-son-los-incentivos, como-crear-incentivos, cuantos-incentivos-puedo-configurar, para-que-sirven-los-incentivos
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Solo los formularios de donación</strong>, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.</li>
+<li><strong>Solo los Widgets de transacción</strong>, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.</li>
 <li><strong>Cada formulario puede estar en una sola campaña con regalos.</strong> Si ya lo usas en otra, aparece como "En uso en la campaña…" y no lo puedes elegir.</li>
 <li><strong>Los regalos se ofrecen en la moneda de tu organización.</strong> Si el formulario acepta otras monedas, quien done en otra moneda hace una donación normal, sin regalo.</li>
 </ul>
@@ -402,7 +402,7 @@ Relacionados: what-are-incentives, what-are-incentive-coupons-for, which-widgets
 <p>Labels are shown as they appear in the console in English; when we don't have the English name confirmed, the Spanish label comes with a translation.</p>
 <h2>Before you start</h2>
 <ul>
-<li><strong>A campaign</strong> and at least one donation form (a widget with amounts to choose from).</li>
+<li><strong>A campaign</strong> and at least one Transacción (Transaction) widget (with amounts to choose from).</li>
 <li><strong>A photo of each gift:</strong> JPG, PNG or WEBP, up to 2 MB and at least 800 × 800 pixels. Without a photo, the gift is not shown.</li>
 <li><strong>Important:</strong> gifts appear on your forms as soon as you save; there is no draft.</li>
 </ul>
@@ -500,7 +500,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-incentives, how-to-create-incentives, how-many-incentives-can-i-set-up, what-are-incentives-for
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Only donation forms</strong>, that is, forms with amounts to choose from. Product, peer to peer and other form types don't appear in the list.</li>
+<li><strong>Only Transacción (Transaction) widgets</strong>, that is, forms with amounts to choose from. Product, peer to peer and other form types don't appear in the list.</li>
 <li><strong>Each form can be in only one campaign with gifts.</strong> If you already use it in another one, it shows as "En uso en la campaña…" (In use in the campaign…) and you can't choose it.</li>
 <li><strong>Gifts are offered in your organization's currency.</strong> If the form accepts other currencies, people who donate in another currency make a regular donation, without a gift.</li>
 </ul>
@@ -722,7 +722,7 @@ Relacionados: o-que-sao-os-incentivos, para-que-servem-os-cupons-de-incentivos, 
 <p>Os incentivos são criados dentro de uma campanha. Os nomes de tela aparecem como no console; quando não conhecemos o nome em português, mostramos o nome em espanhol com a tradução.</p>
 <h2>Antes de começar</h2>
 <ul>
-<li><strong>Uma campanha criada</strong> e pelo menos um formulário de doação (com valores para escolher).</li>
+<li><strong>Uma campanha criada</strong> e pelo menos um widget de Transacción (Transação) (com valores para escolher).</li>
 <li><strong>Uma foto de cada presente</strong> (JPG, PNG ou WEBP, até 2 MB, mínimo 800 × 800 pixels). Sem foto, o presente não aparece.</li>
 <li><strong>Importante:</strong> os presentes aparecem nos formulários assim que você salva; não existe rascunho.</li>
 </ul>
@@ -822,7 +822,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-sao-os-incentivos, como-criar-incentivos, quantos-incentivos-posso-configurar, para-que-servem-os-incentivos
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Só os formulários de doação</strong>, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.</li>
+<li><strong>Só os widgets de Transacción (Transação)</strong>, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.</li>
 <li><strong>Cada formulário pode estar em uma única campanha com presentes.</strong> Se você já o usa em outra, ele aparece como "em uso" e não pode ser escolhido.</li>
 <li><strong>Os presentes são oferecidos na moeda da sua organização.</strong> Se o formulário aceita outras moedas, quem doar em outra moeda faz uma doação normal, sem presente.</li>
 </ul>

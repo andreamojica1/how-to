@@ -41,7 +41,7 @@ The gift is assigned only when the payment is confirmed. If the payment fails, n
 ## Before you start
 
 - **A campaign** created in **Fundraising > Campañas** (Campaigns).
-- **At least one donation form** (a widget with amounts to choose from).
+- **At least one Transacción (Transaction) widget** (a widget with amounts to choose from).
 - **A photo of each gift:** JPG, PNG or WEBP, up to 2 MB and at least 800 × 800 pixels. Without a photo, the gift is not shown.
 - **If you will offer digital gifts or gifts for someone else:** a delivery workflow. We explain how in "Why create a workflow for incentives".
 
@@ -184,7 +184,7 @@ They can also schedule the card for a special day: from tomorrow up to one year 
 
 ## Which widgets can have incentives
 
-- **Only donation forms**, that is, forms with amounts to choose from. Product, peer to peer and other form types don't appear in the list.
+- **Only Transacción (Transaction) widgets**, that is, forms with amounts to choose from. Product, peer to peer and other form types don't appear in the list.
 - **Each form can be in only one campaign with gifts.** If you already use it in another one, it shows as "En uso en la campaña…" (In use in the campaign…) and you can't choose it.
 - **Gifts are offered in your organization's currency.** If the form accepts other currencies, people who donate in another currency make a regular donation, without a gift.
 
@@ -277,7 +277,6 @@ To create it:
 - **Payments that take time to confirm** (like boleto or Pix): the gift is assigned when the confirmation arrives.
 - **Refunds:** the donation is marked as reversed, but the stock doesn't come back on its own and the gift isn't recovered automatically. Your team decides what to do.
 - **Payments confirmed much later:** for privacy, the address is deleted after some time. If the payment arrives after that, the gift shows **Con problema** (With a problem) and has to be handled by hand.
-  > **Pending confirmation:** how many days that data is kept.
 - **If you change a gift** (amount, stock or tags), the change applies to new donations. Gifts already assigned don't change.
 - **If a gift has already been assigned,** it can't switch from physical to digital or the other way around. Create a new one.
 
@@ -300,13 +299,12 @@ Turn off the campaign's **Incentives** switch. Your forms look like before, and 
 
 **What happens if the donor takes more than 60 minutes to pay?**
 The gift is held for 60 minutes.
-> **Pending confirmation:** what the donor sees when that time is up.
 
 **Does it work with every payment method?**
-> **Pending confirmation:** which gateways and payment methods work with gifts.
+Yes.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

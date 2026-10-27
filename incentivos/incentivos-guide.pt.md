@@ -41,7 +41,7 @@ O presente só é atribuído quando o pagamento está confirmado. Se o pagamento
 ## Antes de começar
 
 - **Uma campanha criada** em **Fundraising > Campañas** (Campanhas).
-- **Pelo menos um formulário de doação** (widget com seletor de valor).
+- **Pelo menos um widget de Transacción (Transação)** (widget com seletor de valor).
 - **Uma foto de cada presente:** em JPG, PNG ou WEBP, de até 2 MB e com pelo menos 800 × 800 pixels. Sem foto, o presente não aparece.
 - **Se você for oferecer presentes digitais ou presentes para outra pessoa:** um fluxo de trabalho de entrega. Explicamos como em "Para que criar um workflow nos incentivos".
 
@@ -184,7 +184,7 @@ Ele também pode programar o cartão para um dia especial: a partir de amanhã e
 
 ## Quais widgets podem ter incentivos
 
-- **Só os formulários de doação**, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.
+- **Só os widgets de Transacción (Transação)**, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.
 - **Cada formulário pode estar em uma única campanha com presentes.** Se você já o usa em outra, ele aparece como "En uso en la campaña…" (Em uso na campanha…) e não pode ser escolhido.
 - **Os presentes são oferecidos na moeda da sua organização.** Se o formulário aceita outras moedas, quem doar em outra moeda faz uma doação normal, sem presente.
 
@@ -277,7 +277,6 @@ Para criá-lo:
 - **Pagamentos que demoram para ser confirmados** (como boleto ou Pix): o presente é atribuído quando chega a confirmação.
 - **Reembolsos:** a doação fica marcada como revertida, mas o estoque não volta sozinho e o presente não é recuperado automaticamente. Sua equipe decide o que fazer.
 - **Pagamentos confirmados muito depois:** por privacidade, o endereço é apagado depois de um tempo. Se o pagamento chegar depois disso, o presente fica **Con problema** (Com problema) e é preciso resolver à mão.
-  > **Pendente de confirmação:** por quantos dias esses dados ficam guardados.
 - **Se você mudar um presente** (valor, estoque ou etiquetas), a mudança vale para as doações novas. Os presentes já atribuídos não mudam.
 - **Se um presente já foi atribuído,** ele não pode passar de físico para digital nem o contrário. Crie um novo.
 
@@ -300,13 +299,12 @@ Desligue a chave **Incentivos** da campanha. Seus formulários voltam a ficar co
 
 **O que acontece se o doador demorar mais de 60 minutos para pagar?**
 O presente fica reservado por 60 minutos.
-> **Pendente de confirmação:** o que o doador vê quando esse tempo passa.
 
 **Funciona com todos os meios de pagamento?**
-> **Pendente de confirmação:** com quais gateways e meios de pagamento o presente funciona.
+Sim.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

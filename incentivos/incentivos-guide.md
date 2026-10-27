@@ -39,7 +39,7 @@ El regalo solo se asigna cuando el pago está confirmado. Si el pago falla, no s
 ## Antes de empezar
 
 - **Una campaña creada** en **Fundraising > Campañas**.
-- **Al menos un formulario de donación** (widget con selector de monto).
+- **Al menos un Widget de Transacción** (widget con selector de monto).
 - **Una foto de cada regalo:** en JPG, PNG o WEBP, de hasta 2 MB y de al menos 800 × 800 píxeles. Sin foto, el regalo no se muestra.
 - **Si vas a ofrecer regalos digitales o regalos para otra persona:** un flujo de trabajo de entrega. Te explicamos cómo en "Para qué crear un workflow en los incentivos".
 
@@ -182,7 +182,7 @@ También puede programar la tarjeta para un día especial: desde mañana y hasta
 
 ## Qué tipos de widgets pueden tener incentivos
 
-- **Solo los formularios de donación**, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.
+- **Solo los Widgets de transacción**, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.
 - **Cada formulario puede estar en una sola campaña con regalos.** Si ya lo usas en otra, aparece como "En uso en la campaña…" y no lo puedes elegir.
 - **Los regalos se ofrecen en la moneda de tu organización.** Si el formulario acepta otras monedas, quien done en otra moneda hace una donación normal, sin regalo.
 
@@ -275,7 +275,6 @@ Para crearlo:
 - **Pagos que tardan en confirmarse** (como boleto o Pix): el regalo se asigna cuando llega la confirmación.
 - **Reembolsos:** la donación queda marcada como revertida, pero el stock no vuelve solo y el regalo no se recupera automáticamente. Tu equipo decide qué hacer.
 - **Pagos que se confirman mucho después:** por privacidad, la dirección se borra pasado un tiempo. Si el pago llega después, el regalo queda **Con problema** y hay que resolverlo a mano.
-  > **Pendiente de confirmar:** cuántos días se guardan esos datos.
 - **Si cambias un regalo** (monto, stock o etiquetas), el cambio vale para las donaciones nuevas. Los regalos ya asignados no cambian.
 - **Si un regalo ya fue asignado,** no puede pasar de físico a digital ni al revés. Crea uno nuevo.
 
@@ -298,13 +297,12 @@ Apaga el interruptor **Incentivos** de la campaña. Tus formularios vuelven a ve
 
 **¿Qué pasa si el donante tarda más de 60 minutos en pagar?**
 El regalo queda reservado 60 minutos.
-> **Pendiente de confirmar:** qué ve el donante cuando pasa ese tiempo.
 
 **¿Funciona con todos los medios de pago?**
-> **Pendiente de confirmar:** con qué pasarelas y medios de pago funciona el regalo.
+Sí.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*
