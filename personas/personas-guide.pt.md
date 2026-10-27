@@ -139,7 +139,7 @@ Você verá *"El proceso de borrado de leads ha comenzado, ten en cuenta que pue
 
 > **Dá para desfazer?** Não. *"Esta acción es irreversible. Eliminará permanentemente a la persona, junto con todas sus acciones, eventos, transacciones y suscripciones asociadas."* (Esta ação é irreversível. Excluirá permanentemente a pessoa, com todas as suas ações, eventos, transações e assinaturas.) Se você só quer parar de se comunicar com ela, desative o opt-in em vez de excluí-la.
 
-> **Importante:** evite excluir pessoas que tenham ou tenham tido transações ou assinaturas: essas transações e assinaturas ficarão órfãs e você perde a rastreabilidade delas.
+> **Importante:** evite excluir pessoas que tenham ou tenham tido transações ou assinaturas: ao excluí-las, todas as suas transações e assinaturas também são excluídas e você perde o histórico delas.
 
 ## Como ver as transações e assinaturas de uma pessoa
 

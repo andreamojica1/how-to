@@ -137,7 +137,7 @@ Verás *"El proceso de borrado de leads ha comenzado, ten en cuenta que puede de
 
 > **¿Se puede deshacer?** No. *"Esta acción es irreversible. Eliminará permanentemente a la persona, junto con todas sus acciones, eventos, transacciones y suscripciones asociadas."* Si solo quieres dejar de comunicarte con ella, desactiva su opt-in en lugar de borrarla.
 
-> **Importante:** evita eliminar personas que tengan o hayan tenido transacciones o suscripciones: esas transacciones y suscripciones quedarán huérfanas y se pierde su trazabilidad.
+> **Importante:** evita eliminar personas que tengan o hayan tenido transacciones o suscripciones: al borrarlas también se eliminan todas sus transacciones y suscripciones, y se pierde su historial.
 
 ## Cómo ver las transacciones y suscripciones de una persona
 

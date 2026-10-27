@@ -139,7 +139,7 @@ You will see *"El proceso de borrado de leads ha comenzado, ten en cuenta que pu
 
 > **Can it be undone?** No. *"Esta acción es irreversible. Eliminará permanentemente a la persona, junto con todas sus acciones, eventos, transacciones y suscripciones asociadas."* (This action is irreversible. It will permanently delete the person, with all their actions, events, transactions and subscriptions.) If you only want to stop contacting them, turn off their opt-in instead.
 
-> **Important:** avoid deleting people who have or have had transactions or subscriptions: those transactions and subscriptions will be left orphaned and you lose their traceability.
+> **Important:** avoid deleting people who have or have had transactions or subscriptions: deleting them also deletes all their transactions and subscriptions, and you lose their history.
 
 ## How to see a person's transactions and subscriptions
 
