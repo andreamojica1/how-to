@@ -35,7 +35,7 @@ They are defined in **Ajustes de Organización > Campos personalizados**.
 
 **Before you start:** the field must already exist in **Ajustes de Organización > Campos personalizados**.
 
-1. **Open the form editor.** In **Fundraising > Widgets**, edit the form. The editor opens in the previous version of AFRUS, which is why it looks different.
+1. **Open the form editor.** In **Fundraising > Widgets**, edit the form.
 
 2. **Add the block.** Click "Agregar" (Add) and choose **Campo personalizado** (Custom field).
    <!-- screenshot pending: how-to-add-a-custom-field-to-my-widget-02 — Add menu with the Custom field option -->

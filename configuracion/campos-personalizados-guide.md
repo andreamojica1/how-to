@@ -33,7 +33,7 @@ Se definen en **Ajustes de Organización > Campos personalizados**.
 
 **Antes de empezar:** el campo ya tiene que existir en **Ajustes de Organización > Campos personalizados**.
 
-1. **Abre el editor del formulario.** En **Fundraising > Widgets**, edita el formulario. El editor se abre en la versión anterior de AFRUS, por eso se ve distinto.
+1. **Abre el editor del formulario.** En **Fundraising > Widgets**, edita el formulario.
 
 2. **Agrega el bloque.** Haz clic en "Agregar" y elige **Campo personalizado**.
    <!-- captura pendiente: como-incluir-un-campo-personalizado-en-mi-widget-02 — menú Agregar con la opción Campo personalizado -->

@@ -149,7 +149,7 @@ Una landing de agradecimiento muestra al donante, justo después de donar, **una
 3. **Guarda.** Pulsa "Guardar" en el editor; eso publica la página con la personalización activada.
 
 4. **Indica dónde se usa como agradecimiento.** Elige una de estas dos formas:
-   - **Desde la campaña:** en la sección **Página de agradecimiento** de la campaña, elige **Tipo** = **Landings**, luego **Elegir una landing**, revisa la vista previa y pulsa "Usar plantilla" (se guarda sin mostrar mensaje). Además, en el editor del widget, en el panel **Pagina de agradecimiento**, marca **Usa la página de agradecimiento de la campaña.** Sin esa casilla, el widget no usa la página de la campaña. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
+   - **Desde la campaña:** en la sección **Página de agradecimiento** de la campaña, elige **Tipo** = **Landings**, luego **Elegir una landing**, revisa la vista previa y pulsa "Usar plantilla" (se guarda sin mostrar mensaje). Además, en el editor del widget, en el panel **Pagina de agradecimiento**, marca **Usa la página de agradecimiento de la campaña.** Sin esa casilla, el widget no usa la página de la campaña.
    - **Desde el widget:** en **URL de la página de agradecimiento**, pega el link de la landing ("Copiar link" en la lista de landings).
 
 5. **Prueba con una donación real.** Así confirmas que el donante llega a tu página y ve sus datos.

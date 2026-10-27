@@ -38,7 +38,7 @@ When you link a widget, its donations and registrations are associated with the 
 
 **Before you start:** the campaign must be **active**. The widget editor only lists active campaigns, by their public name.
 
-1. **Open the widget.** Go to **Fundraising > Widgets** and edit the widget you want to link. The editor opens in a new tab. This screen opens in the previous version of AFRUS, so it looks different.
+1. **Open the widget.** Go to **Fundraising > Widgets** and edit the widget you want to link. The editor opens in a new tab.
    <!-- screenshot pending: how-to-link-a-widget-to-a-campaign-01 — widget editor, Renderización panel -->
 
 2. **Choose the campaign.** In the **Renderización** (Rendering) panel, in the **Elige tus campañas** (Choose your campaigns) field, select one or more campaigns.
@@ -69,7 +69,7 @@ This way every widget in the campaign can take the donor to the same page after 
 
 **Part 2 — In each widget that should use it**
 
-6. **Open the widget.** In **Fundraising > Widgets**, edit the widget. This screen opens in the previous version of AFRUS, so it looks different.
+6. **Open the widget.** In **Fundraising > Widgets**, edit the widget.
 7. **Turn on the campaign's page.** In the **Avanzado** (Advanced) section, **Página de agradecimiento** area, tick **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). When ticked, the "Configurar" (Configure) button for the widget's own thank-you page disappears.
 8. **Save the widget changes.**
 

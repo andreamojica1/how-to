@@ -27,7 +27,7 @@ Em **Fundraising > Widgets** você verá a tela **Gestión de Widgets** (Gestão
 ## Antes de começar
 
 - **Permissões.** Para ver o botão "Nuevo widget" você precisa da permissão de edição de formulários de doação ou de leads.
-- **O editor está na versão anterior da AFRUS.** "Nuevo widget" e "Editar" abrem o editor em uma nova aba do navegador. Essa tela abre na versão anterior da AFRUS, por isso tem outra aparência (por exemplo, lá o botão de criar diz "Nuevo formulario", Novo formulário).
+- **O editor abre em uma nova aba.** "Nuevo widget" e "Editar" abrem o editor em uma nova aba do navegador. Lá, o botão de criar diz "Nuevo formulario" (Novo formulário).
 - **Como o editor está organizado.** Ele tem duas abas, **Editar** e **Instalar**. Em **Editar**: à esquerda, o objetivo e os painéis **Renderización** (Renderização), **Estilo** e **Avanzado** (Avançado); no centro, os países ("Nuevo país"), os snippets ("Agregar", Adicionar) e "Vista previa" (Pré-visualização); à direita, **Configuración del snippet** (Configuração do snippet), com o botão de salvar (**Guardar Snippet**). No topo, o nome do widget, a chave **Estado** (Status) e "Guardar Widget" (Salvar widget).
 - **Gateways conectados.** Para cobrar, o gateway de pagamento precisa estar conectado em **Configuración > Pagos > Pasarelas de pago** (Configuração > Pagamentos > Gateways de pagamento).
 
@@ -50,7 +50,7 @@ O tipo de widget é o seu **Objetivo**. Ele é escolhido na criação e define q
 
 Para criar um widget do tipo que você precisa:
 
-1. **Abra o editor.** Em **Fundraising > Widgets**, clique em "Nuevo widget". A versão anterior da AFRUS abre em uma nova aba; lá, clique em "Nuevo formulario".
+1. **Abra o editor.** Em **Fundraising > Widgets**, clique em "Nuevo widget". O editor abre em uma nova aba; lá, clique em "Nuevo formulario".
    <!-- captura pendente: quais-tipos-de-widget-existem-01 — janela Selecciona el objetivo de tu formulario -->
 2. **Escolha o objetivo.** Na janela **Selecciona el objetivo de tu formulario** (Selecione o objetivo do formulário), digite o **Nombre del formulario** (nome do formulário, até 50 caracteres), escolha o **Objetivo** e clique em "Crear" (Criar). Você verá *"¡Widget creado satisfactoriamente!"* (Widget criado com sucesso) e o editor abre.
 3. **Vincule uma campanha.** No painel **Renderización**, escolha pelo menos uma campanha em **Elige tus campañas** (Escolha suas campanhas). É obrigatório para salvar.
@@ -63,7 +63,7 @@ Se faltar algo, "Guardar Widget" mostra um botão vermelho **Errores** (Erros) c
 
 ## Como mudar os estilos do widget
 
-1. **Abra o editor do widget.** Em **Fundraising > Widgets**, clique em "Editar" na linha do widget. Ele abre na versão anterior da AFRUS, em uma nova aba.
+1. **Abra o editor do widget.** Em **Fundraising > Widgets**, clique em "Editar" na linha do widget. Ele abre em uma nova aba.
 2. **Escolha o formato dos campos.** Na aba **Editar**, painel **Estilo**, em **Seleccione un estilo para el formulario** (Selecione um estilo para o formulário), escolha **Cuadrado**, **Cuadrado redondeado**, **Redondeado** ou **Línea** (quadrado, quadrado arredondado, arredondado, linha).
    <!-- captura pendente: como-mudar-os-estilos-do-widget-02 — painel Estilo -->
 3. **Ajuste cores e tipografia.** Abra **Estilo del formulario** e altere a **Familia tipográfica** (fonte: Roboto, Arial, Calibri, Univers LT Pro), **Color principal** (cor principal), **Color de botones** (botões), **Color de fondo** (fundo), **Color de texto** (texto), **Color del texto de error** (texto de erro), **Color de fondo de la caja** e **Color del texto de la caja** (fundo e texto da caixa), **Borde de la caja** (borda da caixa), **Borde** (borda, com **Radio del border**, raio) e **Sombra**. Assim o formulário parece parte da sua marca.
@@ -80,7 +80,7 @@ Ao terminar, você verá os novos estilos na pré-visualização e no widget pub
 
 **Para quê:** cada país do widget tem seu próprio **Idioma**, sua própria **Moneda** (moeda) e sua própria lista de snippets (valores, gateways, campos). Quando alguém abre o widget, vê o país de onde navega, se ele estiver configurado; se não, vê o país padrão (marcado com estrela). Se você ativar **Habilitar el selector de paises en este formulario** (Habilitar o seletor de países), o doador também pode trocar de país.
 
-1. **Abra o editor do widget.** Em **Fundraising > Widgets**, clique em "Editar". Ele abre na versão anterior da AFRUS.
+1. **Abra o editor do widget.** Em **Fundraising > Widgets**, clique em "Editar".
 2. **Adicione o país.** Na coluna central, clique no cartão **Nuevo país** (Novo país).
    <!-- captura pendente: como-adicionar-um-novo-pais-02 — janela Idioma y moneda -->
 3. **Preencha idioma e moeda.** Em **Idioma y moneda**, escolha **Seleccione un país** (Selecione um país), o **Idioma** (Español, English, Portugues, Italian ou Deutsch) e confira a **Moneda** (ela é preenchida com a moeda do país, mas você pode mudá-la). Se o widget for de objetivo **Pagos**, escolha também o formato decimal (1.00 ou 1,00).
@@ -125,7 +125,7 @@ A maioria dos snippets só pode ser adicionada uma vez por país; **Texto**, **I
 
 **Antes de começar:** o gateway precisa estar conectado em **Configuración > Pagos > Pasarelas de pago**. No snippet aparecem apenas os gateways conectados que aceitam a moeda do país. Em widgets **Sign up** são oferecidos apenas Stripe e Niubiz2.
 
-1. **Abra o snippet Medio de pago.** No editor do widget (versão anterior da AFRUS), escolha o país e clique no snippet **Medio de pago**.
+1. **Abra o snippet Medio de pago.** No editor do widget, escolha o país e clique no snippet **Medio de pago**.
    <!-- captura pendente: como-configurar-os-metodos-de-pagamento-01 — snippet Medio de pago -->
 2. **Escolha as periodicidades.** Em **Seleccionar periodicidades** marque **Única**, **Mensual** e/ou **Anual** (única, mensal, anual; pelo menos uma).
 3. **Escolha os gateways.** Em **Selecionar pasarelas de pago** escolha um ou vários.
@@ -228,7 +228,7 @@ Ao terminar, na última etapa do widget, com esse gateway selecionado, o doador 
 
 ## Como configurar uma página de agradecimento
 
-1. **Abra o painel.** No editor do widget (versão anterior da AFRUS), aba **Editar**, abra o painel **Avanzado** e, dentro dele, **Página de agradecimiento** (Página de agradecimento).
+1. **Abra o painel.** No editor do widget, aba **Editar**, abra o painel **Avanzado** e, dentro dele, **Página de agradecimiento** (Página de agradecimento).
    <!-- captura pendente: como-configurar-uma-pagina-de-agradecimento-01 — painel Página de agradecimiento -->
 2. **Opção A: use a da campanha.** Marque **Usa la página de agradecimiento de la campaña.** (Usar a página de agradecimento da campanha). Depois do pagamento, o doador vai para a página de agradecimento que você criou na campanha. Como o editor avisa, revise os países que não têm a mesma tradução na campanha.
 3. **Opção B: configure suas URLs.** Clique em "Configurar". Na janela **Páginas de agradecimiento**, ative **Habilitar página de agradecimiento** e escolha:
@@ -244,7 +244,7 @@ Ao terminar, depois da operação o doador irá para a URL correspondente. Se a 
 
 ## Opções de "Avanzado": captcha, analytics, Face to Face, Facebook CAPI e protocolo de medição
 
-Todas são configuradas no painel **Avanzado** (Avançado) do editor do widget (versão anterior da AFRUS) e salvas com "Guardar Widget".
+Todas são configuradas no painel **Avanzado** (Avançado) do editor do widget e salvas com "Guardar Widget".
 
 1. **Recaptcha.** Ative a chave **Recaptcha** (*"Permitir que se requiera la validación de captcha en todo momento"*, exigir sempre a validação de captcha) para que o doador sempre tenha que digitar um código de verificação de 6 caracteres. Sem a chave, o captcha ainda pode aparecer quando o sistema detecta uma tentativa suspeita.
 2. **Google Tag Manager 4 (analytics).** Cole o seu **Código de seguimiento** (código de acompanhamento: o ID do seu contêiner). O widget envia os eventos da jornada do doador para o seu contêiner, para você medi-los nas suas ferramentas.
@@ -274,7 +274,7 @@ Ao terminar:
 
 **Opção com largura personalizada (pelo editor):**
 
-1. **Abra a aba Instalar.** No editor do widget (versão anterior da AFRUS), abra **Instalar**.
+1. **Abra a aba Instalar.** No editor do widget, abra **Instalar**.
 2. **Defina a largura.** Em **Configura el ancho del formulario** (Configure a largura do formulário), use pixels (px), porcentagem (%), ems (em), rems (rem) ou largura da janela (vw). Para outra largura em telas mais estreitas, ative "Aplicar ancho especifico" com um **Ancho de aplicación**.
 3. **Salve e copie.** Clique em "Guardar Widget" e copie o **Código de inserción** (código de inserção) com "Copiar".
 4. **Cole na sua página**, em um bloco HTML.
@@ -300,9 +300,6 @@ Ao terminar:
 > **Dá para desfazer?** Excluir um widget não pode ser desfeito. Um widget com doações associadas não pode ser excluído: arquive-o ou desative-o.
 
 ## Perguntas frequentes
-
-**Por que o editor tem outra aparência?**
-Porque ele abre na versão anterior da AFRUS, em uma nova aba. Por isso alguns nomes mudam: na lista do editor o botão diz "Nuevo formulario" e no console diz "Nuevo widget".
 
 **Posso ter valores diferentes por país?**
 Sim. Cada país tem seu próprio snippet Doação e seu próprio meio de pagamento.

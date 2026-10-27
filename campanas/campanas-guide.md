@@ -36,7 +36,7 @@ Al vincular un widget, sus donaciones y registros quedan asociados a la campaña
 
 **Antes de empezar:** la campaña debe estar **activa**. El editor de widgets solo muestra campañas activas, por su nombre público.
 
-1. **Abre el widget.** Entra a **Fundraising > Widgets** y edita el widget que quieres vincular. El editor se abre en una pestaña nueva. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
+1. **Abre el widget.** Entra a **Fundraising > Widgets** y edita el widget que quieres vincular. El editor se abre en una pestaña nueva.
    <!-- captura pendiente: como-vincular-un-widget-con-una-campana-01 — editor de widgets, panel Renderización -->
 
 2. **Elige la campaña.** En el panel **Renderización**, en el campo **Elige tus campañas**, selecciona una o varias campañas.
@@ -67,7 +67,7 @@ Así todos los widgets de la campaña pueden llevar al donante a la misma págin
 
 **Parte 2 — En cada widget que deba usarla**
 
-6. **Abre el widget.** En **Fundraising > Widgets**, edita el widget. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
+6. **Abre el widget.** En **Fundraising > Widgets**, edita el widget.
 7. **Activa la página de la campaña.** En la sección **Avanzado**, apartado **Página de agradecimiento**, marca **Usa la página de agradecimiento de la campaña.** Al marcarla, desaparece el botón "Configurar" de la página de agradecimiento propia del widget.
 8. **Guarda los cambios del widget.**
 

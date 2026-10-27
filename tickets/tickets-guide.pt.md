@@ -53,7 +53,7 @@ Para vender tickets você precisa de duas coisas: a rifa (o Ticket, com sua faix
 
 ### Parte 2 — Crie o widget que a vende
 
-7. **Crie um widget novo.** Acesse **Fundraising > Widgets** e clique em "Nuevo widget" (Novo widget). O editor de widgets abre em uma nova aba. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
+7. **Crie um widget novo.** Acesse **Fundraising > Widgets** e clique em "Nuevo widget" (Novo widget). O editor de widgets abre em uma nova aba.
 
 8. **Escolha o objetivo Produto.** Em **Objetivo**, escolha **Producto**. Só os widgets com esse objetivo atribuem números de ticket.
 

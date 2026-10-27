@@ -59,7 +59,7 @@ Relacionados: que-son-los-campos-personalizados, para-que-sirven-los-campos-pers
 <ul><li><strong>El campo ya tiene que existir</strong> en <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el editor del formulario.</strong> En <strong>Fundraising &gt; Widgets</strong>, edita el formulario. El editor se abre en la versión anterior de AFRUS.</li>
+<li><strong>Abre el editor del formulario.</strong> En <strong>Fundraising &gt; Widgets</strong>, edita el formulario.</li>
 <li><strong>Agrega el bloque.</strong> Haz clic en "Agregar" y elige <strong>Campo personalizado</strong>.</li>
 <li><strong>Configúralo.</strong> Haz clic sobre el bloque y configúralo en <strong>Configuración del snippet</strong>.</li>
 <li><strong>Ordénalo.</strong> Arrástralo hasta el lugar donde quieres que aparezca.</li>
@@ -171,7 +171,7 @@ Relacionados: what-are-custom-fields, what-are-custom-fields-for, where-custom-f
 <ul><li><strong>The field must already exist</strong> in <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the form editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, edit the form. The editor opens in the previous version of AFRUS.</li>
+<li><strong>Open the form editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, edit the form.</li>
 <li><strong>Add the block.</strong> Click "Agregar" (Add) and choose <strong>Campo personalizado</strong> (Custom field).</li>
 <li><strong>Set it up.</strong> Click the block and set it up in <strong>Configuración del snippet</strong> (Snippet settings).</li>
 <li><strong>Place it.</strong> Drag it to where you want it to appear.</li>
@@ -284,7 +284,7 @@ Relacionados: o-que-sao-os-campos-personalizados, para-que-servem-os-campos-pers
 <ul><li><strong>O campo já precisa existir</strong> em <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o editor do formulário.</strong> Em <strong>Fundraising &gt; Widgets</strong>, edite o formulário. O editor abre na versão anterior da AFRUS.</li>
+<li><strong>Abra o editor do formulário.</strong> Em <strong>Fundraising &gt; Widgets</strong>, edite o formulário.</li>
 <li><strong>Adicione o bloco.</strong> Clique em "Agregar" (Adicionar) e escolha <strong>Campo personalizado</strong>.</li>
 <li><strong>Configure.</strong> Clique no bloco e configure-o em <strong>Configuración del snippet</strong> (Configuração do snippet).</li>
 <li><strong>Posicione.</strong> Arraste-o até o lugar onde quer que apareça.</li>

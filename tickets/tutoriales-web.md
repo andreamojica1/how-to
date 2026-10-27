@@ -87,7 +87,7 @@ Relacionados: que-son-los-tickets, cada-cuanto-se-actualizan-los-tickets, como-i
 <li><strong>Crea la rifa.</strong> Ve a <strong>Fundraising &gt; Tickets</strong> y haz clic en "Crear Ticket".</li>
 <li><strong>Completa los datos.</strong> Escribe <strong>Nombre</strong> (hasta 25 caracteres para poder usarla en un widget) y <strong>Descripción</strong> (hasta 80; si la dejas vacía verás <em>"Error al crear ticket"</em>). Deja <strong>Estado</strong> en <strong>Activo</strong>.</li>
 <li><strong>Define el rango.</strong> En <strong>Rango</strong>, indica <strong>Número Inicial</strong> y <strong>Número Final</strong> y haz clic en "Crear Ticket".</li>
-<li><strong>Crea un widget.</strong> Ve a <strong>Fundraising &gt; Widgets</strong> y haz clic en "Nuevo widget". El editor se abre en otra pestaña, en la versión anterior de AFRUS.</li>
+<li><strong>Crea un widget.</strong> Ve a <strong>Fundraising &gt; Widgets</strong> y haz clic en "Nuevo widget". El editor se abre en otra pestaña.</li>
 <li><strong>Elige el objetivo Producto.</strong> En <strong>Objetivo</strong>, elige <strong>Producto</strong>.</li>
 <li><strong>Agrega el ticket.</strong> Agrega el bloque <strong>Producto</strong>, haz clic en "Agregar Producto" y en <strong>Tipo de Producto</strong> elige <strong>Ticket</strong>.</li>
 <li><strong>Elige la rifa y el precio.</strong> En <strong>Seleccionar Ticket</strong>, elige tu rifa y escribe el <strong>Precio del producto</strong> (precio de cada ticket). Haz clic en "Agregar Producto".</li>
@@ -223,7 +223,7 @@ Relacionados: what-are-tickets, how-often-do-tickets-update, how-to-include-the-
 <li><strong>Create the raffle.</strong> Go to <strong>Fundraising &gt; Tickets</strong> and click "Crear Ticket" (Create ticket).</li>
 <li><strong>Fill in the details.</strong> Type the <strong>Nombre</strong> (Name — up to 25 characters so it can be used in a widget) and <strong>Descripción</strong> (Description — up to 80; if you leave it empty you'll see <em>"Error al crear ticket"</em>). Leave <strong>Estado</strong> as <strong>Activo</strong> (Active).</li>
 <li><strong>Set the range.</strong> In <strong>Rango</strong> (Range), enter <strong>Número Inicial</strong> (start) and <strong>Número Final</strong> (end) and click "Crear Ticket".</li>
-<li><strong>Create a widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and click "Nuevo widget" (New widget). The editor opens in another tab, in the previous version of AFRUS.</li>
+<li><strong>Create a widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and click "Nuevo widget" (New widget). The editor opens in another tab.</li>
 <li><strong>Choose the Product goal.</strong> In <strong>Objetivo</strong> (Goal), choose <strong>Producto</strong>.</li>
 <li><strong>Add the ticket.</strong> Add the <strong>Producto</strong> block, click "Agregar Producto" (Add product) and in <strong>Tipo de Producto</strong> (Product type) choose <strong>Ticket</strong>.</li>
 <li><strong>Choose the raffle and price.</strong> In <strong>Seleccionar Ticket</strong> (Select ticket), choose your raffle and type the <strong>Precio del producto</strong> (price of each ticket). Click "Agregar Producto".</li>
@@ -359,7 +359,7 @@ Relacionados: o-que-sao-os-tickets, com-que-frequencia-os-tickets-sao-atualizado
 <li><strong>Crie a rifa.</strong> Acesse <strong>Fundraising &gt; Tickets</strong> e clique em "Crear Ticket" (Criar ticket).</li>
 <li><strong>Preencha os dados.</strong> Digite o <strong>Nombre</strong> (Nome — até 25 caracteres para poder usá-la em um widget) e a <strong>Descripción</strong> (Descrição — até 80; se ficar vazia, você verá <em>"Error al crear ticket"</em>). Deixe <strong>Estado</strong> como <strong>Activo</strong> (Ativo).</li>
 <li><strong>Defina a faixa.</strong> Em <strong>Rango</strong> (Faixa), informe <strong>Número Inicial</strong> e <strong>Número Final</strong> e clique em "Crear Ticket".</li>
-<li><strong>Crie um widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e clique em "Nuevo widget" (Novo widget). O editor abre em outra aba, na versão anterior da AFRUS.</li>
+<li><strong>Crie um widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e clique em "Nuevo widget" (Novo widget). O editor abre em outra aba.</li>
 <li><strong>Escolha o objetivo Produto.</strong> Em <strong>Objetivo</strong>, escolha <strong>Producto</strong>.</li>
 <li><strong>Adicione o ticket.</strong> Adicione o bloco <strong>Producto</strong>, clique em "Agregar Producto" (Adicionar produto) e em <strong>Tipo de Producto</strong> escolha <strong>Ticket</strong>.</li>
 <li><strong>Escolha a rifa e o preço.</strong> Em <strong>Seleccionar Ticket</strong> (Selecionar ticket), escolha sua rifa e digite o <strong>Precio del producto</strong> (preço de cada ticket). Clique em "Agregar Producto".</li>

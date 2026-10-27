@@ -80,7 +80,7 @@ Relacionados: que-es-una-campana, como-vincular-una-pagina-de-agradecimiento-a-u
 <ul><li><strong>La campaña debe estar activa.</strong> El editor de widgets solo muestra campañas activas, por su nombre público.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el widget.</strong> Entra a <strong>Fundraising &gt; Widgets</strong> y edita el widget. El editor se abre en una pestaña nueva, en la versión anterior de AFRUS, por eso se ve distinto.</li>
+<li><strong>Abre el widget.</strong> Entra a <strong>Fundraising &gt; Widgets</strong> y edita el widget. El editor se abre en una pestaña nueva.</li>
 <li><strong>Elige la campaña.</strong> En el panel <strong>Renderización</strong>, en <strong>Elige tus campañas</strong>, selecciona una o varias campañas.</li>
 <li><strong>Guarda los cambios del widget.</strong></li>
 </ol>
@@ -113,7 +113,7 @@ Relacionados: que-es-una-campana, como-vincular-un-widget-con-una-campana, para-
 <li><strong>Elige el tipo.</strong> En <strong>Tipo</strong>, elige <strong>Experiences</strong> o <strong>Landings</strong>.</li>
 <li><strong>Elige la página</strong> en <strong>Elegir una experiencia</strong> o <strong>Elegir una landing</strong>. Verás una vista previa <strong>Mobile</strong>.</li>
 <li><strong>Pulsa "Usar plantilla".</strong> No muestra confirmación: recarga la campaña y revisa que la pestaña muestre la página elegida.</li>
-<li><strong>Abre cada widget</strong> en <strong>Fundraising &gt; Widgets</strong> (se abre en la versión anterior de AFRUS).</li>
+<li><strong>Abre cada widget</strong> en <strong>Fundraising &gt; Widgets</strong>.</li>
 <li><strong>Activa la página de la campaña.</strong> En la sección <strong>Avanzado</strong>, apartado <strong>Página de agradecimiento</strong>, marca <strong>Usa la página de agradecimiento de la campaña.</strong> y guarda.</li>
 </ol>
 <p>Al terminar, después de donar, el donante llega a la página elegida en la campaña a la que se asoció su donación.</p>
@@ -352,7 +352,7 @@ Relacionados: what-is-a-campaign, how-to-link-a-thank-you-page-to-a-campaign, wh
 <ul><li><strong>The campaign must be active.</strong> The widget editor only lists active campaigns, by their public name.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and edit the widget. The editor opens in a new tab, in the previous version of AFRUS, so it looks different.</li>
+<li><strong>Open the widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and edit the widget. The editor opens in a new tab.</li>
 <li><strong>Choose the campaign.</strong> In the <strong>Renderización</strong> (Rendering) panel, in <strong>Elige tus campañas</strong> (Choose your campaigns), select one or more campaigns.</li>
 <li><strong>Save the widget changes.</strong></li>
 </ol>
@@ -385,7 +385,7 @@ Relacionados: what-is-a-campaign, how-to-link-a-widget-to-a-campaign, what-is-a-
 <li><strong>Choose the type.</strong> In <strong>Tipo</strong>, choose <strong>Experiences</strong> or <strong>Landings</strong>.</li>
 <li><strong>Choose the page</strong> in <strong>Elegir una experiencia</strong> or <strong>Elegir una landing</strong>. You will see a <strong>Mobile</strong> preview.</li>
 <li><strong>Click "Usar plantilla" (Use template).</strong> It shows no confirmation: reload the campaign and check the tab shows the chosen page.</li>
-<li><strong>Open each widget</strong> in <strong>Fundraising &gt; Widgets</strong> (it opens in the previous version of AFRUS).</li>
+<li><strong>Open each widget</strong> in <strong>Fundraising &gt; Widgets</strong>.</li>
 <li><strong>Turn on the campaign's page.</strong> In the <strong>Avanzado</strong> (Advanced) section, <strong>Página de agradecimiento</strong> area, tick <strong>Usa la página de agradecimiento de la campaña.</strong> (Use the campaign's thank-you page) and save.</li>
 </ol>
 <p>When you finish, after donating, the donor lands on the page chosen in the campaign their donation was associated with.</p>
@@ -624,7 +624,7 @@ Relacionados: o-que-e-uma-campanha, como-vincular-uma-pagina-de-agradecimento-a-
 <ul><li><strong>A campanha precisa estar ativa.</strong> O editor de widgets só mostra campanhas ativas, pelo nome público.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e edite o widget. O editor abre em uma nova aba, na versão anterior da AFRUS, por isso tem aparência diferente.</li>
+<li><strong>Abra o widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e edite o widget. O editor abre em uma nova aba.</li>
 <li><strong>Escolha a campanha.</strong> No painel <strong>Renderización</strong> (Renderização), em <strong>Elige tus campañas</strong> (Escolha suas campanhas), selecione uma ou várias campanhas.</li>
 <li><strong>Salve as alterações do widget.</strong></li>
 </ol>
@@ -657,7 +657,7 @@ Relacionados: o-que-e-uma-campanha, como-vincular-um-widget-a-uma-campanha, para
 <li><strong>Escolha o tipo.</strong> Em <strong>Tipo</strong>, escolha <strong>Experiences</strong> ou <strong>Landings</strong>.</li>
 <li><strong>Escolha a página</strong> em <strong>Elegir una experiencia</strong> ou <strong>Elegir una landing</strong>. Você verá uma prévia <strong>Mobile</strong>.</li>
 <li><strong>Clique em "Usar plantilla" (Usar modelo).</strong> Não aparece confirmação: recarregue a campanha e confira se a aba mostra a página escolhida.</li>
-<li><strong>Abra cada widget</strong> em <strong>Fundraising &gt; Widgets</strong> (ele abre na versão anterior da AFRUS).</li>
+<li><strong>Abra cada widget</strong> em <strong>Fundraising &gt; Widgets</strong>.</li>
 <li><strong>Ative a página da campanha.</strong> Na seção <strong>Avanzado</strong> (Avançado), área <strong>Página de agradecimiento</strong>, marque <strong>Usa la página de agradecimiento de la campaña.</strong> (Usa a página de agradecimento da campanha) e salve.</li>
 </ol>
 <p>Ao terminar, depois de doar, o doador chega à página escolhida na campanha à qual a doação foi associada.</p>

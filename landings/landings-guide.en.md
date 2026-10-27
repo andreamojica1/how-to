@@ -151,7 +151,7 @@ A thank-you landing shows donors, right after they give, **your organization's o
 3. **Save.** Click "Guardar" in the editor; this publishes the page with personalization turned on.
 
 4. **Set where it is used as the thank-you page.** Choose one of two ways:
-   - **From the campaign:** in the campaign's **Página de agradecimiento** (Thank-you page) section, choose **Tipo** (Type) = **Landings**, then **Elegir una landing** (Choose a landing), check the preview and click "Usar plantilla" (it saves without a confirmation message). Also, in the widget editor, in the **Pagina de agradecimiento** panel, tick **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). Without that box, the widget doesn't use the campaign's page. This screen opens in the previous version of AFRUS, which is why it looks different.
+   - **From the campaign:** in the campaign's **Página de agradecimiento** (Thank-you page) section, choose **Tipo** (Type) = **Landings**, then **Elegir una landing** (Choose a landing), check the preview and click "Usar plantilla" (it saves without a confirmation message). Also, in the widget editor, in the **Pagina de agradecimiento** panel, tick **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). Without that box, the widget doesn't use the campaign's page.
    - **From the widget:** in **URL de la página de agradecimiento** (Thank-you page URL), paste the landing's link ("Copiar link" in the landing list).
 
 5. **Test with a real donation.** This confirms the donor reaches your page and sees their details.

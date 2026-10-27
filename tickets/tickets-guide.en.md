@@ -53,7 +53,7 @@ To sell tickets you need two things: the raffle (the Ticket, with its number ran
 
 ### Part 2 — Create the widget that sells it
 
-7. **Create a new widget.** Go to **Fundraising > Widgets** and click "Nuevo widget" (New widget). The widget editor opens in a new tab. This screen opens in the previous version of AFRUS, which is why it looks different.
+7. **Create a new widget.** Go to **Fundraising > Widgets** and click "Nuevo widget" (New widget). The widget editor opens in a new tab.
 
 8. **Choose the Product goal.** In **Objetivo** (Goal), choose **Producto**. Only widgets with this goal assign ticket numbers.
 
