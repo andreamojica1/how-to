@@ -123,7 +123,7 @@ What to do:
 3. **Resend.** If the send is **Fallido**, the "Reenviar" (Resend) button appears (*"¿Reenviar blast?"*). AFRUS tries again with the people who had an error.
    <!-- screenshot pending: why-does-my-blast-show-failed-03 — details of a failed send with the Reenviar button -->
 
-> **Pending confirmation:** the most common causes of a **Fallido** send.
+> **Most common cause:** the account gets blocked for having too many bounces and needs credits assigned. To solve it, write to the support email.
 
 **What if it says Bloqueado?** AFRUS stopped the rest of the send because there were too many bounces or complaints. You receive a warning email and a notification in the console. A blocked send can't be sent again from the screen, so the email isn't sent twice to people who already received it: contact support.
 
@@ -143,7 +143,16 @@ You can see them in three places:
 
 3. **In each person's profile.** In **Personas**, each person's email has an icon with its status. In the profile you will see *"Tiene Hard Bounce"* or *"Tiene Soft Bounce"* (Has hard / soft bounce), and in the **Eventos** (Events) tab, the details of each email.
 
-> **Pending confirmation:** whether there is a way to get all bounced emails in a single list.
+### See all the emails of a send in one list
+
+To see all the bounces of a send together:
+
+1. **Open the send's details.** In **Interacciones > Blast**, click "Detalles" (Details).
+2. **Click "Ver más" (See more).** You'll find it in the **Últimos eventos** (Latest events) section.
+   <!-- screenshot pending: donde-ver-los-correos-rebotados-04 — Últimos eventos section of a send's details with the Ver más button -->
+3. **Check the list.** A screen opens with everyone the email was sent to, their status and the date.
+4. **Filter by Estado (Status).** Choose **Open**, **Click**, **Complain**, **Hard bounce**, **Opt Out**, **Soft Bounce**, **Sent** or **Rendering Failure**. For example, choose **Hard bounce** to see only hard bounces.
+   <!-- screenshot pending: donde-ver-los-correos-rebotados-05 — list of people in the send with the Estado filter open -->
 
 ## How to remove soft and hard bounces
 
@@ -197,7 +206,7 @@ These are the actions AFRUS lets you take to improve how your emails arrive:
 
 5. **Always send yourself a test** and check that the subject and content look right.
 
-> **Pending confirmation:** other content recommendations (subject, images, links) specific to AFRUS.
+6. **Don't send emails made only of images.** Aim for at least 60% text and 40% images; more text is even better. To spam filters, an email that is a single image with little or no text is a classic spam signal. As a guide, write at least about 500 characters of text.
 
 ## Best practices for bulk email
 
@@ -241,4 +250,4 @@ At the time you choose, in your computer's time zone. It may go out a few minute
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

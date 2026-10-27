@@ -121,7 +121,7 @@ Qué hacer:
 3. **Reenvía.** Si el envío está **Fallido**, aparece el botón "Reenviar" (*"¿Reenviar blast?"*). AFRUS vuelve a intentar con las personas que tuvieron error.
    <!-- captura pendiente: por-que-mi-blast-tiene-estado-fallido-03 — detalle de un envío fallido con el botón Reenviar -->
 
-> **Pendiente de confirmar:** cuáles son las causas más comunes de un envío **Fallido**.
+> **Causa más común:** la cuenta queda bloqueada por tener demasiados rebotes (bounces) y hay que asignarle créditos. Para resolverlo, escribe al correo de soporte.
 
 **¿Y si dice Bloqueado?** AFRUS detuvo el resto del envío porque hubo demasiados rebotes o quejas. Te llega un correo de aviso y una notificación en la consola. Un envío bloqueado no se puede volver a enviar desde la pantalla, para no mandar el correo dos veces a quienes ya lo recibieron: escribe a soporte.
 
@@ -141,7 +141,16 @@ Puedes verlos en tres lugares:
 
 3. **En el perfil de cada persona.** En **Personas**, el correo de cada persona tiene un ícono con su estado. En el perfil verás *"Tiene Hard Bounce"* o *"Tiene Soft Bounce"*, y en la pestaña **Eventos**, el detalle de cada correo.
 
-> **Pendiente de confirmar:** si hay una forma de sacar en un solo listado todos los correos que rebotaron.
+### Ver en un solo listado todos los correos de un envío
+
+Para ver todos los rebotes de un envío juntos:
+
+1. **Abre el detalle del envío.** En **Interacciones > Blast**, haz clic en "Detalles".
+2. **Haz clic en "Ver más".** Lo encuentras en la sección **Últimos eventos**.
+   <!-- captura pendiente: donde-ver-los-correos-rebotados-04 — sección Últimos eventos del detalle de un envío con el botón Ver más -->
+3. **Revisa el listado.** Se abre una pantalla con todas las personas a las que se les envió el correo, su estado y la fecha.
+4. **Filtra por Estado.** Elige **Open**, **Click**, **Complain**, **Hard bounce**, **Opt Out**, **Soft Bounce**, **Sent** o **Rendering Failure**. Por ejemplo, elige **Hard bounce** para ver solo los rebotes duros.
+   <!-- captura pendiente: donde-ver-los-correos-rebotados-05 — listado de personas del envío con el filtro Estado abierto -->
 
 ## Cómo eliminar los soft y hard bounces
 
@@ -195,7 +204,7 @@ Estas son las acciones que AFRUS te permite hacer para mejorar la llegada de tus
 
 5. **Envíate una prueba siempre** y revisa que el asunto y el contenido se vean bien.
 
-> **Pendiente de confirmar:** otras recomendaciones de contenido (asunto, imágenes, enlaces) propias de AFRUS.
+6. **No envíes correos hechos solo de imágenes.** Procura que el correo tenga al menos un 60 % de texto y un 40 % de imágenes; si tiene más texto, mucho mejor. Para los filtros de spam, un correo que es una sola imagen con poco o nada de texto es una señal típica de spam. Como referencia, escribe al menos unos 500 caracteres de texto.
 
 ## Buenas prácticas para envíos masivos
 
@@ -239,4 +248,4 @@ A la hora que elijas, según la zona horaria de tu computador. Puede salir unos 
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

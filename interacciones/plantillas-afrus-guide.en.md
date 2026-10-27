@@ -97,11 +97,8 @@ Not directly. Duplicate it in your organization and edit the copy.
 **Can other organizations see my templates?**
 No. **Organización** templates are yours only. **Genérica** templates are the ones AFRUS shares with everyone.
 
-**Which users can create templates?**
-> **Pending confirmation:** which user profiles have permission.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

@@ -86,6 +86,8 @@ When you finish, the autoresponder appears in the list as **Activo** (Active) an
 
 If you prefer AFRUS to write the email for you:
 
+> **Important:** to set up AI autoresponders, your user needs a signature created in **AI > Firmas de usuarios**. If you have no user signatures, you can't set up AI autoresponders.
+
 1. **Find the event.** In the **Genérico** tab, find an event that says **No configurado** (Not configured) and click "Configurar" (Set up).
 2. **Choose Con IA.** In **Modo de creación** (Creation mode), choose **Con IA** (With AI).
 3. **Fill in the details.** Choose the **Remitente** (Sender), the **Diseño** (Design: **Plantilla IA** with a visual design, or **Solo texto** plain text) and, in **URL call to action**, the link for the email's button.
@@ -155,13 +157,10 @@ From AFRUS's address, until you verify your domain. After that you can choose th
 Yes. Use the "Mapa de mergetags" to copy the detail you want, for example the name, and paste it in the subject or body.
 
 **Are autoresponders sent to people who unsubscribed or whose email bounces?**
-> **Pending confirmation:** whether those people are excluded.
-
-**Which users can create autoresponders?**
-> **Pending confirmation:** which user profiles have permission.
+Yes. AFRUS leaves those people out.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

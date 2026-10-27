@@ -97,11 +97,8 @@ Não diretamente. Duplique-o na sua organização e edite a cópia.
 **Outras organizações veem meus modelos?**
 Não. Os modelos de **Organización** são só seus. Os **Genéricos** são os que a AFRUS compartilha com todos.
 
-**Quais usuários podem criar modelos?**
-> **Pendente de confirmação:** quais perfis de usuário têm permissão.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

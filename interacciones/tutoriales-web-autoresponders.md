@@ -74,6 +74,7 @@ Relacionados: que-es-un-autoresponder, para-que-sirven-los-autoresponders, autor
 <p><strong>¿Puedo pausarlo?</strong> Sí, apaga el interruptor de su fila. Queda <strong>Inactivo</strong>.</p>
 <p><strong>¿Se puede deshacer si lo elimino?</strong> No. Eliminar lo borra al instante, sin confirmación. Si solo quieres pausarlo, apágalo.</p>
 <p><strong>¿Puedo hacerlo con IA?</strong> Sí: en la pestaña <strong>Genérico</strong>, en un evento <strong>No configurado</strong>, haz clic en "Configurar" y elige <strong>Con IA</strong>. Completa la <strong>URL call to action</strong>: si la dejas vacía, la lista sigue mostrando <strong>No configurado</strong>.</p>
+<p><strong>¿Necesito algo para hacerlo con IA?</strong> Sí, tu usuario debe tener una firma creada en <strong>AI &gt; Firmas de usuarios</strong>. Sin firma no podrás configurar autoresponders con IA.</p>
 === FIN ===
 ```
 
@@ -190,6 +191,7 @@ Relacionados: what-is-an-autoresponder, what-are-autoresponders-for, autorespond
 <p><strong>Can I pause it?</strong> Yes, turn off the switch on its row. It becomes <strong>Inactivo</strong>.</p>
 <p><strong>Can it be undone if I delete it?</strong> No. Deleting removes it instantly, without confirmation. If you only want to pause it, turn it off.</p>
 <p><strong>Can I make it with AI?</strong> Yes: in the <strong>Genérico</strong> tab, on a <strong>No configurado</strong> event, click "Configurar" and choose <strong>Con IA</strong>. Fill in the <strong>URL call to action</strong>: if you leave it empty, the list keeps showing <strong>No configurado</strong>.</p>
+<p><strong>Do I need anything to make it with AI?</strong> Yes, your user must have a signature created in <strong>AI &gt; Firmas de usuarios</strong>. Without a signature you can't set up AI autoresponders.</p>
 === FIN ===
 ```
 
@@ -306,6 +308,7 @@ Relacionados: o-que-e-um-autoresponder, para-que-servem-os-autoresponders, autor
 <p><strong>Posso pausá-lo?</strong> Sim, desative a chave da linha. Ele fica <strong>Inactivo</strong>.</p>
 <p><strong>Dá para desfazer se eu excluir?</strong> Não. Excluir o apaga na hora, sem confirmação. Se só quiser pausar, desative-o.</p>
 <p><strong>Posso fazê-lo com IA?</strong> Sim: na aba <strong>Genérico</strong>, em um evento <strong>No configurado</strong>, clique em "Configurar" e escolha <strong>Con IA</strong>. Preencha a <strong>URL call to action</strong>: se ficar vazia, a lista continua mostrando <strong>No configurado</strong>.</p>
+<p><strong>Preciso de algo para fazê-lo com IA?</strong> Sim, seu usuário precisa ter uma assinatura criada em <strong>AI &gt; Firmas de usuarios</strong>. Sem assinatura você não poderá configurar autoresponders com IA.</p>
 === FIN ===
 ```
 

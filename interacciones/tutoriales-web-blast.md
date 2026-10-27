@@ -152,6 +152,7 @@ Relacionados: que-es-un-blast, como-ver-las-estadisticas-de-un-blast, como-limpi
 </ol>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Y si dice Bloqueado?</strong> AFRUS detuvo el envío porque hubo demasiados rebotes o quejas. No se puede volver a enviar desde la pantalla: escribe a soporte.</p>
+<p><strong>¿Cuál es la causa más común de un envío Fallido?</strong> Que la cuenta quede bloqueada por tener demasiados rebotes y haya que asignarle créditos. Para resolverlo, escribe al correo de soporte.</p>
 === FIN ===
 ```
 
@@ -199,6 +200,7 @@ Relacionados: que-es-un-blast, como-limpiar-mi-base-para-que-no-bloqueen-mis-env
 <li><strong>Mantén tu base limpia.</strong> Menos rebotes y menos quejas ayudan a que tus correos lleguen.</li>
 <li><strong>Deja que la gente se dé de baja.</strong> AFRUS agrega un enlace de baja a todos los correos. Es mejor una baja que una queja por spam.</li>
 <li><strong>Envíate siempre una prueba</strong> antes de enviar.</li>
+<li><strong>No envíes correos hechos solo de imágenes.</strong> Procura tener al menos un 60 % de texto y un 40 % de imágenes; si hay más texto, mejor.</li>
 </ol>
 === FIN ===
 ```
@@ -253,6 +255,7 @@ Relacionados: que-es-un-blast, como-eliminar-los-soft-y-hard-bounces, como-limpi
 <li><strong>En el Monitor de interacciones.</strong> En <strong>Trackers &gt; Monitor de interacciones</strong> ves el total de rebotes y una tabla con los rebotes de cada envío.</li>
 <li><strong>En el perfil de cada persona.</strong> En <strong>Personas</strong> verás <em>"Tiene Hard Bounce"</em> o <em>"Tiene Soft Bounce"</em>, y en la pestaña <strong>Eventos</strong>, el detalle de cada correo.</li>
 </ol>
+<p><strong>¿Puedo ver en un solo listado los rebotes de un envío?</strong> Sí. En el detalle del envío, en <strong>Últimos eventos</strong>, haz clic en "Ver más". Verás a todas las personas a las que se envió, con su estado y la fecha, y podrás filtrar por <strong>Estado</strong> (por ejemplo, <strong>Hard bounce</strong> o <strong>Soft Bounce</strong>).</p>
 === FIN ===
 ```
 
@@ -408,6 +411,7 @@ Relacionados: what-is-a-blast, how-to-see-blast-statistics, how-to-clean-my-data
 </ol>
 <h2>Frequently asked questions</h2>
 <p><strong>What if it says Bloqueado?</strong> AFRUS stopped the send because there were too many bounces or complaints. It can't be sent again from the screen: contact support.</p>
+<p><strong>What is the most common cause of a Fallido send?</strong> The account gets blocked for having too many bounces and needs credits assigned. To solve it, write to the support email.</p>
 === FIN ===
 ```
 
@@ -456,6 +460,7 @@ Relacionados: what-is-a-blast, how-to-clean-my-database-so-sending-is-not-blocke
 <li><strong>Keep your database clean.</strong> Fewer bounces and fewer complaints help your emails arrive.</li>
 <li><strong>Let people unsubscribe.</strong> AFRUS adds an unsubscribe link to every email. An unsubscribe is better than a spam complaint.</li>
 <li><strong>Always send yourself a test</strong> before sending.</li>
+<li><strong>Don't send emails made only of images.</strong> Aim for at least 60% text and 40% images; more text is better.</li>
 </ol>
 === FIN ===
 ```
@@ -510,6 +515,7 @@ Relacionados: what-is-a-blast, how-to-remove-soft-and-hard-bounces, how-to-clean
 <li><strong>In the interactions monitor.</strong> In <strong>Trackers &gt; Monitor de interacciones</strong> you see total bounces and a table with each send's bounces.</li>
 <li><strong>In each person's profile.</strong> In <strong>Personas</strong> you will see <em>"Tiene Hard Bounce"</em> or <em>"Tiene Soft Bounce"</em>, and in the <strong>Eventos</strong> (Events) tab, the details of each email.</li>
 </ol>
+<p><strong>Can I see a send's bounces in one list?</strong> Yes. In the send's details, in <strong>Últimos eventos</strong> (Latest events), click "Ver más" (See more). You'll see everyone it was sent to, with their status and the date, and you can filter by <strong>Estado</strong> (Status), for example <strong>Hard bounce</strong> or <strong>Soft Bounce</strong>.</p>
 === FIN ===
 ```
 
@@ -665,6 +671,7 @@ Relacionados: o-que-e-um-blast, como-ver-as-estatisticas-de-um-blast, como-limpa
 </ol>
 <h2>Perguntas frequentes</h2>
 <p><strong>E se aparecer Bloqueado?</strong> A AFRUS interrompeu o envio porque houve devoluções ou reclamações demais. Ele não pode ser enviado de novo pela tela: fale com o suporte.</p>
+<p><strong>Qual é a causa mais comum de um envio Fallido?</strong> A conta fica bloqueada por ter devoluções demais e é preciso atribuir créditos a ela. Para resolver, escreva para o e-mail de suporte.</p>
 === FIN ===
 ```
 
@@ -713,6 +720,7 @@ Relacionados: o-que-e-um-blast, como-limpar-minha-base-para-nao-bloquearem-meus-
 <li><strong>Mantenha sua base limpa.</strong> Menos devoluções e menos reclamações ajudam seus e-mails a chegar.</li>
 <li><strong>Deixe as pessoas cancelarem a inscrição.</strong> A AFRUS adiciona um link de descadastro em todos os e-mails. Um descadastro é melhor que uma reclamação de spam.</li>
 <li><strong>Sempre envie um teste para você</strong> antes de enviar.</li>
+<li><strong>Não envie e-mails feitos só de imagens.</strong> Procure ter pelo menos 60% de texto e 40% de imagens; se houver mais texto, melhor.</li>
 </ol>
 === FIN ===
 ```
@@ -767,5 +775,6 @@ Relacionados: o-que-e-um-blast, como-remover-soft-e-hard-bounces, como-limpar-mi
 <li><strong>No monitor de interações.</strong> Em <strong>Trackers &gt; Monitor de interacciones</strong> você vê o total de devoluções e uma tabela com as devoluções de cada envio.</li>
 <li><strong>No perfil de cada pessoa.</strong> Em <strong>Personas</strong> você verá <em>"Tiene Hard Bounce"</em> ou <em>"Tiene Soft Bounce"</em> e, na aba <strong>Eventos</strong>, o detalhe de cada e-mail.</li>
 </ol>
+<p><strong>Posso ver em uma única lista as devoluções de um envio?</strong> Sim. No detalhe do envio, em <strong>Últimos eventos</strong>, clique em "Ver más" (Ver mais). Você verá todas as pessoas para quem foi enviado, com o status e a data, e poderá filtrar por <strong>Estado</strong> (Status), por exemplo <strong>Hard bounce</strong> ou <strong>Soft Bounce</strong>.</p>
 === FIN ===
 ```

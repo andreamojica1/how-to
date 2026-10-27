@@ -95,11 +95,8 @@ No directamente. Duplícala en tu organización y edita la copia.
 **¿Mis plantillas las ven otras organizaciones?**
 No. Las plantillas de **Organización** son solo tuyas. Las **Genéricas** son las que comparte AFRUS con todos.
 
-**¿Qué usuarios pueden crear plantillas?**
-> **Pendiente de confirmar:** qué perfiles de usuario tienen permiso.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

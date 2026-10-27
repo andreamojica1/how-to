@@ -86,6 +86,8 @@ Ao terminar, o autoresponder aparece na lista como **Activo** (Ativo) e é envia
 
 Se preferir que a AFRUS escreva o e-mail para você:
 
+> **Importante:** para configurar autoresponders com IA, seu usuário precisa ter uma assinatura criada em **AI > Firmas de usuarios**. Se você não tiver assinaturas de usuário, não poderá configurar autoresponders com IA.
+
 1. **Encontre o evento.** Na aba **Genérico**, encontre um evento que diga **No configurado** (Não configurado) e clique em "Configurar".
 2. **Escolha Con IA.** Em **Modo de creación** (Modo de criação), escolha **Con IA** (Com IA).
 3. **Preencha os dados.** Escolha o **Remitente** (Remetente), o **Diseño** (Design: **Plantilla IA** com design visual, ou **Solo texto**, só texto) e, em **URL call to action**, o link do botão do e-mail.
@@ -155,13 +157,10 @@ Do e-mail da AFRUS, até você verificar seu domínio. Depois você poderá esco
 Sim. Use o "Mapa de mergetags" para copiar o dado que quiser, por exemplo o nome, e cole no assunto ou no corpo do e-mail.
 
 **Os autoresponders são enviados para pessoas que se descadastraram ou cujo e-mail retorna?**
-> **Pendente de confirmação:** se essas pessoas são excluídas.
-
-**Quais usuários podem criar autoresponders?**
-> **Pendente de confirmação:** quais perfis de usuário têm permissão.
+Sim. A AFRUS deixa essas pessoas de fora.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*
