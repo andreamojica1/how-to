@@ -172,7 +172,7 @@ Verás *"La nota se ha creado correctamente"*. La *"Lista de notas"* muestra **R
 - **En el perfil:** pestaña **Contacto**, tarjeta **Más información**, sección **Información Personalizada**. Cada campo aparece con su valor, o con "-" si está vacío. La sección solo aparece si la persona tiene algún campo personalizado.
 - **Al crear o editar:** se completan en la sección **Información Personalizada** de "Crear persona" o de "Editar" (en la pestaña **Contacto**).
 - **En la exportación:** salen como columnas al descargar con **Base de datos en tiempo real**.
-- **Dónde se definen:** en **Configuración > Avanzado > Campos personalizados**. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
+- **Dónde se definen:** en **Ajustes de Organización > Campos personalizados**.
 
 ## Cómo enviar links personalizados a una persona
 

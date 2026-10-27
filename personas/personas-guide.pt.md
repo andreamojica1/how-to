@@ -174,7 +174,7 @@ Você verá *"La nota se ha creado correctamente"* (Nota criada com sucesso). A 
 - **No perfil:** aba **Contacto**, cartão **Más información** (Mais informações), seção **Información Personalizada** (Informação personalizada). Cada campo aparece com seu valor, ou com "-" se estiver vazio. A seção só aparece se a pessoa tiver algum campo personalizado.
 - **Ao criar ou editar:** são preenchidos na seção **Información Personalizada** de "Crear persona" ou de "Editar" (na aba **Contacto**).
 - **Na exportação:** saem como colunas ao baixar com **Base de datos en tiempo real**.
-- **Onde são definidos:** em **Configuración > Avanzado > Campos personalizados**. Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.
+- **Onde são definidos:** em **Ajustes de Organización > Campos personalizados**.
 
 ## Como enviar links personalizados para uma pessoa
 

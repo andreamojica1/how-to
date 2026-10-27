@@ -2,7 +2,7 @@
 
 This guide explains what custom fields are, how to ask for them in your forms and where to see what donors fill in.
 
-*Module: Settings · Menu: **Configuración > Avanzado > Campos personalizados** (Settings > Advanced > Custom fields) · Audience: fundraising, communications and data teams*
+*Module: Settings · Menu: **Ajustes de Organización > Campos personalizados** (Organization settings > Custom fields) · Audience: fundraising, communications and data teams*
 
 > **About the labels in this guide:** buttons, fields and menus are written as they appear in the Spanish version of the console, with an English explanation where it helps.
 
@@ -12,7 +12,7 @@ This guide explains what custom fields are, how to ask for them in your forms an
 
 **They are extra details your organization wants to keep about each person, on top of the ones AFRUS already has** (name, email, phone, ID, address…). For example: "How did you hear about us?" or "Area of interest".
 
-They are defined in **Configuración > Avanzado > Campos personalizados**. This screen opens in the previous version of AFRUS, which is why it looks different.
+They are defined in **Ajustes de Organización > Campos personalizados**.
 
 ## What they are for
 
@@ -28,14 +28,12 @@ They are defined in **Configuración > Avanzado > Campos personalizados**. This 
 
 ## How to set up a custom field
 
-1. **Open the screen.** Go to **Configuración > Avanzado > Campos personalizados**.
+1. **Open the screen.** Go to **Ajustes de Organización > Campos personalizados**.
    <!-- screenshot pending: how-to-set-up-a-custom-field-01 — Custom fields screen -->
-
-> **Pending confirmation:** the buttons, details and field types this screen asks for to create a new field, and whether a field can be edited or deleted.
 
 ## How to add a custom field to my widget
 
-**Before you start:** the field must already exist in **Configuración > Avanzado > Campos personalizados**.
+**Before you start:** the field must already exist in **Ajustes de Organización > Campos personalizados**.
 
 1. **Open the form editor.** In **Fundraising > Widgets**, edit the form. The editor opens in the previous version of AFRUS, which is why it looks different.
 
@@ -43,8 +41,6 @@ They are defined in **Configuración > Avanzado > Campos personalizados**. This 
    <!-- screenshot pending: how-to-add-a-custom-field-to-my-widget-02 — Add menu with the Custom field option -->
 
 3. **Set it up.** Click the block and set it up in **Configuración del snippet** (Snippet settings).
-
-   > **Pending confirmation:** which options the block has (how the field is chosen, whether it can be required and what text the donor sees).
 
 4. **Place it.** Drag it to where you want it in the form.
 

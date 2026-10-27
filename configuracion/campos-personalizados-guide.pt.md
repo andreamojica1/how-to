@@ -2,7 +2,7 @@
 
 Com este guia você vai entender o que são os campos personalizados, como pedi-los nos seus formulários e onde ver as informações que seus doadores preenchem.
 
-*Módulo: Configurações · Menu: **Configuración > Avanzado > Campos personalizados** (Configurações > Avançado > Campos personalizados) · Público: equipes de captação, comunicação e dados*
+*Módulo: Configurações · Menu: **Ajustes de Organización > Campos personalizados** (Ajustes da organização > Campos personalizados) · Público: equipes de captação, comunicação e dados*
 
 > **Sobre os nomes de tela neste guia:** botões, campos e menus estão escritos como aparecem na versão em espanhol do console, com a explicação em português quando ajuda.
 
@@ -12,7 +12,7 @@ Com este guia você vai entender o que são os campos personalizados, como pedi-
 
 **São dados extras que sua organização quer guardar de cada pessoa, além dos que a AFRUS já tem** (nome, e-mail, telefone, documento, endereço…). Por exemplo: "Como você nos conheceu?" ou "Área de interesse".
 
-Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
+Eles são definidos em **Ajustes de Organización > Campos personalizados**.
 
 ## Para que servem
 
@@ -28,14 +28,12 @@ Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Es
 
 ## Como configurar um campo personalizado
 
-1. **Abra a tela.** Acesse **Configuración > Avanzado > Campos personalizados**.
+1. **Abra a tela.** Acesse **Ajustes de Organización > Campos personalizados**.
    <!-- captura pendente: como-configurar-um-campo-personalizado-01 — tela Campos personalizados -->
-
-> **Pendente de confirmação:** os botões, dados e tipos de campo que esta tela pede para criar um campo novo, e se um campo pode ser editado ou excluído.
 
 ## Como incluir um campo personalizado no meu widget
 
-**Antes de começar:** o campo já precisa existir em **Configuración > Avanzado > Campos personalizados**.
+**Antes de começar:** o campo já precisa existir em **Ajustes de Organización > Campos personalizados**.
 
 1. **Abra o editor do formulário.** Em **Fundraising > Widgets**, edite o formulário. O editor abre na versão anterior da AFRUS, por isso tem uma aparência diferente.
 
@@ -43,8 +41,6 @@ Eles são definidos em **Configuración > Avanzado > Campos personalizados**. Es
    <!-- captura pendente: como-incluir-um-campo-personalizado-no-meu-widget-02 — menu Agregar com a opção Campo personalizado -->
 
 3. **Configure.** Clique no bloco e configure-o em **Configuración del snippet** (Configuração do snippet).
-
-   > **Pendente de confirmação:** quais opções o bloco tem (como se escolhe o campo, se pode ser obrigatório e que texto o doador vê).
 
 4. **Posicione.** Arraste-o até o lugar onde quer que apareça no formulário.
 

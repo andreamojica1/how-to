@@ -287,7 +287,7 @@ Relacionados: que-es-personas, como-crear-una-persona, como-descargar-un-grupo-d
 <li><strong>En el perfil:</strong> pestaña <strong>Contacto</strong>, tarjeta <strong>Más información</strong>, sección <strong>Información Personalizada</strong>. Cada campo aparece con su valor, o "-" si está vacío. La sección solo aparece si la persona tiene algún campo personalizado.</li>
 <li><strong>Al crear o editar:</strong> en la sección <strong>Información Personalizada</strong> de "Crear persona" o de "Editar".</li>
 <li><strong>En la exportación:</strong> como columnas, al descargar con <strong>Base de datos en tiempo real</strong>.</li>
-<li><strong>Dónde se definen:</strong> en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.</li>
+<li><strong>Dónde se definen:</strong> en <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li>
 </ul>
 === FIN ===
 ```
@@ -661,7 +661,7 @@ Relacionados: what-is-people, how-to-create-a-person, how-to-download-a-group-of
 <li><strong>In the profile:</strong> <strong>Contacto</strong> tab, <strong>Más información</strong> (More information) card, <strong>Información Personalizada</strong> (Custom information) section. Each field shows its value, or "-" if empty. The section only appears if the person has any custom field.</li>
 <li><strong>When creating or editing:</strong> in the <strong>Información Personalizada</strong> section of "Crear persona" or "Editar" (Edit).</li>
 <li><strong>In the export:</strong> as columns, when downloading with <strong>Base de datos en tiempo real</strong>.</li>
-<li><strong>Where they are defined:</strong> in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. This screen opens in the previous version of AFRUS, so it looks different.</li>
+<li><strong>Where they are defined:</strong> in <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li>
 </ul>
 === FIN ===
 ```
@@ -1039,7 +1039,7 @@ Relacionados: o-que-e-personas, como-criar-uma-pessoa, como-baixar-um-grupo-de-p
 <li><strong>No perfil:</strong> aba <strong>Contacto</strong>, cartão <strong>Más información</strong> (Mais informações), seção <strong>Información Personalizada</strong> (Informação personalizada). Cada campo aparece com seu valor, ou "-" se estiver vazio. A seção só aparece se a pessoa tiver algum campo personalizado.</li>
 <li><strong>Ao criar ou editar:</strong> na seção <strong>Información Personalizada</strong> de "Crear persona" ou de "Editar".</li>
 <li><strong>Na exportação:</strong> como colunas, ao baixar com <strong>Base de datos en tiempo real</strong>.</li>
-<li><strong>Onde são definidos:</strong> em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta tela abre na versão anterior da AFRUS, por isso tem outra aparência.</li>
+<li><strong>Onde são definidos:</strong> em <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li>
 </ul>
 === FIN ===
 ```

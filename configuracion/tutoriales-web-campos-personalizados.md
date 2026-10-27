@@ -17,7 +17,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-sirven-los-campos-personalizados, como-incluir-un-campo-personalizado-en-mi-widget, donde-se-guardan-los-campos-personalizados, donde-ver-los-campos-personalizados
 --- CUERPO (HTML) ---
 <p><strong>Son datos extra que tu organización quiere guardar de cada persona, además de los que AFRUS ya trae</strong> (nombre, correo, teléfono, documento, dirección…). Por ejemplo: "¿Cómo nos conociste?" o "Área de interés".</p>
-<p>Se definen en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.</p>
+<p>Se definen en <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</p>
 === FIN ===
 ```
 
@@ -56,7 +56,7 @@ Imagen de portada: pendiente
 Relacionados: que-son-los-campos-personalizados, para-que-sirven-los-campos-personalizados, donde-se-guardan-los-campos-personalizados, donde-ver-los-campos-personalizados
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
-<ul><li><strong>El campo ya tiene que existir</strong> en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>.</li></ul>
+<ul><li><strong>El campo ya tiene que existir</strong> en <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre el editor del formulario.</strong> En <strong>Fundraising &gt; Widgets</strong>, edita el formulario. El editor se abre en la versión anterior de AFRUS.</li>
@@ -128,7 +128,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-custom-fields-for, how-to-add-a-custom-field-to-my-widget, where-custom-fields-are-stored, where-to-see-custom-fields
 --- CUERPO (HTML) ---
 <p><strong>They are extra details your organization wants to keep about each person, on top of the ones AFRUS already has</strong> (name, email, phone, ID, address…). For example: "How did you hear about us?" or "Area of interest". Labels are shown as they appear in the Spanish version of the console.</p>
-<p>They are defined in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong> (Settings &gt; Advanced &gt; Custom fields). This screen opens in the previous version of AFRUS, which is why it looks different.</p>
+<p>They are defined in <strong>Ajustes de Organización &gt; Campos personalizados</strong> (Organization settings &gt; Custom fields).</p>
 === FIN ===
 ```
 
@@ -168,7 +168,7 @@ Relacionados: what-are-custom-fields, what-are-custom-fields-for, where-custom-f
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
-<ul><li><strong>The field must already exist</strong> in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>.</li></ul>
+<ul><li><strong>The field must already exist</strong> in <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the form editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, edit the form. The editor opens in the previous version of AFRUS.</li>
@@ -241,7 +241,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-servem-os-campos-personalizados, como-incluir-um-campo-personalizado-no-meu-widget, onde-ficam-salvos-os-campos-personalizados, onde-ver-os-campos-personalizados
 --- CUERPO (HTML) ---
 <p><strong>São dados extras que sua organização quer guardar de cada pessoa, além dos que a AFRUS já tem</strong> (nome, e-mail, telefone, documento, endereço…). Por exemplo: "Como você nos conheceu?" ou "Área de interesse". Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>Eles são definidos em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong> (Configurações &gt; Avançado &gt; Campos personalizados). Esta tela abre na versão anterior da AFRUS, por isso tem uma aparência diferente.</p>
+<p>Eles são definidos em <strong>Ajustes de Organización &gt; Campos personalizados</strong> (Ajustes da organização &gt; Campos personalizados).</p>
 === FIN ===
 ```
 
@@ -281,7 +281,7 @@ Relacionados: o-que-sao-os-campos-personalizados, para-que-servem-os-campos-pers
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
-<ul><li><strong>O campo já precisa existir</strong> em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>.</li></ul>
+<ul><li><strong>O campo já precisa existir</strong> em <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o editor do formulário.</strong> Em <strong>Fundraising &gt; Widgets</strong>, edite o formulário. O editor abre na versão anterior da AFRUS.</li>
