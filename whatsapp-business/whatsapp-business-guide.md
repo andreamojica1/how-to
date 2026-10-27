@@ -138,16 +138,12 @@ Ten en cuenta:
 - **El contador de "Enviados hoy" funciona como una ventana de 24 horas.**
 - **Si un envío llega al límite**, queda en **Límite alcanzado** y se reanuda solo cuando hay cuota disponible: AFRUS revisa estos envíos cada 30 minutos. La pantalla avisa que los mensajes restantes se reanudan "en ~24 horas cuando la cuota se libere".
 
-> **Pendiente de confirmar:** el nivel exacto de tu cuenta lo decide Meta. Revisa la barra **Límite diario compartido** para ver tu límite real.
-
 ## Cómo aumentar el número de envíos diarios
 
 Tu límite diario sube cuando Meta te asigna un nivel más alto. Lo que sabemos hoy:
 
 1. **Verifica tu negocio en Meta.** El paso al nivel 1 llega tras la verificación del negocio. En AFRUS, **Verificación del Negocio** aparece como **Recomendado** en la tarjeta **Preparación para Envío de Mensajes**, con el aviso *"Verify your business to increase your daily messaging rate"*.
 2. **Cuida la calidad de tus mensajes.** Los niveles 2 y 3 se asignan por calidad. Revisa en AFRUS que tu número siga en **Número de Teléfono Registrado (Calidad OK)** sin advertencias.
-
-> **Pendiente de confirmar:** los criterios y plazos exactos con los que Meta sube de nivel una cuenta. Los define Meta y pueden cambiar.
 
 ## Cómo enviar imágenes
 
@@ -158,8 +154,6 @@ Las imágenes se envían en el encabezado de una plantilla, dentro de un envío 
 3. **Elige la imagen en el envío.** En el Blast, en **Mapeo de Variables**, sección **Media del Encabezado**, pulsa "Seleccionar media de la galería" y elige la imagen (hasta 5MB; AFRUS acepta jpg, jpeg, png, gif y webp).
 
 Al terminar, todos los destinatarios reciben esa misma imagen en el encabezado del mensaje.
-
-> **Pendiente de confirmar:** desde qué pantalla del menú se abre la galería para subir la imagen antes del envío.
 
 **Videos:** por ahora **no es posible enviar un Blast con una plantilla de video desde AFRUS** (problema conocido). Puedes crear la plantilla de video y Meta la aprueba, pero en el envío el video solo se puede elegir de la galería, que solo admite imágenes. Mientras tanto, usa plantillas con imagen o agrega un botón **Ir al sitio web** que lleve al video.
 
@@ -210,17 +204,13 @@ Las imágenes, videos, audios y documentos que te envía un contacto se ven en e
 **¿Me pueden penalizar?**
 Sí, puede pasar: las penalizaciones las aplica Meta. AFRUS te muestra las señales de riesgo: si la calidad de tu número está en rojo, **Número de Teléfono Registrado (Calidad OK)** muestra una advertencia de que el número puede ser limitado y bajar de nivel; si Meta rechaza el nombre para mostrar, esa verificación falla; y las plantillas pueden quedar **Pausada** o **Deshabilitada**. Además, AFRUS no reintenta los mensajes que Meta rechaza de forma definitiva, por ejemplo por cuenta bloqueada, límite por spam, contenido que viola políticas o personas que bloquearon tus mensajes de marketing. En las plantillas de **Marketing**, los usuarios pueden darse de baja.
 
-> **Pendiente de confirmar:** las reglas de penalización de Meta más allá de estas señales. Las define Meta.
-
 **Si envío un mensaje desde AFRUS, ¿puedo contestar luego desde mi celular, incluso después de 24 horas sin respuesta del cliente?**
 En AFRUS, no con texto libre: pasadas 24 horas desde el último mensaje del contacto, la conversación queda **Cerrada** y solo puedes enviar una plantilla. Si el contacto te responde, la ventana se vuelve a abrir.
 
-> **Pendiente de confirmar:** si puedes usar el mismo número en la app de WhatsApp de tu celular al mismo tiempo que en AFRUS. Depende de Meta y de cómo se registró el número.
+> **Ten en cuenta:** el número no puede estar vinculado a ningún otro servicio de mensajería masiva ni tener asociada una cuenta de WhatsApp Business. Si lo está, al hacer la conexión con AFRUS, Meta indicará que el número no es elegible y no podrás conectarlo.
 
 **¿Puedo iniciar una conversación con un contacto sin haber hecho antes un envío?**
 No desde **Conversaciones**: no hay botón de "nueva conversación", y la lista solo muestra chats en los que el contacto te escribió al menos una vez. Para escribir tú primero, haz un envío masivo con una plantilla aprobada. Si la persona te escribe primero a tu número, la conversación sí aparece y puedes responder con texto libre durante 24 horas.
-
-> **Pendiente de confirmar:** si otras funciones de AFRUS, como las automatizaciones, pueden enviar plantillas de WhatsApp Business.
 
 **¿Cuánto tarda Meta en aprobar una plantilla?**
 Según la pantalla, entre 5 minutos y 24 horas. El plazo lo define Meta.
@@ -232,4 +222,4 @@ Porque falta una verificación obligatoria o un mensaje de prueba exitoso. Revis
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

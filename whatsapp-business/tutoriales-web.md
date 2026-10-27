@@ -270,7 +270,7 @@ Relacionados: que-es-whatsapp-business, puedo-iniciar-una-conversacion-de-whatsa
 <li><strong>Cerrada:</strong> pasaron 24 horas o más; solo puedes pulsar "Enviar plantilla" y elegir una plantilla aprobada.</li>
 </ul>
 <p>Si el contacto te responde, la ventana se vuelve a abrir.</p>
-<p>Si quieres usar el mismo número en la app de WhatsApp de tu celular al mismo tiempo que en AFRUS, consúltanos: depende de Meta y de cómo se registró tu número.</p>
+<p>Ten en cuenta que el número no puede estar vinculado a ningún otro servicio de mensajería masiva ni tener asociada una cuenta de WhatsApp Business. Si lo está, al hacer la conexión con AFRUS, Meta indicará que el número no es elegible y no podrás conectarlo.</p>
 === FIN ===
 ```
 
@@ -583,7 +583,7 @@ Relacionados: what-is-whatsapp-business, can-i-start-a-whatsapp-conversation-wit
 <li><strong>Cerrada</strong> (Closed): 24 hours or more have passed; you can only click "Enviar plantilla" (Send template) and choose an approved template.</li>
 </ul>
 <p>If the contact replies, the window opens again.</p>
-<p>If you want to use the same number in the WhatsApp app on your phone at the same time as in AFRUS, contact us: it depends on Meta and on how your number was registered.</p>
+<p>Keep in mind that the number can't be linked to any other bulk messaging service or have a WhatsApp Business account associated with it. If it is, when you connect it to AFRUS, Meta will say the number is ineligible and you won't be able to connect it.</p>
 === FIN ===
 ```
 
@@ -896,7 +896,7 @@ Relacionados: o-que-e-o-whatsapp-business, posso-iniciar-uma-conversa-no-whatsap
 <li><strong>Cerrada</strong> (Fechada): passaram 24 horas ou mais; você só pode clicar em "Enviar plantilla" (Enviar modelo) e escolher um modelo aprovado.</li>
 </ul>
 <p>Se o contato responder, a janela se abre de novo.</p>
-<p>Se quiser usar o mesmo número no app do WhatsApp do celular ao mesmo tempo que na AFRUS, fale com a gente: depende da Meta e de como o seu número foi registrado.</p>
+<p>Atenção: o número não pode estar vinculado a nenhum outro serviço de mensagens em massa nem ter uma conta do WhatsApp Business associada. Se estiver, ao fazer a conexão com a AFRUS, a Meta vai indicar que o número não é elegível e você não poderá conectá-lo.</p>
 === FIN ===
 ```
 

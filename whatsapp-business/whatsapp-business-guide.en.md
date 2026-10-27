@@ -140,16 +140,12 @@ Keep in mind:
 - **The "Enviados hoy" (Sent today) counter works as a 24-hour window.**
 - **If a send reaches the limit**, it moves to **Límite alcanzado** (Limit reached) and resumes on its own when quota is available: AFRUS checks these sends every 30 minutes. The screen says the remaining messages resume "in ~24 hours when the quota is freed".
 
-> **Pending confirmation:** your account's exact tier is decided by Meta. Check the **Límite diario compartido** bar to see your actual limit.
-
 ## How to increase the daily sending limit
 
 Your daily limit goes up when Meta assigns you a higher tier. What we know today:
 
 1. **Verify your business in Meta.** Moving to tier 1 comes after business verification. In AFRUS, **Verificación del Negocio** appears as **Recomendado** on the **Preparación para Envío de Mensajes** card, with the message *"Verify your business to increase your daily messaging rate"*.
 2. **Take care of your message quality.** Tiers 2 and 3 are assigned based on quality. Check in AFRUS that your number stays at **Número de Teléfono Registrado (Calidad OK)** without warnings.
-
-> **Pending confirmation:** the exact criteria and timelines Meta uses to raise an account's tier. They are set by Meta and may change.
 
 ## How to send images
 
@@ -160,8 +156,6 @@ Images are sent in a template's header, as part of a bulk send.
 3. **Choose the image in the send.** In the Blast, under **Mapeo de Variables**, section **Media del Encabezado** (Header media), click "Seleccionar media de la galería" and choose the image (up to 5MB; AFRUS accepts jpg, jpeg, png, gif and webp).
 
 When you finish, every recipient gets that same image in the message header.
-
-> **Pending confirmation:** which menu screen opens the gallery to upload the image before the send.
 
 **Videos:** for now **it is not possible to send a Blast with a video template from AFRUS** (known issue). You can create the video template and Meta approves it, but in the send the video can only be picked from the gallery, which only accepts images. In the meantime, use image templates or add an **Ir al sitio web** button that links to the video.
 
@@ -212,17 +206,13 @@ Images, videos, audio and documents a contact sends you are shown in the chat, b
 **Can I be penalized?**
 Yes, it can happen: penalties are applied by Meta. AFRUS shows you the risk signals: if your number's quality is red, **Número de Teléfono Registrado (Calidad OK)** shows a warning that the number may be limited and drop a tier; if Meta rejects your display name, that check fails; and templates can become **Pausada** or **Deshabilitada**. Also, AFRUS doesn't retry messages Meta rejects permanently, for example because of a blocked account, a spam limit, content that violates policies or people who blocked your marketing messages. With **Marketing** templates, users can unsubscribe.
 
-> **Pending confirmation:** Meta's penalty rules beyond these signals. They are set by Meta.
-
 **If I send a message from AFRUS, can I reply later from my phone, even after 24 hours without a reply from the contact?**
 In AFRUS, not with free text: 24 hours after the contact's last message, the conversation becomes **Cerrada** and you can only send a template. If the contact replies, the window opens again.
 
-> **Pending confirmation:** whether you can use the same number in the WhatsApp app on your phone at the same time as in AFRUS. It depends on Meta and on how the number was registered.
+> **Keep in mind:** the number can't be linked to any other bulk messaging service or have a WhatsApp Business account associated with it. If it is, when you connect it to AFRUS, Meta will say the number is ineligible and you won't be able to connect it.
 
 **Can I start a conversation with a contact without sending a Blast first?**
 Not from **Conversaciones**: there is no "new conversation" button, and the list only shows chats where the contact wrote to you at least once. To write first, send a Blast with an approved template. If the person writes to your number first, the conversation does appear and you can reply with free text for 24 hours.
-
-> **Pending confirmation:** whether other AFRUS features, such as automations, can send WhatsApp Business templates.
 
 **How long does Meta take to approve a template?**
 According to the screen, between 5 minutes and 24 hours. The timeline is set by Meta.
@@ -234,4 +224,4 @@ Because a required check or a successful test message is missing. Check the **Pr
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

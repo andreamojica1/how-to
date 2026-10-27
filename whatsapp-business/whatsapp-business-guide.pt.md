@@ -140,16 +140,12 @@ Tenha em mente:
 - **O contador "Enviados hoy" (Enviados hoje) funciona como uma janela de 24 horas.**
 - **Se um envio atingir o limite**, ele fica em **Límite alcanzado** (Limite atingido) e é retomado sozinho quando há cota: a AFRUS verifica esses envios a cada 30 minutos. A tela avisa que as mensagens restantes são retomadas "em ~24 horas, quando a cota for liberada".
 
-> **Pendente de confirmação:** o nível exato da sua conta é decidido pela Meta. Confira a barra **Límite diario compartido** para ver seu limite real.
-
 ## Como aumentar o número de envios diários
 
 Seu limite diário aumenta quando a Meta atribui um nível mais alto à sua conta. O que sabemos hoje:
 
 1. **Verifique seu negócio na Meta.** A passagem para o nível 1 acontece após a verificação do negócio. Na AFRUS, **Verificación del Negocio** aparece como **Recomendado** no cartão **Preparación para Envío de Mensajes**, com o aviso *"Verify your business to increase your daily messaging rate"* (Verifique seu negócio para aumentar sua taxa diária de mensagens).
 2. **Cuide da qualidade das suas mensagens.** Os níveis 2 e 3 são atribuídos pela qualidade. Confira na AFRUS se o seu número continua em **Número de Teléfono Registrado (Calidad OK)** sem avisos.
-
-> **Pendente de confirmação:** os critérios e prazos exatos que a Meta usa para subir o nível de uma conta. São definidos pela Meta e podem mudar.
 
 ## Como enviar imagens
 
@@ -160,8 +156,6 @@ As imagens são enviadas no cabeçalho de um modelo, dentro de um envio em massa
 3. **Escolha a imagem no envio.** No Blast, em **Mapeo de Variables**, seção **Media del Encabezado** (Mídia do cabeçalho), clique em "Seleccionar media de la galería" e escolha a imagem (até 5MB; a AFRUS aceita jpg, jpeg, png, gif e webp).
 
 Ao terminar, todos os destinatários recebem essa mesma imagem no cabeçalho da mensagem.
-
-> **Pendente de confirmação:** em qual tela do menu se abre a galeria para enviar a imagem antes do envio.
 
 **Vídeos:** por enquanto **não é possível enviar um Blast com um modelo de vídeo pela AFRUS** (problema conhecido). Você pode criar o modelo de vídeo e a Meta o aprova, mas no envio o vídeo só pode ser escolhido na galeria, que só aceita imagens. Enquanto isso, use modelos com imagem ou adicione um botão **Ir al sitio web** que leve ao vídeo.
 
@@ -212,17 +206,13 @@ As imagens, vídeos, áudios e documentos que um contato envia aparecem no chat,
 **Posso ser penalizado?**
 Sim, pode acontecer: as penalidades são aplicadas pela Meta. A AFRUS mostra os sinais de risco: se a qualidade do seu número estiver vermelha, **Número de Teléfono Registrado (Calidad OK)** mostra um aviso de que o número pode ser limitado e cair de nível; se a Meta rejeitar o nome de exibição, essa verificação falha; e os modelos podem ficar **Pausada** ou **Deshabilitada**. Além disso, a AFRUS não tenta de novo as mensagens que a Meta rejeita de forma definitiva, por exemplo por conta bloqueada, limite por spam, conteúdo que viola as políticas ou pessoas que bloquearam suas mensagens de marketing. Nos modelos de **Marketing**, os usuários podem cancelar o recebimento.
 
-> **Pendente de confirmação:** as regras de penalidade da Meta além desses sinais. São definidas pela Meta.
-
 **Se eu enviar uma mensagem pela AFRUS, posso responder depois pelo celular, mesmo depois de 24 horas sem resposta do contato?**
 Na AFRUS, não com texto livre: 24 horas depois da última mensagem do contato, a conversa fica **Cerrada** e você só pode enviar um modelo. Se o contato responder, a janela se abre de novo.
 
-> **Pendente de confirmação:** se é possível usar o mesmo número no app do WhatsApp do celular ao mesmo tempo que na AFRUS. Depende da Meta e de como o número foi registrado.
+> **Atenção:** o número não pode estar vinculado a nenhum outro serviço de mensagens em massa nem ter uma conta do WhatsApp Business associada. Se estiver, ao fazer a conexão com a AFRUS, a Meta vai indicar que o número não é elegível e você não poderá conectá-lo.
 
 **Posso iniciar uma conversa com um contato sem ter feito um envio antes?**
 Não por **Conversaciones**: não há botão de "nova conversa", e a lista só mostra chats em que o contato escreveu para você pelo menos uma vez. Para escrever primeiro, faça um envio em massa com um modelo aprovado. Se a pessoa escrever primeiro para o seu número, a conversa aparece e você pode responder com texto livre por 24 horas.
-
-> **Pendente de confirmação:** se outras funções da AFRUS, como as automações, podem enviar modelos do WhatsApp Business.
 
 **Quanto tempo a Meta leva para aprovar um modelo?**
 Segundo a tela, entre 5 minutos e 24 horas. O prazo é definido pela Meta.
@@ -234,4 +224,4 @@ Porque falta uma verificação obrigatória ou uma mensagem de teste com sucesso
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*
