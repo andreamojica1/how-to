@@ -1,6 +1,6 @@
 # Guía de Galería para AI
 
-Con esta guía vas a poder guardar las imágenes de tu organización en un solo lugar, para que la IA las use en tus correos.
+Con esta guía vas a poder guardar las imágenes de tu organización en un solo lugar, para usarlas en tus correos con IA, landings, blasts de correo y WhatsApp, autoresponders y flujos de trabajo.
 
 *Módulo: AI · Menú: **AI > Galería para AI** (también en el menú de perfil, **AI Media**) · Audiencia: equipos de comunicaciones y diseño*
 

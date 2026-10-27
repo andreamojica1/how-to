@@ -1,6 +1,6 @@
 # AI gallery guide
 
-With this guide you can keep your organization's images in one place, so the AI can use them in your emails.
+With this guide you can keep your organization's images in one place, to use them in your AI emails, landings, email and WhatsApp blasts, autoresponders and workflows.
 
 *Module: AI · Menu: **AI > Galería para AI** (AI gallery; also in the profile menu as **AI Media**) · Audience: communications and design teams*
 

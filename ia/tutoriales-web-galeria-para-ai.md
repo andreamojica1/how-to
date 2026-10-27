@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es la Galería para AI
 Slug: que-es-la-galeria-para-ai
 Categoría: AI
-Resumen: Aprende qué es la Galería para AI: el banco de imágenes de tu organización que la IA usa en tus correos.
+Resumen: Aprende qué es la Galería para AI: el banco de imágenes de tu organización para tus correos con IA, landings, blasts, autoresponders y flujos de trabajo.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -77,7 +77,7 @@ Idioma: en
 Título: What the AI gallery is
 Slug: what-is-the-ai-gallery
 Categoría: AI
-Resumen: Learn what the AI gallery is: your organization's image bank that the AI uses in your emails.
+Resumen: Learn what the AI gallery is: your organization's image bank for your AI emails, landings, blasts, autoresponders and workflows.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -145,7 +145,7 @@ Idioma: pt-BR
 Título: O que é a Galeria para IA
 Slug: o-que-e-a-galeria-para-ia
 Categoría: AI
-Resumen: Aprenda o que é a Galeria para IA: o banco de imagens da sua organização que a IA usa nos seus e-mails.
+Resumen: Aprenda o que é a Galeria para IA: o banco de imagens da sua organização para seus e-mails com IA, landings, blasts, autoresponders e fluxos de trabalho.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
