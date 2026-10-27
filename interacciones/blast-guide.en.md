@@ -149,10 +149,10 @@ To see all the bounces of a send together:
 
 1. **Open the send's details.** In **Interacciones > Blast**, click "Detalles" (Details).
 2. **Click "Ver más" (See more).** You'll find it in the **Últimos eventos** (Latest events) section.
-   <!-- screenshot pending: donde-ver-los-correos-rebotados-04 — Últimos eventos section of a send's details with the Ver más button -->
-3. **Check the list.** A screen opens with everyone the email was sent to, their status and the date.
-4. **Filter by Estado (Status).** Choose **Open**, **Click**, **Complain**, **Hard bounce**, **Opt Out**, **Soft Bounce**, **Sent** or **Rendering Failure**. For example, choose **Hard bounce** to see only hard bounces.
-   <!-- screenshot pending: donde-ver-los-correos-rebotados-05 — list of people in the send with the Estado filter open -->
+   ![Últimos eventos section of a send's details, with the Ver más button](img/donde-ver-los-correos-rebotados-04.webp)
+3. **Check the list.** **Eventos de emails** (Email events) opens, a screen with everyone the email was sent to, their status and the date.
+4. **Filter by Estado (Status).** Open **Estado**, check **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** or **Sent** and click "Aplicar" (Apply). For example, check **Hard Bounce** to see only hard bounces.
+   ![Eventos de emails screen with the Estado filter open](img/donde-ver-los-correos-rebotados-05.webp)
 
 ## How to remove soft and hard bounces
 

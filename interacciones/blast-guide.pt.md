@@ -149,10 +149,10 @@ Para ver todas as devoluções de um envio juntas:
 
 1. **Abra o detalhe do envio.** Em **Interacciones > Blast**, clique em "Detalles" (Detalhes).
 2. **Clique em "Ver más" (Ver mais).** Fica na seção **Últimos eventos**.
-   <!-- captura pendente: donde-ver-los-correos-rebotados-04 — seção Últimos eventos do detalhe de um envio com o botão Ver más -->
-3. **Confira a lista.** Abre uma tela com todas as pessoas para quem o e-mail foi enviado, o status e a data.
-4. **Filtre por Estado (Status).** Escolha **Open**, **Click**, **Complain**, **Hard bounce**, **Opt Out**, **Soft Bounce**, **Sent** ou **Rendering Failure**. Por exemplo, escolha **Hard bounce** para ver só as devoluções permanentes.
-   <!-- captura pendente: donde-ver-los-correos-rebotados-05 — lista de pessoas do envio com o filtro Estado aberto -->
+   ![Seção Últimos eventos do detalhe de um envio, com o botão Ver más](img/donde-ver-los-correos-rebotados-04.webp)
+3. **Confira a lista.** Abre **Eventos de emails** (Eventos de e-mails), uma tela com todas as pessoas para quem o e-mail foi enviado, o status e a data.
+4. **Filtre por Estado (Status).** Abra **Estado**, marque **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** ou **Sent** e clique em "Aplicar". Por exemplo, marque **Hard Bounce** para ver só as devoluções permanentes.
+   ![Tela Eventos de emails com o filtro Estado aberto](img/donde-ver-los-correos-rebotados-05.webp)
 
 ## Como remover soft e hard bounces
 

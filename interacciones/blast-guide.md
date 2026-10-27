@@ -147,10 +147,10 @@ Para ver todos los rebotes de un envío juntos:
 
 1. **Abre el detalle del envío.** En **Interacciones > Blast**, haz clic en "Detalles".
 2. **Haz clic en "Ver más".** Lo encuentras en la sección **Últimos eventos**.
-   <!-- captura pendiente: donde-ver-los-correos-rebotados-04 — sección Últimos eventos del detalle de un envío con el botón Ver más -->
-3. **Revisa el listado.** Se abre una pantalla con todas las personas a las que se les envió el correo, su estado y la fecha.
-4. **Filtra por Estado.** Elige **Open**, **Click**, **Complain**, **Hard bounce**, **Opt Out**, **Soft Bounce**, **Sent** o **Rendering Failure**. Por ejemplo, elige **Hard bounce** para ver solo los rebotes duros.
-   <!-- captura pendiente: donde-ver-los-correos-rebotados-05 — listado de personas del envío con el filtro Estado abierto -->
+   ![Sección Últimos eventos del detalle de un envío, con el botón Ver más](img/donde-ver-los-correos-rebotados-04.webp)
+3. **Revisa el listado.** Se abre **Eventos de emails**, una pantalla con todas las personas a las que se les envió el correo, su estado y la fecha.
+4. **Filtra por Estado.** Abre **Estado**, marca **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** o **Sent** y pulsa "Aplicar". Por ejemplo, marca **Hard Bounce** para ver solo los rebotes duros.
+   ![Pantalla Eventos de emails con el filtro Estado abierto](img/donde-ver-los-correos-rebotados-05.webp)
 
 ## Cómo eliminar los soft y hard bounces
 

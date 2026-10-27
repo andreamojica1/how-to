@@ -255,7 +255,7 @@ Relacionados: que-es-un-blast, como-eliminar-los-soft-y-hard-bounces, como-limpi
 <li><strong>En el Monitor de interacciones.</strong> En <strong>Trackers &gt; Monitor de interacciones</strong> ves el total de rebotes y una tabla con los rebotes de cada envío.</li>
 <li><strong>En el perfil de cada persona.</strong> En <strong>Personas</strong> verás <em>"Tiene Hard Bounce"</em> o <em>"Tiene Soft Bounce"</em>, y en la pestaña <strong>Eventos</strong>, el detalle de cada correo.</li>
 </ol>
-<p><strong>¿Puedo ver en un solo listado los rebotes de un envío?</strong> Sí. En el detalle del envío, en <strong>Últimos eventos</strong>, haz clic en "Ver más". Verás a todas las personas a las que se envió, con su estado y la fecha, y podrás filtrar por <strong>Estado</strong> (por ejemplo, <strong>Hard bounce</strong> o <strong>Soft Bounce</strong>).</p>
+<p><strong>¿Puedo ver en un solo listado los rebotes de un envío?</strong> Sí. En el detalle del envío, en <strong>Últimos eventos</strong>, haz clic en "Ver más". Verás a todas las personas a las que se envió, con su estado y la fecha, y podrás filtrar por <strong>Estado</strong> (por ejemplo, <strong>Hard Bounce</strong> o <strong>Soft Bounce</strong>).</p>
 === FIN ===
 ```
 
@@ -515,7 +515,7 @@ Relacionados: what-is-a-blast, how-to-remove-soft-and-hard-bounces, how-to-clean
 <li><strong>In the interactions monitor.</strong> In <strong>Trackers &gt; Monitor de interacciones</strong> you see total bounces and a table with each send's bounces.</li>
 <li><strong>In each person's profile.</strong> In <strong>Personas</strong> you will see <em>"Tiene Hard Bounce"</em> or <em>"Tiene Soft Bounce"</em>, and in the <strong>Eventos</strong> (Events) tab, the details of each email.</li>
 </ol>
-<p><strong>Can I see a send's bounces in one list?</strong> Yes. In the send's details, in <strong>Últimos eventos</strong> (Latest events), click "Ver más" (See more). You'll see everyone it was sent to, with their status and the date, and you can filter by <strong>Estado</strong> (Status), for example <strong>Hard bounce</strong> or <strong>Soft Bounce</strong>.</p>
+<p><strong>Can I see a send's bounces in one list?</strong> Yes. In the send's details, in <strong>Últimos eventos</strong> (Latest events), click "Ver más" (See more). You'll see everyone it was sent to, with their status and the date, and you can filter by <strong>Estado</strong> (Status), for example <strong>Hard Bounce</strong> or <strong>Soft Bounce</strong>.</p>
 === FIN ===
 ```
 
@@ -775,6 +775,6 @@ Relacionados: o-que-e-um-blast, como-remover-soft-e-hard-bounces, como-limpar-mi
 <li><strong>No monitor de interações.</strong> Em <strong>Trackers &gt; Monitor de interacciones</strong> você vê o total de devoluções e uma tabela com as devoluções de cada envio.</li>
 <li><strong>No perfil de cada pessoa.</strong> Em <strong>Personas</strong> você verá <em>"Tiene Hard Bounce"</em> ou <em>"Tiene Soft Bounce"</em> e, na aba <strong>Eventos</strong>, o detalhe de cada e-mail.</li>
 </ol>
-<p><strong>Posso ver em uma única lista as devoluções de um envio?</strong> Sim. No detalhe do envio, em <strong>Últimos eventos</strong>, clique em "Ver más" (Ver mais). Você verá todas as pessoas para quem foi enviado, com o status e a data, e poderá filtrar por <strong>Estado</strong> (Status), por exemplo <strong>Hard bounce</strong> ou <strong>Soft Bounce</strong>.</p>
+<p><strong>Posso ver em uma única lista as devoluções de um envio?</strong> Sim. No detalhe do envio, em <strong>Últimos eventos</strong>, clique em "Ver más" (Ver mais). Você verá todas as pessoas para quem foi enviado, com o status e a data, e poderá filtrar por <strong>Estado</strong> (Status), por exemplo <strong>Hard Bounce</strong> ou <strong>Soft Bounce</strong>.</p>
 === FIN ===
 ```
