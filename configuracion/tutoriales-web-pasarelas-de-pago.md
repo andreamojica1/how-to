@@ -17,7 +17,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-sirven-las-pasarelas-de-pago, como-activar-o-desactivar-cover-your-cost
 --- CUERPO (HTML) ---
 <p><strong>Una pasarela de pago es el servicio que cobra las donaciones de tu organización.</strong> Es la que procesa la tarjeta, el Pix, el boleto u otro medio de pago que use el donante.</p>
-<p>Las pasarelas se configuran una vez para toda tu organización, en <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>. También llegas ahí desde el menú de perfil (esquina superior), opción <strong>Ajustes de organización</strong>.</p>
+<p>Las pasarelas se configuran una vez para toda tu organización, en <strong>Ajustes de Organización &gt; Pasarelas de pago</strong>. <strong>Ajustes de Organización</strong> está en el menú de perfil (esquina superior).</p>
 <p>Después, en cada formulario de donación (widget) eliges cuáles de tus pasarelas ofrecer, en el bloque <strong>Medio de pago</strong> del editor.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Por qué no aparece mi pasarela en el formulario?</strong> En cada país del formulario solo aparecen las pasarelas conectadas que aceptan la moneda de ese país.</p>
@@ -44,9 +44,8 @@ Relacionados: que-son-las-pasarelas-de-pago, como-activar-o-desactivar-cover-you
 </ul>
 <h2>Para tener en cuenta</h2>
 <ul>
-<li>Pix, boleto y efectivo solo se ofrecen para donaciones únicas. La excepción es Pix con InfoPago, que también admite donaciones mensuales.</li>
+<li>Pix, boleto y efectivo son medios de pago de Brasil y solo se ofrecen para donaciones únicas. La excepción es Pix con InfoPago, que también admite donaciones mensuales.</li>
 <li>Algunos medios de pago quedan pendientes hasta que la pasarela o el banco confirman el pago.</li>
-<li>En los formularios de registro con pago (objetivo <strong>Sign up</strong>) solo se ofrecen Stripe y Niubiz.</li>
 </ul>
 === FIN ===
 ```
@@ -68,7 +67,7 @@ Relacionados: que-son-las-pasarelas-de-pago, para-que-sirven-las-pasarelas-de-pa
 <ul><li><strong>AFRUS tiene que activar Cover Your Cost para tu organización.</strong> Si no ves la sección <strong>Cover Your Cost</strong> al abrir una pasarela, escríbenos para activarla.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre la pasarela.</strong> Ve a <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> y abre la pasarela donde quieres ofrecerlo.</li>
+<li><strong>Abre la pasarela.</strong> Ve a <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> y abre la pasarela donde quieres ofrecerlo.</li>
 <li><strong>Enciende la opción.</strong> En la sección <strong>Cover Your Cost</strong>, activa <strong>Activar Cover Your Cost</strong>.</li>
 <li><strong>Escribe la comisión de la pasarela.</strong> En <strong>Comisión de pasarela (%)</strong> pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La <strong>Comisión AFRUS (%)</strong> aparece solo para que la veas.</li>
 <li><strong>Elige cómo la ve el donante.</strong> Con <strong>Preseleccionar la opción para el donante</strong> encendido, la ve ya activada y puede quitarla. Apagado, la activa si quiere.</li>
@@ -97,7 +96,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-payment-gateways-for, how-to-turn-cover-your-cost-on-or-off
 --- CUERPO (HTML) ---
 <p><strong>A payment gateway is the service that charges your organization's donations.</strong> It processes the card, Pix, boleto or other payment method the donor uses. Labels are shown as they appear in the Spanish version of the console.</p>
-<p>Gateways are set up once for your whole organization, in <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Settings &gt; Payments &gt; Payment gateways). You can also get there from the profile menu (top corner), option <strong>Ajustes de organización</strong> (Organization settings).</p>
+<p>Gateways are set up once for your whole organization, in <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> (Organization settings &gt; Payment gateways). You find <strong>Ajustes de Organización</strong> in the profile menu (top corner).</p>
 <p>Then, in each donation form (widget), you choose which of your gateways to offer, in the <strong>Medio de pago</strong> (Payment method) block of the editor.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Why doesn't my gateway appear in the form?</strong> In each country of the form, only the connected gateways that accept that country's currency appear.</p>
@@ -124,9 +123,8 @@ Relacionados: what-are-payment-gateways, how-to-turn-cover-your-cost-on-or-off
 </ul>
 <h2>Good to know</h2>
 <ul>
-<li>Pix, boleto and cash are only offered for one-time donations. The exception is Pix with InfoPago, which also allows monthly donations.</li>
+<li>Pix, boleto and cash are payment methods for Brazil and are only offered for one-time donations. The exception is Pix with InfoPago, which also allows monthly donations.</li>
 <li>Some payment methods stay pending until the gateway or the bank confirms the payment.</li>
-<li>In registration forms with payment (<strong>Sign up</strong> goal) only Stripe and Niubiz are offered.</li>
 </ul>
 === FIN ===
 ```
@@ -148,7 +146,7 @@ Relacionados: what-are-payment-gateways, what-are-payment-gateways-for
 <ul><li><strong>AFRUS has to turn on Cover Your Cost for your organization.</strong> If you don't see the <strong>Cover Your Cost</strong> section when you open a gateway, write to us to activate it.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the gateway.</strong> Go to <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Settings &gt; Payments &gt; Payment gateways) and open the gateway where you want to offer it.</li>
+<li><strong>Open the gateway.</strong> Go to <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> (Organization settings &gt; Payment gateways) and open the gateway where you want to offer it.</li>
 <li><strong>Turn it on.</strong> In the <strong>Cover Your Cost</strong> section, turn on <strong>Activar Cover Your Cost</strong>.</li>
 <li><strong>Enter the gateway fee.</strong> In <strong>Comisión de pasarela (%)</strong> (Gateway fee %), enter the percentage that gateway charges you (minimum 0.01). The <strong>Comisión AFRUS (%)</strong> (AFRUS fee %) is shown for reference only.</li>
 <li><strong>Choose how the donor sees it.</strong> With <strong>Preseleccionar la opción para el donante</strong> (Preselect the option for the donor) on, they see it already on and can remove it. Off, they turn it on if they want.</li>
@@ -177,7 +175,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-servem-os-gateways-de-pagamento, como-ativar-ou-desativar-o-cover-your-cost
 --- CUERPO (HTML) ---
 <p><strong>Um gateway de pagamento é o serviço que cobra as doações da sua organização.</strong> É ele que processa o cartão, o Pix, o boleto ou outro meio de pagamento que o doador usar. Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>Os gateways são configurados uma vez para toda a organização, em <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Configurações &gt; Pagamentos &gt; Gateways de pagamento). Você também chega lá pelo menu de perfil (canto superior), opção <strong>Ajustes de organización</strong> (Configurações da organização).</p>
+<p>Os gateways são configurados uma vez para toda a organização, em <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> (Ajustes da organização &gt; Gateways de pagamento). <strong>Ajustes de Organización</strong> fica no menu de perfil (canto superior).</p>
 <p>Depois, em cada formulário de doação (widget), você escolhe quais gateways oferecer, no bloco <strong>Medio de pago</strong> (Meio de pagamento) do editor.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Por que meu gateway não aparece no formulário?</strong> Em cada país do formulário, só aparecem os gateways conectados que aceitam a moeda daquele país.</p>
@@ -204,9 +202,8 @@ Relacionados: o-que-sao-os-gateways-de-pagamento, como-ativar-ou-desativar-o-cov
 </ul>
 <h2>Para lembrar</h2>
 <ul>
-<li>Pix, boleto e dinheiro só são oferecidos para doações únicas. A exceção é Pix com InfoPago, que também aceita doações mensais.</li>
+<li>Pix, boleto e dinheiro são meios de pagamento do Brasil e só são oferecidos para doações únicas. A exceção é Pix com InfoPago, que também aceita doações mensais.</li>
 <li>Alguns meios de pagamento ficam pendentes até o gateway ou o banco confirmar o pagamento.</li>
-<li>Nos formulários de cadastro com pagamento (objetivo <strong>Sign up</strong>) só são oferecidos Stripe e Niubiz.</li>
 </ul>
 === FIN ===
 ```
@@ -228,7 +225,7 @@ Relacionados: o-que-sao-os-gateways-de-pagamento, para-que-servem-os-gateways-de
 <ul><li><strong>A AFRUS precisa ativar o Cover Your Cost para sua organização.</strong> Se você não vê a seção <strong>Cover Your Cost</strong> ao abrir um gateway, escreva para nós para ativá-la.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o gateway.</strong> Acesse <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Configurações &gt; Pagamentos &gt; Gateways de pagamento) e abra o gateway onde quer oferecê-lo.</li>
+<li><strong>Abra o gateway.</strong> Acesse <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> (Ajustes da organização &gt; Gateways de pagamento) e abra o gateway onde quer oferecê-lo.</li>
 <li><strong>Ative a opção.</strong> Na seção <strong>Cover Your Cost</strong>, ative <strong>Activar Cover Your Cost</strong>.</li>
 <li><strong>Informe a taxa do gateway.</strong> Em <strong>Comisión de pasarela (%)</strong> (Taxa do gateway %), coloque a porcentagem que esse gateway cobra (mínimo 0.01). A <strong>Comisión AFRUS (%)</strong> (Taxa AFRUS %) aparece só para consulta.</li>
 <li><strong>Escolha como o doador vê.</strong> Com <strong>Preseleccionar la opción para el donante</strong> (Pré-selecionar a opção para o doador) ativado, ele vê a opção ligada e pode tirá-la. Desativado, ele a liga se quiser.</li>

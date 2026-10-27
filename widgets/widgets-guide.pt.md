@@ -29,7 +29,7 @@ Em **Fundraising > Widgets** você verá a tela **Gestión de Widgets** (Gestão
 - **Permissões.** Para ver o botão "Nuevo widget" você precisa da permissão de edição de formulários de doação ou de leads.
 - **O editor abre em uma nova aba.** "Nuevo widget" e "Editar" abrem o editor em uma nova aba do navegador. Lá, o botão de criar diz "Nuevo formulario" (Novo formulário).
 - **Como o editor está organizado.** Ele tem duas abas, **Editar** e **Instalar**. Em **Editar**: à esquerda, o objetivo e os painéis **Renderización** (Renderização), **Estilo** e **Avanzado** (Avançado); no centro, os países ("Nuevo país"), os snippets ("Agregar", Adicionar) e "Vista previa" (Pré-visualização); à direita, **Configuración del snippet** (Configuração do snippet), com o botão de salvar (**Guardar Snippet**). No topo, o nome do widget, a chave **Estado** (Status) e "Guardar Widget" (Salvar widget).
-- **Gateways conectados.** Para cobrar, o gateway de pagamento precisa estar conectado em **Configuración > Pagos > Pasarelas de pago** (Configuração > Pagamentos > Gateways de pagamento).
+- **Gateways conectados.** Para cobrar, o gateway de pagamento precisa estar conectado em **Ajustes de Organización > Pasarelas de pago** (Ajustes da organização > Gateways de pagamento).
 
 ---
 
@@ -123,7 +123,7 @@ A maioria dos snippets só pode ser adicionada uma vez por país; **Texto**, **I
 
 ## Como configurar os métodos de pagamento do seu widget
 
-**Antes de começar:** o gateway precisa estar conectado em **Configuración > Pagos > Pasarelas de pago**. No snippet aparecem apenas os gateways conectados que aceitam a moeda do país. Em widgets **Sign up** são oferecidos apenas Stripe e Niubiz2.
+**Antes de começar:** o gateway precisa estar conectado em **Ajustes de Organización > Pasarelas de pago**. No snippet aparecem apenas os gateways conectados que aceitam a moeda do país. Em widgets **Sign up** são oferecidos apenas Stripe e Niubiz2.
 
 1. **Abra o snippet Medio de pago.** No editor do widget, escolha o país e clique no snippet **Medio de pago**.
    <!-- captura pendente: como-configurar-os-metodos-de-pagamento-01 — snippet Medio de pago -->
@@ -213,7 +213,7 @@ Com **Cover Your Cost**, o doador pode cobrir a taxa do gateway, para que sua or
 
 **Antes de começar:** a AFRUS precisa ativar o Cover Your Cost para a sua organização; não dá para ativá-lo pelo console. Enquanto não estiver ativo, a seção não aparece. Ele é configurado **por gateway**, não dentro do editor do widget.
 
-1. **Abra o gateway.** Acesse **Configuración > Pagos > Pasarelas de pago** e abra o gateway.
+1. **Abra o gateway.** Acesse **Ajustes de Organización > Pasarelas de pago** e abra o gateway.
    ![Janela do gateway com a seção Cover Your Cost e a chave Activar Cover Your Cost](img/cover-your-cost-01.webp)
 2. **Ative a opção.** Na seção **Cover Your Cost**, ative **Activar Cover Your Cost**.
 3. **Defina a taxa.** Preencha **Comisión de pasarela (%)** (taxa do gateway, mínimo 0.01). A **Comisión AFRUS (%)** (taxa AFRUS) aparece só para leitura. A soma das duas precisa ser menor que 80%.
@@ -308,10 +308,10 @@ Sim. Cada país tem seu próprio snippet Doação e seu próprio meio de pagamen
 Não, exceto Pix com Infopago, que também aceita mensal. Pix, boleto e dinheiro são oferecidos só como **Única**.
 
 **Onde ativo o Cover Your Cost dentro do widget?**
-Em nenhum lugar do widget: ele é configurado por gateway, em **Configuración > Pagos > Pasarelas de pago**, e só se a AFRUS o ativou para a sua organização.
+Em nenhum lugar do widget: ele é configurado por gateway, em **Ajustes de Organización > Pasarelas de pago**, e só se a AFRUS o ativou para a sua organização.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

@@ -29,7 +29,7 @@ In **Fundraising > Widgets** you will see the **Gestión de Widgets** (Widget ma
 - **Permissions.** To see the "Nuevo widget" button you need permission to edit donation or lead forms.
 - **The editor opens in a new tab.** "Nuevo widget" and "Editar" (Edit) open the editor in a new browser tab. There, the create button says "Nuevo formulario" (New form).
 - **How the editor is organized.** It has two tabs, **Editar** (Edit) and **Instalar** (Install). In **Editar**: on the left, the goal and the **Renderización** (Rendering), **Estilo** (Style) and **Avanzado** (Advanced) panels; in the center, the countries ("Nuevo país"), the snippets ("Agregar", Add) and "Vista previa" (Preview); on the right, **Configuración del snippet** (Snippet settings), with the save button (**Guardar Snippet**). At the top, the widget name, the **Estado** (Status) switch and "Guardar Widget" (Save widget).
-- **Connected gateways.** To collect payments, the gateway must be connected in **Configuración > Pagos > Pasarelas de pago** (Settings > Payments > Payment gateways).
+- **Connected gateways.** To collect payments, the gateway must be connected in **Ajustes de Organización > Pasarelas de pago** (Organization settings > Payment gateways).
 
 ---
 
@@ -123,7 +123,7 @@ Most snippets can be added only once per country; **Texto**, **Imagen**, **Separ
 
 ## How to set up payment methods in your widget
 
-**Before you start:** the gateway must be connected in **Configuración > Pagos > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency. In **Sign up** widgets only Stripe and Niubiz2 are offered.
+**Before you start:** the gateway must be connected in **Ajustes de Organización > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency. In **Sign up** widgets only Stripe and Niubiz2 are offered.
 
 1. **Open the Medio de pago snippet.** In the widget editor, choose the country and click the **Medio de pago** snippet.
    <!-- screenshot pending: how-to-set-up-payment-methods-01 — Medio de pago snippet -->
@@ -213,7 +213,7 @@ With **Cover Your Cost**, donors can cover the gateway fee, so your organization
 
 **Before you start:** AFRUS must turn on Cover Your Cost for your organization; it can't be turned on from the console. Until then, the section doesn't appear. It is set up **per gateway**, not inside the widget editor.
 
-1. **Open the gateway.** Go to **Configuración > Pagos > Pasarelas de pago** and open the gateway.
+1. **Open the gateway.** Go to **Ajustes de Organización > Pasarelas de pago** and open the gateway.
    ![Gateway window with the Cover Your Cost section and the Activar Cover Your Cost switch](img/cover-your-cost-01.webp)
 2. **Turn it on.** In the **Cover Your Cost** section, turn on **Activar Cover Your Cost**.
 3. **Set the fee.** Fill in **Comisión de pasarela (%)** (gateway fee, minimum 0.01). The **Comisión AFRUS (%)** (AFRUS fee) is read-only. Both together must be under 80%.
@@ -308,10 +308,10 @@ Yes. Each country has its own Donation snippet and its own payment method.
 No, except Pix with Infopago, which also allows monthly. Pix, boleto and cash are offered only as **Única**.
 
 **Where do I turn on Cover Your Cost inside the widget?**
-Nowhere in the widget: it is set up per gateway, in **Configuración > Pagos > Pasarelas de pago**, and only if AFRUS turned it on for your organization.
+Nowhere in the widget: it is set up per gateway, in **Ajustes de Organización > Pasarelas de pago**, and only if AFRUS turned it on for your organization.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

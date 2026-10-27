@@ -27,7 +27,7 @@ En **Fundraising > Widgets** verás la pantalla **Gestión de Widgets**, con el 
 - **Permisos.** Para ver el botón "Nuevo widget" necesitas el permiso de edición de formularios de donación o de leads.
 - **El editor se abre en una pestaña nueva.** "Nuevo widget" y "Editar" abren el editor en una pestaña nueva del navegador. Ahí el botón de crear dice "Nuevo formulario".
 - **Cómo está organizado el editor.** Tiene dos pestañas, **Editar** e **Instalar**. En **Editar**: a la izquierda, el objetivo y los paneles **Renderización**, **Estilo** y **Avanzado**; al centro, los países ("Nuevo país"), los snippets ("Agregar") y "Vista previa"; a la derecha, **Configuración del snippet**, con el botón de guardar (**Guardar Snippet**). Arriba, el nombre del widget, el interruptor **Estado** y "Guardar Widget".
-- **Pasarelas conectadas.** Para cobrar, la pasarela tiene que estar conectada en **Configuración > Pagos > Pasarelas de pago**.
+- **Pasarelas conectadas.** Para cobrar, la pasarela tiene que estar conectada en **Ajustes de Organización > Pasarelas de pago**.
 
 ---
 
@@ -121,7 +121,7 @@ La mayoría de los snippets solo se pueden agregar una vez por país; **Texto**,
 
 ## Cómo configurar los métodos de pago en tu widget
 
-**Antes de empezar:** la pasarela tiene que estar conectada en **Configuración > Pagos > Pasarelas de pago**. En el snippet solo aparecen las pasarelas conectadas que aceptan la moneda del país. En widgets **Sign up** solo se ofrecen Stripe y Niubiz2.
+**Antes de empezar:** la pasarela tiene que estar conectada en **Ajustes de Organización > Pasarelas de pago**. En el snippet solo aparecen las pasarelas conectadas que aceptan la moneda del país. En widgets **Sign up** solo se ofrecen Stripe y Niubiz2.
 
 1. **Abre el snippet Medio de pago.** En el editor del widget, elige el país y haz clic en el snippet **Medio de pago**.
    <!-- captura pendiente: como-configurar-los-metodos-de-pago-01 — snippet Medio de pago -->
@@ -211,7 +211,7 @@ Con **Cover Your Cost**, el donante puede cubrir la comisión de la pasarela, pa
 
 **Antes de empezar:** AFRUS tiene que activar Cover Your Cost para tu organización; no se puede activar desde la consola. Mientras no esté activo, la sección no aparece. Se configura **por pasarela**, no dentro del editor del widget.
 
-1. **Abre la pasarela.** Ve a **Configuración > Pagos > Pasarelas de pago** y abre la pasarela.
+1. **Abre la pasarela.** Ve a **Ajustes de Organización > Pasarelas de pago** y abre la pasarela.
    ![Ventana de la pasarela con la sección Cover Your Cost y el interruptor Activar Cover Your Cost](img/cover-your-cost-01.webp)
 2. **Activa la opción.** En la sección **Cover Your Cost**, activa **Activar Cover Your Cost**.
 3. **Define la comisión.** Completa **Comisión de pasarela (%)** (mínimo 0.01). La **Comisión AFRUS (%)** se muestra solo para lectura. La suma de ambas tiene que ser menor a 80 %.
@@ -306,10 +306,10 @@ Sí. Cada país tiene su propio snippet Donación y su propio Medio de pago.
 No, salvo Pix con Infopago, que también admite mensual. Pix, boleto y efectivo se ofrecen solo como **Única**.
 
 **¿Dónde activo Cover Your Cost dentro del widget?**
-En ningún lado del widget: se configura por pasarela, en **Configuración > Pagos > Pasarelas de pago**, y solo si AFRUS lo activó para tu organización.
+En ningún lado del widget: se configura por pasarela, en **Ajustes de Organización > Pasarelas de pago**, y solo si AFRUS lo activó para tu organización.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

@@ -179,7 +179,7 @@ Imagen de portada: pendiente
 Relacionados: que-es-un-widget, snippets-obligatorios-y-sugeridos, como-configurar-el-snippet-donacion, como-agregar-un-nuevo-pais-a-un-widget
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
-<ul><li><strong>Conecta la pasarela</strong> en <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>. En el widget solo aparecen las pasarelas conectadas que aceptan la moneda del país.</li></ul>
+<ul><li><strong>Conecta la pasarela</strong> en <strong>Ajustes de Organización &gt; Pasarelas de pago</strong>. En el widget solo aparecen las pasarelas conectadas que aceptan la moneda del país.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre el snippet Medio de pago.</strong> En el editor del widget, elige el país y haz clic en <strong>Medio de pago</strong>.</li>
@@ -306,7 +306,7 @@ Relacionados: que-es-un-widget, cards-de-conversion-unica-a-recurrente, como-con
 </ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre la pasarela.</strong> En <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>.</li>
+<li><strong>Abre la pasarela.</strong> En <strong>Ajustes de Organización &gt; Pasarelas de pago</strong>.</li>
 <li><strong>Activa la opción.</strong> En <strong>Cover Your Cost</strong>, activa <strong>Activar Cover Your Cost</strong>.</li>
 <li><strong>Define la comisión.</strong> <strong>Comisión de pasarela (%)</strong>, mínimo 0.01. Sumada a la <strong>Comisión AFRUS (%)</strong> debe ser menor a 80 %.</li>
 <li><strong>Elige si viene preseleccionada.</strong> Con <strong>Preseleccionar la opción para el donante</strong>.</li>
@@ -575,7 +575,7 @@ Imagen de portada: pendiente
 Relacionados: what-is-a-widget, required-and-suggested-snippets, how-to-set-up-the-donation-snippet, how-to-add-a-new-country-to-a-widget
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p><h2>Before you start</h2>
-<ul><li><strong>Connect the gateway</strong> in <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Settings &gt; Payments &gt; Payment gateways). The widget only shows connected gateways that accept the country's currency.</li></ul>
+<ul><li><strong>Connect the gateway</strong> in <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> (Organization settings &gt; Payment gateways). The widget only shows connected gateways that accept the country's currency.</li></ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the Medio de pago snippet.</strong> In the widget editor, choose the country and click <strong>Medio de pago</strong>.</li>
@@ -702,7 +702,7 @@ Relacionados: what-is-a-widget, conversion-cards-one-time-to-recurring, how-to-s
 </ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the gateway.</strong> In <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>.</li>
+<li><strong>Open the gateway.</strong> In <strong>Ajustes de Organización &gt; Pasarelas de pago</strong>.</li>
 <li><strong>Turn it on.</strong> In <strong>Cover Your Cost</strong>, turn on <strong>Activar Cover Your Cost</strong>.</li>
 <li><strong>Set the fee.</strong> <strong>Comisión de pasarela (%)</strong> (gateway fee), minimum 0.01. Together with the <strong>Comisión AFRUS (%)</strong> it must be under 80%.</li>
 <li><strong>Choose whether it is preselected.</strong> With <strong>Preseleccionar la opción para el donante</strong>.</li>
@@ -971,7 +971,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-e-um-widget, snippets-obrigatorios-e-sugeridos, como-configurar-o-snippet-doacao, como-adicionar-um-novo-pais-a-um-widget
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p><h2>Antes de começar</h2>
-<ul><li><strong>Conecte o gateway</strong> em <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong> (Configuração &gt; Pagamentos &gt; Gateways de pagamento). O widget mostra apenas os gateways conectados que aceitam a moeda do país.</li></ul>
+<ul><li><strong>Conecte o gateway</strong> em <strong>Ajustes de Organización &gt; Pasarelas de pago</strong> (Ajustes da organização &gt; Gateways de pagamento). O widget mostra apenas os gateways conectados que aceitam a moeda do país.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra o snippet Medio de pago.</strong> No editor do widget, escolha o país e clique em <strong>Medio de pago</strong>.</li>
@@ -1098,7 +1098,7 @@ Relacionados: o-que-e-um-widget, cards-de-conversao-unica-para-recorrente, como-
 </ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o gateway.</strong> Em <strong>Configuración &gt; Pagos &gt; Pasarelas de pago</strong>.</li>
+<li><strong>Abra o gateway.</strong> Em <strong>Ajustes de Organización &gt; Pasarelas de pago</strong>.</li>
 <li><strong>Ative a opção.</strong> Em <strong>Cover Your Cost</strong>, ative <strong>Activar Cover Your Cost</strong>.</li>
 <li><strong>Defina a taxa.</strong> <strong>Comisión de pasarela (%)</strong> (taxa do gateway), mínimo 0.01. Somada à <strong>Comisión AFRUS (%)</strong> precisa ser menor que 80%.</li>
 <li><strong>Escolha se vem pré-selecionada.</strong> Com <strong>Preseleccionar la opción para el donante</strong>.</li>
