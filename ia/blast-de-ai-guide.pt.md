@@ -22,6 +22,7 @@ Você escolhe quem recebe, o objetivo e o que quer dizer. A IA escreve um e-mail
 - **Personalizar cada mensagem.** Cada pessoa recebe um texto escrito para ela.
 - **Enviar para um grupo específico.** Você escolhe um segmento ou uma etiqueta.
 - **Medir resultados.** Você vê aberturas, cliques e rejeições, como em um Blast comum.
+- **Crie sua assinatura em AI > Firmas de usuarios.** Sem assinatura você não consegue fazer envios com IA.
 
 ## Antes de começar
 

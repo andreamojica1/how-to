@@ -59,7 +59,8 @@ Relacionados: que-es-el-blast-de-ai, para-que-sirve-el-blast-de-ai
 <h2>Antes de empezar</h2>
 <ul><li><strong>Activa la IA de AFRUS.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li>
 <li><strong>Carga información en AI &gt; Entrenamiento [AI RAG].</strong> Es lo que la IA usa para escribir.</li>
-<li><strong>Ten lista tu cuenta de correo de envío y tus créditos,</strong> igual que para un Blast normal.</li></ul>
+<li><strong>Ten lista tu cuenta de correo de envío y tus créditos,</strong> igual que para un Blast normal.</li>
+<li><strong>Crea tu firma en AI &gt; Firmas de usuarios.</strong> Sin firma no puedes hacer envíos con IA.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Empieza.</strong> Entra a <strong>AI &gt; Blast de AI</strong> y pulsa "Comenzar Blast AI".</li>
@@ -137,7 +138,8 @@ Relacionados: what-is-an-ai-blast, what-is-an-ai-blast-for
 <h2>Before you start</h2>
 <ul><li><strong>Turn on AFRUS AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li>
 <li><strong>Upload information in AI &gt; Entrenamiento [AI RAG].</strong> That's what the AI uses to write.</li>
-<li><strong>Have your sending email account and credits ready,</strong> just like for a regular Blast.</li></ul>
+<li><strong>Have your sending email account and credits ready,</strong> just like for a regular Blast.</li>
+<li><strong>Create your signature in AI &gt; Firmas de usuarios.</strong> Without a signature you can't send with AI.</li></ul>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Start.</strong> Go to <strong>AI &gt; Blast de AI</strong> and click "Comenzar Blast AI" (Start AI Blast).</li>
@@ -195,6 +197,7 @@ Relacionados: o-que-e-o-blast-de-ia, como-usar-o-blast-de-ia
 <li><strong>Personalizar cada mensagem:</strong> cada pessoa recebe um texto escrito para ela.</li>
 <li><strong>Enviar para um grupo específico:</strong> você escolhe um segmento ou uma etiqueta.</li>
 <li><strong>Medir resultados:</strong> você vê aberturas, cliques e rejeições, como em um Blast comum.</li>
+<li><strong>Crie sua assinatura em AI &gt; Firmas de usuarios.</strong> Sem assinatura você não consegue fazer envios com IA.</li>
 </ul>
 === FIN ===
 ```
