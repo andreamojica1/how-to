@@ -95,8 +95,6 @@ Existem dois formulários diferentes: o de cadastro, preenchido por quem quer se
 3. **Soma no total da página.** Quando a doação é aprovada, ela soma no **Total recaudado** (Total arrecadado) mostrado na página pública do captador.
 4. **Página de agradecimento.** Depois de doar, o doador vê a página de agradecimento ou redirecionamento configurada no widget.
 
-> **Pendente de confirmação:** se o captador ou a sua organização recebem um e-mail a cada doação feita na página de um captador.
-
 ## Como ver quem está fazendo Peer to peer, aprovar um captador e saber quanto ele arrecadou
 
 ### Parte 1 — Ver quem está captando
@@ -166,8 +164,6 @@ Sim. Toda página nova começa como **Pendiente** e não há aprovação automá
 **Como consigo o link de cadastro para enviar aos meus apoiadores?**
 Hoje ele é acessado pelo botão "Crea tu campaña" dos widgets de doação da campanha.
 
-> **Pendente de confirmação:** se existe outra forma de obter o link de cadastro de captadores pelo console.
-
 **O captador pode mudar a página depois de publicar?**
 Não. No painel dele não há opção para editar uma página já publicada.
 
@@ -181,4 +177,4 @@ Sim. São doações da campanha e contam nos números gerais dela.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

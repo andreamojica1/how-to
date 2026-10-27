@@ -95,8 +95,6 @@ There are two different forms: the sign-up form, filled in by someone who wants 
 3. **It adds to the page total.** When the donation succeeds, it adds to the **Total recaudado** (Total raised) shown on the fundraiser's public page.
 4. **Thank-you page.** After donating, the donor sees the thank-you or redirect page set up in the widget.
 
-> **Pending confirmation:** whether the fundraiser or your organization receive an email each time someone donates on a fundraiser's page.
-
 ## How to see who is doing Peer to peer, approve a fundraiser and know how much they have raised
 
 ### Part 1 — See who is fundraising
@@ -166,8 +164,6 @@ Yes. Every new page starts as **Pendiente** and there is no automatic approval.
 **How do I get the sign-up link to send to my supporters?**
 Today it is reached through the "Crea tu campaña" button on the campaign's donation widgets.
 
-> **Pending confirmation:** whether there is another way to get the fundraiser sign-up link from the console.
-
 **Can a fundraiser change their page after publishing it?**
 No. Their dashboard has no option to edit a published page.
 
@@ -181,4 +177,4 @@ Yes. They are campaign donations and count in its overall figures.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

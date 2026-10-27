@@ -93,8 +93,6 @@ Hay dos formularios distintos: el de registro, que llena quien quiere ser recaud
 3. **Suma al total de la página.** Cuando la donación resulta exitosa, suma al **Total recaudado** que se ve en la página pública del recaudador.
 4. **Página de agradecimiento.** Después de donar, el donante ve la página de agradecimiento o redirección que tenga configurada el widget.
 
-> **Pendiente de confirmar:** si el recaudador o tu organización reciben un email cada vez que alguien dona en una página de recaudador.
-
 ## Cómo ver quién hace Peer to peer, aprobar a un recaudador y saber cuánto ha recaudado
 
 ### Parte 1 — Ver quién está recaudando
@@ -164,8 +162,6 @@ Sí. Toda página nueva nace en **Pendiente** y no hay aprobación automática.
 **¿Cómo consigo el enlace de registro para enviárselo a mis simpatizantes?**
 Hoy se llega a través del botón "Crea tu campaña" de los widgets de donación de la campaña.
 
-> **Pendiente de confirmar:** si existe otra forma de obtener el enlace de registro de recaudadores desde el panel.
-
 **¿El recaudador puede cambiar su página después de publicarla?**
 No. En su panel no hay opción para editar una página ya publicada.
 
@@ -179,4 +175,4 @@ Sí. Son donaciones de la campaña y cuentan en sus cifras generales.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*
