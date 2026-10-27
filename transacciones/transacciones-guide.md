@@ -66,7 +66,10 @@ Al terminar verás *"Reembolsado con éxito."* y la transacción pasará a **Ree
 
 > **¿Se puede deshacer?** No. El dinero se devuelve en la pasarela y no hay opción para revertir el reembolso.
 
-> **Pendiente de confirmar:** cuánto tarda el dinero en llegar al donante y hasta cuántos días después del cobro acepta reembolsos cada pasarela; también si reembolsar un **Cargo** cancela la suscripción. Si quieres detener los cobros futuros, cancela la suscripción en **Suscripciones**.
+> **Ten en cuenta:**
+> - **Cuánto tarda el dinero en llegar al donante:** depende del banco. Algunos hacen la devolución en 3 días y otros pueden tardar hasta 30 días hábiles.
+> - **Plazo para reembolsar:** desde AFRUS puedes hacer reembolsos hasta 24 horas después del cobro. Si ya pasó ese tiempo, escribe a tu proveedor de la pasarela de pagos. Si usas la pasarela de pagos de AFRUS, escribe a soportepagos@afrus.ai y el equipo de AFRUS hará la devolución.
+> - **Suscripciones:** reembolsar un **Cargo** no cancela la suscripción. Si quieres detener los cobros futuros, cancela la suscripción directamente en **Suscripciones**.
 
 ## Cómo marcar como fraude una transacción
 
@@ -151,7 +154,6 @@ La suscripción en sí (el registro "madre", **Recurrente**) no aparece en esta 
 | **Pendiente de confirmación** | Requiere que tu equipo lo confirme o rechace con **Confirmar transacción** / **Rechazar transacción** |
 | **Fallido** / **Rechazada** | El pago no se completó. Revisa la razón en el detalle |
 | **Reembolsado** | El pago se devolvió al donante |
-| **Propuesta** | Pendiente de confirmar qué significa este estado |
 | "PRENOTIFICATION_OK" | Se muestra así, con texto técnico, para transacciones prenotificadas |
 
 Las transacciones en **Fraude**, **Cancelada** o **Contracargo** no aparecen en **Transacciones**. Las de fraude se ven en **Follow up > Radar - monitor de fraude**.
@@ -174,4 +176,4 @@ En **Suscripciones**. En Transacciones ves cada cobro (**Cargo**) que generan.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

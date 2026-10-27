@@ -114,6 +114,9 @@ Relacionados: que-son-las-transacciones, como-crear-un-agradecimiento-con-ia-des
 <p>Verás <em>"Reembolsado con éxito."</em> y la transacción pasará a <strong>Reembolsado</strong>. Si tenía un certificado de donación vigente, se anula. Si la pasarela lo rechaza, verás <em>"Error al reembolsar el cargo."</em> y nada cambia.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Puedo reembolsar solo una parte?</strong> No. Siempre se reembolsa el monto completo.</p>
+<p><strong>¿Cuánto tarda el dinero en llegar al donante?</strong> Depende del banco. Algunos hacen la devolución en 3 días y otros pueden tardar hasta 30 días hábiles.</p>
+<p><strong>¿Hasta cuándo puedo reembolsar?</strong> Desde AFRUS, hasta 24 horas después del cobro. Si ya pasó ese tiempo, escribe a tu proveedor de la pasarela de pagos. Si usas la pasarela de pagos de AFRUS, escribe a soportepagos@afrus.ai y el equipo de AFRUS hará la devolución.</p>
+<p><strong>¿Reembolsar cancela la suscripción?</strong> No. Si quieres detener los cobros futuros, cancela la suscripción directamente en <strong>Suscripciones</strong>.</p>
 <p><strong>¿Se puede deshacer?</strong> No. El dinero se devuelve en la pasarela y no hay opción para revertirlo.</p>
 === FIN ===
 ```
@@ -362,6 +365,9 @@ Relacionados: what-are-transactions, how-to-create-an-ai-thank-you-from-transact
 <p>You will see <em>"Reembolsado con éxito."</em> (Refunded successfully) and the transaction changes to <strong>Reembolsado</strong> (Refunded). If it had a valid donation certificate, it is voided. If the gateway rejects it, you will see <em>"Error al reembolsar el cargo."</em> and nothing changes.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Can I refund only part of it?</strong> No. The full amount is always refunded.</p>
+<p><strong>How long does the money take to reach the donor?</strong> It depends on the bank. Some return it in 3 days and others can take up to 30 business days.</p>
+<p><strong>How long do I have to refund?</strong> From AFRUS, up to 24 hours after the charge. After that, write to your payment gateway provider. If you use the AFRUS payment gateway, write to soportepagos@afrus.ai and the AFRUS team will make the refund.</p>
+<p><strong>Does refunding cancel the subscription?</strong> No. If you want to stop future charges, cancel the subscription directly in <strong>Suscripciones</strong>.</p>
 <p><strong>Can it be undone?</strong> No. The money is returned through the gateway and there is no option to reverse it.</p>
 === FIN ===
 ```
@@ -615,6 +621,9 @@ Relacionados: o-que-sao-as-transacoes, como-criar-um-agradecimento-com-ia-em-tra
 <p>Você verá <em>"Reembolsado con éxito."</em> (Reembolsado com sucesso) e a transação passará para <strong>Reembolsado</strong>. Se havia um certificado de doação válido, ele é anulado. Se o gateway recusar, você verá <em>"Error al reembolsar el cargo."</em> e nada muda.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Posso reembolsar só uma parte?</strong> Não. O valor total é sempre reembolsado.</p>
+<p><strong>Quanto tempo o dinheiro leva para chegar ao doador?</strong> Depende do banco. Alguns fazem a devolução em 3 dias e outros podem levar até 30 dias úteis.</p>
+<p><strong>Até quando posso reembolsar?</strong> Pela AFRUS, até 24 horas depois da cobrança. Se esse prazo já passou, escreva para o seu provedor do gateway de pagamento. Se você usa o gateway de pagamento da AFRUS, escreva para soportepagos@afrus.ai e a equipe da AFRUS fará a devolução.</p>
+<p><strong>Reembolsar cancela a assinatura?</strong> Não. Se quiser parar as cobranças futuras, cancele a assinatura diretamente em <strong>Suscripciones</strong>.</p>
 <p><strong>Dá para desfazer?</strong> Não. O dinheiro é devolvido pelo gateway e não há opção para reverter.</p>
 === FIN ===
 ```

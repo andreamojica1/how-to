@@ -68,7 +68,10 @@ When you finish you will see *"Reembolsado con éxito."* (Refunded successfully)
 
 > **Can it be undone?** No. The money is returned through the gateway and there is no option to reverse the refund.
 
-> **Pending confirmation:** how long the money takes to reach the donor and how many days after the charge each gateway accepts refunds; also whether refunding a **Cargo** (charge) cancels the subscription. If you want to stop future charges, cancel the subscription in **Suscripciones**.
+> **Keep in mind:**
+> - **How long the money takes to reach the donor:** it depends on the bank. Some return it in 3 days and others can take up to 30 business days.
+> - **Refund window:** from AFRUS you can refund up to 24 hours after the charge. After that, write to your payment gateway provider. If you use the AFRUS payment gateway, write to soportepagos@afrus.ai and the AFRUS team will make the refund.
+> - **Subscriptions:** refunding a **Cargo** (charge) doesn't cancel the subscription. If you want to stop future charges, cancel the subscription directly in **Suscripciones**.
 
 ## How to mark a transaction as fraud
 
@@ -153,7 +156,6 @@ The subscription itself (the "parent" record, **Recurrente**) does not appear in
 | **Pendiente de confirmación** (Awaiting confirmation) | Your team must confirm or reject it with **Confirmar transacción** / **Rechazar transacción** |
 | **Fallido** / **Rechazada** (Failed / Rejected) | The payment did not go through. Check the reason in the details |
 | **Reembolsado** (Refunded) | The payment was returned to the donor |
-| **Propuesta** (Proposal) | Pending confirmation of what this status means |
 | "PRENOTIFICATION_OK" | Shown like this, as technical text, for pre-notified transactions |
 
 Transactions in **Fraude**, **Cancelada** or **Contracargo** (Fraud, Cancelled, Chargeback) do not appear in **Transacciones**. Fraud ones are in **Follow up > Radar - monitor de fraude**.
@@ -176,4 +178,4 @@ In **Suscripciones**. In Transactions you see each charge (**Cargo**) they gener
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*
