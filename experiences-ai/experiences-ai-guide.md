@@ -109,8 +109,6 @@ Las preguntas frecuentes de la página son las del paso **Preguntas Frecuentes**
 
 > **Importante:** las preguntas frecuentes son las mismas para todas las experiencias de tu organización; no hay preguntas por experiencia.
 
-> **Pendiente de confirmar:** si todas las plantillas tienen sección de preguntas frecuentes. Si no ves las preguntas en tu página, prueba con otra plantilla con "Cambiar diseño".
-
 > **¿Se puede deshacer?** Borrar una pregunta es inmediato y sin confirmación; para recuperarla, vuelve a escribirla.
 
 ---
@@ -122,8 +120,6 @@ Las preguntas frecuentes de la página son las del paso **Preguntas Frecuentes**
 | **Borrador** | Creada pero nunca publicada. No tiene link público | Ábrela con el lápiz y pulsa "Publicar" |
 | **Habilitado** | Publicada al menos una vez | Copiar el link, ver la página y descargar el QR |
 | **Deshabilitado** | Marcada como deshabilitada en la lista | Vuelve a activarla con el interruptor de **Estado** |
-
-> **Pendiente de confirmar:** si al deshabilitar o eliminar una experiencia la página pública deja de verse.
 
 ## Preguntas frecuentes
 
@@ -143,4 +139,4 @@ Sí. En la barra superior, "Regenerar" vuelve a escribir con IA todos los textos
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

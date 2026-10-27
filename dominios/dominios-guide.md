@@ -83,8 +83,6 @@ Al terminar verás *"Dominio registrado con exito"*, y tu dominio aparecerá en 
 
 En **Lista de dominios**, usa el interruptor de la columna **Status**. Verás *"Dominio actualizado con exito"*. Un dominio inactivo deja de ofrecerse en el selector **Dominio** de las landings.
 
-> **Pendiente de confirmar:** si desactivar un dominio hace que las landings ya publicadas en él dejen de verse. Para dejar de usar un dominio con seguridad, quítalo de tus landings o elimínalo.
-
 ### Cómo eliminar un dominio
 
 1. **Abre el menú de la fila.** En **Lista de dominios**, abre el menú de tres puntos del dominio y elige **Eliminar**.
@@ -129,8 +127,6 @@ No. AFRUS lo gestiona automáticamente.
 **¿Puedo usar mi dominio principal, sin subdominio?**
 La pantalla lo acepta, pero solo indica un registro CNAME, que muchos proveedores no permiten en el dominio principal. Te recomendamos usar un subdominio.
 
-> **Pendiente de confirmar:** qué registro usar para el dominio principal.
-
 **¿Cuánto tarda en estar listo?**
 Depende de cuánto tarde tu proveedor en propagar el DNS. Una vez agregado, AFRUS comprueba el dominio durante unos 15 minutos.
 
@@ -144,4 +140,4 @@ Sí. En la landing, usa la ruta `/` con tu dominio.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

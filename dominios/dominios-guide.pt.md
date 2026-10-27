@@ -85,8 +85,6 @@ Ao terminar, você verá *"Dominio registrado con exito"* (Domínio cadastrado c
 
 Em **Lista de dominios**, use a chave da coluna **Status**. Você verá *"Dominio actualizado con exito"* (Domínio atualizado com sucesso). Um domínio inativo deixa de aparecer no seletor **Dominio** das landings.
 
-> **Pendente de confirmação:** se desativar um domínio faz as landings já publicadas nele deixarem de aparecer. Para deixar de usar um domínio com segurança, retire-o das suas landings ou exclua-o.
-
 ### Como excluir um domínio
 
 1. **Abra o menu da linha.** Em **Lista de dominios**, abra o menu de três pontos do domínio e escolha **Eliminar** (Excluir).
@@ -131,8 +129,6 @@ Não. A AFRUS gerencia automaticamente.
 **Posso usar meu domínio principal, sem subdomínio?**
 A tela aceita, mas só indica um registro CNAME, que muitos provedores não permitem no domínio principal. Recomendamos usar um subdomínio.
 
-> **Pendente de confirmação:** qual registro usar para o domínio principal.
-
 **Quanto tempo leva para ficar pronto?**
 Depende de quanto tempo seu provedor leva para propagar o DNS. Depois de adicionado, a AFRUS verifica o domínio por cerca de 15 minutos.
 
@@ -146,4 +142,4 @@ Sim. Na landing, use o caminho `/` com seu domínio.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

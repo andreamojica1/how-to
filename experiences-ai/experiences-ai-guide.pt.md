@@ -111,8 +111,6 @@ As perguntas frequentes da página são as da etapa **Preguntas Frecuentes** (Pe
 
 > **Importante:** as perguntas frequentes são as mesmas para todas as experiências da sua organização; não há perguntas por experiência.
 
-> **Pendente de confirmação:** se todos os modelos têm seção de perguntas frequentes. Se você não vir as perguntas na sua página, teste outro modelo com "Cambiar diseño".
-
 > **Dá para desfazer?** Apagar uma pergunta é imediato e sem confirmação; para recuperá-la, escreva-a de novo.
 
 ---
@@ -124,8 +122,6 @@ As perguntas frequentes da página são as da etapa **Preguntas Frecuentes** (Pe
 | **Borrador** (Rascunho) | Criada, mas nunca publicada. Não tem link público | Abra pelo lápis e clique em "Publicar" |
 | **Habilitado** (Habilitada) | Publicada pelo menos uma vez | Copiar o link, ver a página e baixar o QR code |
 | **Deshabilitado** (Desabilitada) | Marcada como desabilitada na lista | Reative com a chave de **Estado** (Status) |
-
-> **Pendente de confirmação:** se a página pública deixa de aparecer quando você desabilita ou exclui uma experiência.
 
 ## Perguntas frequentes
 
@@ -145,4 +141,4 @@ Sim. Na barra superior, "Regenerar" reescreve com IA todos os textos usando suas
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

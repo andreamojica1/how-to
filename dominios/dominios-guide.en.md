@@ -85,8 +85,6 @@ When you finish you will see *"Dominio registrado con exito"* (Domain registered
 
 In **Lista de dominios**, use the switch in the **Status** column. You will see *"Dominio actualizado con exito"* (Domain updated successfully). An inactive domain is no longer offered in the landings' **Dominio** selector.
 
-> **Pending confirmation:** whether turning a domain off makes landings already published on it stop showing. To stop using a domain safely, remove it from your landings or delete it.
-
 ### How to delete a domain
 
 1. **Open the row menu.** In **Lista de dominios**, open the domain's three-dot menu and choose **Eliminar** (Delete).
@@ -131,8 +129,6 @@ No. AFRUS manages it automatically.
 **Can I use my main domain, without a subdomain?**
 The screen accepts it, but it only shows a CNAME record, which many providers don't allow on the main domain. We recommend using a subdomain.
 
-> **Pending confirmation:** which record to use for the main domain.
-
 **How long until it's ready?**
 It depends on how long your provider takes to propagate the DNS. Once added, AFRUS checks the domain for about 15 minutes.
 
@@ -146,4 +142,4 @@ Yes. On the landing, use the path `/` with your domain.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

@@ -111,8 +111,6 @@ The page's frequently asked questions are the ones in the **Preguntas Frecuentes
 
 > **Important:** the FAQs are the same for all your organization's experiences; there are no per-experience FAQs.
 
-> **Pending confirmation:** whether every template has an FAQ section. If you don't see the questions on your page, try another template with "Cambiar diseño".
-
 > **Can it be undone?** Deleting a question is immediate and has no confirmation; to get it back, write it again.
 
 ---
@@ -124,8 +122,6 @@ The page's frequently asked questions are the ones in the **Preguntas Frecuentes
 | **Borrador** (Draft) | Created but never published. It has no public link | Open it with the pencil and click "Publicar" |
 | **Habilitado** (Enabled) | Published at least once | Copy the link, view the page and download the QR code |
 | **Deshabilitado** (Disabled) | Marked as disabled in the list | Turn it back on with the **Estado** (Status) switch |
-
-> **Pending confirmation:** whether the public page stops showing when you disable or delete an experience.
 
 ## Frequently asked questions
 
@@ -145,4 +141,4 @@ Yes. In the top bar, "Regenerar" (Regenerate) rewrites all the texts with AI usi
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*
