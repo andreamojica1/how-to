@@ -86,7 +86,7 @@ Ao terminar, você verá *"¡Envío realizado satisfactoriamente!"* (Envio reali
 1. **Encontre seu envio.** Em **Interacciones > Blast**, veja a **Lista de envíos** (lista de envios). A lista abre com os envios do mês atual (**MTD**): para ver envios anteriores, mude as datas no topo.
 
 2. **Abra o detalhe.** Na linha do envio, clique em "Detalles" (Detalhes).
-   <!-- captura pendente: como-ver-as-estatisticas-de-um-blast-02 — detalhe de um envio com Resumen de Audiencia, Interacción de Destinatarios e Métricas de Entrega -->
+   ![Detalhe de um envio com Resumen de Audiencia, Interacción de Destinatarios e Métricas de Entrega](img/como-ver-las-estadisticas-de-un-blast-02.webp)
 
 3. **Leia os resultados.** Você verá:
    - **Resumen de Audiencia** (Resumo da audiência): quantas pessoas havia no grupo, quantas podiam receber e quantos e-mails foram enviados.

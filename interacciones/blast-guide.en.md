@@ -86,7 +86,7 @@ When you finish you will see *"¡Envío realizado satisfactoriamente!"* (Send co
 1. **Find your send.** In **Interacciones > Blast**, look at the **Lista de envíos** (list of sends). The list opens with the sends of the current month (**MTD**, month to date): to see older ones, change the dates at the top.
 
 2. **Open the details.** In the send's row, click "Detalles" (Details).
-   <!-- screenshot pending: how-to-see-blast-statistics-02 — send details with Resumen de Audiencia, Interacción de Destinatarios and Métricas de Entrega -->
+   ![Send details with Resumen de Audiencia, Interacción de Destinatarios and Métricas de Entrega](img/como-ver-las-estadisticas-de-un-blast-02.webp)
 
 3. **Read the results.** You will see:
    - **Resumen de Audiencia** (Audience summary): how many people were in the group, how many could receive it and how many emails were sent.
