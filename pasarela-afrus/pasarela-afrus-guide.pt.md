@@ -38,19 +38,24 @@ Para começar a usar:
 1. **Abra a seção.** No menu de perfil (canto superior), escolha **Pasarela AFRUS**.
    ![Menu de perfil com a opção Pasarela AFRUS](img/como-se-configura-la-pasarela-afrus-01.webp)
 
-2. **Revise suas transferências.** Você verá seus repasses, cada um com a data e os valores.
+2. **Revise suas transferências.** Abre **Historial de Pasarela AFRUS** (Histórico da Pasarela AFRUS). No topo você vê três resumos: **Última dispersión** (Último repasse), **Monto de la última dispersión** (Valor do último repasse) e **Veces dispersado** (Vezes repassado, quantas transferências você já recebeu). Abaixo fica a lista dos seus repasses, com as colunas **Fecha de corte** (Data de corte), **Fecha de dispersión** (Data do repasse), **Transacciones** (Transações) e **Total recaudado** (Total arrecadado).
    ![Tela Historial de Pasarela AFRUS com a lista de repasses](img/como-se-configura-la-pasarela-afrus-02.webp)
+
+3. **Filtre por datas (opcional).** Em **Filtrar por**, escolha **Fecha de dispersión** ou **Fecha de corte** e marque a data de início e a de fim. Assim você encontra uma transferência rapidamente.
+
+> **Dica:** "Ver transacciones fraudulentas" (Ver transações fraudulentas), no canto superior direito da lista, abre a tela **Transacciones Fraudulentas** (Transações fraudulentas), onde você vê as transações marcadas como fraude.
 
 > **Pendente de confirmação:** com que frequência as transferências são feitas e como pedir para mudar essa frequência. Algumas organizações recebem com mais frequência que outras. Se quiser mudar, escreva para nós.
 
 ## Como ler um repasse
 
-Cada repasse mostra estes dados:
+Na lista de **Historial de Pasarela AFRUS**, cada repasse mostra **Fecha de corte**, **Fecha de dispersión**, **Transacciones** e **Total recaudado**. Além disso, cada repasse tem seus descontos. Estes são todos os dados:
 
 | Dado | O que significa |
 |---|---|
-| **Fecha de dispersión** (Data do repasse) | O dia em que a AFRUS transferiu o dinheiro para a sua conta |
 | **Fecha de corte** (Data de corte) | Até que dia as doações entraram nesta transferência. Por exemplo, se o repasse é em 20 de setembro, a data de corte pode ser o dia 19: entram as doações até esse dia |
+| **Fecha de dispersión** (Data do repasse) | O dia em que a AFRUS transferiu o dinheiro para a sua conta |
+| **Transacciones** (Transações) | As doações incluídas nessa transferência |
 | **Total recaudado** (Total arrecadado) | Tudo o que seus doadores doaram nesse período, antes de qualquer desconto |
 | **Comisión pasarela** (Comissão do gateway) | O que o gateway da AFRUS cobra para processar os pagamentos: uma porcentagem mais um valor fixo por doação, com impostos. A tarifa depende do seu contrato |
 | **Retención ICA** e **Retención en la fuente** (retenções bancárias) | Descontos que o banco faz quando o doador paga com cartão. Não são cobranças da AFRUS |

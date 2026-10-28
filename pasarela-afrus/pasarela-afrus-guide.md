@@ -36,19 +36,24 @@ Para empezar a usarla:
 1. **Abre la sección.** En el menú de perfil (esquina superior), elige **Pasarela AFRUS**.
    ![Menú de perfil con la opción Pasarela AFRUS](img/como-se-configura-la-pasarela-afrus-01.webp)
 
-2. **Revisa tus transferencias.** Verás tus dispersiones, cada una con su fecha y sus montos.
+2. **Revisa tus transferencias.** Se abre **Historial de Pasarela AFRUS**. Arriba ves tres resúmenes: **Última dispersión**, **Monto de la última dispersión** y **Veces dispersado** (cuántas transferencias has recibido). Debajo está la lista de tus dispersiones, con las columnas **Fecha de corte**, **Fecha de dispersión**, **Transacciones** y **Total recaudado**.
    ![Pantalla Historial de Pasarela AFRUS con la lista de dispersiones](img/como-se-configura-la-pasarela-afrus-02.webp)
+
+3. **Filtra por fechas (opcional).** En **Filtrar por** elige **Fecha de dispersión** o **Fecha de corte**, y marca la fecha de inicio y la de fin. Así encuentras rápido una transferencia.
+
+> **Consejo:** con "Ver transacciones fraudulentas", arriba a la derecha de la lista, abres la pantalla **Transacciones Fraudulentas**, donde ves las transacciones marcadas como fraude.
 
 > **Pendiente de confirmar:** cada cuánto se hacen las transferencias y cómo pedir que cambie esa frecuencia. Algunas organizaciones las reciben con más frecuencia que otras. Si quieres cambiarla, escríbenos.
 
 ## Cómo leer una dispersión
 
-Cada dispersión te muestra estos datos:
+En la lista de **Historial de Pasarela AFRUS**, cada dispersión muestra **Fecha de corte**, **Fecha de dispersión**, **Transacciones** y **Total recaudado**. Además, cada dispersión tiene sus descuentos. Estos son todos los datos:
 
 | Dato | Qué significa |
 |---|---|
-| **Fecha de dispersión** | El día en que AFRUS te transfirió el dinero a tu cuenta |
 | **Fecha de corte** | Hasta qué día se incluyeron donaciones en esta transferencia. Por ejemplo, si la dispersión es el 20 de septiembre, la fecha de corte puede ser el 19: entran las donaciones hasta ese día |
+| **Fecha de dispersión** | El día en que AFRUS te transfirió el dinero a tu cuenta |
+| **Transacciones** | Las donaciones incluidas en esa transferencia |
 | **Total recaudado** | Todo lo que donaron tus donantes en ese período, antes de cualquier descuento |
 | **Comisión pasarela** | Lo que cobra la pasarela de AFRUS por procesar los pagos: un porcentaje más un valor fijo por cada donación, con su IVA. La tarifa depende de tu contrato |
 | **Retención ICA** y **Retención en la fuente** | Descuentos que hace el banco cuando el donante paga con tarjeta. No son cobros de AFRUS |

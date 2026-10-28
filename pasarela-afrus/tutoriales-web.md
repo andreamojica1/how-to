@@ -65,7 +65,8 @@ Relacionados: que-es-la-pasarela-afrus, para-que-sirve-la-pasarela-afrus, como-l
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre la sección.</strong> En el menú de perfil (esquina superior), elige <strong>Pasarela AFRUS</strong>.</li>
-<li><strong>Revisa tus transferencias.</strong> Verás tus dispersiones, cada una con su fecha y sus montos.</li>
+<li><strong>Revisa tus transferencias.</strong> Se abre <strong>Historial de Pasarela AFRUS</strong>. Arriba ves <strong>Última dispersión</strong>, <strong>Monto de la última dispersión</strong> y <strong>Veces dispersado</strong>; debajo, la lista de tus dispersiones con <strong>Fecha de corte</strong>, <strong>Fecha de dispersión</strong>, <strong>Transacciones</strong> y <strong>Total recaudado</strong>.</li>
+<li><strong>Filtra por fechas (opcional).</strong> En <strong>Filtrar por</strong> elige <strong>Fecha de dispersión</strong> o <strong>Fecha de corte</strong>, y marca la fecha de inicio y la de fin.</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿No ves la opción en tu menú?</strong> Solo aparece en las organizaciones que usan la pasarela de pagos de AFRUS. Si crees que deberías verla, escríbenos.</p>
@@ -87,8 +88,9 @@ Relacionados: que-es-la-pasarela-afrus, para-que-sirve-la-pasarela-afrus, como-s
 --- CUERPO (HTML) ---
 <p>Cada dispersión de la <strong>Pasarela AFRUS</strong> te muestra estos datos:</p>
 <ul>
-<li><strong>Fecha de dispersión:</strong> el día en que AFRUS te transfirió el dinero.</li>
 <li><strong>Fecha de corte:</strong> hasta qué día se incluyeron donaciones en esa transferencia. Por ejemplo, si la dispersión es el 20, la fecha de corte puede ser el 19.</li>
+<li><strong>Fecha de dispersión:</strong> el día en que AFRUS te transfirió el dinero.</li>
+<li><strong>Transacciones:</strong> las donaciones incluidas en esa transferencia.</li>
 <li><strong>Total recaudado:</strong> todo lo que donaron tus donantes en ese período, antes de descuentos.</li>
 <li><strong>Comisión pasarela:</strong> lo que cobra la pasarela de AFRUS por procesar los pagos: un porcentaje más un valor fijo por donación, con su IVA. La tarifa depende de tu contrato.</li>
 <li><strong>Retención ICA</strong> y <strong>Retención en la fuente:</strong> descuentos que hace el banco cuando el donante paga con tarjeta. No son cobros de AFRUS.</li>
@@ -165,7 +167,8 @@ Relacionados: what-is-pasarela-afrus, what-is-pasarela-afrus-for, how-to-read-a-
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the section.</strong> In the profile menu (top corner), choose <strong>Pasarela AFRUS</strong>.</li>
-<li><strong>Review your transfers.</strong> You will see your payouts, each one with its date and amounts.</li>
+<li><strong>Review your transfers.</strong> <strong>Historial de Pasarela AFRUS</strong> (Pasarela AFRUS history) opens. At the top you see <strong>Última dispersión</strong> (Last payout), <strong>Monto de la última dispersión</strong> (Amount of the last payout) and <strong>Veces dispersado</strong> (Times paid out); below, the list of your payouts with <strong>Fecha de corte</strong>, <strong>Fecha de dispersión</strong>, <strong>Transacciones</strong> and <strong>Total recaudado</strong>.</li>
+<li><strong>Filter by dates (optional).</strong> In <strong>Filtrar por</strong> (Filter by), choose <strong>Fecha de dispersión</strong> or <strong>Fecha de corte</strong>, and pick the start and end dates.</li>
 </ol>
 <h2>Frequently asked questions</h2>
 <p><strong>Don't see the option in your menu?</strong> It only appears for organizations that use AFRUS's payment gateway. If you think you should see it, write to us.</p>
@@ -187,8 +190,9 @@ Relacionados: what-is-pasarela-afrus, what-is-pasarela-afrus-for, how-pasarela-a
 --- CUERPO (HTML) ---
 <p>Each payout in <strong>Pasarela AFRUS</strong> shows you this data (labels as they appear in the Spanish console):</p>
 <ul>
-<li><strong>Fecha de dispersión</strong> (Payout date): the day AFRUS transferred the money to you.</li>
 <li><strong>Fecha de corte</strong> (Cut-off date): up to which day donations were included in that transfer. For example, if the payout is on the 20th, the cut-off date may be the 19th.</li>
+<li><strong>Fecha de dispersión</strong> (Payout date): the day AFRUS transferred the money to you.</li>
+<li><strong>Transacciones</strong> (Transactions): the donations included in that transfer.</li>
 <li><strong>Total recaudado</strong> (Total raised): everything your donors gave in that period, before deductions.</li>
 <li><strong>Comisión pasarela</strong> (Gateway fee): what the AFRUS gateway charges to process payments: a percentage plus a fixed amount per donation, plus VAT. The rate depends on your contract.</li>
 <li><strong>Retención ICA</strong> and <strong>Retención en la fuente</strong> (bank withholdings): deductions the bank makes when the donor pays by card. They are not AFRUS charges.</li>
@@ -265,7 +269,8 @@ Relacionados: o-que-e-a-pasarela-afrus, para-que-serve-a-pasarela-afrus, como-le
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra a seção.</strong> No menu de perfil (canto superior), escolha <strong>Pasarela AFRUS</strong>.</li>
-<li><strong>Revise suas transferências.</strong> Você verá seus repasses, cada um com a data e os valores.</li>
+<li><strong>Revise suas transferências.</strong> Abre <strong>Historial de Pasarela AFRUS</strong> (Histórico da Pasarela AFRUS). No topo você vê <strong>Última dispersión</strong> (Último repasse), <strong>Monto de la última dispersión</strong> (Valor do último repasse) e <strong>Veces dispersado</strong> (Vezes repassado); abaixo, a lista dos seus repasses com <strong>Fecha de corte</strong>, <strong>Fecha de dispersión</strong>, <strong>Transacciones</strong> e <strong>Total recaudado</strong>.</li>
+<li><strong>Filtre por datas (opcional).</strong> Em <strong>Filtrar por</strong>, escolha <strong>Fecha de dispersión</strong> ou <strong>Fecha de corte</strong> e marque a data de início e a de fim.</li>
 </ol>
 <h2>Perguntas frequentes</h2>
 <p><strong>Não vê a opção no seu menu?</strong> Ela só aparece para organizações que usam o gateway de pagamento da AFRUS. Se você acha que deveria vê-la, escreva para nós.</p>
@@ -287,8 +292,9 @@ Relacionados: o-que-e-a-pasarela-afrus, para-que-serve-a-pasarela-afrus, como-co
 --- CUERPO (HTML) ---
 <p>Cada repasse da <strong>Pasarela AFRUS</strong> mostra estes dados (nomes como na versão em espanhol do console):</p>
 <ul>
-<li><strong>Fecha de dispersión</strong> (Data do repasse): o dia em que a AFRUS transferiu o dinheiro para você.</li>
 <li><strong>Fecha de corte</strong> (Data de corte): até que dia as doações entraram nessa transferência. Por exemplo, se o repasse é no dia 20, a data de corte pode ser o dia 19.</li>
+<li><strong>Fecha de dispersión</strong> (Data do repasse): o dia em que a AFRUS transferiu o dinheiro para você.</li>
+<li><strong>Transacciones</strong> (Transações): as doações incluídas nessa transferência.</li>
 <li><strong>Total recaudado</strong> (Total arrecadado): tudo o que seus doadores doaram nesse período, antes dos descontos.</li>
 <li><strong>Comisión pasarela</strong> (Comissão do gateway): o que o gateway da AFRUS cobra para processar os pagamentos: uma porcentagem mais um valor fixo por doação, com impostos. A tarifa depende do seu contrato.</li>
 <li><strong>Retención ICA</strong> e <strong>Retención en la fuente</strong> (retenções bancárias): descontos que o banco faz quando o doador paga com cartão. Não são cobranças da AFRUS.</li>

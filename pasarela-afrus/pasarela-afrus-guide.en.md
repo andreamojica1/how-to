@@ -38,19 +38,24 @@ To start using it:
 1. **Open the section.** In the profile menu (top corner), choose **Pasarela AFRUS**.
    ![Profile menu with the Pasarela AFRUS option](img/como-se-configura-la-pasarela-afrus-01.webp)
 
-2. **Review your transfers.** You will see your payouts, each one with its date and amounts.
+2. **Review your transfers.** **Historial de Pasarela AFRUS** (Pasarela AFRUS history) opens. At the top you see three summaries: **Última dispersión** (Last payout), **Monto de la última dispersión** (Amount of the last payout) and **Veces dispersado** (Times paid out, how many transfers you have received). Below is the list of your payouts, with the columns **Fecha de corte** (Cut-off date), **Fecha de dispersión** (Payout date), **Transacciones** (Transactions) and **Total recaudado** (Total raised).
    ![Historial de Pasarela AFRUS screen with the list of payouts](img/como-se-configura-la-pasarela-afrus-02.webp)
+
+3. **Filter by dates (optional).** In **Filtrar por** (Filter by), choose **Fecha de dispersión** or **Fecha de corte**, and pick the start and end dates. This way you quickly find a transfer.
+
+> **Tip:** "Ver transacciones fraudulentas" (See fraudulent transactions), at the top right of the list, opens the **Transacciones Fraudulentas** (Fraudulent transactions) screen, where you see the transactions marked as fraud.
 
 > **Pending confirmation:** how often transfers are made and how to ask to change that frequency. Some organizations receive them more often than others. If you want to change it, write to us.
 
 ## How to read a payout
 
-Each payout shows you this data:
+In the **Historial de Pasarela AFRUS** list, each payout shows **Fecha de corte**, **Fecha de dispersión**, **Transacciones** and **Total recaudado**. Each payout also has its deductions. This is all the data:
 
 | Item | What it means |
 |---|---|
-| **Fecha de dispersión** (Payout date) | The day AFRUS transferred the money to your account |
 | **Fecha de corte** (Cut-off date) | Up to which day donations were included in this transfer. For example, if the payout is on September 20, the cut-off date may be the 19th: donations up to that day are included |
+| **Fecha de dispersión** (Payout date) | The day AFRUS transferred the money to your account |
+| **Transacciones** (Transactions) | The donations included in that transfer |
 | **Total recaudado** (Total raised) | Everything your donors gave in that period, before any deduction |
 | **Comisión pasarela** (Gateway fee) | What the AFRUS gateway charges to process the payments: a percentage plus a fixed amount per donation, plus VAT. The rate depends on your contract |
 | **Retención ICA** and **Retención en la fuente** (bank withholdings) | Deductions the bank makes when the donor pays by card. They are not AFRUS charges |
