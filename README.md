@@ -144,6 +144,12 @@ Los ajustes de tu organización: pasarelas de pago, moneda, campos personalizado
 - [Guía de Automatización Onboarding](./configuracion/automatizacion-onboarding-guide.md)
 - [Guía de Servicio de recurrencia](./configuracion/servicio-de-recurrencia-guide.md)
 
+### [Pasarela Afrus](./pasarela-afrus/)
+
+Las transferencias que Afrus le hace a tu organización con el dinero de tus donaciones, y qué se descuenta en cada una.
+
+- [Guía de Pasarela Afrus](./pasarela-afrus/pasarela-afrus-guide.md)
+
 ---
 
-*Última actualización del índice: 2026-10-26*
+*Última actualización del índice: 2026-10-27*
