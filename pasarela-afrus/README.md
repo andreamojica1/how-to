@@ -14,7 +14,7 @@ También disponible en [inglés](./pasarela-afrus-guide.en.md) y [portugués](./
 - Cómo se configura (no requiere configuración) y cómo abrirla
 - Cómo leer una dispersión: fechas, total recaudado, comisión, retenciones y valor transferido
 - Cómo ver y descargar las donaciones de cada dispersión
-- Limitaciones y preguntas frecuentes
+- Preguntas frecuentes
 
 ## Audiencia
 
