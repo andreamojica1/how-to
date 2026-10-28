@@ -45,7 +45,7 @@ Para começar a usar:
 
 > **Dica:** "Ver transacciones fraudulentas" (Ver transações fraudulentas), no canto superior direito da lista, abre a tela **Transacciones Fraudulentas** (Transações fraudulentas), onde você vê as transações marcadas como fraude.
 
-> **Pendente de confirmação:** com que frequência as transferências são feitas e como pedir para mudar essa frequência. Algumas organizações recebem com mais frequência que outras. Se quiser mudar, escreva para nós.
+Os repasses normalmente são feitos nos 5 primeiros dias de cada mês.
 
 ## Como ler um repasse
 
@@ -66,8 +66,6 @@ Na lista de **Historial de Pasarela AFRUS**, cada repasse mostra **Fecha de cort
 
 **Resumindo:** Total arrecadado − Comissão do gateway − retenções do banco − custo de transferência = o que chega à sua conta.
 
-> **Pendente de confirmação:** os nomes exatos de algumas colunas. Por exemplo, a comissão pode aparecer como **Total servicio tarjeta** (total do serviço de cartão) enquanto a tela é atualizada, e o custo de transferência e o valor transferido podem ter outros nomes.
-
 ## Como ver e baixar as doações de cada repasse
 
 1. **Revise o detalhe.** Além do resumo, a seção mostra os mesmos dados para cada doação incluída na transferência.
@@ -75,17 +73,12 @@ Na lista de **Historial de Pasarela AFRUS**, cada repasse mostra **Fecha de cort
 
 2. **Baixe o detalhe.** Clique em "Descargar" (Baixar). O arquivo traz mais informações do que você vê na tela, por exemplo a campanha de cada doação. É o arquivo ideal para enviar à sua área contábil.
 
-> **Pendente de confirmação:** como se abre o detalhe de um repasse e em que formato o arquivo é baixado.
-
 ---
 
-## Limitações conhecidas
-
-- **Só aparece para organizações que usam o gateway da AFRUS.** Se a sua organização cobra com outro gateway (configurado em **Configuración > Pagos > Pasarelas de pago**), você não verá esta seção.
-- **Não inclui o pagamento do seu plano da AFRUS.** A cobrança pelo uso da plataforma é separada e não é descontada dos repasses.
-- **As retenções são definidas pelo banco.** A AFRUS não pode alterá-las. Se a sua organização não estiver sujeita a alguma retenção, você precisa resolver isso com o banco.
-
 ## Perguntas frequentes
+
+**Por que não vejo a Pasarela AFRUS no meu menu?**
+Só a veem as organizações que usam o gateway da AFRUS. Se a sua organização cobra com outro gateway (configurado em **Configuración > Pagos > Pasarelas de pago**), você não verá esta seção.
 
 **Por que recebi menos do que meus doadores doaram?**
 Porque de cada repasse são descontados a comissão do gateway, as retenções do banco e o custo da transferência. No detalhe do repasse você vê cada desconto.
@@ -93,13 +86,14 @@ Porque de cada repasse são descontados a comissão do gateway, as retenções d
 **A AFRUS me cobra as retenções de ICA e na fonte?**
 Não. Quem aplica é o banco, quando o doador paga com cartão. A AFRUS só mostra quanto foi descontado.
 
+**A AFRUS pode alterar as retenções do banco?**
+Não. As retenções são definidas pelo banco. Se a sua organização não estiver sujeita a alguma retenção, você precisa resolver isso com o banco.
+
 **O que eu devo à AFRUS pela plataforma pode ser descontado dos meus repasses?**
 Não. São duas cobranças separadas: o gateway de pagamento de um lado e o uso da plataforma do outro.
 
 **Minhas doações mensais também aparecem?**
 Sim, cada cobrança que passa pelo gateway da AFRUS entra no repasse correspondente à sua data.
-
-> **Pendente de confirmação:** se o arquivo baixado indica se cada doação é única ou mensal.
 
 **Tenho dúvidas sobre a minha tarifa ou um desconto. A quem pergunto?**
 Escreva para nós com a data do repasse e explicamos cada valor.

@@ -43,7 +43,7 @@ Para empezar a usarla:
 
 > **Consejo:** con "Ver transacciones fraudulentas", arriba a la derecha de la lista, abres la pantalla **Transacciones Fraudulentas**, donde ves las transacciones marcadas como fraude.
 
-> **Pendiente de confirmar:** cada cuánto se hacen las transferencias y cómo pedir que cambie esa frecuencia. Algunas organizaciones las reciben con más frecuencia que otras. Si quieres cambiarla, escríbenos.
+Las dispersiones normalmente se hacen los 5 primeros días de cada mes.
 
 ## Cómo leer una dispersión
 
@@ -64,8 +64,6 @@ En la lista de **Historial de Pasarela AFRUS**, cada dispersión muestra **Fecha
 
 **En pocas palabras:** Total recaudado − Comisión pasarela − retenciones del banco − costo de transferencia = lo que llega a tu cuenta.
 
-> **Pendiente de confirmar:** los nombres exactos de algunas columnas. Por ejemplo, la comisión puede aparecer como **Total servicio tarjeta** mientras se actualiza la pantalla, y el costo de transferencia y el valor transferido pueden tener otro nombre.
-
 ## Cómo ver y descargar las donaciones de cada dispersión
 
 1. **Revisa el detalle.** Además del resumen, la sección muestra los mismos datos para cada donación incluida en la transferencia.
@@ -73,17 +71,12 @@ En la lista de **Historial de Pasarela AFRUS**, cada dispersión muestra **Fecha
 
 2. **Descarga el detalle.** Pulsa "Descargar". El archivo trae más información que la que ves en pantalla, por ejemplo la campaña de cada donación. Es el que te conviene enviar a tu área contable.
 
-> **Pendiente de confirmar:** cómo se abre el detalle de una dispersión y en qué formato se descarga el archivo.
-
 ---
 
-## Limitaciones conocidas
-
-- **Solo la ven las organizaciones que usan la pasarela de AFRUS.** Si tu organización cobra con otra pasarela (configurada en **Configuración > Pagos > Pasarelas de pago**), no verás esta sección.
-- **No incluye el pago de tu plan de AFRUS.** El cobro por usar la plataforma es aparte y no se descuenta de las dispersiones.
-- **Las retenciones las define el banco.** AFRUS no puede cambiarlas. Si tu organización no está obligada a alguna retención, debes gestionarlo con el banco.
-
 ## Preguntas frecuentes
+
+**¿Por qué no veo la Pasarela AFRUS en mi menú?**
+Solo la ven las organizaciones que usan la pasarela de AFRUS. Si tu organización cobra con otra pasarela (configurada en **Configuración > Pagos > Pasarelas de pago**), no verás esta sección.
 
 **¿Por qué recibí menos de lo que donaron mis donantes?**
 Porque de cada dispersión se descuentan la comisión de la pasarela, las retenciones del banco y el costo de la transferencia. En el detalle de la dispersión ves cada descuento.
@@ -91,13 +84,14 @@ Porque de cada dispersión se descuentan la comisión de la pasarela, las retenc
 **¿AFRUS me cobra las retenciones de ICA y en la fuente?**
 No. Las aplica el banco cuando el donante paga con tarjeta. AFRUS solo te muestra cuánto se descontó.
 
+**¿AFRUS puede cambiar las retenciones del banco?**
+No. Las retenciones las define el banco. Si tu organización no está obligada a alguna retención, debes gestionarlo con el banco.
+
 **¿Pueden descontar de mis dispersiones lo que le debo a AFRUS por la plataforma?**
 No. Son dos cobros separados: la pasarela de pagos por un lado y el uso de la plataforma por otro.
 
 **¿Mis donaciones mensuales también aparecen?**
 Sí, cada cobro que pasa por la pasarela de AFRUS entra en la dispersión que le corresponde por fecha.
-
-> **Pendiente de confirmar:** si el archivo descargado indica si cada donación es única o mensual.
 
 **Tengo dudas sobre mi tarifa o un descuento. ¿A quién le pregunto?**
 Escríbenos con la fecha de la dispersión y te explicamos cada valor.

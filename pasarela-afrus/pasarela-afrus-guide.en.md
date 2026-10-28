@@ -45,7 +45,7 @@ To start using it:
 
 > **Tip:** "Ver transacciones fraudulentas" (See fraudulent transactions), at the top right of the list, opens the **Transacciones Fraudulentas** (Fraudulent transactions) screen, where you see the transactions marked as fraud.
 
-> **Pending confirmation:** how often transfers are made and how to ask to change that frequency. Some organizations receive them more often than others. If you want to change it, write to us.
+Payouts are usually made in the first 5 days of each month.
 
 ## How to read a payout
 
@@ -66,8 +66,6 @@ In the **Historial de Pasarela AFRUS** list, each payout shows **Fecha de corte*
 
 **In short:** Total raised − Gateway fee − bank withholdings − transfer cost = what reaches your account.
 
-> **Pending confirmation:** the exact names of some columns. For example, the fee may appear as **Total servicio tarjeta** (total card service) while the screen is being updated, and the transfer cost and amount transferred may have other names.
-
 ## How to see and download the donations in each payout
 
 1. **Review the detail.** Besides the summary, the section shows the same data for each donation included in the transfer.
@@ -75,17 +73,12 @@ In the **Historial de Pasarela AFRUS** list, each payout shows **Fecha de corte*
 
 2. **Download the detail.** Click "Descargar" (Download). The file has more information than you see on screen, for example the campaign of each donation. It is the one to send to your accounting team.
 
-> **Pending confirmation:** how to open the detail of a payout and the format of the downloaded file.
-
 ---
 
-## Known limitations
-
-- **Only organizations that use the AFRUS gateway see it.** If your organization charges with another gateway (set up in **Configuración > Pagos > Pasarelas de pago**), you won't see this section.
-- **It does not include the payment for your AFRUS plan.** The charge for using the platform is separate and is not deducted from payouts.
-- **The bank sets the withholdings.** AFRUS cannot change them. If your organization is not subject to a withholding, you need to handle it with the bank.
-
 ## Frequently asked questions
+
+**Why don't I see Pasarela AFRUS in my menu?**
+Only organizations that use the AFRUS gateway see it. If your organization charges with another gateway (set up in **Configuración > Pagos > Pasarelas de pago**), you won't see this section.
 
 **Why did I receive less than my donors gave?**
 Because the gateway fee, the bank withholdings and the transfer cost are deducted from each payout. In the payout detail you see each deduction.
@@ -93,13 +86,14 @@ Because the gateway fee, the bank withholdings and the transfer cost are deducte
 **Does AFRUS charge me the ICA and source withholdings?**
 No. The bank applies them when the donor pays by card. AFRUS only shows you how much was deducted.
 
+**Can AFRUS change the bank withholdings?**
+No. The bank sets the withholdings. If your organization is not subject to a withholding, you need to handle it with the bank.
+
 **Can what I owe AFRUS for the platform be deducted from my payouts?**
 No. They are two separate charges: the payment gateway on one side and the use of the platform on the other.
 
 **Do my monthly donations also appear?**
 Yes, every charge that goes through the AFRUS gateway is included in the payout that corresponds to its date.
-
-> **Pending confirmation:** whether the downloaded file shows if each donation is one-time or monthly.
 
 **I have questions about my rate or a deduction. Who do I ask?**
 Write to us with the payout date and we'll explain each amount.

@@ -70,6 +70,7 @@ Relacionados: que-es-la-pasarela-afrus, para-que-sirve-la-pasarela-afrus, como-l
 </ol>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿No ves la opción en tu menú?</strong> Solo aparece en las organizaciones que usan la pasarela de pagos de AFRUS. Si crees que deberías verla, escríbenos.</p>
+<p><strong>¿Cada cuánto se hacen las dispersiones?</strong> Normalmente se hacen los 5 primeros días de cada mes.</p>
 <p><strong>¿Puedo cambiar cada cuánto me transfieren?</strong> Escríbenos y revisamos tu caso.</p>
 === FIN ===
 ```
@@ -172,6 +173,7 @@ Relacionados: what-is-pasarela-afrus, what-is-pasarela-afrus-for, how-to-read-a-
 </ol>
 <h2>Frequently asked questions</h2>
 <p><strong>Don't see the option in your menu?</strong> It only appears for organizations that use AFRUS's payment gateway. If you think you should see it, write to us.</p>
+<p><strong>How often are payouts made?</strong> They are usually made in the first 5 days of each month.</p>
 <p><strong>Can I change how often I receive transfers?</strong> Write to us and we'll review your case.</p>
 === FIN ===
 ```
@@ -274,6 +276,7 @@ Relacionados: o-que-e-a-pasarela-afrus, para-que-serve-a-pasarela-afrus, como-le
 </ol>
 <h2>Perguntas frequentes</h2>
 <p><strong>Não vê a opção no seu menu?</strong> Ela só aparece para organizações que usam o gateway de pagamento da AFRUS. Se você acha que deveria vê-la, escreva para nós.</p>
+<p><strong>Com que frequência os repasses são feitos?</strong> Normalmente nos 5 primeiros dias de cada mês.</p>
 <p><strong>Posso mudar a frequência das transferências?</strong> Escreva para nós e analisamos o seu caso.</p>
 === FIN ===
 ```
