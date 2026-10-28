@@ -14,7 +14,7 @@ With this guide you will be able to use AFRUS's AI assistant to ask for ideas, t
 
 It answers with the information your organization uploaded in **AI > Entrenamiento [AI RAG]**: your documents, your web pages and your instructions.
 
-<!-- screenshot pending: chat-con-ai-01 — chat screen with "Bienvenido a tu asistente de afrus" and the history on the left -->
+![Chat screen with "Bienvenido a tu asistente de afrus" and the history on the left](img/chat-con-ai-01.webp)
 
 ## What it is for
 
@@ -36,12 +36,12 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 1. **Open the chat.** Go to **AI > Chat con AI**. To start a new conversation, click "Nuevo chat" (New chat).
 
 2. **Write your message.** Type in the box and press Enter to send it. To go to the next line without sending, use Alt + Enter.
-   <!-- screenshot pending: chat-con-ai-02 — message box with the model selector and the Interacción avanzada button -->
+   ![Message box with the model selector and the Interacción avanzada button](img/chat-con-ai-01.webp)
 
 3. **Wait for the answer.** It can take between 30 seconds and 2 minutes.
 
 4. **Use the answer.** On each answer you can copy it or ask for another one. If you want to change something in your question, edit your message and send it again.
-   <!-- screenshot pending: chat-con-ai-04 — assistant answer with the copy and regenerate buttons -->
+   ![Assistant answer with the copy and regenerate buttons](img/chat-con-ai-04.webp)
 
 5. **Pick up a conversation.** Your conversations are saved on the left, in **Historial de conversaciones** (Conversation history).
 
@@ -74,4 +74,4 @@ Yes, you need to buy tokens. For more information, write to us at billing@afrus.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

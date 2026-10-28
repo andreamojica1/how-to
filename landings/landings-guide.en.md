@@ -60,7 +60,7 @@ Each landing is published on the AFRUS address (`web.afrus.org`) or on your orga
    - **Mis páginas** (My pages): your 2.0 landings; click "Usar" (Use) to open the editor with a copy of that design.
    - **Plantillas** (Templates): a gallery of ready-made designs; click "Usar plantilla" (Use template).
    - **HTML**: paste your own code in **Ingresar HTML** (Enter HTML), check it with "Vista previa" (Preview) and click "Guardar".
-   <!-- screenshot pending: how-to-create-a-landing-05 — Landing page tab with the four cards -->
+   ![Landing page tab with the four cards](img/como-crear-una-landing-05.webp)
 
 6. **Design and save.** Build your page in the visual editor and click "Guardar" (*"Landing page HTML guardada con éxito"*, saved successfully). "Ver" (View) opens the published page in a new tab.
 
@@ -220,4 +220,4 @@ Yes. The page is removed from the previous address and doesn't redirect. Share t
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

@@ -57,19 +57,19 @@ The same screen can also send WhatsApp Business messages. This guide covers **em
 ### Part 2 — Prepare the email
 
 7. **Say who is sending.** In **Remitente** (Sender), fill in **Nombre del remitente** (sender name), choose the **Correo electrónico** (email address) it goes out from and the **Email para respuestas** (reply-to email). Click "Guardar" (Save).
-   <!-- screenshot pending: how-to-send-a-blast-07 — email step with the Remitente, Asunto and Contenido blocks -->
+   ![Email step with the Remitente, Asunto and Contenido blocks](img/como-enviar-un-blast-07.webp)
 
 8. **Write the subject.** It's the first thing people see in their inbox. With "Mapa de merge tags" you can add each person's details, such as their name. Click "Guardar".
 
 9. **Choose the design.** In **Contenido** (Content), click "Agregar" (Add) and choose an option: **Diseño en blanco** (blank design), **Galería de plantillas** (your email templates), **Correos enviados** (to reuse a previous one) or **Editor con código** (code editor). Click "Usar Plantilla" (Use template) and edit the content.
-   <!-- screenshot pending: how-to-send-a-blast-09 — Seleccionar contenido window with its four options -->
+   ![Seleccionar contenido window with its four options](img/como-enviar-un-blast-09.webp)
 
 10. **Send yourself a test.** Click "Enviar prueba" (Send test), type your email and confirm. Check how it looks before sending it to everyone.
 
 ### Part 3 — Send or schedule
 
 11. **Choose when it goes out.** Click "Programar" (Schedule) and choose **Enviar ahora** (Send now) or **Programar fecha** (Schedule date), with the day and time. Click "Enviar" (Send) or "Programar".
-    <!-- screenshot pending: how-to-send-a-blast-11 — Programar window with Enviar ahora and Programar fecha -->
+    ![Programar window with Enviar ahora and Programar fecha](img/como-enviar-un-blast-11.webp)
 
 When you finish you will see *"¡Envío realizado satisfactoriamente!"* (Send completed successfully) or *"¡Envío programado con éxito!"* (Send scheduled successfully), and the send will appear in the list as **Procesando** (Processing) or **Programado** (Scheduled).
 
@@ -121,7 +121,7 @@ What to do:
 1. **Open the details.** In the **Lista de envíos**, click "Detalles" for the send.
 2. **Check the error.** Look at the **Incidencias** (Issues) section and the **Estados de emails**. With "Ver Eventos" you can see what happened to each person's email.
 3. **Resend.** If the send is **Fallido**, the "Reenviar" (Resend) button appears (*"¿Reenviar blast?"*). AFRUS tries again with the people who had an error.
-   <!-- screenshot pending: why-does-my-blast-show-failed-03 — details of a failed send with the Reenviar button -->
+   ![Details of a failed send with the Reenviar button](img/por-que-mi-blast-tiene-estado-fallido-03.webp)
 
 > **Most common cause:** the account gets blocked for having too many bounces and needs credits assigned. To solve it, write to the support email.
 
@@ -249,4 +249,4 @@ At the time you choose, in your computer's time zone. It may go out a few minute
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

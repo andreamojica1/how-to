@@ -14,7 +14,7 @@ Com este guia você vai poder usar o assistente de IA da AFRUS para pedir ideias
 
 Ele responde com as informações que a sua organização enviou em **AI > Entrenamiento [AI RAG]**: seus documentos, suas páginas web e suas instruções.
 
-<!-- captura pendente: chat-con-ai-01 — tela do chat com "Bienvenido a tu asistente de afrus" e o histórico à esquerda -->
+![Tela do chat com "Bienvenido a tu asistente de afrus" e o histórico à esquerda](img/chat-con-ai-01.webp)
 
 ## Para que serve
 
@@ -36,12 +36,12 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 1. **Abra o chat.** Acesse **AI > Chat con AI**. Para começar uma conversa nova, clique em "Nuevo chat" (Novo chat).
 
 2. **Escreva sua mensagem.** Digite na caixa e pressione Enter para enviar. Para pular de linha sem enviar, use Alt + Enter.
-   <!-- captura pendente: chat-con-ai-02 — caixa de mensagem com o seletor de modelo e o botão Interacción avanzada -->
+   ![Caixa de mensagem com o seletor de modelo e o botão Interacción avanzada](img/chat-con-ai-01.webp)
 
 3. **Aguarde a resposta.** Pode levar entre 30 segundos e 2 minutos.
 
 4. **Use a resposta.** Em cada resposta você pode copiá-la ou pedir outra. Se quiser mudar algo na pergunta, edite sua mensagem e envie de novo.
-   <!-- captura pendente: chat-con-ai-04 — resposta do assistente com os botões copiar e gerar de novo -->
+   ![Resposta do assistente com os botões copiar e gerar de novo](img/chat-con-ai-04.webp)
 
 5. **Retome uma conversa.** Suas conversas ficam salvas à esquerda, em **Historial de conversaciones** (Histórico de conversas).
 
@@ -74,4 +74,4 @@ Sim, você precisa adquirir tokens. Para mais informações, escreva para billin
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

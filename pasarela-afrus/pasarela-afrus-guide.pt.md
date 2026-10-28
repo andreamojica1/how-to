@@ -62,14 +62,14 @@ Na lista de **Historial de Pasarela AFRUS**, cada repasse mostra **Fecha de cort
 | Custo de transferência | O custo fixo de enviar o dinheiro para a sua conta bancária |
 | Valor transferido | O que finalmente chegou à sua conta |
 
-<!-- captura pendente: como-ler-um-repasse-01 — detalhe de um repasse com os valores -->
+![Detalhe de um repasse com os valores](img/como-leer-una-dispersion-01.webp)
 
 **Resumindo:** Total arrecadado − Comissão do gateway − retenções do banco − custo de transferência = o que chega à sua conta.
 
 ## Como ver e baixar as doações de cada repasse
 
 1. **Revise o detalhe.** Além do resumo, a seção mostra os mesmos dados para cada doação incluída na transferência.
-   <!-- captura pendente: como-baixar-o-detalhe-de-um-repasse-01 — detalhe por transação -->
+   ![Detalhe por transação](img/como-leer-una-dispersion-01.webp)
 
 2. **Baixe o detalhe.** Clique em "Descargar" (Baixar). O arquivo traz mais informações do que você vê na tela, por exemplo a campanha de cada doação. É o arquivo ideal para enviar à sua área contábil.
 
@@ -102,4 +102,4 @@ Escreva para nós com a data do repasse e explicamos cada valor.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

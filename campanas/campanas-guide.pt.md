@@ -39,7 +39,7 @@ Ao vincular um widget, as doações e os cadastros feitos nele ficam associados 
 **Antes de começar:** a campanha precisa estar **ativa**. O editor de widgets só mostra campanhas ativas, pelo nome público.
 
 1. **Abra o widget.** Acesse **Fundraising > Widgets** e edite o widget que quer vincular. O editor abre em uma nova aba.
-   <!-- captura pendente: como-vincular-um-widget-a-uma-campanha-01 — editor de widgets, painel Renderización -->
+   ![Editor de widgets, painel Renderización](img/como-vincular-un-widget-con-una-campana-01.webp)
 
 2. **Escolha a campanha.** No painel **Renderización** (Renderização), no campo **Elige tus campañas** (Escolha suas campanhas), selecione uma ou várias campanhas.
 
@@ -268,4 +268,4 @@ Por enquanto, o uso só está confirmado em landings. Para e-mails automáticos,
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-28*

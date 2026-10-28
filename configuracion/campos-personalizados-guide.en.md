@@ -29,7 +29,7 @@ They are defined in **Ajustes de Organización > Campos personalizados**.
 ## How to set up a custom field
 
 1. **Open the screen.** Go to **Ajustes de Organización > Campos personalizados**.
-   <!-- screenshot pending: how-to-set-up-a-custom-field-01 — Custom fields screen -->
+   ![Custom fields screen](img/como-configurar-un-campo-personalizado-01.webp)
 
 ## How to add a custom field to my widget
 
@@ -38,7 +38,7 @@ They are defined in **Ajustes de Organización > Campos personalizados**.
 1. **Open the form editor.** In **Fundraising > Widgets**, edit the form.
 
 2. **Add the block.** Click "Agregar" (Add) and choose **Campo personalizado** (Custom field).
-   <!-- screenshot pending: how-to-add-a-custom-field-to-my-widget-02 — Add menu with the Custom field option -->
+   ![Add menu with the Custom field option](img/como-incluir-un-campo-personalizado-en-mi-widget-02.webp)
 
 3. **Set it up.** Click the block and set it up in **Configuración del snippet** (Snippet settings).
 
@@ -86,4 +86,4 @@ Yes. Download your list of people with **Base de datos en tiempo real**: each fi
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-28*

@@ -44,7 +44,7 @@ In **Documentos** you upload the files that describe your organization: impact r
 2. **Choose your files.** Drag them onto **Suelta aquí tus documentos** (Drop your documents here) or click "Nuevo" (New). You can choose several at once.
 
 3. **Classify them (recommended).** In the **Archivos cargados con éxito** (Files uploaded successfully) window, choose one or more **Atributos** (the document's topic) for each file and type a **Etiqueta** (label; type it and press Enter). If you're not sure, you can do it later.
-   <!-- screenshot pending: entrenamiento-ai-03 — Archivos cargados con éxito window with attributes and labels -->
+   ![Archivos cargados con éxito window with attributes and labels](img/entrenamiento-ai-03.webp)
 
 4. **Upload them.** Keep the files you want to upload checked (or use "Seleccionar todos", Select all) and click "Listo" (Done).
 
@@ -62,7 +62,7 @@ In **Instrucciones** you tell the AI, in your own words, what it should know and
 For example: "We are a foundation that protects forests in Colombia. Speak in a warm, optimistic way. Don't promise figures that aren't in our reports."
 
 1. **Open the Instructions tab.** In **AI > Entrenamiento [AI RAG]**, choose **Instrucciones**.
-   <!-- screenshot pending: entrenamiento-ai-04 — Instrucciones tab with one panel per attribute -->
+   ![Instrucciones tab with one panel per attribute](img/entrenamiento-ai-04.webp)
 
 2. **Choose the topic.** There is one panel per attribute (topic). Open the one you want to fill in.
 
@@ -94,7 +94,7 @@ In **URL'S** you add your organization's web pages for the AI to read: for examp
 ## How to see what you uploaded
 
 - **Documents:** on the **Documentos** tab, the **Documentos guardados** list shows **Nombre del archivo** (file name), **Tipo** (type), **Atributo**, **Tags** and **Fecha de carga** (upload date). The eye icon downloads the file so you can check it.
-  <!-- screenshot pending: entrenamiento-ai-06 — Documentos guardados list with its columns and icons -->
+  ![Documentos guardados list with its columns and icons](img/entrenamiento-ai-06.webp)
 - **Instructions:** on the **Instrucciones** tab, open each topic's panel to read what you wrote.
 - **Web pages:** on the **URL'S** tab you see each saved address.
 
@@ -118,4 +118,4 @@ It is used for all topics.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

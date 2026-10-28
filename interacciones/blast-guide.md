@@ -55,19 +55,19 @@ Desde la misma pantalla también se pueden hacer envíos por WhatsApp Business. 
 ### Parte 2 — Prepara el correo
 
 7. **Indica quién envía.** En **Remitente**, completa **Nombre del remitente**, elige el **Correo electrónico** desde el que sale y el **Email para respuestas**. Haz clic en "Guardar".
-   <!-- captura pendiente: como-enviar-un-blast-07 — paso de correo con los bloques Remitente, Asunto y Contenido -->
+   ![Paso de correo con los bloques Remitente, Asunto y Contenido](img/como-enviar-un-blast-07.webp)
 
 8. **Escribe el asunto.** Es lo primero que ve la persona en su bandeja. Con "Mapa de merge tags" puedes agregar datos de cada persona, como su nombre. Haz clic en "Guardar".
 
 9. **Elige el diseño.** En **Contenido**, haz clic en "Agregar" y elige una opción: **Diseño en blanco**, **Galería de plantillas** (tus plantillas de correo), **Correos enviados** (para reutilizar uno anterior) o **Editor con código**. Haz clic en "Usar Plantilla" y edita el contenido.
-   <!-- captura pendiente: como-enviar-un-blast-09 — ventana Seleccionar contenido con sus cuatro opciones -->
+   ![Ventana Seleccionar contenido con sus cuatro opciones](img/como-enviar-un-blast-09.webp)
 
 10. **Envíate una prueba.** Haz clic en "Enviar prueba", escribe tu correo y confirma. Revisa cómo se ve antes de enviarlo a todos.
 
 ### Parte 3 — Envía o programa
 
 11. **Elige cuándo sale.** Haz clic en "Programar" y elige **Enviar ahora** o **Programar fecha**, con el día y la hora. Haz clic en "Enviar" o "Programar".
-    <!-- captura pendiente: como-enviar-un-blast-11 — ventana Programar con Enviar ahora y Programar fecha -->
+    ![Ventana Programar con Enviar ahora y Programar fecha](img/como-enviar-un-blast-11.webp)
 
 Al terminar verás *"¡Envío realizado satisfactoriamente!"* o *"¡Envío programado con éxito!"*, y el envío aparecerá en la lista como **Procesando** o **Programado**.
 
@@ -119,7 +119,7 @@ Qué hacer:
 1. **Abre el detalle.** En la **Lista de envíos**, haz clic en "Detalles" del envío.
 2. **Revisa el error.** Mira la sección **Incidencias** y los **Estados de emails**. Con "Ver Eventos" ves qué pasó con el correo de cada persona.
 3. **Reenvía.** Si el envío está **Fallido**, aparece el botón "Reenviar" (*"¿Reenviar blast?"*). AFRUS vuelve a intentar con las personas que tuvieron error.
-   <!-- captura pendiente: por-que-mi-blast-tiene-estado-fallido-03 — detalle de un envío fallido con el botón Reenviar -->
+   ![Detalle de un envío fallido con el botón Reenviar](img/por-que-mi-blast-tiene-estado-fallido-03.webp)
 
 > **Causa más común:** la cuenta queda bloqueada por tener demasiados rebotes (bounces) y hay que asignarle créditos. Para resolverlo, escribe al correo de soporte.
 
@@ -247,4 +247,4 @@ A la hora que elijas, según la zona horaria de tu computador. Puede salir unos 
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

@@ -39,7 +39,7 @@ The **Reporte general** (General report) is the exception: its "Descargar" (Down
 ## How to download a file
 
 1. **Request the export.** On the screen you want (for example, **Personas**), use the export option. You will see *"El proceso de exportacion ha comenzado, ten en cuenta que puede demorar unos minutos en completarse."* (The export has started; it may take a few minutes.)
-   <!-- screenshot pending: descargas-01 — export started message in Personas, with the Ir a descargas link -->
+   ![Export started message in Personas, with the Ir a descargas link](img/descargas-01.webp)
 
 2. **Open Downloads.** Go to **Data > Descargas**. In **Personas** you can also use the "Ir a descargas" (Go to downloads) link in the message.
    ![Descargas screen with the Registro de descargas card and the file list](img/descargas-02.webp)
@@ -95,4 +95,4 @@ When you export People you choose the source: **Base de datos en tiempo real** (
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

@@ -44,7 +44,7 @@ Em **Documentos** você envia os arquivos que descrevem a sua organização: rel
 2. **Escolha seus arquivos.** Arraste-os para **Suelta aquí tus documentos** (Solte aqui seus documentos) ou clique em "Nuevo" (Novo). Você pode escolher vários de uma vez.
 
 3. **Classifique-os (recomendado).** Na janela **Archivos cargados con éxito** (Arquivos enviados com sucesso), escolha para cada arquivo um ou mais **Atributos** (o tema do documento) e escreva uma **Etiqueta** (digite e pressione Enter). Se não tiver certeza, pode fazer isso depois.
-   <!-- captura pendente: entrenamiento-ai-03 — janela Archivos cargados con éxito com atributos e etiquetas -->
+   ![Janela Archivos cargados con éxito com atributos e etiquetas](img/entrenamiento-ai-03.webp)
 
 4. **Envie-os.** Deixe marcados os arquivos que quer enviar (ou use "Seleccionar todos", Selecionar todos) e clique em "Listo" (Pronto).
 
@@ -62,7 +62,7 @@ Em **Instrucciones** você escreve para a IA, com suas palavras, o que ela deve 
 Por exemplo: "Somos uma fundação que protege florestas na Colômbia. Fale de forma próxima e otimista. Não prometa números que não estejam nos nossos relatórios."
 
 1. **Abra a aba Instruções.** Em **AI > Entrenamiento [AI RAG]**, escolha **Instrucciones**.
-   <!-- captura pendente: entrenamiento-ai-04 — aba Instrucciones com um painel por atributo -->
+   ![Aba Instrucciones com um painel por atributo](img/entrenamiento-ai-04.webp)
 
 2. **Escolha o tema.** Há um painel para cada atributo (tema). Abra o que quer preencher.
 
@@ -94,7 +94,7 @@ Em **URL'S** você adiciona páginas web da sua organização para a IA ler: por
 ## Como ver o que enviei
 
 - **Documentos:** na aba **Documentos**, a lista **Documentos guardados** mostra **Nombre del archivo** (nome do arquivo), **Tipo**, **Atributo**, **Tags** e **Fecha de carga** (data de envio). O ícone de olho baixa o arquivo para você conferir.
-  <!-- captura pendente: entrenamiento-ai-06 — lista Documentos guardados com suas colunas e ícones -->
+  ![Lista Documentos guardados com suas colunas e ícones](img/entrenamiento-ai-06.webp)
 - **Instruções:** na aba **Instrucciones**, abra o painel de cada tema para ler o que escreveu.
 - **Páginas web:** na aba **URL'S** você vê cada endereço salvo.
 
@@ -118,4 +118,4 @@ Ele serve para todos os temas.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

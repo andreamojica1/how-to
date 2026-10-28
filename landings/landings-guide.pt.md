@@ -60,7 +60,7 @@ Cada landing é publicada no endereço da AFRUS (`web.afrus.org`) ou em um domí
    - **Mis páginas** (Minhas páginas): suas landings 2.0; clique em "Usar" para abrir o editor com uma cópia desse design.
    - **Plantillas** (Modelos): galeria de designs prontos; clique em "Usar plantilla" (Usar modelo).
    - **HTML**: cole seu próprio código em **Ingresar HTML** (Inserir HTML), confira com "Vista previa" (Pré-visualização) e clique em "Guardar".
-   <!-- captura pendente: como-criar-uma-landing-05 — aba Landing page com os quatro cartões -->
+   ![Aba Landing page com os quatro cartões](img/como-crear-una-landing-05.webp)
 
 6. **Monte e salve.** No editor visual, monte sua página e clique em "Guardar" (*"Landing page HTML guardada con éxito"*, salva com sucesso). "Ver" abre a página publicada em outra aba.
 
@@ -220,4 +220,4 @@ Sim. A página é retirada do endereço anterior e não redireciona. Compartilhe
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

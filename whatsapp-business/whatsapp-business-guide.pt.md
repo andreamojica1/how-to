@@ -34,7 +34,7 @@ O módulo tem duas telas: **WhatsApp Business > Blast**, o painel da sua conta c
 ## Como conectar o WhatsApp Business na AFRUS
 
 1. **Abra o módulo.** Acesse **WhatsApp Business > Blast**. Se ainda não houver conta conectada, a AFRUS leva você para a tela **Conecta tu WhatsApp Business** (Conecte seu WhatsApp Business), que lista as etapas prévias recomendadas.
-   <!-- captura pendente: como-conectar-o-whatsapp-business-na-afrus-01 — tela Conecta tu WhatsApp Business -->
+   ![Tela Conecta tu WhatsApp Business](img/como-conectar-whatsapp-business-en-afrus-01.webp)
 
 2. **Conecte-se com a Meta.** Clique em "Conectar con Facebook" (Conectar com o Facebook). Abre uma janela da Meta: faça login e escolha (ou crie) sua conta do WhatsApp Business e o número. Assim a AFRUS fica autorizada a enviar em nome da sua conta.
 
@@ -234,4 +234,4 @@ Porque falta uma verificação obrigatória ou uma mensagem de teste com sucesso
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

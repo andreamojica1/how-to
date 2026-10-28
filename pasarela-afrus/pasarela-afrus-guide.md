@@ -60,14 +60,14 @@ En la lista de **Historial de Pasarela AFRUS**, cada dispersión muestra **Fecha
 | Costo de transferencia | El costo fijo de enviar el dinero a tu cuenta bancaria |
 | Valor transferido | Lo que finalmente llegó a tu cuenta |
 
-<!-- captura pendiente: como-leer-una-dispersion-01 — detalle de una dispersión con sus montos -->
+![Detalle de una dispersión con sus montos](img/como-leer-una-dispersion-01.webp)
 
 **En pocas palabras:** Total recaudado − Comisión pasarela − retenciones del banco − costo de transferencia = lo que llega a tu cuenta.
 
 ## Cómo ver y descargar las donaciones de cada dispersión
 
 1. **Revisa el detalle.** Además del resumen, la sección muestra los mismos datos para cada donación incluida en la transferencia.
-   <!-- captura pendiente: como-descargar-el-detalle-de-una-dispersion-01 — detalle por transacción -->
+   ![Detalle por transacción](img/como-leer-una-dispersion-01.webp)
 
 2. **Descarga el detalle.** Pulsa "Descargar". El archivo trae más información que la que ves en pantalla, por ejemplo la campaña de cada donación. Es el que te conviene enviar a tu área contable.
 
@@ -100,4 +100,4 @@ Escríbenos con la fecha de la dispersión y te explicamos cada valor.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

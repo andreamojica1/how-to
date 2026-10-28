@@ -39,7 +39,7 @@ When you link a widget, its donations and registrations are associated with the 
 **Before you start:** the campaign must be **active**. The widget editor only lists active campaigns, by their public name.
 
 1. **Open the widget.** Go to **Fundraising > Widgets** and edit the widget you want to link. The editor opens in a new tab.
-   <!-- screenshot pending: how-to-link-a-widget-to-a-campaign-01 — widget editor, Renderización panel -->
+   ![Widget editor, Renderización panel](img/como-vincular-un-widget-con-una-campana-01.webp)
 
 2. **Choose the campaign.** In the **Renderización** (Rendering) panel, in the **Elige tus campañas** (Choose your campaigns) field, select one or more campaigns.
 
@@ -268,4 +268,4 @@ For now, its use is only confirmed in landings. For automated emails, use a Tran
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-28*

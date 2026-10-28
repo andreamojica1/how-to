@@ -39,17 +39,17 @@ Em **Data > Importaciones** (Importações) você pode subir dois tipos de lista
 ## Como importar um arquivo
 
 1. **Abra as importações.** Acesse **Data > Importaciones** e clique em "Importar".
-   <!-- captura pendente: como-importar-um-arquivo-01 — lista de importações com o botão Importar -->
+   ![Lista de importações com o botão Importar](img/como-importar-un-archivo-01.webp)
 
 2. **Escolha o que vai importar.** Em "¿Qué desea importar?" (O que deseja importar?) escolha **Leads** (contatos) ou **Transacciones** (doações) e clique em "Continuar".
-   <!-- captura pendente: como-importar-um-arquivo-02 — tela O que deseja importar com as opções Leads e Transacciones -->
+   ![Tela O que deseja importar com as opções Leads e Transacciones](img/como-importar-un-archivo-02.webp)
 
 3. **Suba seu arquivo.** Clique em "Añadir archivos" (Adicionar arquivos) ou arraste o arquivo. Você pode subir vários de uma vez.
 
 4. **Confirme a permissão dos seus contatos (só Leads).** Marque a caixa *"Certifico que cuento con el consentimiento de las personas incluidas en este archivo para importar sus datos y enviarles comunicaciones multicanal (email, WhatsApp, SMS)."* (Certifico que tenho o consentimento das pessoas deste arquivo para importar seus dados e enviar comunicações multicanal) e clique em "Importar".
 
 5. **Ligue cada coluna ao seu campo na AFRUS.** Para cada coluna do seu arquivo ("Datos archivos importados", dados dos arquivos importados), escolha a qual dado da AFRUS ela corresponde ("Campos de AFRUS", campos da AFRUS). Por exemplo: sua coluna "Mail" vai com e-mail. Assim a AFRUS sabe onde guardar cada dado.
-   <!-- captura pendente: como-importar-um-arquivo-05 — tela para ligar as colunas do arquivo aos campos da AFRUS -->
+   ![Tela para ligar as colunas do arquivo aos campos da AFRUS](img/como-importar-un-archivo-05.webp)
 
 6. **Coloque uma tag (opcional).** Em **Tag** você pode escrever uma etiqueta para todas as pessoas do arquivo, por exemplo o nome do evento onde você as conheceu.
 
@@ -111,7 +111,7 @@ Se faltar o e-mail, a tela deixa você continuar, mas todas as linhas falham. Co
 ## Resultados de uma importação
 
 Na lista de **Data > Importaciones** você vê todas as suas importações com o **Status**, o **Archivo** (Arquivo), a **Fecha** (Data) e quem fez (**Importación por**, Importado por). Por padrão aparecem as do mês; você pode buscar e mudar as datas.
-<!-- captura pendente: resultados-de-uma-importacao-01 — lista de importações com as colunas Status, Archivo, Fecha e Importación por -->
+![Lista de importações com as colunas Status, Archivo, Fecha e Importación por](img/como-importar-un-archivo-01.webp)
 
 | Status | O que significa |
 |---|---|
@@ -143,4 +143,4 @@ Não. O aviso *"Importación finalizada"* aparece dentro do console.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

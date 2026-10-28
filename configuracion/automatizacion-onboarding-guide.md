@@ -44,12 +44,12 @@ Arriba de **Interacciones > Autoresponders** y de **Interacciones > Blast** ver�
 1. **Abre la configuración.** En **Interacciones > Autoresponders** o **Interacciones > Blast**, haz clic en "Configurar DNS" en la tarjeta del dominio.
 
 2. **Escribe tu dominio.** En el paso 1, **Configurar dominio**, escribe tu **Dominio** (por ejemplo, `ejemplo.com`), haz clic en "Iniciar autenticación" y luego en "Continuar".
-   <!-- captura pendiente: como-configurar-mis-dns-en-afrus-02 — paso 1 del asistente con el campo Dominio -->
+   ![Paso 1 del asistente con el campo Dominio](img/como-configurar-mis-dns-en-afrus-02.webp)
 
 3. **Indica tu proveedor.** En el paso 2, responde *"¿Cuál es tu proveedor de DNS?"* y sigue las instrucciones para entrar a su panel. Haz clic en "Continuar".
 
 4. **Crea los registros DKIM.** En el paso 3, la pantalla te muestra 3 registros de tipo **CNAME**, cada uno con su **Nombre** y su **Valor**. Cópialos con el botón de copiar y créalos en el panel de tu proveedor. Haz clic en "Continuar".
-   <!-- captura pendiente: como-configurar-mis-dns-en-afrus-04 — paso 3 con los tres registros CNAME -->
+   ![Paso 3 con los tres registros CNAME](img/como-configurar-mis-dns-en-afrus-04.webp)
 
 5. **Crea los registros DMARC.** En el paso 4, crea en tu proveedor los registros que muestra la tabla: dos de tipo **TXT** y uno de tipo **MX** con **Prioridad** 10. Haz clic en "Finalizar".
 
@@ -75,4 +75,4 @@ No, no te avisa. Debes revisar si el dominio quedó validado: cuando lo esté, v
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

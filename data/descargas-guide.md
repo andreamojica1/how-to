@@ -37,7 +37,7 @@ El **Reporte general** es la excepción: su botón "Descargar" baja el archivo d
 ## Cómo descargar un archivo
 
 1. **Pide la exportación.** En la pantalla que quieras (por ejemplo, **Personas**), usa la opción de exportar. Verás el mensaje *"El proceso de exportacion ha comenzado, ten en cuenta que puede demorar unos minutos en completarse."*
-   <!-- captura pendiente: descargas-01 — mensaje de inicio de exportación en Personas, con el enlace Ir a descargas -->
+   ![Mensaje de inicio de exportación en Personas, con el enlace Ir a descargas](img/descargas-01.webp)
 
 2. **Abre Descargas.** Ve a **Data > Descargas**. En **Personas** también puedes usar el enlace "Ir a descargas" del mensaje.
    ![Pantalla Descargas con la tarjeta Registro de descargas y la lista de archivos](img/descargas-02.webp)
@@ -93,4 +93,4 @@ Al exportar Personas eliges la fuente: **Base de datos en tiempo real** trae los
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

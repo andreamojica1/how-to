@@ -62,14 +62,14 @@ In the **Historial de Pasarela AFRUS** list, each payout shows **Fecha de corte*
 | Transfer cost | The fixed cost of sending the money to your bank account |
 | Amount transferred | What finally reached your account |
 
-<!-- screenshot pending: how-to-read-a-payout-01 — detail of a payout with its amounts -->
+![Detail of a payout with its amounts](img/como-leer-una-dispersion-01.webp)
 
 **In short:** Total raised − Gateway fee − bank withholdings − transfer cost = what reaches your account.
 
 ## How to see and download the donations in each payout
 
 1. **Review the detail.** Besides the summary, the section shows the same data for each donation included in the transfer.
-   <!-- screenshot pending: how-to-download-the-detail-of-a-payout-01 — detail by transaction -->
+   ![Detail by transaction](img/como-leer-una-dispersion-01.webp)
 
 2. **Download the detail.** Click "Descargar" (Download). The file has more information than you see on screen, for example the campaign of each donation. It is the one to send to your accounting team.
 
@@ -102,4 +102,4 @@ Write to us with the payout date and we'll explain each amount.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

@@ -46,7 +46,7 @@ El tipo de widget es su **Objetivo**. Se elige al crearlo y define qué snippets
 Para crear un widget del tipo que necesitas:
 
 1. **Abre el editor.** En **Fundraising > Widgets**, haz clic en "Nuevo widget". Se abre en una pestaña nueva; ahí haz clic en "Nuevo formulario".
-   <!-- captura pendiente: que-tipos-de-widgets-existen-01 — ventana Selecciona el objetivo de tu formulario -->
+   ![Ventana Selecciona el objetivo de tu formulario](img/que-tipos-de-widgets-existen-01.webp)
 2. **Elige el objetivo.** En la ventana **Selecciona el objetivo de tu formulario**, escribe el **Nombre del formulario** (máximo 50 caracteres), elige el **Objetivo** y haz clic en "Crear". Verás *"¡Widget creado satisfactoriamente!"* y el editor se abre solo.
 3. **Vincula una campaña.** En el panel **Renderización**, elige al menos una campaña en **Elige tus campañas**. Es obligatorio para poder guardar.
 4. **Elige cómo se muestra.** En el panel **Renderización**, en **Mecanismo de renderización**, elige **Estandar** (el formulario se ve incrustado en la página) o **Popup** (se abre desde un botón; en ese caso completa **Texto del botón Pop up**). En el mismo panel puedes activar el selector de idiomas, el selector de países y la barra de progreso.
@@ -71,7 +71,7 @@ Un widget de producto sirve para vender productos o tickets de rifa con precio y
 
 1. **Abre el editor del widget.** En **Fundraising > Widgets**, haz clic en "Editar" en la fila del widget. Se abre en una pestaña nueva.
 2. **Elige la forma de los campos.** En la pestaña **Editar**, panel **Estilo**, en **Seleccione un estilo para el formulario** elige **Cuadrado**, **Cuadrado redondeado**, **Redondeado** o **Línea**.
-   <!-- captura pendiente: como-cambiar-los-estilos-del-widget-02 — panel Estilo -->
+   ![Panel Estilo](img/como-cambiar-los-estilos-del-widget-02.webp)
 3. **Ajusta colores y tipografía.** Abre **Estilo del formulario** y cambia la **Familia tipográfica** (Roboto, Arial, Calibri, Univers LT Pro), el **Color principal**, **Color de botones**, **Color de fondo**, **Color de texto**, **Color del texto de error**, **Color de fondo de la caja**, **Color del texto de la caja**, el **Borde de la caja**, el **Borde** (con **Radio del border**) y la **Sombra**. Así el formulario se ve como parte de tu marca.
 4. **Ajusta encabezado y pie.** En **Encabezado** cambia el **Color de fondo**. En **Pie de página** ajusta la alineación, el **Color de texto**, el color del texto de seguridad y la tipografía. El botón "REINICIAR" vuelve a los valores de fábrica.
 5. **Revisa y guarda.** Mira el resultado con "Vista previa" y haz clic en "Guardar Widget".
@@ -88,7 +88,7 @@ Al terminar verás los nuevos estilos en la vista previa y en el widget publicad
 
 1. **Abre el editor del widget.** En **Fundraising > Widgets**, haz clic en "Editar".
 2. **Agrega el país.** En la columna central, haz clic en la tarjeta **Nuevo país**.
-   <!-- captura pendiente: como-agregar-un-nuevo-pais-02 — ventana Idioma y moneda -->
+   ![Ventana Idioma y moneda](img/como-agregar-un-nuevo-pais-02.webp)
 3. **Completa idioma y moneda.** En **Idioma y moneda**, elige **Seleccione un país**, el **Idioma** (Español, English, Portugues, Italian o Deutsch) y revisa la **Moneda** (se completa sola con la del país, pero puedes cambiarla).
 4. **Agrega un pie de página (opcional).** Escribe un texto de **Pie de página** de hasta 250 caracteres.
 5. **Guarda el país.** Haz clic en "Guardar". Verás *"¡País añadido satisfactoriamente!"*.
@@ -130,7 +130,7 @@ La mayoría de los snippets solo se pueden agregar una vez por país; **Texto**,
 **Antes de empezar:** la pasarela tiene que estar conectada en **Ajustes de Organización > Pasarelas de pago**. En el snippet solo aparecen las pasarelas conectadas que aceptan la moneda del país.
 
 1. **Abre el snippet Medio de pago.** En el editor del widget, elige el país y haz clic en el snippet **Medio de pago**.
-   <!-- captura pendiente: como-configurar-los-metodos-de-pago-01 — snippet Medio de pago -->
+   ![Snippet Medio de pago](img/como-configurar-los-metodos-de-pago-01.webp)
 2. **Elige las periodicidades.** En **Seleccionar periodicidades** marca **Única**, **Mensual** y/o **Anual** (al menos una).
 3. **Elige las pasarelas.** En **Selecionar pasarelas de pago** elige una o varias.
 4. **Empata método y periodicidad.** En **Empatar periodicidad y método de pago**, marca para cada pasarela y cada método (tarjeta, Pix, boleto, etc.) en qué periodicidades se ofrece.
@@ -158,7 +158,7 @@ Al terminar, el donante verá solo los métodos habilitados para la periodicidad
    - marca con la estrella el monto predeterminado (uno por frecuencia, obligatorio);
    - si quieres, fija un monto **Mínimo** y cambia el nombre que ve el donante con **Editar texto de frecuencía**;
    - si hay varias frecuencias, elige la preseleccionada con **Seleccionar frecuencia por defecto**.
-   <!-- captura pendiente: configuracion-del-snippet-donacion-03 — ventana Selecciones las cantidades por frecuencias -->
+   ![Ventana Selecciones las cantidades por frecuencias](img/configuracion-del-snippet-donacion-03.webp)
 4. **Agrega imágenes (si las activaste).** Sube una imagen por monto con "Subir imagen" o elígela desde **Galería**, y escribe una descripción opcional. Usa jpg, webp o png, máximo recomendado de 150 × 150 píxeles y 1 MB.
 5. **Guarda.** Haz clic en "Guardar" dentro de la ventana y después en **Guardar Snippet**.
 6. **Ordena las frecuencias (opcional).** En **Orden de las frecuencias**, arrastra para decidir en qué orden se ven Única, Mensual y Anual.
@@ -178,7 +178,7 @@ Con esta opción, el formulario muestra solo la donación mensual y deja la úni
 
 1. **Abre el snippet Donación** en el editor del widget.
 2. **Activa la opción.** Marca **Mostrar la donación única solo como enlace debajo del botón de pago**.
-   <!-- captura pendiente: scape-recurrent-02 — casilla en el snippet Donación -->
+   ![Casilla en el snippet Donación](img/scape-recurrent-02.webp)
 3. **Guarda.** Haz clic en **Guardar Snippet** y después en "Guardar Widget".
 
 Al terminar, se oculta la pestaña **Única** y el donante ve solo la frecuencia mensual. Debajo del botón de pago aparece el enlace *"Hacer donación única"*, que cambia la donación a única.
@@ -198,7 +198,7 @@ El snippet **Ofrecer única a recurrente** muestra una tarjeta que invita a quie
 1. **Agrega el snippet.** En el editor del widget, haz clic en "Agregar" y elige **Ofrecer única a recurrente**. Se coloca solo justo después de **Donación**, con un separador, y se mueve junto con Donación.
 2. **Actívalo.** Activa **Habilitar**.
 3. **Personaliza la tarjeta (opcional).** Completa **Título** y **Subtítulo**, y elige **Color del botón**, **Color de degradado superior** y **Color de fondo de la tarjeta**. Si dejas un color vacío, se usa la paleta del panel **Estilo**.
-   <!-- captura pendiente: cards-de-conversion-03 — configuración de Ofrecer única a recurrente -->
+   ![Configuración de Ofrecer única a recurrente](img/cards-de-conversion-03.webp)
 4. **Define las tasas.** Completa **Tasa 1 (%)** y **Tasa 2 (%)**, números enteros de 1 a 99 (vienen en 50 y 25). Son los porcentajes del monto único que se proponen como donación mensual.
 5. **Guarda.** Haz clic en **Guardar Snippet** y después en "Guardar Widget".
 
@@ -232,7 +232,7 @@ Al terminar, en el último paso del widget, con esa pasarela seleccionada, el do
 ## Cómo configurar una página de agradecimiento
 
 1. **Abre el panel.** En el editor del widget, pestaña **Editar**, abre el panel **Avanzado** y, dentro, **Página de agradecimiento**.
-   <!-- captura pendiente: como-configurar-una-pagina-de-agradecimiento-01 — panel Página de agradecimiento -->
+   ![Panel Página de agradecimiento](img/como-configurar-una-pagina-de-agradecimiento-01.webp)
 2. **Opción A: usa la de la campaña.** Marca **Usa la página de agradecimiento de la campaña.** Después del pago, el donante va a la página de agradecimiento que creaste en la campaña. Revisa los países que no tengan la misma traducción en la campaña, como avisa el editor.
 3. **Opción B: configura tus URL.** Haz clic en "Configurar". En la ventana **Páginas de agradecimiento**, activa **Habilitar página de agradecimiento** y elige:
    - una URL de **Página de agradecimiento general**, para todos los casos; o
@@ -257,7 +257,7 @@ Todas se configuran en el panel **Avanzado** del editor del widget y se guardan 
    - activa **Face to Face** (*"Habilitar configuración Face to Face para transacciones presenciales"*);
    - completa **Correo del captador** (obligatorio) y, si quieres, **Correo del supervisor**;
    - **Desactivar autocompletado del navegador** se marca solo, para que el navegador no ofrezca los datos del donante anterior.
-   <!-- captura pendiente: opciones-de-avanzado-05 — panel Avanzado con Face to Face -->
+   ![Panel Avanzado con Face to Face](img/opciones-de-avanzado-05.webp)
 6. **Guarda.** Haz clic en "Guardar Widget".
 
 Al terminar:
@@ -314,4 +314,4 @@ En ningún lado del widget: se configura por pasarela, en **Ajustes de Organizac
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

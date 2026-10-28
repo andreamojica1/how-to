@@ -48,7 +48,7 @@ The widget type is its **Objetivo** (Goal). It is chosen when you create the wid
 To create a widget of the type you need:
 
 1. **Open the editor.** In **Fundraising > Widgets**, click "Nuevo widget". The editor opens in a new tab; there, click "Nuevo formulario".
-   <!-- screenshot pending: which-widget-types-exist-01 — Selecciona el objetivo de tu formulario window -->
+   ![Selecciona el objetivo de tu formulario window](img/que-tipos-de-widgets-existen-01.webp)
 2. **Choose the goal.** In the **Selecciona el objetivo de tu formulario** (Select your form's goal) window, type the **Nombre del formulario** (Form name, up to 50 characters), choose the **Objetivo** and click "Crear" (Create). You will see *"¡Widget creado satisfactoriamente!"* (Widget created successfully) and the editor opens.
 3. **Link a campaign.** In the **Renderización** panel, choose at least one campaign in **Elige tus campañas** (Choose your campaigns). It is required to save.
 4. **Choose how it is displayed.** In the **Renderización** panel, under **Mecanismo de renderización** (Rendering mechanism), choose **Estandar** (Standard: the form is embedded in the page) or **Popup** (it opens from a button; then fill in **Texto del botón Pop up**, Popup button text). In the same panel you can turn on the language selector, the country selector and the progress bar.
@@ -73,7 +73,7 @@ A product widget is used to sell products or raffle tickets with a price and sto
 
 1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar" on the widget's row. It opens in a new tab.
 2. **Choose the field shape.** In the **Editar** tab, **Estilo** panel, under **Seleccione un estilo para el formulario** (Select a form style), choose **Cuadrado**, **Cuadrado redondeado**, **Redondeado** or **Línea** (square, rounded square, rounded, line).
-   <!-- screenshot pending: how-to-change-widget-styles-02 — Estilo panel -->
+   ![Estilo panel](img/como-cambiar-los-estilos-del-widget-02.webp)
 3. **Adjust colors and fonts.** Open **Estilo del formulario** (Form style) and change the **Familia tipográfica** (font family: Roboto, Arial, Calibri, Univers LT Pro), **Color principal** (main color), **Color de botones** (buttons), **Color de fondo** (background), **Color de texto** (text), **Color del texto de error** (error text), **Color de fondo de la caja** and **Color del texto de la caja** (box background and text), **Borde de la caja** (box border), **Borde** (border, with **Radio del border**, radius) and **Sombra** (shadow). This way the form looks like part of your brand.
 4. **Adjust header and footer.** In **Encabezado** (Header) change the **Color de fondo**. In **Pie de página** (Footer) adjust alignment, **Color de texto**, the security text color and the typography. The "REINICIAR" (Reset) button goes back to the default values.
 5. **Review and save.** Check the result with "Vista previa" and click "Guardar Widget".
@@ -90,7 +90,7 @@ When you finish you will see the new styles in the preview and in the published 
 
 1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar".
 2. **Add the country.** In the center column, click the **Nuevo país** (New country) card.
-   <!-- screenshot pending: how-to-add-a-new-country-02 — Idioma y moneda window -->
+   ![Idioma y moneda window](img/como-agregar-un-nuevo-pais-02.webp)
 3. **Fill in language and currency.** In **Idioma y moneda**, choose **Seleccione un país** (Select a country), the **Idioma** (Español, English, Portugues, Italian or Deutsch) and check the **Moneda** (it fills in with the country's currency, but you can change it).
 4. **Add a footer (optional).** Type a **Pie de página** text of up to 250 characters.
 5. **Save the country.** Click "Guardar" (Save). You will see *"¡País añadido satisfactoriamente!"* (Country added successfully).
@@ -132,7 +132,7 @@ Most snippets can be added only once per country; **Texto**, **Imagen**, **Separ
 **Before you start:** the gateway must be connected in **Ajustes de Organización > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency.
 
 1. **Open the Medio de pago snippet.** In the widget editor, choose the country and click the **Medio de pago** snippet.
-   <!-- screenshot pending: how-to-set-up-payment-methods-01 — Medio de pago snippet -->
+   ![Medio de pago snippet](img/como-configurar-los-metodos-de-pago-01.webp)
 2. **Choose the frequencies.** In **Seleccionar periodicidades** (Select frequencies) check **Única**, **Mensual** and/or **Anual** (one-time, monthly, yearly; at least one).
 3. **Choose the gateways.** In **Selecionar pasarelas de pago** (Select payment gateways) choose one or more.
 4. **Match method and frequency.** In **Empatar periodicidad y método de pago** (Match frequency and payment method), check for each gateway and each method (card, Pix, boleto, etc.) which frequencies it is offered in.
@@ -160,7 +160,7 @@ When you finish, donors will see only the methods enabled for the frequency they
    - mark the default amount with the star (one per frequency, required);
    - optionally set a **Mínimo** (minimum) amount and change the name donors see with **Editar texto de frecuencía** (Edit frequency text);
    - if there are several frequencies, choose the preselected one with **Seleccionar frecuencia por defecto** (Select default frequency).
-   <!-- screenshot pending: donation-snippet-setup-03 — Selecciones las cantidades por frecuencias window -->
+   ![Selecciones las cantidades por frecuencias window](img/configuracion-del-snippet-donacion-03.webp)
 4. **Add images (if you turned them on).** Upload one image per amount with "Subir imagen" (Upload image) or choose it from **Galería** (Gallery), and write an optional description. Use jpg, webp or png, recommended maximum 150 × 150 pixels and 1 MB.
 5. **Save.** Click "Guardar" inside the window and then **Guardar Snippet**.
 6. **Order the frequencies (optional).** In **Orden de las frecuencias** (Frequency order), drag to decide the order of Única, Mensual and Anual.
@@ -180,7 +180,7 @@ With this option, the form shows only the monthly donation and leaves the one-ti
 
 1. **Open the Donation snippet** in the widget editor.
 2. **Turn on the option.** Check **Mostrar la donación única solo como enlace debajo del botón de pago** (Show the one-time donation only as a link below the payment button).
-   <!-- screenshot pending: scape-recurrent-02 — checkbox in the Donación snippet -->
+   ![Checkbox in the Donación snippet](img/scape-recurrent-02.webp)
 3. **Save.** Click **Guardar Snippet** and then "Guardar Widget".
 
 When you finish, the **Única** tab is hidden and donors see only the monthly frequency. Below the payment button the link *"Hacer donación única"* (Make a one-time donation) appears, which switches the donation to one-time.
@@ -200,7 +200,7 @@ The **Ofrecer única a recurrente** (Offer one-time to recurring) snippet shows 
 1. **Add the snippet.** In the widget editor, click "Agregar" and choose **Ofrecer única a recurrente**. It is placed right after **Donación**, with a separator, and moves together with Donation.
 2. **Turn it on.** Turn on **Habilitar** (Enable).
 3. **Customize the card (optional).** Fill in **Título** and **Subtítulo** (title, subtitle), and choose **Color del botón** (button color), **Color de degradado superior** (top gradient color) and **Color de fondo de la tarjeta** (card background). If you leave a color empty, the **Estilo** panel palette is used.
-   <!-- screenshot pending: conversion-cards-03 — Ofrecer única a recurrente settings -->
+   ![Ofrecer única a recurrente settings](img/cards-de-conversion-03.webp)
 4. **Set the rates.** Fill in **Tasa 1 (%)** and **Tasa 2 (%)** (Rate 1 and 2), whole numbers from 1 to 99 (default 50 and 25). They are the percentages of the one-time amount proposed as a monthly donation.
 5. **Save.** Click **Guardar Snippet** and then "Guardar Widget".
 
@@ -234,7 +234,7 @@ When you finish, in the widget's last step, with that gateway selected, donors w
 ## How to set up a thank-you page
 
 1. **Open the panel.** In the widget editor, **Editar** tab, open the **Avanzado** panel and, inside it, **Página de agradecimiento** (Thank-you page).
-   <!-- screenshot pending: how-to-set-up-a-thank-you-page-01 — Página de agradecimiento panel -->
+   ![Página de agradecimiento panel](img/como-configurar-una-pagina-de-agradecimiento-01.webp)
 2. **Option A: use the campaign's page.** Check **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). After paying, donors go to the thank-you page you created in the campaign. As the editor warns, check the countries that don't have the same translation in the campaign.
 3. **Option B: set your own URLs.** Click "Configurar" (Set up). In the **Páginas de agradecimiento** window, turn on **Habilitar página de agradecimiento** (Enable thank-you page) and choose:
    - one **Página de agradecimiento general** (general thank-you page) URL for every case; or
@@ -259,7 +259,7 @@ All of them are set up in the widget editor's **Avanzado** (Advanced) panel and 
    - turn on **Face to Face** (*"Habilitar configuración Face to Face para transacciones presenciales"*);
    - fill in **Correo del captador** (fundraiser email, required) and, optionally, **Correo del supervisor** (supervisor email);
    - **Desactivar autocompletado del navegador** (Turn off browser autofill) is checked automatically, so the browser doesn't offer the previous donor's details.
-   <!-- screenshot pending: advanced-options-05 — Avanzado panel with Face to Face -->
+   ![Avanzado panel with Face to Face](img/opciones-de-avanzado-05.webp)
 6. **Save.** Click "Guardar Widget".
 
 When you finish:
@@ -316,4 +316,4 @@ Nowhere in the widget: it is set up per gateway, in **Ajustes de Organización >
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

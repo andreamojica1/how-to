@@ -51,12 +51,12 @@ You choose who receives it, the goal and what you want to say. The AI writes a d
 ### Part 2 — Design
 
 5. **Choose how it will look.** Choose **Correo de texto** (plain email, no images) or **Plantillas AI Email** (the AI uses one of your active templates). If you choose templates, check in **Seleccionar atributos para imágenes** (Select attributes for images) which images from your **Galería para AI** it can use. Click "Continuar".
-   <!-- screenshot pending: blast-de-ai-05 — Diseño step with Correo de texto and Plantillas AI Email -->
+   ![Diseño step with Correo de texto and Plantillas AI Email](img/blast-de-ai-05.webp)
 
 ### Part 3 — Message
 
 6. **Write the link and your instructions.** In **URL del Call to Action** paste the link you want people to go to (your donation form, for example). In **Prompt (Mensaje o Instrucciones)** (message or instructions) tell the AI what you want to say. Both are required.
-   <!-- screenshot pending: blast-de-ai-06 — prompt step with URL del Call to Action and Prompt -->
+   ![Prompt step with URL del Call to Action and Prompt](img/blast-de-ai-06.webp)
 
 7. **Improve your instructions (optional).** "Mejorar prompt" (Improve prompt) rewrites your text with AI. Careful: it replaces what you wrote. Click "Continuar".
 
@@ -67,7 +67,7 @@ You choose who receives it, the goal and what you want to say. The AI writes a d
    > **Important:** the test shows a sample design but does **not** include the text the AI will write for each person (those areas arrive empty). Today there's no way to see the final text before sending.
 
 9. **Choose when to send it.** **Enviar ahora** (Send now) or **Programar fecha** (Schedule date): choose **Fecha** (date) and **Hora** (time); minutes can be 00, 15, 30 or 45.
-   <!-- screenshot pending: blast-de-ai-09 — Programar step with summary and Finalizar button -->
+   ![Programar step with summary and Finalizar button](img/blast-de-ai-09.webp)
 
    > **Important:** the screen shows Bogotá time (GMT -5), but the send goes out according to your computer's time. If your computer is in another time zone, adjust the time so it matches the one you want.
 
@@ -100,4 +100,4 @@ With one of the templates you have enabled in **AI > Plantillas AI Email**.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

@@ -14,7 +14,7 @@ This guide explains what your organization's currency is and where AFRUS uses it
 
 You find it in **Ajustes de Organización > Moneda predeterminada**.
 
-<!-- screenshot pending: what-is-the-organization-currency-01 — Default currency screen -->
+![Default currency screen](img/que-es-la-moneda-de-la-organizacion-01.webp)
 
 ## What it is for
 
@@ -43,4 +43,4 @@ Your organization's currency.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-28*

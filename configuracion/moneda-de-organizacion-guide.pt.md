@@ -14,7 +14,7 @@ Com este guia você vai entender o que é a moeda da sua organização e em quai
 
 Ela fica em **Ajustes de Organización > Moneda predeterminada**.
 
-<!-- captura pendente: o-que-e-a-moeda-da-organizacao-01 — tela Moneda predeterminada -->
+![Tela Moneda predeterminada](img/que-es-la-moneda-de-la-organizacion-01.webp)
 
 ## Para que serve
 
@@ -43,4 +43,4 @@ Na moeda da sua organização.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-28*

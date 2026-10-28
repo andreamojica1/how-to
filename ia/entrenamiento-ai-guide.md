@@ -42,7 +42,7 @@ En **Documentos** subes los archivos que describen a tu organización: informes 
 2. **Elige tus archivos.** Arrástralos a **Suelta aquí tus documentos** o pulsa "Nuevo". Puedes elegir varios a la vez.
 
 3. **Clasifícalos (recomendado).** En la ventana **Archivos cargados con éxito**, elige para cada archivo uno o varios **Atributos** (el tema del documento) y escribe una **Etiqueta** (escríbela y pulsa Enter). Si no estás seguro, puedes hacerlo después.
-   <!-- captura pendiente: entrenamiento-ai-03 — ventana Archivos cargados con éxito con atributos y etiquetas -->
+   ![Ventana Archivos cargados con éxito con atributos y etiquetas](img/entrenamiento-ai-03.webp)
 
 4. **Súbelos.** Deja marcados los archivos que quieres subir (o usa "Seleccionar todos") y pulsa "Listo".
 
@@ -60,7 +60,7 @@ En **Instrucciones** le escribes a la IA, con tus palabras, lo que debe saber y 
 Por ejemplo: "Somos una fundación que protege bosques en Colombia. Habla de forma cercana y optimista. No prometas cifras que no estén en nuestros informes."
 
 1. **Abre la pestaña Instrucciones.** En **AI > Entrenamiento [AI RAG]**, elige **Instrucciones**.
-   <!-- captura pendiente: entrenamiento-ai-04 — pestaña Instrucciones con los paneles por atributo -->
+   ![Pestaña Instrucciones con los paneles por atributo](img/entrenamiento-ai-04.webp)
 
 2. **Elige el tema.** Hay un panel por cada atributo (tema). Abre el que quieras completar.
 
@@ -92,7 +92,7 @@ En **URL'S** agregas páginas web de tu organización para que la IA las lea: po
 ## Cómo ver lo que he subido
 
 - **Documentos:** en la pestaña **Documentos**, la lista **Documentos guardados** muestra **Nombre del archivo**, **Tipo**, **Atributo**, **Tags** y **Fecha de carga**. El icono de ojo descarga el archivo para que lo revises.
-  <!-- captura pendiente: entrenamiento-ai-06 — lista Documentos guardados con sus columnas e iconos -->
+  ![Lista Documentos guardados con sus columnas e iconos](img/entrenamiento-ai-06.webp)
 - **Instrucciones:** en la pestaña **Instrucciones**, abre el panel de cada tema para leer lo que escribiste.
 - **Páginas web:** en la pestaña **URL'S** ves cada dirección guardada.
 
@@ -116,4 +116,4 @@ Sirve para todos los temas.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

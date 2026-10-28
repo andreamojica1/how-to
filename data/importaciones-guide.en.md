@@ -39,17 +39,17 @@ In **Data > Importaciones** (Imports) you can upload two kinds of lists:
 ## How to import a file
 
 1. **Open imports.** Go to **Data > Importaciones** and click "Importar" (Import).
-   <!-- screenshot pending: how-to-import-a-file-01 — import list with the Importar button -->
+   ![Import list with the Importar button](img/como-importar-un-archivo-01.webp)
 
 2. **Choose what you will import.** Under "¿Qué desea importar?" (What do you want to import?) choose **Leads** (contacts) or **Transacciones** (donations) and click "Continuar" (Continue).
-   <!-- screenshot pending: how-to-import-a-file-02 — What do you want to import screen with the Leads and Transacciones options -->
+   ![What do you want to import screen with the Leads and Transacciones options](img/como-importar-un-archivo-02.webp)
 
 3. **Upload your file.** Click "Añadir archivos" (Add files) or drag the file in. You can upload several at once.
 
 4. **Confirm your contacts' permission (Leads only).** Check the box *"Certifico que cuento con el consentimiento de las personas incluidas en este archivo para importar sus datos y enviarles comunicaciones multicanal (email, WhatsApp, SMS)."* (I certify that I have the consent of the people in this file to import their data and send them multichannel communications) and click "Importar".
 
 5. **Match each column to its AFRUS field.** For each column in your file ("Datos archivos importados", imported file data), choose which AFRUS data it matches ("Campos de AFRUS", AFRUS fields). For example: your "Mail" column goes with email. This way AFRUS knows where to save each piece of data.
-   <!-- screenshot pending: how-to-import-a-file-05 — screen to match file columns with AFRUS fields -->
+   ![Screen to match file columns with AFRUS fields](img/como-importar-un-archivo-05.webp)
 
 6. **Add a tag (optional).** In **Tag** you can write a tag for everyone in the file, for example the name of the event where you met them.
 
@@ -111,7 +111,7 @@ If the email is missing, the screen lets you continue, but every row fails. Make
 ## Import results
 
 In the **Data > Importaciones** list you see all your imports with their **Status**, **Archivo** (File), **Fecha** (Date) and who did it (**Importación por**, Imported by). By default the current month is shown; you can search and change the dates.
-<!-- screenshot pending: import-results-01 — import list with the Status, Archivo, Fecha and Importación por columns -->
+![Import list with the Status, Archivo, Fecha and Importación por columns](img/como-importar-un-archivo-01.webp)
 
 | Status | What it means |
 |---|---|
@@ -143,4 +143,4 @@ No. The *"Importación finalizada"* notice appears inside the console.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*

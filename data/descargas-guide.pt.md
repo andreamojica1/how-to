@@ -39,7 +39,7 @@ O **Reporte general** (Relatório geral) é a exceção: o botão "Descargar" (B
 ## Como baixar um arquivo
 
 1. **Peça a exportação.** Na tela que quiser (por exemplo, **Personas**), use a opção de exportar. Você verá *"El proceso de exportacion ha comenzado, ten en cuenta que puede demorar unos minutos en completarse."* (A exportação começou; pode levar alguns minutos.)
-   <!-- captura pendente: descargas-01 — mensagem de início da exportação em Personas, com o link Ir a descargas -->
+   ![Mensagem de início da exportação em Personas, com o link Ir a descargas](img/descargas-01.webp)
 
 2. **Abra Downloads.** Acesse **Data > Descargas**. Em **Personas** você também pode usar o link "Ir a descargas" (Ir para downloads) da mensagem.
    ![Tela Descargas com o cartão Registro de descargas e a lista de arquivos](img/descargas-02.webp)
@@ -95,4 +95,4 @@ Ao exportar Pessoas você escolhe a fonte: **Base de datos en tiempo real** (Ban
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

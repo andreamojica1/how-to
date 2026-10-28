@@ -51,12 +51,12 @@ Você escolhe quem recebe, o objetivo e o que quer dizer. A IA escreve um e-mail
 ### Parte 2 — Design
 
 5. **Escolha como vai ficar.** Escolha **Correo de texto** (e-mail simples, sem imagens) ou **Plantillas AI Email** (a IA usa um dos seus modelos ativos). Se escolher modelos, marque em **Seleccionar atributos para imágenes** (Selecionar atributos para imagens) quais imagens da sua **Galería para AI** ela pode usar. Clique em "Continuar".
-   <!-- captura pendente: blast-de-ai-05 — etapa Diseño com Correo de texto e Plantillas AI Email -->
+   ![Etapa Diseño com Correo de texto e Plantillas AI Email](img/blast-de-ai-05.webp)
 
 ### Parte 3 — Mensagem
 
 6. **Escreva o link e suas instruções.** Em **URL del Call to Action** cole o link para onde quer levar as pessoas (seu formulário de doação, por exemplo). Em **Prompt (Mensaje o Instrucciones)** (mensagem ou instruções) conte à IA o que quer dizer. Os dois são obrigatórios.
-   <!-- captura pendente: blast-de-ai-06 — etapa prompt com URL del Call to Action e Prompt -->
+   ![Etapa prompt com URL del Call to Action e Prompt](img/blast-de-ai-06.webp)
 
 7. **Melhore suas instruções (opcional).** "Mejorar prompt" (Melhorar prompt) reescreve seu texto com IA. Atenção: substitui o que você escreveu. Clique em "Continuar".
 
@@ -67,7 +67,7 @@ Você escolhe quem recebe, o objetivo e o que quer dizer. A IA escreve um e-mail
    > **Importante:** o teste mostra um design de exemplo, mas **não** traz o texto que a IA vai escrever para cada pessoa (esses espaços chegam vazios). Hoje não há como ver o texto final antes do envio.
 
 9. **Escolha quando enviar.** **Enviar ahora** (Enviar agora) ou **Programar fecha** (Agendar data): escolha **Fecha** (data) e **Hora**; os minutos podem ser 00, 15, 30 ou 45.
-   <!-- captura pendente: blast-de-ai-09 — etapa Programar com resumo e botão Finalizar -->
+   ![Etapa Programar com resumo e botão Finalizar](img/blast-de-ai-09.webp)
 
    > **Importante:** a tela mostra o horário de Bogotá (GMT -5), mas o envio sai de acordo com o horário do seu computador. Se seu computador estiver em outro fuso horário (o horário de Brasília, por exemplo), ajuste a hora para que coincida com a que você quer.
 
@@ -100,4 +100,4 @@ Com algum dos modelos que você tem habilitados em **AI > Plantillas AI Email**.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

@@ -49,12 +49,12 @@ Tú eliges a quién enviarlo, cuál es el objetivo y qué quieres decir. La IA e
 ### Parte 2 — Diseño
 
 5. **Elige cómo se verá.** Elige **Correo de texto** (simple, sin imágenes) o **Plantillas AI Email** (la IA usa una de tus plantillas activas). Si eliges plantillas, marca en **Seleccionar atributos para imágenes** qué imágenes de tu **Galería para AI** puede usar. Pulsa "Continuar".
-   <!-- captura pendiente: blast-de-ai-05 — paso Diseño con Correo de texto y Plantillas AI Email -->
+   ![Paso Diseño con Correo de texto y Plantillas AI Email](img/blast-de-ai-05.webp)
 
 ### Parte 3 — Mensaje
 
 6. **Escribe el enlace y tus instrucciones.** En **URL del Call to Action** pega el enlace al que quieres llevar a la gente (tu formulario de donación, por ejemplo). En **Prompt (Mensaje o Instrucciones)** cuéntale a la IA qué quieres decir. Los dos son obligatorios.
-   <!-- captura pendiente: blast-de-ai-06 — paso prompt con URL del Call to Action y Prompt -->
+   ![Paso prompt con URL del Call to Action y Prompt](img/blast-de-ai-06.webp)
 
 7. **Mejora tus instrucciones (opcional).** "Mejorar prompt" reescribe tu texto con IA. Ojo: reemplaza lo que escribiste. Pulsa "Continuar".
 
@@ -65,7 +65,7 @@ Tú eliges a quién enviarlo, cuál es el objetivo y qué quieres decir. La IA e
    > **Importante:** la prueba muestra un diseño de ejemplo, pero **no** trae el texto que la IA escribirá para cada persona (esos espacios llegan vacíos). Hoy no hay forma de ver el texto final antes del envío.
 
 9. **Elige cuándo enviarlo.** **Enviar ahora** o **Programar fecha** (elige **Fecha** y **Hora**; los minutos pueden ser 00, 15, 30 o 45).
-   <!-- captura pendiente: blast-de-ai-09 — paso Programar con resumen y botón Finalizar -->
+   ![Paso Programar con resumen y botón Finalizar](img/blast-de-ai-09.webp)
 
    > **Importante:** la pantalla muestra la hora de Bogotá (GMT -5), pero el envío sale según la hora de tu computador. Si tu computador está en otra zona horaria, ajusta la hora para que coincida con la que quieres.
 
@@ -98,4 +98,4 @@ Con alguna de las plantillas que tengas habilitadas en **AI > Plantillas AI Emai
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-27*
+*Última actualización: 2026-10-28*

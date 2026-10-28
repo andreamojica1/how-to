@@ -29,7 +29,7 @@ Eles são definidos em **Ajustes de Organización > Campos personalizados**.
 ## Como configurar um campo personalizado
 
 1. **Abra a tela.** Acesse **Ajustes de Organización > Campos personalizados**.
-   <!-- captura pendente: como-configurar-um-campo-personalizado-01 — tela Campos personalizados -->
+   ![Tela Campos personalizados](img/como-configurar-un-campo-personalizado-01.webp)
 
 ## Como incluir um campo personalizado no meu widget
 
@@ -38,7 +38,7 @@ Eles são definidos em **Ajustes de Organización > Campos personalizados**.
 1. **Abra o editor do formulário.** Em **Fundraising > Widgets**, edite o formulário.
 
 2. **Adicione o bloco.** Clique em "Agregar" (Adicionar) e escolha **Campo personalizado**.
-   <!-- captura pendente: como-incluir-um-campo-personalizado-no-meu-widget-02 — menu Agregar com a opção Campo personalizado -->
+   ![Menu Agregar com a opção Campo personalizado](img/como-incluir-un-campo-personalizado-en-mi-widget-02.webp)
 
 3. **Configure.** Clique no bloco e configure-o em **Configuración del snippet** (Configuração do snippet).
 
@@ -86,4 +86,4 @@ Sim. Baixe sua lista de pessoas com **Base de datos en tiempo real**: cada campo
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-28*

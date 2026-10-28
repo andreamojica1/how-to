@@ -57,19 +57,19 @@ Na mesma tela também é possível fazer envios por WhatsApp Business. Este guia
 ### Parte 2 — Prepare o e-mail
 
 7. **Indique quem envia.** Em **Remitente** (Remetente), preencha **Nombre del remitente** (nome do remetente), escolha o **Correo electrónico** (e-mail) de onde ele sai e o **Email para respuestas** (e-mail para respostas). Clique em "Guardar" (Salvar).
-   <!-- captura pendente: como-enviar-um-blast-07 — etapa de e-mail com os blocos Remitente, Asunto e Contenido -->
+   ![Etapa de e-mail com os blocos Remitente, Asunto e Contenido](img/como-enviar-un-blast-07.webp)
 
 8. **Escreva o assunto.** É a primeira coisa que a pessoa vê na caixa de entrada. Com "Mapa de merge tags" você pode adicionar dados de cada pessoa, como o nome. Clique em "Guardar".
 
 9. **Escolha o design.** Em **Contenido** (Conteúdo), clique em "Agregar" (Adicionar) e escolha uma opção: **Diseño en blanco** (design em branco), **Galería de plantillas** (seus modelos de e-mail), **Correos enviados** (para reutilizar um anterior) ou **Editor con código** (editor de código). Clique em "Usar Plantilla" (Usar modelo) e edite o conteúdo.
-   <!-- captura pendente: como-enviar-um-blast-09 — janela Seleccionar contenido com as quatro opções -->
+   ![Janela Seleccionar contenido com as quatro opções](img/como-enviar-un-blast-09.webp)
 
 10. **Envie um teste para você.** Clique em "Enviar prueba" (Enviar teste), escreva seu e-mail e confirme. Veja como fica antes de enviar para todos.
 
 ### Parte 3 — Envie ou programe
 
 11. **Escolha quando ele sai.** Clique em "Programar" e escolha **Enviar ahora** (Enviar agora) ou **Programar fecha** (Programar data), com o dia e a hora. Clique em "Enviar" ou "Programar".
-    <!-- captura pendente: como-enviar-um-blast-11 — janela Programar com Enviar ahora e Programar fecha -->
+    ![Janela Programar com Enviar ahora e Programar fecha](img/como-enviar-un-blast-11.webp)
 
 Ao terminar, você verá *"¡Envío realizado satisfactoriamente!"* (Envio realizado com sucesso) ou *"¡Envío programado con éxito!"* (Envio programado com sucesso), e o envio aparecerá na lista como **Procesando** (Processando) ou **Programado**.
 
@@ -121,7 +121,7 @@ O que fazer:
 1. **Abra o detalhe.** Na **Lista de envíos**, clique em "Detalles" do envio.
 2. **Veja o erro.** Confira a seção **Incidencias** (Ocorrências) e os **Estados de emails**. Com "Ver Eventos" você vê o que aconteceu com o e-mail de cada pessoa.
 3. **Reenvie.** Se o envio estiver **Fallido**, aparece o botão "Reenviar" (*"¿Reenviar blast?"*). A AFRUS tenta de novo com as pessoas que tiveram erro.
-   <!-- captura pendente: por-que-meu-blast-tem-status-fallido-03 — detalhe de um envio com falha e o botão Reenviar -->
+   ![Detalhe de um envio com falha e o botão Reenviar](img/por-que-mi-blast-tiene-estado-fallido-03.webp)
 
 > **Causa mais comum:** a conta fica bloqueada por ter devoluções (bounces) demais e é preciso atribuir créditos a ela. Para resolver, escreva para o e-mail de suporte.
 
@@ -249,4 +249,4 @@ No horário que você escolher, no fuso do seu computador. Ele pode sair alguns 
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-27*
+*Última atualização: 2026-10-28*

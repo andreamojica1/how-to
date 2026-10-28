@@ -46,12 +46,12 @@ At the top of **Interacciones > Autoresponders** and **Interacciones > Blast** y
 1. **Open the setup.** In **Interacciones > Autoresponders** or **Interacciones > Blast**, click "Configurar DNS" on the domain card.
 
 2. **Enter your domain.** In step 1, **Configurar dominio** (Set up domain), type your **Dominio** (Domain), for example `example.com`, click "Iniciar autenticación" (Start authentication) and then "Continuar" (Continue).
-   <!-- screenshot pending: how-to-set-up-my-dns-in-afrus-02 — step 1 of the wizard with the Domain field -->
+   ![Step 1 of the wizard with the Domain field](img/como-configurar-mis-dns-en-afrus-02.webp)
 
 3. **Choose your provider.** In step 2, answer *"¿Cuál es tu proveedor de DNS?"* (Who is your DNS provider?) and follow the instructions to open its panel. Click "Continuar".
 
 4. **Create the DKIM records.** In step 3, the screen shows 3 records of type **CNAME**, each with its **Nombre** (Name) and **Valor** (Value). Copy them with the copy button and create them in your provider's panel. Click "Continuar".
-   <!-- screenshot pending: how-to-set-up-my-dns-in-afrus-04 — step 3 with the three CNAME records -->
+   ![Step 3 with the three CNAME records](img/como-configurar-mis-dns-en-afrus-04.webp)
 
 5. **Create the DMARC records.** In step 4, create at your provider the records shown in the table: two of type **TXT** and one of type **MX** with **Prioridad** (Priority) 10. Click "Finalizar" (Finish).
 
@@ -77,4 +77,4 @@ No, it doesn't. You need to check whether the domain was validated: once it is, 
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-27*
+*Last updated: 2026-10-28*
