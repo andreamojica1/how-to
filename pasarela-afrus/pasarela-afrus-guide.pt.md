@@ -36,10 +36,10 @@ Quando um doador faz uma doação com cartão ou outro meio de pagamento pelo ga
 Para começar a usar:
 
 1. **Abra a seção.** No menu de perfil (canto superior), escolha **Pasarela AFRUS**.
-   <!-- captura pendente: como-configurar-a-pasarela-afrus-01 — menu de perfil com a opção Pasarela AFRUS -->
+   ![Menu de perfil com a opção Pasarela AFRUS](img/como-se-configura-la-pasarela-afrus-01.webp)
 
 2. **Revise suas transferências.** Você verá seus repasses, cada um com a data e os valores.
-   <!-- captura pendente: como-configurar-a-pasarela-afrus-02 — lista de repasses -->
+   ![Tela Historial de Pasarela AFRUS com a lista de repasses](img/como-se-configura-la-pasarela-afrus-02.webp)
 
 > **Pendente de confirmação:** com que frequência as transferências são feitas e como pedir para mudar essa frequência. Algumas organizações recebem com mais frequência que outras. Se quiser mudar, escreva para nós.
 

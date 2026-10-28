@@ -84,7 +84,7 @@ Al terminar verás *"¡Envío realizado satisfactoriamente!"* o *"¡Envío progr
 1. **Busca tu envío.** En **Interacciones > Blast**, mira la **Lista de envíos**. La lista abre con los envíos del mes en curso (**MTD**): para ver envíos anteriores, cambia las fechas arriba.
 
 2. **Abre el detalle.** En la fila del envío, haz clic en "Detalles".
-   <!-- captura pendiente: como-ver-las-estadisticas-de-un-blast-02 — detalle de un envío con Resumen de Audiencia, Interacción de Destinatarios y Métricas de Entrega -->
+   ![Detalle de un envío con Resumen de Audiencia, Interacción de Destinatarios y Métricas de Entrega](img/como-ver-las-estadisticas-de-un-blast-02.webp)
 
 3. **Lee los resultados.** Verás:
    - **Resumen de Audiencia:** cuántas personas había en el grupo, cuántas podían recibirlo y cuántos correos se enviaron.

@@ -34,10 +34,10 @@ Cuando un donante te dona con tarjeta u otro medio de pago a través de la pasar
 Para empezar a usarla:
 
 1. **Abre la sección.** En el menú de perfil (esquina superior), elige **Pasarela AFRUS**.
-   <!-- captura pendiente: como-se-configura-la-pasarela-afrus-01 — menú de perfil con la opción Pasarela AFRUS -->
+   ![Menú de perfil con la opción Pasarela AFRUS](img/como-se-configura-la-pasarela-afrus-01.webp)
 
 2. **Revisa tus transferencias.** Verás tus dispersiones, cada una con su fecha y sus montos.
-   <!-- captura pendiente: como-se-configura-la-pasarela-afrus-02 — lista de dispersiones -->
+   ![Pantalla Historial de Pasarela AFRUS con la lista de dispersiones](img/como-se-configura-la-pasarela-afrus-02.webp)
 
 > **Pendiente de confirmar:** cada cuánto se hacen las transferencias y cómo pedir que cambie esa frecuencia. Algunas organizaciones las reciben con más frecuencia que otras. Si quieres cambiarla, escríbenos.
 

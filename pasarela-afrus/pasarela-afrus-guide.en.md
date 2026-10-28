@@ -36,10 +36,10 @@ When a donor gives to you by card or another payment method through the AFRUS ga
 To start using it:
 
 1. **Open the section.** In the profile menu (top corner), choose **Pasarela AFRUS**.
-   <!-- screenshot pending: how-pasarela-afrus-is-set-up-01 — profile menu with the Pasarela AFRUS option -->
+   ![Profile menu with the Pasarela AFRUS option](img/como-se-configura-la-pasarela-afrus-01.webp)
 
 2. **Review your transfers.** You will see your payouts, each one with its date and amounts.
-   <!-- screenshot pending: how-pasarela-afrus-is-set-up-02 — list of payouts -->
+   ![Historial de Pasarela AFRUS screen with the list of payouts](img/como-se-configura-la-pasarela-afrus-02.webp)
 
 > **Pending confirmation:** how often transfers are made and how to ask to change that frequency. Some organizations receive them more often than others. If you want to change it, write to us.
 
