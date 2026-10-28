@@ -1,22 +1,22 @@
-# Pasarela Afrus guide
+# Pasarela AFRUS guide
 
-This guide helps you understand how much of your donation money Afrus transfers to you, when it transfers it, and what is deducted from each transfer.
+This guide helps you understand how much of your donation money AFRUS transfers to you, when it transfers it, and what is deducted from each transfer.
 
-*Module: Pasarela Afrus · Menu: **Pasarela Afrus** (profile menu, top corner) · Audience: finance, accounting and leadership teams*
+*Module: Pasarela AFRUS · Menu: **Pasarela AFRUS** (profile menu, top corner) · Audience: finance, accounting and leadership teams*
 
 > **About the labels in this guide:** buttons, fields and menus are written as they appear in the Spanish version of the console, with an English explanation where it helps.
 
-> **Don't see this option in your menu?** It only appears for organizations that receive their donations through Afrus's payment gateway. If you think you should see it, write to us.
+> **Don't see this option in your menu?** It only appears for organizations that receive their donations through AFRUS's payment gateway. If you think you should see it, write to us.
 
 ---
 
-## What Pasarela Afrus is
+## What Pasarela AFRUS is
 
-**Pasarela Afrus (Afrus gateway) is the section where you see every transfer Afrus makes to your organization with your donation money.** We call each of these transfers a **dispersión** (payout).
+**Pasarela AFRUS (AFRUS gateway) is the section where you see every transfer AFRUS makes to your organization with your donation money.** We call each of these transfers a **dispersión** (payout).
 
-When a donor gives to you by card or another payment method through the Afrus gateway, the money first reaches Afrus. Afrus then transfers it to your bank account, after deducting the gateway fee and the bank's costs. In this section you see the detail of each transfer.
+When a donor gives to you by card or another payment method through the AFRUS gateway, the money first reaches AFRUS. AFRUS then transfers it to your bank account, after deducting the gateway fee and the bank's costs. In this section you see the detail of each transfer.
 
-> **Important:** this section has nothing to do with what your organization pays Afrus for using the platform (forms, emails, users, etc.). That is a separate charge and **is not deducted from your payouts**.
+> **Important:** this section has nothing to do with what your organization pays AFRUS for using the platform (forms, emails, users, etc.). That is a separate charge and **is not deducted from your payouts**.
 
 ## What it is for
 
@@ -29,14 +29,14 @@ When a donor gives to you by card or another payment method through the Afrus ga
 
 # Step by step
 
-## How Pasarela Afrus is set up
+## How Pasarela AFRUS is set up
 
-**You don't have to set anything up.** The section appears on its own when your organization receives its donations through Afrus's payment gateway. From then on, every transfer we make to you is recorded here.
+**You don't have to set anything up.** The section appears on its own when your organization receives its donations through AFRUS's payment gateway. From then on, every transfer we make to you is recorded here.
 
 To start using it:
 
-1. **Open the section.** In the profile menu (top corner), choose **Pasarela Afrus**.
-   <!-- screenshot pending: how-pasarela-afrus-is-set-up-01 — profile menu with the Pasarela Afrus option -->
+1. **Open the section.** In the profile menu (top corner), choose **Pasarela AFRUS**.
+   <!-- screenshot pending: how-pasarela-afrus-is-set-up-01 — profile menu with the Pasarela AFRUS option -->
 
 2. **Review your transfers.** You will see your payouts, each one with its date and amounts.
    <!-- screenshot pending: how-pasarela-afrus-is-set-up-02 — list of payouts -->
@@ -49,11 +49,11 @@ Each payout shows you this data:
 
 | Item | What it means |
 |---|---|
-| **Fecha de dispersión** (Payout date) | The day Afrus transferred the money to your account |
+| **Fecha de dispersión** (Payout date) | The day AFRUS transferred the money to your account |
 | **Fecha de corte** (Cut-off date) | Up to which day donations were included in this transfer. For example, if the payout is on September 20, the cut-off date may be the 19th: donations up to that day are included |
 | **Total recaudado** (Total raised) | Everything your donors gave in that period, before any deduction |
-| **Comisión pasarela** (Gateway fee) | What the Afrus gateway charges to process the payments: a percentage plus a fixed amount per donation, plus VAT. The rate depends on your contract |
-| **Retención ICA** and **Retención en la fuente** (bank withholdings) | Deductions the bank makes when the donor pays by card. They are not Afrus charges |
+| **Comisión pasarela** (Gateway fee) | What the AFRUS gateway charges to process the payments: a percentage plus a fixed amount per donation, plus VAT. The rate depends on your contract |
+| **Retención ICA** and **Retención en la fuente** (bank withholdings) | Deductions the bank makes when the donor pays by card. They are not AFRUS charges |
 | Transfer cost | The fixed cost of sending the money to your bank account |
 | Amount transferred | What finally reached your account |
 
@@ -76,23 +76,23 @@ Each payout shows you this data:
 
 ## Known limitations
 
-- **Only organizations that use the Afrus gateway see it.** If your organization charges with another gateway (set up in **Configuración > Pagos > Pasarelas de pago**), you won't see this section.
-- **It does not include the payment for your Afrus plan.** The charge for using the platform is separate and is not deducted from payouts.
-- **The bank sets the withholdings.** Afrus cannot change them. If your organization is not subject to a withholding, you need to handle it with the bank.
+- **Only organizations that use the AFRUS gateway see it.** If your organization charges with another gateway (set up in **Configuración > Pagos > Pasarelas de pago**), you won't see this section.
+- **It does not include the payment for your AFRUS plan.** The charge for using the platform is separate and is not deducted from payouts.
+- **The bank sets the withholdings.** AFRUS cannot change them. If your organization is not subject to a withholding, you need to handle it with the bank.
 
 ## Frequently asked questions
 
 **Why did I receive less than my donors gave?**
 Because the gateway fee, the bank withholdings and the transfer cost are deducted from each payout. In the payout detail you see each deduction.
 
-**Does Afrus charge me the ICA and source withholdings?**
-No. The bank applies them when the donor pays by card. Afrus only shows you how much was deducted.
+**Does AFRUS charge me the ICA and source withholdings?**
+No. The bank applies them when the donor pays by card. AFRUS only shows you how much was deducted.
 
-**Can what I owe Afrus for the platform be deducted from my payouts?**
+**Can what I owe AFRUS for the platform be deducted from my payouts?**
 No. They are two separate charges: the payment gateway on one side and the use of the platform on the other.
 
 **Do my monthly donations also appear?**
-Yes, every charge that goes through the Afrus gateway is included in the payout that corresponds to its date.
+Yes, every charge that goes through the AFRUS gateway is included in the payout that corresponds to its date.
 
 > **Pending confirmation:** whether the downloaded file shows if each donation is one-time or monthly.
 

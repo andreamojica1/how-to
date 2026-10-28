@@ -1,22 +1,22 @@
-# Guia da Pasarela Afrus
+# Guia da Pasarela AFRUS
 
-Com este guia você vai entender quanto do dinheiro das suas doações a Afrus transfere para você, quando transfere e o que é descontado em cada transferência.
+Com este guia você vai entender quanto do dinheiro das suas doações a AFRUS transfere para você, quando transfere e o que é descontado em cada transferência.
 
-*Módulo: Pasarela Afrus · Menu: **Pasarela Afrus** (menu de perfil, canto superior) · Público: equipes de finanças, contabilidade e direção*
+*Módulo: Pasarela AFRUS · Menu: **Pasarela AFRUS** (menu de perfil, canto superior) · Público: equipes de finanças, contabilidade e direção*
 
 > **Sobre os nomes de tela neste guia:** botões, campos e menus estão escritos como aparecem na versão em espanhol do console, com a explicação em português quando ajuda.
 
-> **Não vê esta opção no seu menu?** Ela só aparece para organizações que recebem suas doações pelo gateway de pagamento da Afrus. Se você acha que deveria vê-la, escreva para nós.
+> **Não vê esta opção no seu menu?** Ela só aparece para organizações que recebem suas doações pelo gateway de pagamento da AFRUS. Se você acha que deveria vê-la, escreva para nós.
 
 ---
 
-## O que é a Pasarela Afrus
+## O que é a Pasarela AFRUS
 
-**A Pasarela Afrus (gateway Afrus) é a seção onde você vê cada transferência que a Afrus faz para a sua organização com o dinheiro das suas doações.** Cada uma dessas transferências se chama **dispersión** (repasse).
+**A Pasarela AFRUS (gateway AFRUS) é a seção onde você vê cada transferência que a AFRUS faz para a sua organização com o dinheiro das suas doações.** Cada uma dessas transferências se chama **dispersión** (repasse).
 
-Quando um doador faz uma doação com cartão ou outro meio de pagamento pelo gateway da Afrus, o dinheiro chega primeiro à Afrus. Depois, a Afrus o transfere para a sua conta bancária, já descontada a comissão do gateway e os custos do banco. Nesta seção você vê o detalhe de cada transferência.
+Quando um doador faz uma doação com cartão ou outro meio de pagamento pelo gateway da AFRUS, o dinheiro chega primeiro à AFRUS. Depois, a AFRUS o transfere para a sua conta bancária, já descontada a comissão do gateway e os custos do banco. Nesta seção você vê o detalhe de cada transferência.
 
-> **Importante:** esta seção não tem relação com o que a sua organização paga à Afrus pelo uso da plataforma (formulários, e-mails, usuários etc.). Essa é uma cobrança separada e **não é descontada dos seus repasses**.
+> **Importante:** esta seção não tem relação com o que a sua organização paga à AFRUS pelo uso da plataforma (formulários, e-mails, usuários etc.). Essa é uma cobrança separada e **não é descontada dos seus repasses**.
 
 ## Para que serve
 
@@ -29,14 +29,14 @@ Quando um doador faz uma doação com cartão ou outro meio de pagamento pelo ga
 
 # Passo a passo
 
-## Como configurar a Pasarela Afrus
+## Como configurar a Pasarela AFRUS
 
-**Você não precisa configurar nada.** A seção aparece sozinha quando a sua organização recebe as doações pelo gateway de pagamento da Afrus. A partir daí, cada transferência que fazemos para você fica registrada aqui.
+**Você não precisa configurar nada.** A seção aparece sozinha quando a sua organização recebe as doações pelo gateway de pagamento da AFRUS. A partir daí, cada transferência que fazemos para você fica registrada aqui.
 
 Para começar a usar:
 
-1. **Abra a seção.** No menu de perfil (canto superior), escolha **Pasarela Afrus**.
-   <!-- captura pendente: como-configurar-a-pasarela-afrus-01 — menu de perfil com a opção Pasarela Afrus -->
+1. **Abra a seção.** No menu de perfil (canto superior), escolha **Pasarela AFRUS**.
+   <!-- captura pendente: como-configurar-a-pasarela-afrus-01 — menu de perfil com a opção Pasarela AFRUS -->
 
 2. **Revise suas transferências.** Você verá seus repasses, cada um com a data e os valores.
    <!-- captura pendente: como-configurar-a-pasarela-afrus-02 — lista de repasses -->
@@ -49,11 +49,11 @@ Cada repasse mostra estes dados:
 
 | Dado | O que significa |
 |---|---|
-| **Fecha de dispersión** (Data do repasse) | O dia em que a Afrus transferiu o dinheiro para a sua conta |
+| **Fecha de dispersión** (Data do repasse) | O dia em que a AFRUS transferiu o dinheiro para a sua conta |
 | **Fecha de corte** (Data de corte) | Até que dia as doações entraram nesta transferência. Por exemplo, se o repasse é em 20 de setembro, a data de corte pode ser o dia 19: entram as doações até esse dia |
 | **Total recaudado** (Total arrecadado) | Tudo o que seus doadores doaram nesse período, antes de qualquer desconto |
-| **Comisión pasarela** (Comissão do gateway) | O que o gateway da Afrus cobra para processar os pagamentos: uma porcentagem mais um valor fixo por doação, com impostos. A tarifa depende do seu contrato |
-| **Retención ICA** e **Retención en la fuente** (retenções bancárias) | Descontos que o banco faz quando o doador paga com cartão. Não são cobranças da Afrus |
+| **Comisión pasarela** (Comissão do gateway) | O que o gateway da AFRUS cobra para processar os pagamentos: uma porcentagem mais um valor fixo por doação, com impostos. A tarifa depende do seu contrato |
+| **Retención ICA** e **Retención en la fuente** (retenções bancárias) | Descontos que o banco faz quando o doador paga com cartão. Não são cobranças da AFRUS |
 | Custo de transferência | O custo fixo de enviar o dinheiro para a sua conta bancária |
 | Valor transferido | O que finalmente chegou à sua conta |
 
@@ -76,23 +76,23 @@ Cada repasse mostra estes dados:
 
 ## Limitações conhecidas
 
-- **Só aparece para organizações que usam o gateway da Afrus.** Se a sua organização cobra com outro gateway (configurado em **Configuración > Pagos > Pasarelas de pago**), você não verá esta seção.
-- **Não inclui o pagamento do seu plano da Afrus.** A cobrança pelo uso da plataforma é separada e não é descontada dos repasses.
-- **As retenções são definidas pelo banco.** A Afrus não pode alterá-las. Se a sua organização não estiver sujeita a alguma retenção, você precisa resolver isso com o banco.
+- **Só aparece para organizações que usam o gateway da AFRUS.** Se a sua organização cobra com outro gateway (configurado em **Configuración > Pagos > Pasarelas de pago**), você não verá esta seção.
+- **Não inclui o pagamento do seu plano da AFRUS.** A cobrança pelo uso da plataforma é separada e não é descontada dos repasses.
+- **As retenções são definidas pelo banco.** A AFRUS não pode alterá-las. Se a sua organização não estiver sujeita a alguma retenção, você precisa resolver isso com o banco.
 
 ## Perguntas frequentes
 
 **Por que recebi menos do que meus doadores doaram?**
 Porque de cada repasse são descontados a comissão do gateway, as retenções do banco e o custo da transferência. No detalhe do repasse você vê cada desconto.
 
-**A Afrus me cobra as retenções de ICA e na fonte?**
-Não. Quem aplica é o banco, quando o doador paga com cartão. A Afrus só mostra quanto foi descontado.
+**A AFRUS me cobra as retenções de ICA e na fonte?**
+Não. Quem aplica é o banco, quando o doador paga com cartão. A AFRUS só mostra quanto foi descontado.
 
-**O que eu devo à Afrus pela plataforma pode ser descontado dos meus repasses?**
+**O que eu devo à AFRUS pela plataforma pode ser descontado dos meus repasses?**
 Não. São duas cobranças separadas: o gateway de pagamento de um lado e o uso da plataforma do outro.
 
 **Minhas doações mensais também aparecem?**
-Sim, cada cobrança que passa pelo gateway da Afrus entra no repasse correspondente à sua data.
+Sim, cada cobrança que passa pelo gateway da AFRUS entra no repasse correspondente à sua data.
 
 > **Pendente de confirmação:** se o arquivo baixado indica se cada doação é única ou mensal.
 
