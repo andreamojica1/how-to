@@ -6,6 +6,12 @@ Cada carpeta tiene un `README.md` con su índice, la guía en los tres idiomas (
 
 ## Contenido
 
+### [Glosario](./glosario/)
+
+Las palabras que más vas a ver en AFRUS, explicadas en lenguaje sencillo.
+
+- [Glosario de AFRUS](./glosario/glosario-guide.md)
+
 ### [Business profile](./business-profile/)
 
 La página pública de tu organización en AFRUS, desde donde cualquiera puede donar.
