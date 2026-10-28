@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es Peer to peer
 Slug: que-es-peer-to-peer
 Categoría: Peer to peer
-Resumen: Aprende qué es Peer to peer en Afrus: páginas de recaudación que crean tus simpatizantes para las campañas de tu organización.
+Resumen: Aprende qué es Peer to peer en AFRUS: páginas de recaudación que crean tus simpatizantes para las campañas de tu organización.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -172,7 +172,7 @@ Idioma: en
 Título: What Peer to peer is
 Slug: what-is-peer-to-peer
 Categoría: Peer to peer
-Resumen: Learn what Peer to peer is on Afrus: fundraising pages your supporters create for your organization's campaigns.
+Resumen: Learn what Peer to peer is on AFRUS: fundraising pages your supporters create for your organization's campaigns.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -335,7 +335,7 @@ Idioma: pt-BR
 Título: O que é o Peer to peer
 Slug: o-que-e-peer-to-peer
 Categoría: Peer to peer
-Resumen: Aprenda o que é o Peer to peer na Afrus: páginas de captação que seus apoiadores criam para as campanhas da sua organização.
+Resumen: Aprenda o que é o Peer to peer na AFRUS: páginas de captação que seus apoiadores criam para as campanhas da sua organização.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente

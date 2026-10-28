@@ -87,9 +87,9 @@ Al terminar tendrás un archivo Excel (.xlsx) con una fila por suscripción. Los
 
 2. **Pulsa "Modificar".** Según cómo esté conectada la pasarela de esa suscripción, se abre una de estas tres ventanas:
 
-   **Si la ventana se llama "Modificar fecha"** (suscripciones que cobra el motor de Afrus):
+   **Si la ventana se llama "Modificar fecha"** (suscripciones que cobra el motor de AFRUS):
    - Elige una opción:
-     - **Fecha automática (recomendada):** deja la fecha que calcula Afrus.
+     - **Fecha automática (recomendada):** deja la fecha que calcula AFRUS.
      - **Fecha de creación de la suscripción:** cobra el mismo día del mes en que se creó (si ese día es mayor que 28, usa el 28).
      - **Fecha manual:** en **Fecha de cobro**, elige un día del 1 al 28.
    - Si el día elegido es posterior a hoy, el próximo cobro será ese día de este mes; si es hoy o anterior, ese día del mes siguiente.
@@ -107,9 +107,9 @@ Al terminar verás *"Suscripción actualizada correctamente."* o *"Suscripción 
 
 > **Ten en cuenta:**
 > - En la ventana **Modificar fecha**, el mensaje de confirmación aparece en inglés (*"Update subscription"*); es normal.
-> - Algunas pasarelas no permiten cambios desde Afrus. En ese caso verás *"Este gateway actualmente no soporta la actualización de suscripciones."*
+> - Algunas pasarelas no permiten cambios desde AFRUS. En ese caso verás *"Este gateway actualmente no soporta la actualización de suscripciones."*
 > - Las suscripciones que esperan la aceptación del pagador no se pueden modificar: verás *"Acción no disponible"*.
-> - Con la pasarela Recurrent Payments no hay campo de fecha. La pantalla informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."*
+> - Con la pasarela Recurrent Payments no hay campo de fecha. La pantalla informa: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* En la práctica, el día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes.
 
 > **¿Se puede deshacer?** Sí. Puedes volver a pulsar "Modificar" y poner la fecha o el monto anteriores.
 
@@ -124,23 +124,23 @@ Al terminar verás *"Suscripción actualizada correctamente."* o *"Suscripción 
 
 3. **Confirma.** En la ventana *"¿Estás seguro de que deseas cancelar tu suscripción?"*, pulsa "Confirmar" (o "Cerrar" para salir sin cancelar).
 
-Al terminar verás *"La suscripción se ha cancelado correctamente"*. La suscripción pasa a **Cancelada** y se borran los cobros pendientes que Afrus tenía programados. La cancelación es inmediata; no existe la opción de cancelar al final del período.
+Al terminar verás *"La suscripción se ha cancelado correctamente"*. La suscripción pasa a **Cancelada** y se borran los cobros pendientes que AFRUS tenía programados. La cancelación es inmediata; no existe la opción de cancelar al final del período.
 
 > **¿Se puede deshacer?** No. No hay botón para reactivar la suscripción: como avisa la ventana, *"no podrá ser reactivada automáticamente"*. Si el donante quiere volver, tendrá que crear una nueva donación recurrente.
 
 > **Si algo falla:**
-> - Si ves *"Error al cancelar la suscripción"*, revisa el estado. Según cómo esté conectada tu organización, algunas pasarelas tampoco permiten cancelar desde Afrus.
+> - Si ves *"Error al cancelar la suscripción"*, revisa el estado. Según cómo esté conectada tu organización, algunas pasarelas tampoco permiten cancelar desde AFRUS.
 > - Si al pulsar "Confirmar" no pasa nada y no aparece ningún mensaje, la suscripción no se canceló.
 >
-> En ambos casos, escribe a soporte de Afrus con el ID de la suscripción.
+> En ambos casos, escribe a soporte de AFRUS con el ID de la suscripción.
 
-> **Pendiente de confirmar:** la ventana dice que se notificará al donante, pero no está confirmado que se le envíe un aviso. Si quieres asegurarte, avísale tú.
+> **Ten en cuenta:** aunque la ventana dice que se notificará al donante, el aviso depende de su banco emisor, que es quien puede informarle de la reversión. Por eso es mejor que tu organización le avise.
 
 ## Cómo marcar como fraude una suscripción
 
 > **Importante:** marcar como fraude hace tres cosas a la vez: la suscripción pasa a **Fraude**, desaparece de la lista **Suscripciones** y **la persona donante asociada se elimina de tu base de Personas**. No se puede deshacer.
 
-**Antes de empezar:** marcar como fraude solo cambia el estado dentro de Afrus; no cancela nada en la pasarela de pago. Si la pasarela cobra por su cuenta (por ejemplo Stripe), **cancela primero la suscripción** (ver "Cómo cancelar una suscripción") para que no se sigan haciendo cobros.
+**Antes de empezar:** marcar como fraude solo cambia el estado dentro de AFRUS; no cancela nada en la pasarela de pago. Si la pasarela cobra por su cuenta (por ejemplo Stripe), **cancela primero la suscripción** (ver "Cómo cancelar una suscripción") para que no se sigan haciendo cobros.
 
 1. **Selecciona las suscripciones.** En **Suscripciones**, marca la casilla de cada una. Sin ninguna marcada, las opciones de "Acciones" están desactivadas.
 
@@ -163,13 +163,15 @@ Depende de la pasarela de pago de cada suscripción:
 
 | Caso | Quién decide la fecha | Qué sabemos |
 |---|---|---|
-| Pasarelas que cobran por su cuenta (Stripe, PayU, Pagar.me) | La pasarela | La pasarela decide cuándo cobra, no Afrus |
-| Recurrent Payments | La pasarela | La pantalla informa: el primer día hábil de cada mes; si falla, reintento semanal hasta que sea exitoso |
-| Suscripciones que cobra el motor de Afrus | Afrus | Puedes elegir el día de cobro con "Modificar" (ver "Cómo cambiar la fecha de cobro") |
+| Pasarelas que cobran por su cuenta (Stripe, PayU, Pagar.me) | La pasarela | La pasarela decide cuándo cobra, no AFRUS |
+| Recurrent Payments | La pasarela | El día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes |
+| Suscripciones que cobra el motor de AFRUS | AFRUS | Puedes elegir el día de cobro con "Modificar" (ver "Cómo cambiar la fecha de cobro") |
 
-Además, en **Configuración > Pagos > Servicio de recurrencia** (pantalla **Configuración del Motor de Recurrencia**) tu organización puede elegir **Modo mejorado** (Standard o Charities), **Periodicidad** (Mensual, Trimestral, Semestral o Anual) y **Modo de reintento** (Standard retries, Charities retries o Custom). La pantalla indica: *"Los cambios se aplicarán a los próximos ciclos de cobro."*
+Además, en **Ajustes de Organización > Servicio de recurrencia** (pantalla **Configuración del Motor de Recurrencia**) tu organización puede elegir **Modo mejorado** (Standard o Charities), **Periodicidad** (Mensual, Trimestral, Semestral o Anual) y **Modo de reintento** (Standard retries, Charities retries o Custom). La pantalla indica: *"Los cambios se aplicarán a los próximos ciclos de cobro."*
 
-> **Pendiente de confirmar:** el horario exacto de cobro del motor de Afrus, cuántos reintentos hace cuando un cobro falla, cuándo se cancela sola una suscripción por fallos, y si las periodicidades Trimestral y Semestral y la configuración de **Servicio de recurrencia** ya se aplican a los cobros reales.
+> **Reintentos y cancelación:**
+> - **Recurrent Payments:** se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción.
+> - **Tarjetas de crédito:** por defecto se hacen 3 reintentos durante 12 meses seguidos antes de cancelar la suscripción. Puedes ajustar los reintentos en **Ajustes de Organización > Servicio de recurrencia**.
 
 ## Estados de una suscripción
 
@@ -189,15 +191,6 @@ Además, en **Configuración > Pagos > Servicio de recurrencia** (pantalla **Con
 
 **Revisión pendiente:** junto al estado aparece un lápiz. Haz clic, completa **Número de documento**, **Tipo de documento**, **Número de cuenta**, **Banco**, **Tipo de cuenta** y **Monto** en **Editar datos del pagador**, y pulsa "Guardar y reenviar". Verás *"Datos del pagador actualizados y reenvío iniciado"*.
 
-## Limitaciones conocidas
-
-- **Marcar como fraude elimina a la persona donante** de tu base de Personas. Úsalo solo cuando estés seguro.
-- **El archivo de exportación siempre es Excel (.xlsx)**, aunque elijas CSV.
-- **Los totales exportados pueden no coincidir con la tabla** si no eliges estados, si usas **Lapsed** o el buscador. Elige los estados en el filtro y limpia el buscador antes de exportar.
-- **Algunos estados aparecen en inglés en la tabla** (**PRENOTIFICATION_OK**, **TRIALING**, **LAPSED**), aunque en el filtro salen traducidos.
-- **Reintentando y Expirada en el filtro Estados** siempre dan una lista vacía, porque la lista no muestra esos estados.
-- **Cohorts, Evolution y "Exportar del datawarehouse"** están desactivados desde el 22 de septiembre de 2026.
-
 ## Preguntas frecuentes
 
 **¿Por qué no encuentro una suscripción que sé que existe?**
@@ -207,7 +200,7 @@ Revisa el rango de fechas: filtra por la fecha de creación de la suscripción. 
 En **Transacciones**, o en el historial del detalle de la suscripción.
 
 **¿Puedo cancelar al final del período?**
-No. La cancelación desde Afrus es siempre inmediata.
+No. La cancelación desde AFRUS es siempre inmediata.
 
 **¿Puedo reactivar una suscripción cancelada?**
 No. El donante tendrá que crear una nueva donación recurrente.
@@ -216,4 +209,4 @@ No. El donante tendrá que crear una nueva donación recurrente.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

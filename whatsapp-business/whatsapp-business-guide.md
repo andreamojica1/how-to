@@ -1,6 +1,6 @@
 # Guía de WhatsApp Business
 
-Después de leer esta guía sabrás conectar tu cuenta de WhatsApp Business a Afrus, crear plantillas, hacer envíos masivos, enviar imágenes y responder a tus contactos desde **Conversaciones**.
+Después de leer esta guía sabrás conectar tu cuenta de WhatsApp Business a AFRUS, crear plantillas, hacer envíos masivos, enviar imágenes y responder a tus contactos desde **Conversaciones**.
 
 *Módulo: WhatsApp Business · Menú: **WhatsApp Business > Blast** y **WhatsApp Business > Conversaciones** · Audiencia: equipos de recaudación, comunicaciones y atención a donantes*
 
@@ -8,14 +8,14 @@ Después de leer esta guía sabrás conectar tu cuenta de WhatsApp Business a Af
 
 ## Qué es WhatsApp Business
 
-**WhatsApp Business en Afrus es la conexión con la API oficial de WhatsApp Business de Meta.** Con ella envías mensajes masivos usando plantillas aprobadas por Meta y respondes desde Afrus a los contactos que te escriben.
+**WhatsApp Business en AFRUS es la conexión con la API oficial de WhatsApp Business de Meta.** Con ella envías mensajes masivos usando plantillas aprobadas por Meta y respondes desde AFRUS a los contactos que te escriben.
 
 El módulo tiene dos pantallas: **WhatsApp Business > Blast**, el panel de tu cuenta con tus números, tus plantillas y los envíos masivos, y **WhatsApp Business > Conversaciones**, donde lees y respondes los mensajes.
 
 ## Para qué sirve
 
 - **Enviar campañas masivas por WhatsApp.** Envías un Blast a un segmento y cada contacto recibe el mensaje personalizado con sus propios datos.
-- **Crear y editar plantillas desde Afrus.** Las diseñas en Afrus y las mandas a revisión de Meta sin salir de la plataforma.
+- **Crear y editar plantillas desde AFRUS.** Las diseñas en AFRUS y las mandas a revisión de Meta sin salir de la plataforma.
 - **Responder a tus contactos.** En **Conversaciones** ves y respondes los mensajes que llegan, en tiempo real.
 - **Medir tus envíos.** Ves cuántos mensajes se enviaron, se entregaron, se leyeron y tuvieron error.
 
@@ -23,30 +23,40 @@ El módulo tiene dos pantallas: **WhatsApp Business > Blast**, el panel de tu cu
 
 - **Una cuenta en Meta Business Suite con WhatsApp Business.** La conexión se hace con tu cuenta de Meta.
 - **Un método de pago en tu WhatsApp Business.** La pantalla de conexión lo recomienda como paso previo.
-- **Números de envío validados en Meta.** Los números se agregan desde el Administrador de Teléfonos de Meta, no desde Afrus.
+- **Números de envío validados en Meta.** Los números se agregan desde el Administrador de Teléfonos de Meta, no desde AFRUS.
 
 ---
 
 # Paso a paso
 
-## Cómo conectar WhatsApp Business en Afrus
+## Cómo conectar WhatsApp Business en AFRUS
 
-1. **Abre el módulo.** Entra a **WhatsApp Business > Blast**. Si aún no hay una cuenta conectada, Afrus te lleva a la pantalla **Conecta tu WhatsApp Business**, que lista los pasos previos recomendados.
+1. **Abre el módulo.** Entra a **WhatsApp Business > Blast**. Si aún no hay una cuenta conectada, AFRUS te lleva a la pantalla **Conecta tu WhatsApp Business**, que lista los pasos previos recomendados.
    <!-- captura pendiente: como-conectar-whatsapp-business-en-afrus-01 — pantalla Conecta tu WhatsApp Business -->
 
-2. **Conéctate con Meta.** Pulsa "Conectar con Facebook". Se abre una ventana de Meta: inicia sesión y elige (o crea) tu cuenta de WhatsApp Business y el número. Así Afrus queda autorizado a enviar en nombre de tu cuenta.
+2. **Conéctate con Meta.** Pulsa "Conectar con Facebook". Se abre una ventana de Meta: inicia sesión y elige (o crea) tu cuenta de WhatsApp Business y el número. Así AFRUS queda autorizado a enviar en nombre de tu cuenta.
 
-3. **Revisa la verificación.** Al terminar, Afrus sincroniza tus plantillas y abre **Verificando tu configuración** (**PASO 2 DE 3**). Ahí revisa **Cuenta de WhatsApp Business conectada**, **Número de teléfono registrado** y **Plantillas sincronizadas**.
+3. **Revisa la verificación.** Al terminar, AFRUS sincroniza tus plantillas y abre **Verificando tu configuración** (**PASO 2 DE 3**). Ahí revisa **Cuenta de WhatsApp Business conectada**, **Número de teléfono registrado** y **Plantillas sincronizadas**.
 
 4. **Envía un mensaje de prueba (opcional).** En **Enviar mensaje de prueba (opcional)**, elige el **Número de teléfono de envío**, escribe el **Número de teléfono del destinatario** y pulsa "Enviar mensaje de prueba". Luego pulsa "Ir al Dashboard".
 
 Al terminar verás en el panel el chip **Conectado** y el nombre de tu negocio. Tus números aparecen en **Números conectados**.
 
-> **Importante:** la conexión con Meta vence. Afrus te avisa con *"Tu conexión expirará en N días"* y, cuando ya venció, muestra **Renueva tu conexión de WhatsApp Business** con el botón "Reconectar con Facebook".
+> **Importante:** la conexión con Meta vence. AFRUS te avisa con *"Tu conexión expirará en N días"* y, cuando ya venció, muestra **Renueva tu conexión de WhatsApp Business** con el botón "Reconectar con Facebook".
 
-> **¿Se puede deshacer?** Puedes desconectar con "Desconectar cuenta", pero ten en cuenta que se detienen los envíos y, como avisa la pantalla, pierdes el acceso a las plantillas desde Afrus.
+> **¿Se puede deshacer?** Puedes desconectar con "Desconectar cuenta", pero ten en cuenta que se detienen los envíos y, como avisa la pantalla, pierdes el acceso a las plantillas desde AFRUS.
 
-**Para agregar un número nuevo:** agrégalo en el Administrador de Teléfonos de Meta y luego pulsa "Actualizar números" o "Sincronizar con Meta" en Afrus.
+**Para agregar un número nuevo:** agrégalo en el Administrador de Teléfonos de Meta y luego pulsa "Actualizar números" o "Sincronizar con Meta" en AFRUS.
+
+### Si aparece el error "This phone number is not eligible to register or migrate"
+
+![Error de Meta: This phone number is not eligible to register or migrate](img/errorWhatsapp.png)
+
+Este error indica que el número sigue asociado a otra cuenta de WhatsApp. Para liberarlo:
+
+1. **Si el número tiene WhatsApp o WhatsApp Business en un celular:** en la app, ve a Configuración > Cuenta > Eliminar cuenta. No basta con desinstalar la app.
+2. **Si estuvo conectado con otro proveedor de WhatsApp API o en otra cuenta de Meta:** pide que lo desconecten y que desactiven el PIN de verificación en dos pasos.
+3. **Vuelve a intentarlo.** Espera unos minutos y conecta de nuevo el número desde AFRUS.
 
 ### Habilitar el botón de envío masivo
 
@@ -107,21 +117,21 @@ Al terminar verás *"Plantilla enviada para aprobación"* y la plantilla quedar�
 
 ### Parte 3 — Envía o programa
 
-6. **Revisa tu cuota.** Pulsa "Enviar". Afrus muestra **Estado de Cuota Diaria** con los destinatarios, la cuota restante y el límite diario. Si no alcanza, verás **Cuota Diaria Insuficiente** y el botón "Enviar de todos modos".
+6. **Revisa tu cuota.** Pulsa "Enviar". AFRUS muestra **Estado de Cuota Diaria** con los destinatarios, la cuota restante y el límite diario. Si no alcanza, verás **Cuota Diaria Insuficiente** y el botón "Enviar de todos modos".
 
 7. **Envía o programa.** Elige **Enviar ahora** o **Programar fecha** (con fecha y hora) y confirma con "Enviar" o "Programar".
 
-Al terminar, Afrus envía los mensajes uno por uno. En el detalle del envío ves el estado de cada destinatario: **En cola**, **Enviado**, **Entregado**, **Leído**, **Error** o **No enviado**.
+Al terminar, AFRUS envía los mensajes uno por uno. En el detalle del envío ves el estado de cada destinatario: **En cola**, **Enviado**, **Entregado**, **Leído**, **Error** o **No enviado**.
 
-> **¿Se puede deshacer?** Pendiente de confirmar si un envío se puede detener una vez iniciado. Revisa siempre el mensaje con "Enviar prueba" antes de enviar.
+> **Importante:** revisa siempre el mensaje con "Enviar prueba" antes de enviar.
 
-**Quién recibe el mensaje:** solo los contactos del segmento que tienen teléfono. Afrus deja fuera a quienes rechazaron el canal WhatsApp Business y a los números que Meta reportó como "no está en WhatsApp" (durante 90 días; la exclusión se levanta sola si la persona te escribe). Si nadie del segmento cumple, verás *"No hay destinatarios entregables en este segmento..."*.
+**Quién recibe el mensaje:** solo los contactos del segmento que tienen teléfono. AFRUS deja fuera a quienes rechazaron el canal WhatsApp Business y a los números que Meta reportó como "no está en WhatsApp" (durante 90 días; la exclusión se levanta sola si la persona te escribe). Si nadie del segmento cumple, verás *"No hay destinatarios entregables en este segmento..."*.
 
-**Antes de enviar**, Afrus comprueba que la plantilla siga aprobada. Si no lo está, verás *"La plantilla ya no está aprobada"*.
+**Antes de enviar**, AFRUS comprueba que la plantilla siga aprobada. Si no lo está, verás *"La plantilla ya no está aprobada"*.
 
 ## Cuántos mensajes puedo enviar diariamente
 
-El límite diario lo asigna **Meta** según el nivel de tu cuenta, y Afrus lo lee y te lo muestra en la barra **Límite diario compartido** de **Números conectados**.
+El límite diario lo asigna **Meta** según el nivel de tu cuenta, y AFRUS lo lee y te lo muestra en la barra **Límite diario compartido** de **Números conectados**.
 
 | Nivel de la cuenta en Meta | Mensajes por día |
 |---|---|
@@ -134,34 +144,28 @@ El límite diario lo asigna **Meta** según el nivel de tu cuenta, y Afrus lo le
 Ten en cuenta:
 
 - **El límite es de tu portafolio de negocio en Meta, no de cada número.** Todos tus números comparten la misma cuota.
-- **Afrus solo cuenta lo que se envía desde Afrus.** Los mensajes que envíes por fuera de Afrus también consumen tu cuota, pero Afrus no los ve.
+- **AFRUS solo cuenta lo que se envía desde AFRUS.** Los mensajes que envíes por fuera de AFRUS también consumen tu cuota, pero AFRUS no los ve.
 - **El contador de "Enviados hoy" funciona como una ventana de 24 horas.**
-- **Si un envío llega al límite**, queda en **Límite alcanzado** y se reanuda solo cuando hay cuota disponible: Afrus revisa estos envíos cada 30 minutos. La pantalla avisa que los mensajes restantes se reanudan "en ~24 horas cuando la cuota se libere".
-
-> **Pendiente de confirmar:** el nivel exacto de tu cuenta lo decide Meta. Revisa la barra **Límite diario compartido** para ver tu límite real.
+- **Si un envío llega al límite**, queda en **Límite alcanzado** y se reanuda solo cuando hay cuota disponible: AFRUS revisa estos envíos cada 30 minutos. La pantalla avisa que los mensajes restantes se reanudan "en ~24 horas cuando la cuota se libere".
 
 ## Cómo aumentar el número de envíos diarios
 
 Tu límite diario sube cuando Meta te asigna un nivel más alto. Lo que sabemos hoy:
 
-1. **Verifica tu negocio en Meta.** El paso al nivel 1 llega tras la verificación del negocio. En Afrus, **Verificación del Negocio** aparece como **Recomendado** en la tarjeta **Preparación para Envío de Mensajes**, con el aviso *"Verify your business to increase your daily messaging rate"*.
-2. **Cuida la calidad de tus mensajes.** Los niveles 2 y 3 se asignan por calidad. Revisa en Afrus que tu número siga en **Número de Teléfono Registrado (Calidad OK)** sin advertencias.
-
-> **Pendiente de confirmar:** los criterios y plazos exactos con los que Meta sube de nivel una cuenta. Los define Meta y pueden cambiar.
+1. **Verifica tu negocio en Meta.** El paso al nivel 1 llega tras la verificación del negocio. En AFRUS, **Verificación del Negocio** aparece como **Recomendado** en la tarjeta **Preparación para Envío de Mensajes**, con el aviso *"Verify your business to increase your daily messaging rate"*.
+2. **Cuida la calidad de tus mensajes.** Los niveles 2 y 3 se asignan por calidad. Revisa en AFRUS que tu número siga en **Número de Teléfono Registrado (Calidad OK)** sin advertencias.
 
 ## Cómo enviar imágenes
 
 Las imágenes se envían en el encabezado de una plantilla, dentro de un envío masivo.
 
 1. **Crea una plantilla con imagen.** Al crear la plantilla, en **Contenido multimedia** elige **Imagen** y pulsa "Subir" (JPEG o PNG de hasta 5MB). Espera a que Meta la apruebe.
-2. **Ten la imagen en la galería de Afrus.** La imagen que subiste al crear la plantilla solo sirve para la revisión de Meta y **no queda guardada en la galería**. Súbela a la galería con "Subir imagen".
-3. **Elige la imagen en el envío.** En el Blast, en **Mapeo de Variables**, sección **Media del Encabezado**, pulsa "Seleccionar media de la galería" y elige la imagen (hasta 5MB; Afrus acepta jpg, jpeg, png, gif y webp).
+2. **Ten la imagen en la galería de AFRUS.** La imagen que subiste al crear la plantilla solo sirve para la revisión de Meta y **no queda guardada en la galería**. Súbela a la galería con "Subir imagen".
+3. **Elige la imagen en el envío.** En el Blast, en **Mapeo de Variables**, sección **Media del Encabezado**, pulsa "Seleccionar media de la galería" y elige la imagen (hasta 5MB; AFRUS acepta jpg, jpeg, png, gif y webp).
 
 Al terminar, todos los destinatarios reciben esa misma imagen en el encabezado del mensaje.
 
-> **Pendiente de confirmar:** desde qué pantalla del menú se abre la galería para subir la imagen antes del envío.
-
-**Videos:** por ahora **no es posible enviar un Blast con una plantilla de video desde Afrus** (problema conocido). Puedes crear la plantilla de video y Meta la aprueba, pero en el envío el video solo se puede elegir de la galería, que solo admite imágenes. Mientras tanto, usa plantillas con imagen o agrega un botón **Ir al sitio web** que lleve al video.
+**Videos:** por ahora **no es posible enviar un Blast con una plantilla de video desde AFRUS** (problema conocido). Puedes crear la plantilla de video y Meta la aprueba, pero en el envío el video solo se puede elegir de la galería, que solo admite imágenes. Mientras tanto, usa plantillas con imagen o agrega un botón **Ir al sitio web** que lleve al video.
 
 **En Conversaciones** no se pueden adjuntar archivos: verás *"Adjuntar archivos no está disponible aún"*.
 
@@ -173,15 +177,15 @@ Al terminar, todos los destinatarios reciben esa misma imagen en el encabezado d
 
 Al terminar, tu mensaje aparece en el chat al instante.
 
-> **Importante:** si envías desde Conversaciones una plantilla con imagen, video o documento en el encabezado, verás *"El encabezado multimedia no se envía en mensajes directos de conversación"*: Afrus manda la plantilla sin el archivo y el envío puede fallar. Desde Conversaciones, usa plantillas solo de texto.
+> **Importante:** si envías desde Conversaciones una plantilla con imagen, video o documento en el encabezado, verás *"El encabezado multimedia no se envía en mensajes directos de conversación"*: AFRUS manda la plantilla sin el archivo y el envío puede fallar. Desde Conversaciones, usa plantillas solo de texto.
 
 Las imágenes, videos, audios y documentos que te envía un contacto se ven en el chat, pero Meta los hace caducar: pasado un tiempo verás *"Este recurso ya no está disponible. El contenido multimedia de WhatsApp expira y no puede recuperarse."*
 
 ## Qué son los mensajes generados por IA en Conversaciones
 
-**Son los mensajes que envía Alma, el agente autónomo de fundraising de Afrus, que escribe por su cuenta.** El filtro **Generado por IA** de **Conversaciones** muestra solo las conversaciones con mensajes de Alma.
+**Son los mensajes que envía Alma, el agente autónomo de fundraising de AFRUS, que escribe por su cuenta.** El filtro **Generado por IA** de **Conversaciones** muestra solo las conversaciones con mensajes de Alma.
 
-- **Los mensajes que escribe tu equipo desde Afrus no entran en este filtro**, aunque los envíes desde Conversaciones.
+- **Los mensajes que escribe tu equipo desde AFRUS no entran en este filtro**, aunque los envíes desde Conversaciones.
 - **Una conversación con Alma puede aparecer como una entrada aparte** de la conversación normal con el mismo contacto.
 
 ---
@@ -205,32 +209,18 @@ Las imágenes, videos, audios y documentos que te envía un contacto se ven en e
 |---|---|
 | **Límite alcanzado** | Se alcanzó el límite diario de tu portafolio de Meta. El envío se reintenta automáticamente cuando hay cuota disponible |
 
-## Limitaciones conocidas
-
-- **No se pueden enviar Blasts con plantillas de video.** Alternativa: plantillas con imagen o un botón **Ir al sitio web** que enlace al video.
-- **Plantillas con multimedia desde Conversaciones:** se envían sin el archivo y pueden fallar. Usa plantillas solo de texto en Conversaciones.
-- **La prueba que habilita los Blasts solo usa plantillas sin variables ni multimedia.** Ten al menos una plantilla así.
-- **La galería y las plantillas no comparten archivos:** lo que subes al crear la plantilla no aparece en la galería.
-- **En Conversaciones no se pueden adjuntar archivos.**
-- **No hay botón de "nueva conversación".**
-- **Los números se agregan desde Meta**, no desde Afrus.
-
 ## Preguntas frecuentes
 
 **¿Me pueden penalizar?**
-Sí, puede pasar: las penalizaciones las aplica Meta. Afrus te muestra las señales de riesgo: si la calidad de tu número está en rojo, **Número de Teléfono Registrado (Calidad OK)** muestra una advertencia de que el número puede ser limitado y bajar de nivel; si Meta rechaza el nombre para mostrar, esa verificación falla; y las plantillas pueden quedar **Pausada** o **Deshabilitada**. Además, Afrus no reintenta los mensajes que Meta rechaza de forma definitiva, por ejemplo por cuenta bloqueada, límite por spam, contenido que viola políticas o personas que bloquearon tus mensajes de marketing. En las plantillas de **Marketing**, los usuarios pueden darse de baja.
+Sí, puede pasar: las penalizaciones las aplica Meta. AFRUS te muestra las señales de riesgo: si la calidad de tu número está en rojo, **Número de Teléfono Registrado (Calidad OK)** muestra una advertencia de que el número puede ser limitado y bajar de nivel; si Meta rechaza el nombre para mostrar, esa verificación falla; y las plantillas pueden quedar **Pausada** o **Deshabilitada**. Además, AFRUS no reintenta los mensajes que Meta rechaza de forma definitiva, por ejemplo por cuenta bloqueada, límite por spam, contenido que viola políticas o personas que bloquearon tus mensajes de marketing. En las plantillas de **Marketing**, los usuarios pueden darse de baja.
 
-> **Pendiente de confirmar:** las reglas de penalización de Meta más allá de estas señales. Las define Meta.
+**Si envío un mensaje desde AFRUS, ¿puedo contestar luego desde mi celular, incluso después de 24 horas sin respuesta del cliente?**
+En AFRUS, no con texto libre: pasadas 24 horas desde el último mensaje del contacto, la conversación queda **Cerrada** y solo puedes enviar una plantilla. Si el contacto te responde, la ventana se vuelve a abrir.
 
-**Si envío un mensaje desde Afrus, ¿puedo contestar luego desde mi celular, incluso después de 24 horas sin respuesta del cliente?**
-En Afrus, no con texto libre: pasadas 24 horas desde el último mensaje del contacto, la conversación queda **Cerrada** y solo puedes enviar una plantilla. Si el contacto te responde, la ventana se vuelve a abrir.
-
-> **Pendiente de confirmar:** si puedes usar el mismo número en la app de WhatsApp de tu celular al mismo tiempo que en Afrus. Depende de Meta y de cómo se registró el número.
+> **Ten en cuenta:** el número no puede estar vinculado a ningún otro servicio de mensajería masiva ni tener asociada una cuenta de WhatsApp Business. Si lo está, al hacer la conexión con AFRUS, Meta indicará que el número no es elegible y no podrás conectarlo.
 
 **¿Puedo iniciar una conversación con un contacto sin haber hecho antes un envío?**
 No desde **Conversaciones**: no hay botón de "nueva conversación", y la lista solo muestra chats en los que el contacto te escribió al menos una vez. Para escribir tú primero, haz un envío masivo con una plantilla aprobada. Si la persona te escribe primero a tu número, la conversación sí aparece y puedes responder con texto libre durante 24 horas.
-
-> **Pendiente de confirmar:** si otras funciones de Afrus, como las automatizaciones, pueden enviar plantillas de WhatsApp Business.
 
 **¿Cuánto tarda Meta en aprobar una plantilla?**
 Según la pantalla, entre 5 minutos y 24 horas. El plazo lo define Meta.
@@ -242,4 +232,4 @@ Porque falta una verificación obligatoria o un mensaje de prueba exitoso. Revis
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

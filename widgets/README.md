@@ -1,6 +1,6 @@
 # Widgets
 
-Documentación del módulo **Widgets**: los formularios de Afrus para recibir donaciones, registros y pagos desde tu sitio web.
+Documentación del módulo **Widgets**: los formularios de AFRUS para recibir donaciones, registros y pagos desde tu sitio web.
 
 > **[Volver al índice general](../README.md)**
 

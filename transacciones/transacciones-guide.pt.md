@@ -55,7 +55,7 @@ Ao terminar, você verá *Mensaje enviado* / *"El agradecimiento se ha enviado c
 
 **Você precisa:**
 - que a transação esteja com status **Exitoso**;
-- que o gateway dela permita reembolsos pela Afrus (senão, a opção **Reembolsar** não aparece);
+- que o gateway dela permita reembolsos pela AFRUS (senão, a opção **Reembolsar** não aparece);
 - que seu usuário tenha permissão para operações bancárias com transações. Sem ela, o reembolso falha: peça a um administrador da sua organização.
 
 1. **Abra o menu da linha.** Em **Transacciones**, encontre a doação, abra o menu de três pontos no início da linha e escolha **Reembolsar**.
@@ -68,7 +68,10 @@ Ao terminar, você verá *"Reembolsado con éxito."* (Reembolsado com sucesso) e
 
 > **Dá para desfazer?** Não. O dinheiro é devolvido pelo gateway e não há opção para reverter o reembolso.
 
-> **Pendente de confirmação:** quanto tempo o dinheiro leva para chegar ao doador e até quantos dias depois da cobrança cada gateway aceita reembolsos; e também se reembolsar um **Cargo** (cobrança) cancela a assinatura. Se quiser parar as cobranças futuras, cancele a assinatura em **Suscripciones**.
+> **Atenção:**
+> - **Quanto tempo o dinheiro leva para chegar ao doador:** depende do banco. Alguns fazem a devolução em 3 dias e outros podem levar até 30 dias úteis.
+> - **Prazo para reembolsar:** pela AFRUS você pode fazer reembolsos até 24 horas depois da cobrança. Se esse prazo já passou, escreva para o seu provedor do gateway de pagamento. Se você usa o gateway de pagamento da AFRUS, escreva para soportepagos@afrus.ai e a equipe da AFRUS fará a devolução.
+> - **Assinaturas:** reembolsar um **Cargo** (cobrança) não cancela a assinatura. Se quiser parar as cobranças futuras, cancele a assinatura diretamente em **Suscripciones**.
 
 ## Como marcar uma transação como fraude
 
@@ -81,7 +84,7 @@ Ao terminar, você verá *"Reembolsado con éxito."* (Reembolsado com sucesso) e
 
 Ao terminar, você verá *Transacciones marcadas como fraude* (Transações marcadas como fraude). Cada transação passa para o status **Fraude**, some de **Transacciones** e aparece em **Follow up > Radar - monitor de fraude**, onde você vê o **Estado anterior** (Status anterior) e a data em **Marcada como fraude el** (Marcada como fraude em).
 
-> **Importante:** marcar como fraude só muda o status na Afrus. Não reembolsa o pagamento nem cancela nenhuma assinatura no gateway.
+> **Importante:** marcar como fraude só muda o status na AFRUS. Não reembolsa o pagamento nem cancela nenhuma assinatura no gateway.
 
 > **Importante:** só as linhas selecionadas na página atual são marcadas. Mesmo usando "Seleccionar las N transacciones de la base." (Selecionar as N transações da base), esta ação não se aplica à base inteira. Se forem muitas, marque página por página.
 
@@ -153,31 +156,20 @@ A assinatura em si (o registro "mãe", **Recurrente**) não aparece nesta lista:
 | **Pendiente de confirmación** (Aguardando confirmação) | Sua equipe precisa confirmar ou recusar com **Confirmar transacción** / **Rechazar transacción** |
 | **Fallido** / **Rechazada** (Falhou / Recusada) | O pagamento não foi concluído. Veja o motivo no detalhe |
 | **Reembolsado** | O pagamento foi devolvido ao doador |
-| **Propuesta** (Proposta) | Pendente de confirmação do que significa este status |
 | "PRENOTIFICATION_OK" | Aparece assim, como texto técnico, em transações pré-notificadas |
 
 Transações em **Fraude**, **Cancelada** ou **Contracargo** (Chargeback) não aparecem em **Transacciones**. As de fraude ficam em **Follow up > Radar - monitor de fraude**.
 
-## Limitações conhecidas
-
-- **Fraude exclui pessoas:** as pessoas vinculadas são removidas da sua base, mesmo com outras doações válidas.
-- **Fraude só na página atual:** "Seleccionar las N transacciones de la base." não se aplica a **Marcar como Fraude**.
-- **Exportação sempre em Excel** (.xlsx), qualquer que seja o tipo escolhido, e sem o filtro **CYC**.
-- **Unicas + Cargos juntos** mostra só as únicas; deixe **Tipo** vazio para ver tudo.
-- **Merge tags no agradecimento com IA** são enviadas como texto literal.
-- **Reembolsos** sempre pelo valor total e sem opção de desfazer.
-- **"PRENOTIFICATION_OK"** aparece como texto técnico sem tradução.
-
 ## Perguntas frequentes
 
 **Posso fazer um reembolso parcial?**
-Não. Pela Afrus, o valor total da transação é sempre reembolsado.
+Não. Pela AFRUS, o valor total da transação é sempre reembolsado.
 
 **Por que não vejo a opção Reembolsar?**
-Ela só aparece em transações **Exitoso** cujo gateway permite reembolsos pela Afrus.
+Ela só aparece em transações **Exitoso** cujo gateway permite reembolsos pela AFRUS.
 
 **Marcar como fraude devolve o dinheiro?**
-Não. Só muda o status na Afrus. Se também precisar devolver o pagamento, reembolse antes de marcar como fraude.
+Não. Só muda o status na AFRUS. Se também precisar devolver o pagamento, reembolse antes de marcar como fraude.
 
 **Onde vejo as assinaturas?**
 Em **Suscripciones**. Em Transações você vê cada cobrança (**Cargo**) que elas geram.
@@ -186,4 +178,4 @@ Em **Suscripciones**. Em Transações você vê cada cobrança (**Cargo**) que e
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

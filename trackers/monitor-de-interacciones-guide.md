@@ -10,14 +10,14 @@ Con esta guía vas a saber si tu organización puede seguir enviando correos mas
 
 **Es un tablero que muestra la salud de tus correos masivos (blasts).** Te dice cuántos correos enviaste, cuántos rebotaron, cuántos se marcaron como spam y si tu cuenta de envío está en riesgo.
 
-Un correo **rebota** cuando no llega a su destino, por ejemplo porque la dirección no existe. Una **queja** (complaint) es cuando la persona marca tu correo como spam. Si hay demasiados rebotes o quejas, Afrus puede limitar o bloquear tus envíos.
+Un correo **rebota** cuando no llega a su destino, por ejemplo porque la dirección no existe. Una **queja** (complaint) es cuando la persona marca tu correo como spam. Si hay demasiados rebotes o quejas, AFRUS puede limitar o bloquear tus envíos.
 
 Este tablero solo cuenta los correos masivos. No incluye los correos automáticos (autoresponders), los correos de transacciones ni los WhatsApp.
 
 ## Para qué sirve
 
 - **Saber si puedes seguir enviando.** Ves si tu cuenta está activa, en alerta o bloqueada.
-- **Cuidar tu tasa de rebotes y quejas.** Comparas tus números con los límites de Afrus.
+- **Cuidar tu tasa de rebotes y quejas.** Comparas tus números con los límites de AFRUS.
 - **Encontrar el envío que causó problemas.** Así sabes qué lista limpiar.
 
 ---
@@ -37,10 +37,10 @@ Este tablero solo cuenta los correos masivos. No incluye los correos automático
 |---|---|---|
 | **Activa** | Puedes enviar sin problema | Nada |
 | **Alerta** | Tus rebotes o quejas pasaron el primer límite. Todavía puedes enviar, pero tu cuenta está en riesgo de bloqueo | Limpia tus listas antes del próximo envío |
-| **Bloqueada** | Tus rebotes o quejas pasaron el límite de bloqueo, o Afrus bloqueó la cuenta. No puedes enviar | Escribe a soporte en support@afrus.app |
-| **Envío limitado** | La cuenta estaba bloqueada, pero Afrus te habilitó un número de envíos | Limpia tus listas y envía solo a grupos más pequeños que tu saldo de envíos |
+| **Bloqueada** | Tus rebotes o quejas pasaron el límite de bloqueo, o AFRUS bloqueó la cuenta. No puedes enviar | Escribe a soporte en support@afrus.app |
+| **Envío limitado** | La cuenta estaba bloqueada, pero AFRUS te habilitó un número de envíos | Limpia tus listas y envía solo a grupos más pequeños que tu saldo de envíos |
 
-> **Importante:** si Afrus bloqueó tu cuenta, sigue **Bloqueada** aunque tus números mejoren. Para desbloquearla, escribe a soporte.
+> **Importante:** si AFRUS bloqueó tu cuenta, sigue **Bloqueada** aunque tus números mejoren. Para desbloquearla, escribe a soporte.
 
 Con **Envío limitado**, una campaña con más destinatarios que envíos disponibles no se envía.
 
@@ -70,27 +70,16 @@ Los límites solo se aplican a partir de 1.000 correos enviados. Si tienes menos
 
 ---
 
-## Limitaciones conocidas
-
-- **Solo cuenta correos masivos.** No incluye autoresponders, correos de transacciones ni WhatsApp.
-- **Los rebotes blandos también suben tu tasa de rebotes.**
-- **Algunos textos están en inglés** (**Monitor Email**, **Hard Bounces**, **Bounce Rate (%)**…).
-- **Al hacer clic en los títulos ID o Nombre, la tabla no cambia de orden.** Siempre muestra primero el envío más reciente.
-- **La pantalla no se actualiza sola:** recárgala para ver cambios.
-
 ## Preguntas frecuentes
 
 **Mi cuenta está en Alerta. ¿Puedo enviar?**
 Sí, pero estás en riesgo de bloqueo. Antes del próximo envío, quita de tus listas los correos inválidos o muy antiguos.
 
-**¿Cuáles son los límites de Afrus?**
+**¿Cuáles son los límites de AFRUS?**
 Los ves en la sección **Variable de notificación**, junto a tu tasa actual. Son los mismos para todas las organizaciones.
-
-**¿Cuánto tarda en aparecer un rebote?**
-> **Pendiente de confirmar:** no hay un tiempo fijo.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

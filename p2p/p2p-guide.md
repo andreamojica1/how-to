@@ -1,6 +1,6 @@
 # Guía de Peer to peer
 
-Después de leer esta guía sabrás qué es la recaudación entre pares (peer to peer) en Afrus, para qué sirve, cómo cambiar sus imágenes, qué vive un simpatizante después de registrarse y cómo revisar, aprobar y medir las páginas de tus recaudadores.
+Después de leer esta guía sabrás qué es la recaudación entre pares (peer to peer) en AFRUS, para qué sirve, cómo cambiar sus imágenes, qué vive un simpatizante después de registrarse y cómo revisar, aprobar y medir las páginas de tus recaudadores.
 
 *Módulo: Peer to peer · Menú: **Fundraising > Peer to peer fundraisers** · Audiencia: equipos de recaudación y de comunidad*
 
@@ -93,8 +93,6 @@ Hay dos formularios distintos: el de registro, que llena quien quiere ser recaud
 3. **Suma al total de la página.** Cuando la donación resulta exitosa, suma al **Total recaudado** que se ve en la página pública del recaudador.
 4. **Página de agradecimiento.** Después de donar, el donante ve la página de agradecimiento o redirección que tenga configurada el widget.
 
-> **Pendiente de confirmar:** si el recaudador o tu organización reciben un email cada vez que alguien dona en una página de recaudador.
-
 ## Cómo ver quién hace Peer to peer, aprobar a un recaudador y saber cuánto ha recaudado
 
 ### Parte 1 — Ver quién está recaudando
@@ -156,18 +154,6 @@ Toda página nueva nace en **Pendiente** y necesita tu aprobación: no hay aprob
 | **Rechazada** | No se muestra | Rechazada; su página publicada se eliminó | Finalizar |
 | **Finalizada** | Finalizada | Cerrada por tu organización; su página publicada se eliminó | Nada |
 
-## Limitaciones conocidas
-
-- **Total recaudado en el panel:** el detalle de cada página muestra siempre $0 y el panel del recaudador muestra 0 donaciones y $0. Para ver lo recaudado, abre la página pública con "Ver página".
-- **Sin buscador ni filtro por estado** en la lista del panel: solo puedes ordenar por **ID**, **Campaña** y **Meta**.
-- **Símbolo "$":** la columna **Meta** y el bloque **Total recaudado** del panel usan siempre "$", sea cual sea la moneda de tu organización.
-- **Objetivo "(en USD)":** el formulario de registro pide el objetivo en USD, pero la página pública lo muestra y lo compara en la moneda de tu organización.
-- **Fecha Inicio** en la lista es la fecha de creación de tu campaña. La fecha real de registro del recaudador está en el detalle, en **Fecha creación de la campaña**.
-- **Páginas ya publicadas:** los cambios posteriores en las imágenes o en el widget de la campaña no les llegan, y el recaudador no puede editar su página después de publicarla.
-- **Detalle incompleto:** el campo **Widget** del detalle normalmente muestra *No proporcionado* y **Detalle de la fuente** se despliega sin contenido.
-- **Mensajes de error:** si falla el recorte de una imagen, el aviso puede mostrarse como un texto técnico; si falla aprobar, rechazar o finalizar, el mensaje puede salir en inglés.
-- **Emails al recaudador** de aprobación y rechazo se envían siempre en español.
-
 ## Preguntas frecuentes
 
 **¿Tengo que aprobar cada página?**
@@ -175,8 +161,6 @@ Sí. Toda página nueva nace en **Pendiente** y no hay aprobación automática.
 
 **¿Cómo consigo el enlace de registro para enviárselo a mis simpatizantes?**
 Hoy se llega a través del botón "Crea tu campaña" de los widgets de donación de la campaña.
-
-> **Pendiente de confirmar:** si existe otra forma de obtener el enlace de registro de recaudadores desde el panel.
 
 **¿El recaudador puede cambiar su página después de publicarla?**
 No. En su panel no hay opción para editar una página ya publicada.
@@ -191,4 +175,4 @@ Sí. Son donaciones de la campaña y cuentan en sus cifras generales.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

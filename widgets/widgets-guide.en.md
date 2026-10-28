@@ -10,16 +10,16 @@ After reading this guide you will know what a widget is, which types exist and h
 
 ## What a widget is
 
-**A widget is an Afrus form (donation, registration, payment, etc.) built from blocks called snippets and embedded on any website or landing page with a short code.**
+**A widget is an AFRUS form (transaction, registration, product) built from blocks called snippets and embedded on any website or landing page with a short code.**
 
-Each widget has an **Objetivo** (Goal) — for example donation or registration —, one or more countries with their language and currency, and a list of snippets: personal information, amounts, payment method, terms and conditions, button, etc.
+Each widget has an **Objetivo** (Goal) — for example transaction or registration —, one or more countries with their language and currency, and a list of snippets: personal information, amounts, payment method, terms and conditions, button, etc.
 
 In **Fundraising > Widgets** you will see the **Gestión de Widgets** (Widget management) screen, with the "Nuevo widget" (New widget) button, filters (**Campaña**, **Objetivo**, **Estado**, **Por defecto**, **Etiqueta** — campaign, goal, status, default, tag) and a table with **Estado**, **Nombre**, **Fecha**, **Objetivo**, **Recaudado**, **Transacciones**, **Suscripciones**, **Vistas** and **Registros** (status, name, date, goal, raised, transactions, subscriptions, views, registrations).
 
 ## What it is for
 
 - **Receive donations on your own site.** One-time, monthly or yearly, without donors leaving your page.
-- **Capture leads, sell products or tickets and collect payments.** Each use has its own widget type.
+- **Capture leads and sell products or tickets.** Each use has its own widget type.
 - **Speak to each visitor in their language and currency.** The widget shows the country the person is browsing from, if you set it up.
 - **Measure performance.** The **Dashboard de Widget** shows views, conversions and revenue for each form.
 - **Send conversions to Google and Meta.** With Google Tag Manager, GA4, Pixel and Conversions API.
@@ -27,9 +27,9 @@ In **Fundraising > Widgets** you will see the **Gestión de Widgets** (Widget ma
 ## Before you start
 
 - **Permissions.** To see the "Nuevo widget" button you need permission to edit donation or lead forms.
-- **The editor is in the previous version of Afrus.** "Nuevo widget" and "Editar" (Edit) open the editor in a new browser tab. This screen opens in the previous version of Afrus, which is why it looks different (for example, there the create button says "Nuevo formulario", New form).
+- **The editor opens in a new tab.** "Nuevo widget" and "Editar" (Edit) open the editor in a new browser tab. There, the create button says "Nuevo formulario" (New form).
 - **How the editor is organized.** It has two tabs, **Editar** (Edit) and **Instalar** (Install). In **Editar**: on the left, the goal and the **Renderización** (Rendering), **Estilo** (Style) and **Avanzado** (Advanced) panels; in the center, the countries ("Nuevo país"), the snippets ("Agregar", Add) and "Vista previa" (Preview); on the right, **Configuración del snippet** (Snippet settings), with the save button (**Guardar Snippet**). At the top, the widget name, the **Estado** (Status) switch and "Guardar Widget" (Save widget).
-- **Connected gateways.** To collect payments, the gateway must be connected in **Configuración > Pagos > Pasarelas de pago** (Settings > Payments > Payment gateways).
+- **Connected gateways.** To collect payments, the gateway must be connected in **Ajustes de Organización > Pasarelas de pago** (Organization settings > Payment gateways).
 
 ---
 
@@ -37,20 +37,17 @@ In **Fundraising > Widgets** you will see the **Gestión de Widgets** (Widget ma
 
 ## Which widget types exist and what each one is for
 
-The widget type is its **Objetivo** (Goal). It is chosen when you create the widget and defines which snippets are added automatically and which options appear. The goals you see are the ones Afrus has enabled for your organization.
+The widget type is its **Objetivo** (Goal). It is chosen when you create the widget and defines which snippets are added automatically and which options appear. The goals you see are the ones AFRUS has enabled for your organization.
 
 | Goal | What it is for | Snippets added automatically |
 |---|---|---|
 | **Transacción** (Transaction) | One-time, monthly or yearly donations | Personal information, Donation, Terms and conditions, Payment method, Button |
-| **Registros** / **Registro** (Registration) | Capturing people's details (leads), no payment | Personal information, Button (Terms and conditions must be added to save) |
-| **Ofrece Misas** / **Regala Misas** (Masses) | Mass and intention forms | Personal information, Mass types, Terms and conditions, Payment method, Button |
-| **Pagos** (Payments) | Collecting a payment with a fixed value or a min/max | Personal information, Generic payment, Terms and conditions, Payment method, Button |
+| **Registro** (Registration) | Capturing people's details (leads), no payment | Personal information, Button (Terms and conditions must be added to save) |
 | **Producto** (Product) | Selling products or raffle tickets with price and stock | Personal information, Product, Terms and conditions, Payment method, Button |
-| **Sign up** | Registering an organization with a pricing plan | Personal information, Sign up, Registration address, Pricing model, Terms and conditions, Payment method, Button |
 
 To create a widget of the type you need:
 
-1. **Open the editor.** In **Fundraising > Widgets**, click "Nuevo widget". The previous version of Afrus opens in a new tab; there, click "Nuevo formulario".
+1. **Open the editor.** In **Fundraising > Widgets**, click "Nuevo widget". The editor opens in a new tab; there, click "Nuevo formulario".
    <!-- screenshot pending: which-widget-types-exist-01 — Selecciona el objetivo de tu formulario window -->
 2. **Choose the goal.** In the **Selecciona el objetivo de tu formulario** (Select your form's goal) window, type the **Nombre del formulario** (Form name, up to 50 characters), choose the **Objetivo** and click "Crear" (Create). You will see *"¡Widget creado satisfactoriamente!"* (Widget created successfully) and the editor opens.
 3. **Link a campaign.** In the **Renderización** panel, choose at least one campaign in **Elige tus campañas** (Choose your campaigns). It is required to save.
@@ -59,11 +56,22 @@ To create a widget of the type you need:
 
 If something is missing, "Guardar Widget" shows a red **Errores** (Errors) button with the reason, for example *"Debe seleccionar al menos una campaña en la pestaña de configuración"* (You must select at least one campaign) or *"Debe configurar los términos y condiciones para poder guardar el widget"* (You must set up terms and conditions to save the widget).
 
-> **Pending confirmation:** exactly how the **Popup** mode looks to the visitor (button position).
+## How to create a product widget
+
+A product widget is used to sell products or raffle tickets with a price and stock.
+
+1. **Create the widget with the Producto goal.** In **Fundraising > Widgets**, click "Nuevo widget" and, in the new tab, "Nuevo formulario" (New form). Type the **Nombre del formulario** (Form name), choose the **Objetivo** (Goal) **Producto** (Product) and click "Crear" (Create). The editor adds the **Información personal** (Personal information), **Producto**, **Términos y condiciones** (Terms and conditions), **Medio de pago** (Payment method) and **Botón** (Button) snippets on its own.
+2. **Link a campaign.** In the **Renderización** panel, choose at least one campaign in **Elige tus campañas** (Choose your campaigns). It is required to save.
+3. **Add the product.** Open the **Producto** snippet and click "Agregar Producto" (Add product).
+4. **Choose the product type and fill in its details.** In **Tipo de Producto** (Product type), choose what you are selling and fill in the product's name, description, price and stock. If you are selling raffle numbers, choose **Ticket** and then your raffle in **Seleccionar Ticket** (Select ticket): the name, description and stock fill in on their own, and you only need to type the **Precio del producto** (Product price, the price of each ticket). You must have created the raffle first in **Fundraising > Tickets** (see the [Tickets guide](../tickets/tickets-guide.en.md)).
+5. **Confirm the product.** Click "Agregar Producto". You will see *"¡Producto agregado satisfactoriamente!"* (Product added successfully).
+6. **Finish the rest and save.** Set up **Términos y condiciones** and **Medio de pago** (see "How to set up payment methods in your widget"), save each snippet with **Guardar Snippet** and the widget with "Guardar Widget". Then turn on the **Estado** switch.
+
+> **Important:** a single **Producto** snippet can't mix regular products with tickets (*"No se pueden mezclar tipos de productos"*, product types can't be mixed), and each widget allows only one raffle.
 
 ## How to change the widget's styles
 
-1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar" on the widget's row. It opens in the previous version of Afrus, in a new tab.
+1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar" on the widget's row. It opens in a new tab.
 2. **Choose the field shape.** In the **Editar** tab, **Estilo** panel, under **Seleccione un estilo para el formulario** (Select a form style), choose **Cuadrado**, **Cuadrado redondeado**, **Redondeado** or **Línea** (square, rounded square, rounded, line).
    <!-- screenshot pending: how-to-change-widget-styles-02 — Estilo panel -->
 3. **Adjust colors and fonts.** Open **Estilo del formulario** (Form style) and change the **Familia tipográfica** (font family: Roboto, Arial, Calibri, Univers LT Pro), **Color principal** (main color), **Color de botones** (buttons), **Color de fondo** (background), **Color de texto** (text), **Color del texto de error** (error text), **Color de fondo de la caja** and **Color del texto de la caja** (box background and text), **Borde de la caja** (box border), **Borde** (border, with **Radio del border**, radius) and **Sombra** (shadow). This way the form looks like part of your brand.
@@ -80,10 +88,10 @@ When you finish you will see the new styles in the preview and in the published 
 
 **Why:** each country in the widget has its own **Idioma** (language), its own **Moneda** (currency) and its own list of snippets (amounts, gateways, fields). When someone opens the widget, they see the country they are browsing from, if it is set up; otherwise they see the default country (marked with a star). If you turn on **Habilitar el selector de paises en este formulario** (Enable the country selector), donors can also switch country.
 
-1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar". It opens in the previous version of Afrus.
+1. **Open the widget editor.** In **Fundraising > Widgets**, click "Editar".
 2. **Add the country.** In the center column, click the **Nuevo país** (New country) card.
    <!-- screenshot pending: how-to-add-a-new-country-02 — Idioma y moneda window -->
-3. **Fill in language and currency.** In **Idioma y moneda**, choose **Seleccione un país** (Select a country), the **Idioma** (Español, English, Portugues, Italian or Deutsch) and check the **Moneda** (it fills in with the country's currency, but you can change it). If the widget's goal is **Pagos**, also choose the decimal format (1.00 or 1,00).
+3. **Fill in language and currency.** In **Idioma y moneda**, choose **Seleccione un país** (Select a country), the **Idioma** (Español, English, Portugues, Italian or Deutsch) and check the **Moneda** (it fills in with the country's currency, but you can change it).
 4. **Add a footer (optional).** Type a **Pie de página** text of up to 250 characters.
 5. **Save the country.** Click "Guardar" (Save). You will see *"¡País añadido satisfactoriamente!"* (Country added successfully).
 6. **Set up its snippets.** The new country starts without snippets of its own: when you open it, the editor adds the required ones for its goal. Set up amounts and payment method, and click "Guardar Widget".
@@ -94,23 +102,21 @@ When you finish you will see the new styles in the preview and in the published 
 
 With each country's three-dot menu you can use **Seleccionar por defecto** (Set as default), **Editar** and **Eliminar** (Delete). When editing, you can change language, currency, decimal format and footer, but not the country. The default country cannot be deleted, and the same country cannot be added twice (*"El País ya existe en este Widget"*, the country already exists in this widget).
 
-> **Pending confirmation:** whether deleting a country can be undone.
+> **Can it be undone?** No. Deleting a country cannot be undone.
 
 ## Which snippets are required and which are suggested
 
-In the editor, snippets are either **required** or **optional**. Afrus does not mark snippets as "suggested": which ones are worth using depends on your form.
-
-> **Pending confirmation:** an official recommendation of suggested snippets per widget type.
+In the editor, snippets are either **required** or **optional**. AFRUS does not mark snippets as "suggested": which ones are worth using depends on your form.
 
 **Required** (the editor adds them automatically and does not let you delete them):
 
 - **Información personal** (Personal information): always first.
 - **Términos y condiciones** (Terms and conditions): without this snippet, set up with text and URL, no widget can be saved. It is added automatically in every goal except **Registro**, where you must add it with "Agregar".
-- **Medio de pago** (Payment method) and the final button (**Botón**): fixed at the end and cannot be moved. **Medio de pago** is added in the Transaction, Masses, Payments, Product and Sign up goals.
-- Depending on the goal: **Donación** (Transaction), **Tipos de Misas** (Masses), **Pago Genérico** (Payments), **Producto** (Product), and **Sign up**, **Dirección de registro** and **Modelo de precios** (Sign up).
+- **Medio de pago** (Payment method) and the final button (**Botón**): fixed at the end and cannot be moved. **Medio de pago** is added in the Transaction and Product goals.
+- Depending on the goal: **Donación** (Transaction) or **Producto** (Product).
 - **Those required by the gateway:** when you save **Medio de pago**, the editor adds the fields each gateway requires, with the notice *"¡IMPORTANTE! Este snippet es requerido por la pasarela de pago"* (This snippet is required by the payment gateway). They can be first name, last name or email, **Dirección** (address; not required in Brazil), **Documento** (ID document; not required with PayPal or direct debit; with AvalPay **Documento** and phone are always required) and other fields such as phone, gender, date of birth, country, organization or postal code.
 
-**Optional:** **Imagen** (Image), **Texto** (Text), **Separador** (Separator: splits the form into steps), **Campo personalizado** (Custom field), **Campo predeterminado** (Default field), **Dirección** or **Dirección Fija** (Address or Fixed address — you can't use both), **Documento**, **Ofrecer única a recurrente** (Offer one-time to recurring), **ID de la campaña de Salesforce** (not visible on the form) and, for masses, **Imagen con texto**, **Intención** and **Regala intención**. Some only appear if Afrus enabled them for your organization.
+**Optional:** **Imagen** (Image), **Texto** (Text), **Separador** (Separator: splits the form into steps), **Campo personalizado** (Custom field), **Campo predeterminado** (Default field), **Dirección** or **Dirección Fija** (Address or Fixed address — you can't use both), **Documento**, **Ofrecer única a recurrente** (Offer one-time to recurring), **ID de la campaña de Salesforce** (not visible on the form). Some only appear if AFRUS enabled them for your organization.
 
 To add a snippet:
 
@@ -123,9 +129,9 @@ Most snippets can be added only once per country; **Texto**, **Imagen**, **Separ
 
 ## How to set up payment methods in your widget
 
-**Before you start:** the gateway must be connected in **Configuración > Pagos > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency. In **Sign up** widgets only Stripe and Niubiz2 are offered.
+**Before you start:** the gateway must be connected in **Ajustes de Organización > Pasarelas de pago**. The snippet only shows connected gateways that accept the country's currency.
 
-1. **Open the Medio de pago snippet.** In the widget editor (previous version of Afrus), choose the country and click the **Medio de pago** snippet.
+1. **Open the Medio de pago snippet.** In the widget editor, choose the country and click the **Medio de pago** snippet.
    <!-- screenshot pending: how-to-set-up-payment-methods-01 — Medio de pago snippet -->
 2. **Choose the frequencies.** In **Seleccionar periodicidades** (Select frequencies) check **Única**, **Mensual** and/or **Anual** (one-time, monthly, yearly; at least one).
 3. **Choose the gateways.** In **Selecionar pasarelas de pago** (Select payment gateways) choose one or more.
@@ -135,7 +141,6 @@ Most snippets can be added only once per country; **Texto**, **Imagen**, **Separ
 
 When you finish, donors will see only the methods enabled for the frequency they chose, in the order you set.
 
-- Pix, boleto and cash can only be offered as **Única** (one-time). The exception is Pix with Infopago, which also allows monthly.
 - The same method cannot be assigned to two gateways in the same frequency.
 - Some methods are only shown for certain countries.
 - Changing the country's currency deletes these settings.
@@ -189,7 +194,7 @@ When you finish, the **Única** tab is hidden and donors see only the monthly fr
 The **Ofrecer única a recurrente** (Offer one-time to recurring) snippet shows a card inviting one-time donors to become monthly donors.
 
 **Before you start:**
-- Afrus must enable this snippet for your organization, and it only exists in **Transacción** widgets.
+- AFRUS must enable this snippet for your organization, and it only exists in **Transacción** widgets.
 - The monthly frequency must be enabled in the **Donación** snippet with at least one amount. Otherwise you will see: *"La frecuencia mensual debe estar habilitada y tener al menos un monto configurado en el snippet de Donación antes de usar esta función."* (The monthly frequency must be enabled and have at least one amount.)
 
 1. **Add the snippet.** In the widget editor, click "Agregar" and choose **Ofrecer única a recurrente**. It is placed right after **Donación**, with a separator, and moves together with Donation.
@@ -201,9 +206,9 @@ The **Ofrecer única a recurrente** (Offer one-time to recurring) snippet shows 
 
 **What donors see:**
 - **During the form:** if they chose a one-time donation, they see the card *"Conviértete en donante mensual"* (Become a monthly donor) with two buttons *"Donar {amount}/mes"*, calculated with Rate 1 and Rate 2 on their amount, and the option *"Mantener mi donación única de {amount}"* (Keep my one-time donation). If they accept, the donation becomes monthly.
-- **After paying:** if they paid a one-time donation by card through a gateway managed by Afrus, they see *"Conviértelo en un regalo mensual"* (Make it a monthly gift) before the thank-you page. If they accept, a monthly subscription is also created; the one-time donation already charged does not change.
+- **After paying:** if they paid a one-time donation by card through a gateway managed by AFRUS, they see *"Conviértelo en un regalo mensual"* (Make it a monthly gift) before the thank-you page. If they accept, a monthly subscription is also created; the one-time donation already charged does not change.
 
-> **Important:** if the donor already accepted the offer inside the form, they don't see the after-payment offer. With PayPal, bank debit, Pix or other gateways not managed by Afrus, only the in-form offer can appear.
+> **Important:** if the donor already accepted the offer inside the form, they don't see the after-payment offer. With PayPal, bank debit, Pix or other gateways not managed by AFRUS, only the in-form offer can appear.
 
 > **Can it be undone?** Yes. Turn off **Habilitar** and save.
 
@@ -211,29 +216,29 @@ The **Ofrecer única a recurrente** (Offer one-time to recurring) snippet shows 
 
 With **Cover Your Cost**, donors can cover the gateway fee, so your organization receives the full donation amount.
 
-**Before you start:** Afrus must turn on Cover Your Cost for your organization; it can't be turned on from the console. Until then, the section doesn't appear. It is set up **per gateway**, not inside the widget editor.
+**Before you start:** AFRUS must turn on Cover Your Cost for your organization; it can't be turned on from the console. Until then, the section doesn't appear. It is set up **per gateway**, not inside the widget editor.
 
-1. **Open the gateway.** Go to **Configuración > Pagos > Pasarelas de pago** and open the gateway.
+1. **Open the gateway.** Go to **Ajustes de Organización > Pasarelas de pago** and open the gateway.
    ![Gateway window with the Cover Your Cost section and the Activar Cover Your Cost switch](img/cover-your-cost-01.webp)
 2. **Turn it on.** In the **Cover Your Cost** section, turn on **Activar Cover Your Cost**.
-3. **Set the fee.** Fill in **Comisión de pasarela (%)** (gateway fee, minimum 0.01). The **Comisión Afrus (%)** (Afrus fee) is read-only. Both together must be under 80%.
+3. **Set the fee.** Fill in **Comisión de pasarela (%)** (gateway fee, minimum 0.01). The **Comisión AFRUS (%)** (AFRUS fee) is read-only. Both together must be under 80%.
 4. **Choose whether it is preselected.** With **Preseleccionar la opción para el donante** (Preselect the option for the donor) on, donors see the switch on and can turn it off; with it off, they see it off and must turn it on.
 5. **Save the gateway.** Repeat for each gateway that should offer it.
 
 When you finish, in the widget's last step, with that gateway selected, donors will see the card *"Cubrir el 100% los costos de donación"* (Cover 100% of the donation costs), with **Donación base** (base donation), **Costo aproximado de transacción** (approximate transaction cost) and **Total**. The total is calculated so that, after fees, your organization receives at least the base amount, rounded up; that's why donors pay slightly more than the simple sum of the percentages.
 
-> **Important:** if the Afrus fee can't be loaded, the gateway can't be saved (*"No se pudo cargar la comisión de Afrus. Inténtalo de nuevo."*, the Afrus fee couldn't be loaded, try again). Try again.
+> **Important:** if the AFRUS fee can't be loaded, the gateway can't be saved (*"No se pudo cargar la comisión de AFRUS. Inténtalo de nuevo."*, the AFRUS fee couldn't be loaded, try again). Try again.
 
 > **Can it be undone?** Yes. Turn off **Activar Cover Your Cost** in the gateway and save.
 
 ## How to set up a thank-you page
 
-1. **Open the panel.** In the widget editor (previous version of Afrus), **Editar** tab, open the **Avanzado** panel and, inside it, **Página de agradecimiento** (Thank-you page).
+1. **Open the panel.** In the widget editor, **Editar** tab, open the **Avanzado** panel and, inside it, **Página de agradecimiento** (Thank-you page).
    <!-- screenshot pending: how-to-set-up-a-thank-you-page-01 — Página de agradecimiento panel -->
 2. **Option A: use the campaign's page.** Check **Usa la página de agradecimiento de la campaña.** (Use the campaign's thank-you page). After paying, donors go to the thank-you page you created in the campaign. As the editor warns, check the countries that don't have the same translation in the campaign.
 3. **Option B: set your own URLs.** Click "Configurar" (Set up). In the **Páginas de agradecimiento** window, turn on **Habilitar página de agradecimiento** (Enable thank-you page) and choose:
    - one **Página de agradecimiento general** (general thank-you page) URL for every case; or
-   - **Página de agradecimiento personalizada** (custom thank-you page; only in transaction and mass widgets): in **Transacciones unicas** and **Transacciones recurrentes** (one-time and recurring transactions) fill in **Redirección de transacción exitosa** (successful transaction redirect) and **Redirección de transacción pendiente de confirmación** (pending transaction redirect). For masses, one URL per mass type.
+   - **Página de agradecimiento personalizada** (custom thank-you page; only in transaction widgets): in **Transacciones unicas** and **Transacciones recurrentes** (one-time and recurring transactions) fill in **Redirección de transacción exitosa** (successful transaction redirect) and **Redirección de transacción pendiente de confirmación** (pending transaction redirect). For masses, one URL per mass type.
 4. **Save.** Click "Guardar" and then "Guardar Widget".
 
 When you finish, after the operation donors will go to the matching URL. If the thank-you page is disabled, they see the form's own confirmation.
@@ -244,12 +249,12 @@ When you finish, after the operation donors will go to the matching URL. If the 
 
 ## "Avanzado" options: captcha, analytics, Face to Face, Facebook CAPI and measurement protocol
 
-All of them are set up in the widget editor's **Avanzado** (Advanced) panel (previous version of Afrus) and saved with "Guardar Widget".
+All of them are set up in the widget editor's **Avanzado** (Advanced) panel and saved with "Guardar Widget".
 
 1. **Recaptcha.** Turn on the **Recaptcha** switch (*"Permitir que se requiera la validación de captcha en todo momento"*, always require captcha validation) so donors always have to type a 6-character verification code. Without the switch, the captcha can still appear when the system detects a suspicious attempt.
 2. **Google Tag Manager 4 (analytics).** Paste your **Código de seguimiento** (tracking code: your container ID). The widget sends the donor journey events to your container, so you can measure them in your tools.
-3. **Protocolo de medición** (Measurement protocol). Fill in your GA4 property's **Measurement Id** and **Api secret**. With these, Afrus sends events to GA4, including the purchase, also from the server.
-4. **Facebook Capi.** Fill in **Pixel id** and **Access Token**. Afrus sends events to Meta from the browser (Pixel) and from the server (Conversions API), including the purchase or registration conversion.
+3. **Protocolo de medición** (Measurement protocol). Fill in your GA4 property's **Measurement Id** and **Api secret**. With these, AFRUS sends events to GA4, including the purchase, also from the server.
+4. **Facebook Capi.** Fill in **Pixel id** and **Access Token**. AFRUS sends events to Meta from the browser (Pixel) and from the server (Conversions API), including the purchase or registration conversion.
 5. **Face to Face** (transaction widgets only). Use it for in-person donations, when a fundraiser fills in the form for each donor on a shared device:
    - turn on **Face to Face** (*"Habilitar configuración Face to Face para transacciones presenciales"*);
    - fill in **Correo del captador** (fundraiser email, required) and, optionally, **Correo del supervisor** (supervisor email);
@@ -261,7 +266,7 @@ When you finish:
 - **Face to Face:** the fundraiser and the supervisor receive an email for every successful or failed donation in that widget.
 - **Analytics:** events reach the configured accounts. A landing page's Pixel and Google Analytics are set up separately, in the landing.
 
-> **Important:** with Face to Face on, the widget can't be saved without **Correo del captador**. If your organization has a Meta setup at organization level, Afrus may use that token instead of the one you entered in the widget.
+> **Important:** with Face to Face on, the widget can't be saved without **Correo del captador**. If your organization has a Meta setup at organization level, AFRUS may use that token instead of the one you entered in the widget.
 
 ## How to embed a widget on your website
 
@@ -274,7 +279,7 @@ When you finish:
 
 **Option with custom width (from the editor):**
 
-1. **Open the Instalar tab.** In the widget editor (previous version of Afrus), open **Instalar** (Install).
+1. **Open the Instalar tab.** In the widget editor, open **Instalar** (Install).
 2. **Set the width.** In **Configura el ancho del formulario** (Set the form width), use pixels (px), percentage (%), ems (em), rems (rem) or viewport width (vw). For a different width on narrower screens, turn on "Aplicar ancho especifico" (Apply specific width) with an **Ancho de aplicación**.
 3. **Save and copy.** Click "Guardar Widget" and copy the **Código de inserción** (Embed code) with "Copiar".
 4. **Paste it on your page**, in an HTML block.
@@ -283,7 +288,7 @@ When you finish:
 - If the widget is inactive (**Estado** off), it doesn't receive donations.
 - To check it without publishing, use "Vista previa" or, in the **Dashboard de Widget**, "Abrir para probar" (Open to test).
 
-> **Pending confirmation:** how long a saved change takes to show in the already published widget.
+Saved changes show right away in the already published widget.
 
 ---
 
@@ -299,29 +304,16 @@ When you finish:
 
 > **Can it be undone?** Deleting a widget can't be undone. A widget with linked donations can't be deleted: archive or deactivate it instead.
 
-## Known limitations
-
-- **The editor is in the previous version of Afrus.** "Nuevo widget" and "Editar" open a new browser tab.
-- **Untranslated texts.** Some editor texts always appear the same, in any language: the "set default" button, the titles **Recaptcha**, **Google Tag Manager 4**, **Protocolo de medición**, **Facebook Capi** and the fields **Measurement Id**, **Api secret**, **Pixel id** and **Access Token**.
-- **Image description counter per amount.** The counter shows "/144", but the real limit is 150 characters. Stick to 144 to stay within it.
-- **Changing a country's currency deletes its payment method settings.** Set them up again after the change.
-
 ## Frequently asked questions
-
-**Why does the editor look different from the rest of the console?**
-Because it opens in the previous version of Afrus, in a new tab. That's why some names change: in the editor's list the button says "Nuevo formulario" and in the console it says "Nuevo widget".
 
 **Can I have different amounts per country?**
 Yes. Each country has its own Donation snippet and its own payment method.
 
-**Can I offer Pix or boleto as a monthly donation?**
-No, except Pix with Infopago, which also allows monthly. Pix, boleto and cash are offered only as **Única**.
-
 **Where do I turn on Cover Your Cost inside the widget?**
-Nowhere in the widget: it is set up per gateway, in **Configuración > Pagos > Pasarelas de pago**, and only if Afrus turned it on for your organization.
+Nowhere in the widget: it is set up per gateway, in **Ajustes de Organización > Pasarelas de pago**, and only if AFRUS turned it on for your organization.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

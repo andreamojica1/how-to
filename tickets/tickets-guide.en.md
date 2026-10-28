@@ -1,6 +1,6 @@
 # Tickets guide
 
-After reading this guide you will know what raffle Tickets are in Afrus, how to sell them with a product widget and how to send each buyer their numbers in the autoresponder.
+After reading this guide you will know what raffle Tickets are in AFRUS, how to sell them with a product widget and how to send each buyer their numbers in the autoresponder.
 
 *Module: Tickets · Menu: **Fundraising > Tickets** · Audience: fundraising, events and communications teams*
 
@@ -11,8 +11,6 @@ After reading this guide you will know what raffle Tickets are in Afrus, how to 
 ## What Tickets are
 
 **A Ticket is a raffle with a range of numbers, for example from 1 to 500.** When you link it to a product widget, each buyer receives one consecutive ticket number for every unit they buy.
-
-> **Important:** selling event tickets with a QR code is not available yet. Today, **Tickets** is used for raffles.
 
 ## What it is for
 
@@ -53,11 +51,9 @@ To sell tickets you need two things: the raffle (the Ticket, with its number ran
 
 ### Part 2 — Create the widget that sells it
 
-7. **Create a new widget.** Go to **Fundraising > Widgets** and click "Nuevo widget" (New widget). The widget editor opens in a new tab. This screen opens in the previous version of Afrus, which is why it looks different.
+7. **Create a new widget.** Go to **Fundraising > Widgets** and click "Nuevo widget" (New widget). The widget editor opens in a new tab.
 
 8. **Choose the Product goal.** In **Objetivo** (Goal), choose **Producto**. Only widgets with this goal assign ticket numbers.
-
-   > **Pending confirmation:** exactly which editor screen is used to choose the goal and add the **Producto** block.
 
 9. **Add the product.** Add the **Producto** block and click "Agregar Producto" (Add product). In **Tipo de Producto** (Product type), choose **Ticket**.
 
@@ -96,8 +92,6 @@ When the email or WhatsApp is sent, each merge tag is replaced with that purchas
 
 > **Important:** the map also shows "Número de Ticket" and "Fecha de Sorteo" (draw date), but they don't match any real raffle merge tag. Use only the ones in the table.
 
-> **Pending confirmation:** whether, with some payment types, the autoresponder can go out before the numbers exist. Make a test purchase to check your message.
-
 ## How to see who bought each number
 
 1. **Open the raffle.** In **Fundraising > Tickets**, click the raffle's **ID**. **Tickets generados por transacción** opens.
@@ -117,22 +111,7 @@ You'll see one row per number, with **ID de Ticket** (Ticket ID), **Nombre**, **
 | **Cantidad** | Always 1 per row: each ticket bought is one row |
 | **Tickets vendidos** (Tickets sold, widget dashboard) | Tickets sold in **successful** purchases in the period |
 
-## Known limitations
-
-- **Check before the draw.** Numbers are also assigned to purchases whose payment was declined; those numbers stay taken. Check each transaction's status with the **ID de Donación** link. That's why **Tickets vendidos** (successful purchases only) may not match the list.
-- **Repeated numbers.** If two purchases happen almost at the same time, they may get the same number. Before the draw, check for repeated numbers in **Tickets generados por transacción**.
-- **Sales don't stop on their own at the end number.** Numbers above the range can be assigned. Control the product stock in the widget.
-- **Stock del producto** is one less than the real number of tickets in the range (1 to 100 shows 99).
-- **Inactivo doesn't stop sales.** To stop selling, remove the product from the widget or deactivate the widget.
-- **Each raffle has its own numbering.** Always identify a ticket by raffle and number.
-- **Price in US$.** The **Precio** column of **Tickets generados por transacción** always shows the dollar sign, whatever the widget's currency.
-- **Only the 10 most recent raffles.** **Seleccionar Ticket** shows only the 10 most recently created raffles; older ones can't be chosen.
-- **A raffle can't be deleted**, only edited. You can edit the range even after numbers have been sold.
-
 ## Frequently asked questions
-
-**Can I sell event tickets with QR codes?**
-Not yet. That feature is in development.
 
 **Is there a merge tag with the number of tickets bought?**
 No. Use `{{ticket_id}}`, which lists all the numbers from the purchase.
@@ -144,4 +123,4 @@ No. Each widget accepts only one raffle.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

@@ -7,7 +7,7 @@ Un bloque por tutorial, listo para pegar. Orden: español, inglés, portugués.
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué son las Transacciones en Afrus
+Título: Qué son las Transacciones en AFRUS
 Slug: que-son-las-transacciones
 Categoría: Transacciones
 Resumen: Aprende qué es el módulo Transacciones: la lista de todos los pagos de tu organización, únicos y recurrentes.
@@ -103,7 +103,7 @@ Relacionados: que-son-las-transacciones, como-crear-un-agradecimiento-con-ia-des
 <h2>Antes de empezar</h2>
 <ul>
 <li>La transacción debe estar en estado <strong>Exitoso</strong>.</li>
-<li>Su pasarela debe permitir reembolsos desde Afrus; si no, la opción <strong>Reembolsar</strong> no aparece.</li>
+<li>Su pasarela debe permitir reembolsos desde AFRUS; si no, la opción <strong>Reembolsar</strong> no aparece.</li>
 <li>Tu usuario necesita permiso para operaciones bancarias con transacciones. Si el reembolso falla por eso, pide a un administrador que lo haga.</li>
 </ul>
 <h2>Paso a paso</h2>
@@ -114,6 +114,9 @@ Relacionados: que-son-las-transacciones, como-crear-un-agradecimiento-con-ia-des
 <p>Verás <em>"Reembolsado con éxito."</em> y la transacción pasará a <strong>Reembolsado</strong>. Si tenía un certificado de donación vigente, se anula. Si la pasarela lo rechaza, verás <em>"Error al reembolsar el cargo."</em> y nada cambia.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Puedo reembolsar solo una parte?</strong> No. Siempre se reembolsa el monto completo.</p>
+<p><strong>¿Cuánto tarda el dinero en llegar al donante?</strong> Depende del banco. Algunos hacen la devolución en 3 días y otros pueden tardar hasta 30 días hábiles.</p>
+<p><strong>¿Hasta cuándo puedo reembolsar?</strong> Desde AFRUS, hasta 24 horas después del cobro. Si ya pasó ese tiempo, escribe a tu proveedor de la pasarela de pagos. Si usas la pasarela de pagos de AFRUS, escribe a soportepagos@afrus.ai y el equipo de AFRUS hará la devolución.</p>
+<p><strong>¿Reembolsar cancela la suscripción?</strong> No. Si quieres detener los cobros futuros, cancela la suscripción directamente en <strong>Suscripciones</strong>.</p>
 <p><strong>¿Se puede deshacer?</strong> No. El dinero se devuelve en la pasarela y no hay opción para revertirlo.</p>
 === FIN ===
 ```
@@ -139,7 +142,7 @@ Relacionados: que-son-las-transacciones, como-reembolsar-una-donacion, como-filt
 </ol>
 <p>Las transacciones pasan a <strong>Fraude</strong>, desaparecen de la lista y aparecen en <strong>Follow up &gt; Radar - monitor de fraude</strong>.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Devuelve el dinero o cancela la suscripción?</strong> No. Solo cambia el estado en Afrus. Si necesitas devolver el pago, reembólsalo antes.</p>
+<p><strong>¿Devuelve el dinero o cancela la suscripción?</strong> No. Solo cambia el estado en AFRUS. Si necesitas devolver el pago, reembólsalo antes.</p>
 <p><strong>¿Puedo marcar toda la base de una vez?</strong> No. Solo se marcan las filas seleccionadas en la página actual.</p>
 <p><strong>¿Se puede deshacer?</strong> No. No hay opción para revertirlo.</p>
 === FIN ===
@@ -251,7 +254,7 @@ Relacionados: que-son-las-transacciones, para-que-sirven-las-transacciones, como
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: What Transactions are in Afrus
+Título: What Transactions are in AFRUS
 Slug: what-are-transactions
 Categoría: Transacciones
 Resumen: Learn what the Transactions module is: the list of every payment your organization receives, one-time and recurring.
@@ -351,7 +354,7 @@ Relacionados: what-are-transactions, how-to-create-an-ai-thank-you-from-transact
 <h2>Before you start</h2>
 <ul>
 <li>The transaction must be <strong>Exitoso</strong> (Successful).</li>
-<li>Its gateway must allow refunds from Afrus; otherwise the <strong>Reembolsar</strong> (Refund) option doesn't appear.</li>
+<li>Its gateway must allow refunds from AFRUS; otherwise the <strong>Reembolsar</strong> (Refund) option doesn't appear.</li>
 <li>Your user needs permission for banking operations on transactions. If the refund fails for that reason, ask an administrator to do it.</li>
 </ul>
 <h2>Step by step</h2>
@@ -362,6 +365,9 @@ Relacionados: what-are-transactions, how-to-create-an-ai-thank-you-from-transact
 <p>You will see <em>"Reembolsado con éxito."</em> (Refunded successfully) and the transaction changes to <strong>Reembolsado</strong> (Refunded). If it had a valid donation certificate, it is voided. If the gateway rejects it, you will see <em>"Error al reembolsar el cargo."</em> and nothing changes.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Can I refund only part of it?</strong> No. The full amount is always refunded.</p>
+<p><strong>How long does the money take to reach the donor?</strong> It depends on the bank. Some return it in 3 days and others can take up to 30 business days.</p>
+<p><strong>How long do I have to refund?</strong> From AFRUS, up to 24 hours after the charge. After that, write to your payment gateway provider. If you use the AFRUS payment gateway, write to soportepagos@afrus.ai and the AFRUS team will make the refund.</p>
+<p><strong>Does refunding cancel the subscription?</strong> No. If you want to stop future charges, cancel the subscription directly in <strong>Suscripciones</strong>.</p>
 <p><strong>Can it be undone?</strong> No. The money is returned through the gateway and there is no option to reverse it.</p>
 === FIN ===
 ```
@@ -388,7 +394,7 @@ Relacionados: what-are-transactions, how-to-refund-a-donation, how-to-filter-a-g
 </ol>
 <p>The transactions change to <strong>Fraude</strong>, disappear from the list and appear in <strong>Follow up &gt; Radar - monitor de fraude</strong>.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Does it return the money or cancel the subscription?</strong> No. It only changes the status in Afrus. If you need to return the payment, refund it first.</p>
+<p><strong>Does it return the money or cancel the subscription?</strong> No. It only changes the status in AFRUS. If you need to return the payment, refund it first.</p>
 <p><strong>Can I mark the whole database at once?</strong> No. Only the rows selected on the current page are marked.</p>
 <p><strong>Can it be undone?</strong> No. There is no option to reverse it.</p>
 === FIN ===
@@ -504,7 +510,7 @@ Relacionados: what-are-transactions, what-are-transactions-for, how-to-filter-a-
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: O que são as Transações na Afrus
+Título: O que são as Transações na AFRUS
 Slug: o-que-sao-as-transacoes
 Categoría: Transacciones
 Resumen: Aprenda o que é o módulo Transações: a lista de todos os pagamentos da sua organização, únicos e recorrentes.
@@ -604,7 +610,7 @@ Relacionados: o-que-sao-as-transacoes, como-criar-um-agradecimento-com-ia-em-tra
 <h2>Antes de começar</h2>
 <ul>
 <li>A transação precisa estar com status <strong>Exitoso</strong> (Aprovada).</li>
-<li>O gateway dela precisa permitir reembolsos pela Afrus; senão, a opção <strong>Reembolsar</strong> não aparece.</li>
+<li>O gateway dela precisa permitir reembolsos pela AFRUS; senão, a opção <strong>Reembolsar</strong> não aparece.</li>
 <li>Seu usuário precisa de permissão para operações bancárias com transações. Se o reembolso falhar por isso, peça a um administrador.</li>
 </ul>
 <h2>Passo a passo</h2>
@@ -615,6 +621,9 @@ Relacionados: o-que-sao-as-transacoes, como-criar-um-agradecimento-com-ia-em-tra
 <p>Você verá <em>"Reembolsado con éxito."</em> (Reembolsado com sucesso) e a transação passará para <strong>Reembolsado</strong>. Se havia um certificado de doação válido, ele é anulado. Se o gateway recusar, você verá <em>"Error al reembolsar el cargo."</em> e nada muda.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Posso reembolsar só uma parte?</strong> Não. O valor total é sempre reembolsado.</p>
+<p><strong>Quanto tempo o dinheiro leva para chegar ao doador?</strong> Depende do banco. Alguns fazem a devolução em 3 dias e outros podem levar até 30 dias úteis.</p>
+<p><strong>Até quando posso reembolsar?</strong> Pela AFRUS, até 24 horas depois da cobrança. Se esse prazo já passou, escreva para o seu provedor do gateway de pagamento. Se você usa o gateway de pagamento da AFRUS, escreva para soportepagos@afrus.ai e a equipe da AFRUS fará a devolução.</p>
+<p><strong>Reembolsar cancela a assinatura?</strong> Não. Se quiser parar as cobranças futuras, cancele a assinatura diretamente em <strong>Suscripciones</strong>.</p>
 <p><strong>Dá para desfazer?</strong> Não. O dinheiro é devolvido pelo gateway e não há opção para reverter.</p>
 === FIN ===
 ```
@@ -641,7 +650,7 @@ Relacionados: o-que-sao-as-transacoes, como-reembolsar-uma-doacao, como-filtrar-
 </ol>
 <p>As transações passam para <strong>Fraude</strong>, somem da lista e aparecem em <strong>Follow up &gt; Radar - monitor de fraude</strong>.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Devolve o dinheiro ou cancela a assinatura?</strong> Não. Só muda o status na Afrus. Se precisar devolver o pagamento, reembolse antes.</p>
+<p><strong>Devolve o dinheiro ou cancela a assinatura?</strong> Não. Só muda o status na AFRUS. Se precisar devolver o pagamento, reembolse antes.</p>
 <p><strong>Posso marcar a base inteira de uma vez?</strong> Não. Só as linhas selecionadas na página atual são marcadas.</p>
 <p><strong>Dá para desfazer?</strong> Não. Não há opção para reverter.</p>
 === FIN ===

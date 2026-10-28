@@ -12,7 +12,7 @@ Com este guia, você vai conseguir conferir se seus formulários de doação est
 
 **É o registro de cada aviso que seus formulários de doação enviaram ao Google Analytics 4, à Meta ou ao Google Tag Manager.**
 
-Se uma dessas ferramentas está conectada a um formulário (widget), toda vez que uma pessoa abre o formulário, avança uma etapa ou conclui a doação, a Afrus avisa essa ferramenta. Cada aviso se chama **evento**. Esta tela mostra cada evento, o que foi enviado e o que a ferramenta respondeu.
+Se uma dessas ferramentas está conectada a um formulário (widget), toda vez que uma pessoa abre o formulário, avança uma etapa ou conclui a doação, a AFRUS avisa essa ferramenta. Cada aviso se chama **evento**. Esta tela mostra cada evento, o que foi enviado e o que a ferramenta respondeu.
 
 Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é enviado e esta tela fica vazia.
 
@@ -56,37 +56,29 @@ Se o seu formulário não tem nenhuma dessas ferramentas configurada, nada é en
 
 - **Meta:** se funcionou, você verá o que a Meta devolveu. Se falhou, verá `success: false` e uma mensagem com o motivo, por exemplo que faltam no formulário os dados do Pixel.
 - **Google Analytics 4:** se aparecer `missing_ga_credentials`, faltam no formulário os dados de conexão com o GA4 e **o evento não foi enviado**. Se aparecer `success: false`, o Google respondeu com erro. Se não houver erro, o Google recebeu o aviso; para confirmar que registrou, veja o relatório em tempo real do GA4.
-- **Google Tag Manager:** o normal é ver `logged_only: true`. A Afrus só anota o evento aqui; o Tag Manager o recebe diretamente do navegador da pessoa.
+- **Google Tag Manager:** o normal é ver `logged_only: true`. A AFRUS só anota o evento aqui; o Tag Manager o recebe diretamente do navegador da pessoa.
 
-Se você tem a conversão da Meta pela Afrus ativada, também verá linhas `FACEBOOK-…` criadas pela Afrus depois de cada pagamento.
+Se você tem a conversão da Meta pela AFRUS ativada, também verá linhas `FACEBOOK-…` criadas pela AFRUS depois de cada pagamento.
 
 ---
 
-## Limitações conhecidas
+## Saiba mais sobre o tracking de analytics
 
-- **O filtro do Google Analytics não mostra nada.** No filtro **Plataforma**, a opção **Google Analytics** não traz resultados. Para ver só os eventos do GA4, não use esse filtro: digite `google` e o evento no campo de busca (por exemplo `google purchase`) e clique na lupa.
-- **Alguns tipos de evento sempre vêm vazios.** Em **Tipo de evento**, só encontram resultados **Start** / **View Content**, **Add to Cart**, **Begin Checkout** / **Initiate Checkout**, **Add Payment Info** e **Purchase**. As outras opções vêm vazias porque os formulários não enviam eventos com esses nomes.
-- **A hora não diz se é de manhã ou de tarde.** Aparece no formato de 12 horas sem AM/PM.
-- **A coluna ID de Campaña (ID da campanha) aparece sempre vazia.**
-- **Ao usar um filtro, as datas passam para "ALL"** (todas as datas).
-- **Se você mudar um segundo filtro e a lista não mudar,** clique na lupa para recarregar.
-- **A lista começa pelos eventos mais antigos** do período escolhido.
-- **Se você excluir um formulário,** os eventos dele deixam de ser registrados aqui.
-- **A tela não se atualiza sozinha.**
+Para entender a fundo como a AFRUS registra as ações dos seus doadores e como configurar suas ferramentas de analytics, veja estes tutoriais:
+
+- [Como a AFRUS registra as ações dos seus doadores? (Parte 1 de 3)](https://www.afrus.ai/pt-br/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3)
+- [GTM, configuração e deduplicação (Parte 2 de 3)](https://www.afrus.ai/pt-br/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3)
+- [Benefícios, verificação e perguntas frequentes (Parte 3 de 3)](https://www.afrus.ai/pt-br/howto/beneficios-verificacion-y-faq-parte-3-de-3)
+
+---
 
 ## Perguntas frequentes
 
 **Não vejo nenhuma linha do meu formulário. O que está acontecendo?**
 O mais provável é que o formulário não tenha configurado o Google Analytics 4, o Pixel da Meta nem o Google Tag Manager. Sem essa configuração, nada é enviado.
 
-**Quanto tempo um evento leva para aparecer?**
-> **Pendente de confirmação:** não há um tempo fixo.
-
-**Por quanto tempo esses registros são guardados?**
-> **Pendente de confirmação:** por quanto tempo o histórico é mantido.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

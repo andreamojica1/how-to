@@ -1,6 +1,6 @@
 # Peer to peer guide
 
-After reading this guide you will know what peer-to-peer fundraising is on Afrus, what it is for, how to change its images, what a supporter goes through after signing up, and how to review, approve and measure your fundraisers' pages.
+After reading this guide you will know what peer-to-peer fundraising is on AFRUS, what it is for, how to change its images, what a supporter goes through after signing up, and how to review, approve and measure your fundraisers' pages.
 
 *Module: Peer to peer · Menu: **Fundraising > Peer to peer fundraisers** · Audience: fundraising and community teams*
 
@@ -95,8 +95,6 @@ There are two different forms: the sign-up form, filled in by someone who wants 
 3. **It adds to the page total.** When the donation succeeds, it adds to the **Total recaudado** (Total raised) shown on the fundraiser's public page.
 4. **Thank-you page.** After donating, the donor sees the thank-you or redirect page set up in the widget.
 
-> **Pending confirmation:** whether the fundraiser or your organization receive an email each time someone donates on a fundraiser's page.
-
 ## How to see who is doing Peer to peer, approve a fundraiser and know how much they have raised
 
 ### Part 1 — See who is fundraising
@@ -158,18 +156,6 @@ Every new page starts as **Pendiente** and needs your approval: there is no auto
 | **Rechazada** (Rejected) | Not shown | Rejected; its published page was deleted | End |
 | **Finalizada** (Ended) | Finalizada | Closed by your organization; its published page was deleted | Nothing |
 
-## Known limitations
-
-- **Total raised in the console:** each page's details always show $0, and the fundraiser's dashboard shows 0 donations and $0. To see what was raised, open the public page with "Ver página".
-- **No search or status filter** in the console list: you can only sort by **ID**, **Campaña** and **Meta**.
-- **"$" symbol:** the **Meta** column and the **Total recaudado** block in the console always use "$", whatever your organization's currency.
-- **Goal "(en USD)":** the sign-up form asks for the goal in USD, but the public page shows and compares it in your organization's currency.
-- **Fecha Inicio** in the list is your campaign's creation date. The fundraiser's actual sign-up date is in the details, under **Fecha creación de la campaña**.
-- **Already published pages:** later changes to the campaign's images or widget don't reach them, and the fundraiser cannot edit their page after publishing.
-- **Incomplete details:** the **Widget** field usually shows *No proporcionado* (Not provided) and **Detalle de la fuente** opens empty.
-- **Error messages:** if cropping an image fails, the message may appear as technical text; if approving, rejecting or ending fails, the message may be in English.
-- **Approval and rejection emails** to fundraisers are always sent in Spanish.
-
 ## Frequently asked questions
 
 **Do I have to approve every page?**
@@ -177,8 +163,6 @@ Yes. Every new page starts as **Pendiente** and there is no automatic approval.
 
 **How do I get the sign-up link to send to my supporters?**
 Today it is reached through the "Crea tu campaña" button on the campaign's donation widgets.
-
-> **Pending confirmation:** whether there is another way to get the fundraiser sign-up link from the console.
 
 **Can a fundraiser change their page after publishing it?**
 No. Their dashboard has no option to edit a published page.
@@ -193,4 +177,4 @@ Yes. They are campaign donations and count in its overall figures.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

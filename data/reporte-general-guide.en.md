@@ -85,12 +85,6 @@ They let you choose the period you want to see and download.
 
 ---
 
-## Known limitations
-
-- **Small differences around midnight.** **Ingresos totales** and the averages count days with a different time than **Confirmadas** and **Otras**, so if there were donations close to the change of day, the totals may vary slightly.
-- **MRR and ARR with donations that are not monthly.** If you have quarterly, half-yearly or yearly subscriptions, MRR and ARR may look higher than they really are, because they are counted as if they were monthly.
-- **It doesn't show the time of the last update,** although the data is calculated on the spot.
-
 ## Frequently asked questions
 
 **Are the numbers up to date?**

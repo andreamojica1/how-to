@@ -11,7 +11,7 @@ Idioma: es
 Título: Qué es Suscripciones
 Slug: que-es-suscripciones
 Categoría: Suscripciones
-Resumen: Aprende qué es el módulo Suscripciones de Afrus: la lista de las donaciones recurrentes de tu organización.
+Resumen: Aprende qué es el módulo Suscripciones de AFRUS: la lista de las donaciones recurrentes de tu organización.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -63,13 +63,13 @@ Idioma: es
 Título: Cómo cancelar una suscripción
 Slug: como-cancelar-una-suscripcion
 Categoría: Suscripciones
-Resumen: Aprende a cancelar una donación recurrente desde el detalle de la suscripción en Afrus, y qué pasa después.
+Resumen: Aprende a cancelar una donación recurrente desde el detalle de la suscripción en AFRUS, y qué pasa después.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-suscripciones, para-que-sirve-suscripciones, como-marcar-como-fraude-una-suscripcion, como-descargar-un-grupo-de-suscripciones
 --- CUERPO (HTML) ---
-<p>Cuando un donante pide dejar de donar, puedes cancelar su suscripción desde Afrus. La cancelación es inmediata.</p>
+<p>Cuando un donante pide dejar de donar, puedes cancelar su suscripción desde AFRUS. La cancelación es inmediata.</p>
 <h2>Antes de empezar</h2>
 <ul>
 <li><strong>Estado:</strong> solo se pueden cancelar suscripciones <strong>Activa</strong> o <strong>Fallido</strong> (con algunas pasarelas, también <strong>Pendiente</strong> y <strong>Revisión pendiente</strong>). En otros estados la cancelación da error.</li>
@@ -81,11 +81,11 @@ Relacionados: que-es-suscripciones, para-que-sirve-suscripciones, como-marcar-co
 <li><strong>Pulsa "Cancelar Suscripción".</strong> Es el texto en rojo del detalle.</li>
 <li><strong>Confirma.</strong> En la ventana <em>"¿Estás seguro de que deseas cancelar tu suscripción?"</em>, pulsa "Confirmar".</li>
 </ol>
-<p>Verás <em>"La suscripción se ha cancelado correctamente"</em>. La suscripción pasa a <strong>Cancelada</strong> y se borran los cobros pendientes que Afrus tenía programados.</p>
+<p>Verás <em>"La suscripción se ha cancelado correctamente"</em>. La suscripción pasa a <strong>Cancelada</strong> y se borran los cobros pendientes que AFRUS tenía programados.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Se puede deshacer?</strong> No. No hay botón para reactivarla. Si el donante quiere volver, tendrá que crear una nueva donación recurrente.</p>
-<p><strong>¿Puedo cancelar al final del período?</strong> No. La cancelación desde Afrus es siempre inmediata.</p>
-<p><strong>¿Y si aparece un error o no pasa nada?</strong> Si ves <em>"Error al cancelar la suscripción"</em>, revisa el estado: según cómo esté conectada tu organización, algunas pasarelas no permiten cancelar desde Afrus. Si al pulsar "Confirmar" no aparece ningún mensaje, la suscripción no se canceló. En ambos casos, escribe a soporte de Afrus con el ID.</p>
+<p><strong>¿Puedo cancelar al final del período?</strong> No. La cancelación desde AFRUS es siempre inmediata.</p>
+<p><strong>¿Y si aparece un error o no pasa nada?</strong> Si ves <em>"Error al cancelar la suscripción"</em>, revisa el estado: según cómo esté conectada tu organización, algunas pasarelas no permiten cancelar desde AFRUS. Si al pulsar "Confirmar" no aparece ningún mensaje, la suscripción no se canceló. En ambos casos, escribe a soporte de AFRUS con el ID.</p>
 === FIN ===
 ```
 
@@ -95,7 +95,7 @@ Idioma: es
 Título: Cómo marcar como fraude una suscripción
 Slug: como-marcar-como-fraude-una-suscripcion
 Categoría: Suscripciones
-Resumen: Aprende a marcar como fraude una o varias suscripciones en Afrus, y qué consecuencias tiene esta acción.
+Resumen: Aprende a marcar como fraude una o varias suscripciones en AFRUS, y qué consecuencias tiene esta acción.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -105,7 +105,7 @@ Relacionados: que-es-suscripciones, para-que-sirve-suscripciones, como-cancelar-
 <h2>Antes de empezar</h2>
 <ul>
 <li><strong>Es definitivo:</strong> la suscripción pasa a <strong>Fraude</strong>, desaparece de la lista y <strong>la persona donante asociada se elimina de tu base de Personas</strong>. No se puede deshacer.</li>
-<li><strong>Cancela primero si la pasarela cobra por su cuenta</strong> (por ejemplo Stripe): marcar como fraude solo cambia el estado en Afrus y no cancela nada en la pasarela.</li>
+<li><strong>Cancela primero si la pasarela cobra por su cuenta</strong> (por ejemplo Stripe): marcar como fraude solo cambia el estado en AFRUS y no cancela nada en la pasarela.</li>
 </ul>
 <h2>Paso a paso</h2>
 <ol>
@@ -125,7 +125,7 @@ Idioma: es
 Título: Cómo descargar un grupo de suscripciones
 Slug: como-descargar-un-grupo-de-suscripciones
 Categoría: Suscripciones
-Resumen: Aprende a exportar a Excel un grupo de suscripciones filtradas en Afrus y a descargar el archivo.
+Resumen: Aprende a exportar a Excel un grupo de suscripciones filtradas en AFRUS y a descargar el archivo.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -179,7 +179,7 @@ Idioma: es
 Título: Cada cuánto se cobran las recurrencias
 Slug: cada-cuanto-se-cobran-las-recurrencias
 Categoría: Suscripciones
-Resumen: Aprende cuándo se cobran las donaciones recurrentes en Afrus según la pasarela de pago de cada suscripción.
+Resumen: Aprende cuándo se cobran las donaciones recurrentes en AFRUS según la pasarela de pago de cada suscripción.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -187,14 +187,14 @@ Relacionados: que-es-suscripciones, como-descargar-un-grupo-de-suscripciones, co
 --- CUERPO (HTML) ---
 <p>La fecha de cobro de una donación recurrente depende de la pasarela de pago de cada suscripción.</p>
 <ul>
-<li><strong>Pasarelas que cobran por su cuenta (Stripe, PayU, Pagar.me):</strong> la pasarela decide cuándo cobra, no Afrus.</li>
-<li><strong>Recurrent Payments:</strong> la pantalla informa que los pagos se realizan el primer día hábil de cada mes y que, si fallan, se reintentan semanalmente hasta que sean exitosos.</li>
-<li><strong>Suscripciones que cobra el motor de Afrus:</strong> puedes elegir el día de cobro desde el botón "Modificar" del detalle de la suscripción.</li>
+<li><strong>Pasarelas que cobran por su cuenta (Stripe, PayU, Pagar.me):</strong> la pasarela decide cuándo cobra, no AFRUS.</li>
+<li><strong>Recurrent Payments:</strong> el día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes.</li>
+<li><strong>Suscripciones que cobra el motor de AFRUS:</strong> puedes elegir el día de cobro desde el botón "Modificar" del detalle de la suscripción.</li>
 </ul>
 <h2>Configuración de la recurrencia</h2>
-<p>En <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong> tu organización puede elegir <strong>Modo mejorado</strong> (Standard o Charities), <strong>Periodicidad</strong> (Mensual, Trimestral, Semestral o Anual) y <strong>Modo de reintento</strong> (Standard retries, Charities retries o Custom). La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.</p>
+<p>En <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> tu organización puede elegir <strong>Modo mejorado</strong> (Standard o Charities), <strong>Periodicidad</strong> (Mensual, Trimestral, Semestral o Anual) y <strong>Modo de reintento</strong> (Standard retries, Charities retries o Custom). La pantalla indica que los cambios se aplican a los próximos ciclos de cobro.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿A qué hora cobra Afrus y cuántas veces reintenta?</strong> Estamos confirmando este dato con nuestro equipo y lo publicaremos aquí.</p>
+<p><strong>¿Cuántas veces se reintenta un cobro?</strong> En Recurrent Payments se hacen de 7 a 10 intentos de cobro al mes y se cobra de forma mensual, sin límite, hasta que tu organización cancele la suscripción. Con tarjetas de crédito, por defecto se hacen 3 reintentos durante 12 meses seguidos antes de cancelar la suscripción. Puedes ajustar los reintentos en <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong>.</p>
 === FIN ===
 ```
 
@@ -210,7 +210,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: que-es-suscripciones, como-descargar-un-grupo-de-suscripciones, como-filtrar-un-grupo-de-suscripciones, cada-cuanto-se-cobran-las-recurrencias
 --- CUERPO (HTML) ---
-<p>Si un donante te pide cobrarle otro día, puedes cambiar la fecha de cobro desde Afrus.</p>
+<p>Si un donante te pide cobrarle otro día, puedes cambiar la fecha de cobro desde AFRUS.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Abre la suscripción.</strong> En <strong>Suscripciones</strong>, haz clic en el <strong>ID</strong> de la fila.</li>
@@ -226,7 +226,7 @@ En todas puedes cambiar también el monto.</li>
 <p>Verás un mensaje de suscripción actualizada. Si estaba <strong>Activa</strong>, sigue <strong>Activa</strong>.</p>
 <h2>Preguntas frecuentes</h2>
 <p><strong>¿Se puede deshacer?</strong> Sí: vuelve a pulsar "Modificar" y pon la fecha anterior.</p>
-<p><strong>¿Por qué no puedo cambiarla?</strong> Algunas pasarelas no lo permiten desde Afrus (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), y las suscripciones que esperan la aceptación del pagador no se pueden modificar. Con Recurrent Payments no hay campo de fecha: cobra el primer día hábil de cada mes.</p>
+<p><strong>¿Por qué no puedo cambiarla?</strong> Algunas pasarelas no lo permiten desde AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), y las suscripciones que esperan la aceptación del pagador no se pueden modificar. Con Recurrent Payments no hay campo de fecha: el día de cobro depende del día en que el donante pagó y se va adelantando, hasta posiblemente llegar al primer día del mes.</p>
 <p><strong>¿Por qué el mensaje sale en inglés?</strong> En la ventana "Modificar fecha" la confirmación aparece como <em>"Update subscription"</em>. Es normal.</p>
 === FIN ===
 ```
@@ -240,7 +240,7 @@ Idioma: en
 Título: What Subscriptions is
 Slug: what-is-subscriptions
 Categoría: Suscripciones
-Resumen: Learn what the Afrus Suscripciones (Subscriptions) module is: the list of your organization's recurring donations.
+Resumen: Learn what the AFRUS Suscripciones (Subscriptions) module is: the list of your organization's recurring donations.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -292,13 +292,13 @@ Idioma: en
 Título: How to cancel a subscription
 Slug: how-to-cancel-a-subscription
 Categoría: Suscripciones
-Resumen: Learn how to cancel a recurring donation from the subscription detail in Afrus, and what happens next.
+Resumen: Learn how to cancel a recurring donation from the subscription detail in AFRUS, and what happens next.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-subscriptions, what-is-subscriptions-for, how-to-mark-a-subscription-as-fraud, how-to-download-a-group-of-subscriptions
 --- CUERPO (HTML) ---
-<p>When a donor asks to stop donating, you can cancel their subscription from Afrus. Cancellation is immediate. Labels are shown as they appear in the Spanish version of the console.</p>
+<p>When a donor asks to stop donating, you can cancel their subscription from AFRUS. Cancellation is immediate. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
 <ul>
 <li><strong>Status:</strong> only <strong>Activa</strong> (Active) or <strong>Fallido</strong> (Failed) subscriptions can be cancelled (with some gateways, also <strong>Pendiente</strong> and <strong>Revisión pendiente</strong>). In other statuses the cancellation gives an error.</li>
@@ -310,11 +310,11 @@ Relacionados: what-is-subscriptions, what-is-subscriptions-for, how-to-mark-a-su
 <li><strong>Click "Cancelar Suscripción" (Cancel subscription).</strong> It is the red text in the detail.</li>
 <li><strong>Confirm.</strong> In the window <em>"¿Estás seguro de que deseas cancelar tu suscripción?"</em> (Are you sure you want to cancel your subscription?), click "Confirmar" (Confirm).</li>
 </ol>
-<p>You will see <em>"La suscripción se ha cancelado correctamente"</em> (The subscription was cancelled successfully). The subscription changes to <strong>Cancelada</strong> (Cancelled) and the pending charges Afrus had scheduled are deleted.</p>
+<p>You will see <em>"La suscripción se ha cancelado correctamente"</em> (The subscription was cancelled successfully). The subscription changes to <strong>Cancelada</strong> (Cancelled) and the pending charges AFRUS had scheduled are deleted.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Can it be undone?</strong> No. There is no button to reactivate it. If the donor wants to come back, they need to create a new recurring donation.</p>
-<p><strong>Can I cancel at the end of the period?</strong> No. Cancelling from Afrus is always immediate.</p>
-<p><strong>What if I see an error or nothing happens?</strong> If you see <em>"Error al cancelar la suscripción"</em> (Error cancelling the subscription), check the status: depending on how your organization is connected, some gateways don't allow cancelling from Afrus. If no message appears after clicking "Confirmar", the subscription was not cancelled. In both cases, contact Afrus support with the ID.</p>
+<p><strong>Can I cancel at the end of the period?</strong> No. Cancelling from AFRUS is always immediate.</p>
+<p><strong>What if I see an error or nothing happens?</strong> If you see <em>"Error al cancelar la suscripción"</em> (Error cancelling the subscription), check the status: depending on how your organization is connected, some gateways don't allow cancelling from AFRUS. If no message appears after clicking "Confirmar", the subscription was not cancelled. In both cases, contact AFRUS support with the ID.</p>
 === FIN ===
 ```
 
@@ -324,7 +324,7 @@ Idioma: en
 Título: How to mark a subscription as fraud
 Slug: how-to-mark-a-subscription-as-fraud
 Categoría: Suscripciones
-Resumen: Learn how to mark one or more subscriptions as fraud in Afrus, and what this action does.
+Resumen: Learn how to mark one or more subscriptions as fraud in AFRUS, and what this action does.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -334,7 +334,7 @@ Relacionados: what-is-subscriptions, what-is-subscriptions-for, how-to-cancel-a-
 <h2>Before you start</h2>
 <ul>
 <li><strong>It is permanent:</strong> the subscription changes to <strong>Fraude</strong> (Fraud), disappears from the list and <strong>the associated donor is deleted from your Personas (People) database</strong>. It cannot be undone.</li>
-<li><strong>Cancel first if the gateway charges on its own</strong> (for example Stripe): marking as fraud only changes the status in Afrus and cancels nothing at the gateway.</li>
+<li><strong>Cancel first if the gateway charges on its own</strong> (for example Stripe): marking as fraud only changes the status in AFRUS and cancels nothing at the gateway.</li>
 </ul>
 <h2>Step by step</h2>
 <ol>
@@ -354,7 +354,7 @@ Idioma: en
 Título: How to download a group of subscriptions
 Slug: how-to-download-a-group-of-subscriptions
 Categoría: Suscripciones
-Resumen: Learn how to export a filtered group of subscriptions to Excel in Afrus and download the file.
+Resumen: Learn how to export a filtered group of subscriptions to Excel in AFRUS and download the file.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -408,7 +408,7 @@ Idioma: en
 Título: How often recurring donations are charged
 Slug: how-often-recurring-donations-are-charged
 Categoría: Suscripciones
-Resumen: Learn when recurring donations are charged in Afrus, depending on each subscription's payment gateway.
+Resumen: Learn when recurring donations are charged in AFRUS, depending on each subscription's payment gateway.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -416,14 +416,14 @@ Relacionados: what-is-subscriptions, how-to-download-a-group-of-subscriptions, h
 --- CUERPO (HTML) ---
 <p>The charge date of a recurring donation depends on each subscription's payment gateway.</p>
 <ul>
-<li><strong>Gateways that charge on their own (Stripe, PayU, Pagar.me):</strong> the gateway decides when to charge, not Afrus.</li>
-<li><strong>Recurrent Payments:</strong> the screen says payments are made on the first business day of each month and, if they fail, they are retried weekly until they succeed.</li>
-<li><strong>Subscriptions charged by the Afrus engine:</strong> you can choose the charge day with the "Modificar" (Modify) button in the subscription detail.</li>
+<li><strong>Gateways that charge on their own (Stripe, PayU, Pagar.me):</strong> the gateway decides when to charge, not AFRUS.</li>
+<li><strong>Recurrent Payments:</strong> the charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month.</li>
+<li><strong>Subscriptions charged by the AFRUS engine:</strong> you can choose the charge day with the "Modificar" (Modify) button in the subscription detail.</li>
 </ul>
 <h2>Recurrence settings</h2>
-<p>In <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong> (Settings &gt; Payments &gt; Recurrence service) your organization can choose <strong>Modo mejorado</strong> (Enhanced mode: Standard or Charities), <strong>Periodicidad</strong> (Frequency: monthly, quarterly, semi-annual or annual) and <strong>Modo de reintento</strong> (Retry mode: Standard retries, Charities retries or Custom). The screen says changes apply to the next billing cycles.</p>
+<p>In <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Organization settings &gt; Recurrence service) your organization can choose <strong>Modo mejorado</strong> (Enhanced mode: Standard or Charities), <strong>Periodicidad</strong> (Frequency: monthly, quarterly, semi-annual or annual) and <strong>Modo de reintento</strong> (Retry mode: Standard retries, Charities retries or Custom). The screen says changes apply to the next billing cycles.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>What time does Afrus charge and how many times does it retry?</strong> We are confirming this with our team and will publish it here.</p>
+<p><strong>How many times is a charge retried?</strong> With Recurrent Payments, 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription. With credit cards, by default 3 retries are made over 12 consecutive months before the subscription is cancelled. You can adjust the retries in <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Organization settings &gt; Recurrence service).</p>
 === FIN ===
 ```
 
@@ -439,7 +439,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-subscriptions, how-to-download-a-group-of-subscriptions, how-to-filter-a-group-of-subscriptions, how-often-recurring-donations-are-charged
 --- CUERPO (HTML) ---
-<p>If a donor asks to be charged on a different day, you can change the charge date from Afrus. Labels are shown as they appear in the Spanish version of the console.</p>
+<p>If a donor asks to be charged on a different day, you can change the charge date from AFRUS. Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Open the subscription.</strong> In <strong>Suscripciones</strong>, click the row's <strong>ID</strong>.</li>
@@ -455,7 +455,7 @@ In all of them you can also change the amount.</li>
 <p>You will see a subscription-updated message. If it was <strong>Activa</strong> (Active), it stays <strong>Activa</strong>.</p>
 <h2>Frequently asked questions</h2>
 <p><strong>Can it be undone?</strong> Yes: click "Modificar" again and set the previous date.</p>
-<p><strong>Why can't I change it?</strong> Some gateways don't allow it from Afrus (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), and subscriptions waiting for the payer's acceptance cannot be modified. With Recurrent Payments there is no date field: it charges on the first business day of each month.</p>
+<p><strong>Why can't I change it?</strong> Some gateways don't allow it from AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), and subscriptions waiting for the payer's acceptance cannot be modified. With Recurrent Payments there is no date field: the charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month.</p>
 <p><strong>Why is the message in English?</strong> In the "Modificar fecha" window the confirmation appears as <em>"Update subscription"</em>. This is expected.</p>
 === FIN ===
 ```
@@ -469,7 +469,7 @@ Idioma: pt-BR
 Título: O que é Assinaturas
 Slug: o-que-e-assinaturas
 Categoría: Suscripciones
-Resumen: Aprenda o que é o módulo Suscripciones (Assinaturas) da Afrus: a lista das doações recorrentes da sua organização.
+Resumen: Aprenda o que é o módulo Suscripciones (Assinaturas) da AFRUS: a lista das doações recorrentes da sua organização.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -521,13 +521,13 @@ Idioma: pt-BR
 Título: Como cancelar uma assinatura
 Slug: como-cancelar-uma-assinatura
 Categoría: Suscripciones
-Resumen: Aprenda a cancelar uma doação recorrente pelo detalhe da assinatura na Afrus, e o que acontece depois.
+Resumen: Aprenda a cancelar uma doação recorrente pelo detalhe da assinatura na AFRUS, e o que acontece depois.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-assinaturas, para-que-serve-assinaturas, como-marcar-uma-assinatura-como-fraude, como-baixar-um-grupo-de-assinaturas
 --- CUERPO (HTML) ---
-<p>Quando um doador pede para parar de doar, você pode cancelar a assinatura pela Afrus. O cancelamento é imediato. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>Quando um doador pede para parar de doar, você pode cancelar a assinatura pela AFRUS. O cancelamento é imediato. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
 <ul>
 <li><strong>Status:</strong> só podem ser canceladas assinaturas <strong>Activa</strong> (Ativa) ou <strong>Fallido</strong> (Com falha) — com alguns gateways, também <strong>Pendiente</strong> e <strong>Revisión pendiente</strong>. Nos demais status o cancelamento dá erro.</li>
@@ -539,11 +539,11 @@ Relacionados: o-que-e-assinaturas, para-que-serve-assinaturas, como-marcar-uma-a
 <li><strong>Clique em "Cancelar Suscripción" (Cancelar assinatura).</strong> É o texto em vermelho do detalhe.</li>
 <li><strong>Confirme.</strong> Na janela <em>"¿Estás seguro de que deseas cancelar tu suscripción?"</em> (Tem certeza de que deseja cancelar sua assinatura?), clique em "Confirmar".</li>
 </ol>
-<p>Você verá <em>"La suscripción se ha cancelado correctamente"</em> (A assinatura foi cancelada com sucesso). A assinatura passa para <strong>Cancelada</strong> e as cobranças pendentes que a Afrus tinha programado são apagadas.</p>
+<p>Você verá <em>"La suscripción se ha cancelado correctamente"</em> (A assinatura foi cancelada com sucesso). A assinatura passa para <strong>Cancelada</strong> e as cobranças pendentes que a AFRUS tinha programado são apagadas.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Dá para desfazer?</strong> Não. Não há botão para reativá-la. Se o doador quiser voltar, precisará criar uma nova doação recorrente.</p>
-<p><strong>Posso cancelar no fim do período?</strong> Não. O cancelamento pela Afrus é sempre imediato.</p>
-<p><strong>E se aparecer um erro ou nada acontecer?</strong> Se você vir <em>"Error al cancelar la suscripción"</em> (Erro ao cancelar a assinatura), verifique o status: dependendo de como sua organização está conectada, alguns gateways não permitem cancelar pela Afrus. Se nenhuma mensagem aparecer ao clicar em "Confirmar", a assinatura não foi cancelada. Nos dois casos, escreva para o suporte da Afrus com o ID.</p>
+<p><strong>Posso cancelar no fim do período?</strong> Não. O cancelamento pela AFRUS é sempre imediato.</p>
+<p><strong>E se aparecer um erro ou nada acontecer?</strong> Se você vir <em>"Error al cancelar la suscripción"</em> (Erro ao cancelar a assinatura), verifique o status: dependendo de como sua organização está conectada, alguns gateways não permitem cancelar pela AFRUS. Se nenhuma mensagem aparecer ao clicar em "Confirmar", a assinatura não foi cancelada. Nos dois casos, escreva para o suporte da AFRUS com o ID.</p>
 === FIN ===
 ```
 
@@ -553,7 +553,7 @@ Idioma: pt-BR
 Título: Como marcar uma assinatura como fraude
 Slug: como-marcar-uma-assinatura-como-fraude
 Categoría: Suscripciones
-Resumen: Aprenda a marcar uma ou várias assinaturas como fraude na Afrus, e o que essa ação faz.
+Resumen: Aprenda a marcar uma ou várias assinaturas como fraude na AFRUS, e o que essa ação faz.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -563,7 +563,7 @@ Relacionados: o-que-e-assinaturas, para-que-serve-assinaturas, como-cancelar-uma
 <h2>Antes de começar</h2>
 <ul>
 <li><strong>É definitivo:</strong> a assinatura passa para <strong>Fraude</strong>, some da lista e <strong>a pessoa doadora associada é excluída da sua base de Personas (Pessoas)</strong>. Não dá para desfazer.</li>
-<li><strong>Cancele primeiro se o gateway cobra por conta própria</strong> (por exemplo Stripe): marcar como fraude só muda o status na Afrus e não cancela nada no gateway.</li>
+<li><strong>Cancele primeiro se o gateway cobra por conta própria</strong> (por exemplo Stripe): marcar como fraude só muda o status na AFRUS e não cancela nada no gateway.</li>
 </ul>
 <h2>Passo a passo</h2>
 <ol>
@@ -583,7 +583,7 @@ Idioma: pt-BR
 Título: Como baixar um grupo de assinaturas
 Slug: como-baixar-um-grupo-de-assinaturas
 Categoría: Suscripciones
-Resumen: Aprenda a exportar para Excel um grupo de assinaturas filtradas na Afrus e a baixar o arquivo.
+Resumen: Aprenda a exportar para Excel um grupo de assinaturas filtradas na AFRUS e a baixar o arquivo.
 Tiempo de lectura: 2 min
 Video: no
 Imagen de portada: pendiente
@@ -637,7 +637,7 @@ Idioma: pt-BR
 Título: De quanto em quanto tempo as recorrências são cobradas
 Slug: de-quanto-em-quanto-tempo-as-recorrencias-sao-cobradas
 Categoría: Suscripciones
-Resumen: Aprenda quando as doações recorrentes são cobradas na Afrus, conforme o gateway de pagamento de cada assinatura.
+Resumen: Aprenda quando as doações recorrentes são cobradas na AFRUS, conforme o gateway de pagamento de cada assinatura.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -645,14 +645,14 @@ Relacionados: o-que-e-assinaturas, como-baixar-um-grupo-de-assinaturas, como-fil
 --- CUERPO (HTML) ---
 <p>A data de cobrança de uma doação recorrente depende do gateway de pagamento de cada assinatura.</p>
 <ul>
-<li><strong>Gateways que cobram por conta própria (Stripe, PayU, Pagar.me):</strong> o gateway decide quando cobra, não a Afrus.</li>
-<li><strong>Recurrent Payments:</strong> a tela informa que os pagamentos são feitos no primeiro dia útil de cada mês e, se falharem, são tentados de novo toda semana até dar certo.</li>
-<li><strong>Assinaturas cobradas pelo motor da Afrus:</strong> você pode escolher o dia de cobrança pelo botão "Modificar" no detalhe da assinatura.</li>
+<li><strong>Gateways que cobram por conta própria (Stripe, PayU, Pagar.me):</strong> o gateway decide quando cobra, não a AFRUS.</li>
+<li><strong>Recurrent Payments:</strong> o dia da cobrança depende do dia em que o doador pagou e vai sendo antecipado, até possivelmente chegar ao primeiro dia do mês.</li>
+<li><strong>Assinaturas cobradas pelo motor da AFRUS:</strong> você pode escolher o dia de cobrança pelo botão "Modificar" no detalhe da assinatura.</li>
 </ul>
 <h2>Configuração da recorrência</h2>
-<p>Em <strong>Configuración &gt; Pagos &gt; Servicio de recurrencia</strong> (Configurações &gt; Pagamentos &gt; Serviço de recorrência) sua organização pode escolher <strong>Modo mejorado</strong> (Modo aprimorado: Standard ou Charities), <strong>Periodicidad</strong> (Periodicidade: mensal, trimestral, semestral ou anual) e <strong>Modo de reintento</strong> (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa que as mudanças se aplicam aos próximos ciclos de cobrança.</p>
+<p>Em <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Ajustes da organização &gt; Serviço de recorrência) sua organização pode escolher <strong>Modo mejorado</strong> (Modo aprimorado: Standard ou Charities), <strong>Periodicidad</strong> (Periodicidade: mensal, trimestral, semestral ou anual) e <strong>Modo de reintento</strong> (Modo de nova tentativa: Standard retries, Charities retries ou Custom). A tela informa que as mudanças se aplicam aos próximos ciclos de cobrança.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>A que horas a Afrus cobra e quantas vezes tenta de novo?</strong> Estamos confirmando essa informação com nossa equipe e vamos publicá-la aqui.</p>
+<p><strong>Quantas vezes uma cobrança é tentada de novo?</strong> No Recurrent Payments, são feitas de 7 a 10 tentativas de cobrança por mês, e a cobrança é mensal, sem limite, até que sua organização cancele a assinatura. Com cartões de crédito, por padrão são feitas 3 novas tentativas durante 12 meses seguidos antes de cancelar a assinatura. Você pode ajustar as novas tentativas em <strong>Ajustes de Organización &gt; Servicio de recurrencia</strong> (Ajustes da organização &gt; Serviço de recorrência).</p>
 === FIN ===
 ```
 
@@ -668,7 +668,7 @@ Video: no
 Imagen de portada: pendiente
 Relacionados: o-que-e-assinaturas, como-baixar-um-grupo-de-assinaturas, como-filtrar-um-grupo-de-assinaturas, de-quanto-em-quanto-tempo-as-recorrencias-sao-cobradas
 --- CUERPO (HTML) ---
-<p>Se um doador pedir para ser cobrado em outro dia, você pode mudar a data de cobrança pela Afrus. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>Se um doador pedir para ser cobrado em outro dia, você pode mudar a data de cobrança pela AFRUS. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Abra a assinatura.</strong> Em <strong>Suscripciones</strong>, clique no <strong>ID</strong> da linha.</li>
@@ -684,7 +684,7 @@ Em todas você também pode mudar o valor.</li>
 <p>Você verá uma mensagem de assinatura atualizada. Se estava <strong>Activa</strong> (Ativa), continua <strong>Activa</strong>.</p>
 <h2>Perguntas frequentes</h2>
 <p><strong>Dá para desfazer?</strong> Sim: clique de novo em "Modificar" e coloque a data anterior.</p>
-<p><strong>Por que não consigo mudar?</strong> Alguns gateways não permitem pela Afrus (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), e assinaturas que esperam a aceitação do pagador não podem ser modificadas. Com Recurrent Payments não há campo de data: a cobrança é no primeiro dia útil de cada mês.</p>
+<p><strong>Por que não consigo mudar?</strong> Alguns gateways não permitem pela AFRUS (<em>"Este gateway actualmente no soporta la actualización de suscripciones."</em>), e assinaturas que esperam a aceitação do pagador não podem ser modificadas. Com Recurrent Payments não há campo de data: o dia da cobrança depende do dia em que o doador pagou e vai sendo antecipado, até possivelmente chegar ao primeiro dia do mês.</p>
 <p><strong>Por que a mensagem aparece em inglês?</strong> Na janela "Modificar fecha" a confirmação aparece como <em>"Update subscription"</em>. É normal.</p>
 === FIN ===
 ```

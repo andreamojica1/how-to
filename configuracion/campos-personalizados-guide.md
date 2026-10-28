@@ -2,15 +2,15 @@
 
 Con esta guía vas a entender qué son los campos personalizados, cómo pedirlos en tus formularios y dónde ver la información que dejan tus donantes.
 
-*Módulo: Configuración · Menú: **Configuración > Avanzado > Campos personalizados** · Audiencia: equipos de recaudación, comunicaciones y datos*
+*Módulo: Configuración · Menú: **Ajustes de Organización > Campos personalizados** · Audiencia: equipos de recaudación, comunicaciones y datos*
 
 ---
 
 ## Qué son los campos personalizados
 
-**Son datos extra que tu organización quiere guardar de cada persona, además de los que Afrus ya trae** (nombre, correo, teléfono, documento, dirección…). Por ejemplo: "¿Cómo nos conociste?" o "Área de interés".
+**Son datos extra que tu organización quiere guardar de cada persona, además de los que AFRUS ya trae** (nombre, correo, teléfono, documento, dirección…). Por ejemplo: "¿Cómo nos conociste?" o "Área de interés".
 
-Se definen en **Configuración > Avanzado > Campos personalizados**. Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.
+Se definen en **Ajustes de Organización > Campos personalizados**.
 
 ## Para qué sirven
 
@@ -18,7 +18,7 @@ Se definen en **Configuración > Avanzado > Campos personalizados**. Esta pantal
 - **Pedir esos datos en tus formularios.** Puedes agregar el campo a tus formularios de donación o de registro.
 - **Completarlos a mano.** También los llenas al crear o editar una persona.
 - **Usarlos en tus correos.** En los autoresponders puedes insertar el valor de un campo personalizado con un merge tag.
-- **Analizarlos fuera de Afrus.** Cada campo sale como una columna al descargar tu lista de personas.
+- **Analizarlos fuera de AFRUS.** Cada campo sale como una columna al descargar tu lista de personas.
 
 ---
 
@@ -26,23 +26,19 @@ Se definen en **Configuración > Avanzado > Campos personalizados**. Esta pantal
 
 ## Cómo configurar un campo personalizado
 
-1. **Abre la pantalla.** Ve a **Configuración > Avanzado > Campos personalizados**.
+1. **Abre la pantalla.** Ve a **Ajustes de Organización > Campos personalizados**.
    <!-- captura pendiente: como-configurar-un-campo-personalizado-01 — pantalla Campos personalizados -->
-
-> **Pendiente de confirmar:** los botones, datos y tipos de campo que pide esta pantalla para crear un campo nuevo, y si se puede editar o eliminar un campo.
 
 ## Cómo incluir un campo personalizado en mi widget
 
-**Antes de empezar:** el campo ya tiene que existir en **Configuración > Avanzado > Campos personalizados**.
+**Antes de empezar:** el campo ya tiene que existir en **Ajustes de Organización > Campos personalizados**.
 
-1. **Abre el editor del formulario.** En **Fundraising > Widgets**, edita el formulario. El editor se abre en la versión anterior de Afrus, por eso se ve distinto.
+1. **Abre el editor del formulario.** En **Fundraising > Widgets**, edita el formulario.
 
 2. **Agrega el bloque.** Haz clic en "Agregar" y elige **Campo personalizado**.
    <!-- captura pendiente: como-incluir-un-campo-personalizado-en-mi-widget-02 — menú Agregar con la opción Campo personalizado -->
 
 3. **Configúralo.** Haz clic sobre el bloque y configúralo en **Configuración del snippet**.
-
-   > **Pendiente de confirmar:** qué opciones tiene el bloque (cómo se elige el campo, si puede ser obligatorio y qué texto ve el donante).
 
 4. **Ordénalo.** Arrástralo hasta el lugar donde quieres que aparezca en el formulario.
 

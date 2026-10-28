@@ -36,7 +36,7 @@
 
 ## Preguntas para tecnología
 
-1. ¿Qué es exactamente un incentivo en Afrus? ¿Qué diferencia hay entre incentivo, recompensa y obsequio?
+1. ¿Qué es exactamente un incentivo en AFRUS? ¿Qué diferencia hay entre incentivo, recompensa y obsequio?
 2. Pantalla **Fundraising > Incentivos**: ¿qué columnas, filtros y acciones tiene la lista?
 3. Crear un incentivo: ¿qué botones hay, qué campos (y cuáles son obligatorios), qué límites de caracteres y de imagen, qué mensajes aparecen? ¿Se puede editar, desactivar o eliminar?
 4. ¿Cómo se vincula un incentivo a una campaña (pestaña **Incentivos**) y a un widget? ¿Qué objetivos de widget lo admiten?

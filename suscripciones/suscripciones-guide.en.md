@@ -89,9 +89,9 @@ When you finish you will have an Excel (.xlsx) file with one row per subscriptio
 
 2. **Click "Modificar" (Modify).** Depending on how the subscription's payment gateway is connected, one of these three windows opens:
 
-   **If the window is called "Modificar fecha" (Change date)** — subscriptions charged by the Afrus engine:
+   **If the window is called "Modificar fecha" (Change date)** — subscriptions charged by the AFRUS engine:
    - Choose an option:
-     - **Fecha automática (recomendada)** (Automatic date, recommended): keeps the date Afrus calculates.
+     - **Fecha automática (recomendada)** (Automatic date, recommended): keeps the date AFRUS calculates.
      - **Fecha de creación de la suscripción** (Subscription creation date): charges on the same day of the month it was created (if that day is after the 28th, it uses the 28th).
      - **Fecha manual** (Manual date): in **Fecha de cobro** (Charge date), choose a day from 1 to 28.
    - If the chosen day is after today, the next charge is on that day this month; if it is today or earlier, on that day next month.
@@ -109,9 +109,9 @@ When you finish you will see *"Suscripción actualizada correctamente."* or *"Su
 
 > **Keep in mind:**
 > - In the **Modificar fecha** window, the confirmation message appears in English (*"Update subscription"*); this is expected.
-> - Some gateways don't allow changes from Afrus. In that case you will see *"Este gateway actualmente no soporta la actualización de suscripciones."* (This gateway does not currently support updating subscriptions.)
+> - Some gateways don't allow changes from AFRUS. In that case you will see *"Este gateway actualmente no soporta la actualización de suscripciones."* (This gateway does not currently support updating subscriptions.)
 > - Subscriptions waiting for the payer's acceptance cannot be modified: you will see *"Acción no disponible"* (Action not available).
-> - With the Recurrent Payments gateway there is no date field. The screen says: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Recurring payments are made on the first business day of each month. If the payment fails, it is retried weekly until it succeeds.)
+> - With the Recurrent Payments gateway there is no date field. The screen says: *"Los pagos recurrentes se realizan el primer día hábil de cada mes. Si el pago falla, se reintenta semanalmente hasta que sea exitoso."* (Recurring payments are made on the first business day of each month. If the payment fails, it is retried weekly until it succeeds.) In practice, the charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month.
 
 > **Can it be undone?** Yes. Click "Modificar" again and set the previous date or amount.
 
@@ -126,23 +126,23 @@ When you finish you will see *"Suscripción actualizada correctamente."* or *"Su
 
 3. **Confirm.** In the window *"¿Estás seguro de que deseas cancelar tu suscripción?"* (Are you sure you want to cancel your subscription?), click "Confirmar" (or "Cerrar" (Close) to leave without cancelling).
 
-When you finish you will see *"La suscripción se ha cancelado correctamente"* (The subscription was cancelled successfully). The subscription changes to **Cancelada** (Cancelled) and the pending charges Afrus had scheduled are deleted. Cancellation is immediate; there is no option to cancel at the end of the period.
+When you finish you will see *"La suscripción se ha cancelado correctamente"* (The subscription was cancelled successfully). The subscription changes to **Cancelada** (Cancelled) and the pending charges AFRUS had scheduled are deleted. Cancellation is immediate; there is no option to cancel at the end of the period.
 
 > **Can it be undone?** No. There is no button to reactivate the subscription: as the window warns, it *"no podrá ser reactivada automáticamente"* (cannot be reactivated automatically). If the donor wants to come back, they will need to create a new recurring donation.
 
 > **If something goes wrong:**
-> - If you see *"Error al cancelar la suscripción"* (Error cancelling the subscription), check the status. Depending on how your organization is connected, some gateways also don't allow cancelling from Afrus.
+> - If you see *"Error al cancelar la suscripción"* (Error cancelling the subscription), check the status. Depending on how your organization is connected, some gateways also don't allow cancelling from AFRUS.
 > - If nothing happens when you click "Confirmar" and no message appears, the subscription was not cancelled.
 >
-> In both cases, contact Afrus support with the subscription ID.
+> In both cases, contact AFRUS support with the subscription ID.
 
-> **Pending confirmation:** the window says the donor will be notified, but it is not confirmed that a notice is sent. If you want to be sure, let the donor know yourself.
+> **Keep in mind:** although the window says the donor will be notified, the notice depends on the donor's issuing bank, which is the one that can inform them of the reversal. That's why it's best for your organization to let the donor know.
 
 ## How to mark a subscription as fraud
 
 > **Important:** marking as fraud does three things at once: the subscription changes to **Fraude**, disappears from the **Suscripciones** list and **the associated donor is deleted from your Personas (People) database**. It cannot be undone.
 
-**Before you start:** marking as fraud only changes the status inside Afrus; it cancels nothing at the payment gateway. If the gateway charges on its own (for example Stripe), **cancel the subscription first** (see "How to cancel a subscription") so charges stop.
+**Before you start:** marking as fraud only changes the status inside AFRUS; it cancels nothing at the payment gateway. If the gateway charges on its own (for example Stripe), **cancel the subscription first** (see "How to cancel a subscription") so charges stop.
 
 1. **Select the subscriptions.** In **Suscripciones**, tick the box of each one. With none selected, the "Acciones" options are disabled.
 
@@ -165,13 +165,15 @@ It depends on each subscription's payment gateway:
 
 | Case | Who decides the date | What we know |
 |---|---|---|
-| Gateways that charge on their own (Stripe, PayU, Pagar.me) | The gateway | The gateway decides when to charge, not Afrus |
-| Recurrent Payments | The gateway | The screen says: first business day of each month; if it fails, weekly retry until it succeeds |
-| Subscriptions charged by the Afrus engine | Afrus | You can choose the charge day with "Modificar" (see "How to change a subscription's charge date") |
+| Gateways that charge on their own (Stripe, PayU, Pagar.me) | The gateway | The gateway decides when to charge, not AFRUS |
+| Recurrent Payments | The gateway | The charge day depends on the day the donor paid and moves earlier over time, possibly until it reaches the first day of the month |
+| Subscriptions charged by the AFRUS engine | AFRUS | You can choose the charge day with "Modificar" (see "How to change a subscription's charge date") |
 
-In addition, in **Configuración > Pagos > Servicio de recurrencia** (Settings > Payments > Recurrence service; screen **Configuración del Motor de Recurrencia**) your organization can choose **Modo mejorado** (Enhanced mode: Standard or Charities), **Periodicidad** (Frequency: Mensual, Trimestral, Semestral or Anual — monthly, quarterly, semi-annual or annual) and **Modo de reintento** (Retry mode: Standard retries, Charities retries or Custom). The screen says: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (Changes will apply to the next billing cycles.)
+In addition, in **Ajustes de Organización > Servicio de recurrencia** (Organization settings > Recurrence service; screen **Configuración del Motor de Recurrencia**) your organization can choose **Modo mejorado** (Enhanced mode: Standard or Charities), **Periodicidad** (Frequency: Mensual, Trimestral, Semestral or Anual — monthly, quarterly, semi-annual or annual) and **Modo de reintento** (Retry mode: Standard retries, Charities retries or Custom). The screen says: *"Los cambios se aplicarán a los próximos ciclos de cobro."* (Changes will apply to the next billing cycles.)
 
-> **Pending confirmation:** the exact charge time of the Afrus engine, how many retries it makes when a charge fails, when a subscription is cancelled automatically after failures, and whether the quarterly and semi-annual frequencies and the **Servicio de recurrencia** settings already apply to real charges.
+> **Retries and cancellation:**
+> - **Recurrent Payments:** 7 to 10 charge attempts are made each month, and the donation is charged monthly, with no limit, until your organization cancels the subscription.
+> - **Credit cards:** by default, 3 retries are made over 12 consecutive months before the subscription is cancelled. You can adjust the retries in **Ajustes de Organización > Servicio de recurrencia** (Organization settings > Recurrence service).
 
 ## Subscription statuses
 
@@ -191,15 +193,6 @@ In addition, in **Configuración > Pagos > Servicio de recurrencia** (Settings >
 
 **Revisión pendiente:** a pencil appears next to the status. Click it, fill in **Número de documento** (Document number), **Tipo de documento** (Document type), **Número de cuenta** (Account number), **Banco** (Bank), **Tipo de cuenta** (Account type) and **Monto** (Amount) in **Editar datos del pagador** (Edit payer details), and click "Guardar y reenviar" (Save and resend). You will see *"Datos del pagador actualizados y reenvío iniciado"* (Payer details updated and resend started).
 
-## Known limitations
-
-- **Marking as fraud deletes the donor** from your Personas database. Use it only when you are sure.
-- **The export file is always Excel (.xlsx)**, even if you choose CSV.
-- **Exported totals may not match the table** if you don't choose statuses, or if you use **Lapsed** or the search box. Choose the statuses in the filter and clear the search box before exporting.
-- **Some statuses appear in English in the table** (**PRENOTIFICATION_OK**, **TRIALING**, **LAPSED**), although the filter shows them translated.
-- **Reintentando and Expirada in the Estados filter** always give an empty list, because the list doesn't show those statuses.
-- **Cohorts, Evolution and "Exportar del datawarehouse"** have been disabled since September 22, 2026.
-
 ## Frequently asked questions
 
 **Why can't I find a subscription I know exists?**
@@ -209,7 +202,7 @@ Check the date range: it filters by the subscription's creation date. Try **ALL*
 In **Transacciones**, or in the history of the subscription's detail.
 
 **Can I cancel at the end of the period?**
-No. Cancelling from Afrus is always immediate.
+No. Cancelling from AFRUS is always immediate.
 
 **Can I reactivate a cancelled subscription?**
 No. The donor will need to create a new recurring donation.
@@ -218,4 +211,4 @@ No. The donor will need to create a new recurring donation.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

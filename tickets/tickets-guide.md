@@ -1,6 +1,6 @@
 # Guía de Tickets
 
-Después de leer esta guía sabrás qué son los Tickets de rifa en Afrus, cómo venderlos con un widget de producto y cómo enviar a cada comprador sus números en el autoresponder.
+Después de leer esta guía sabrás qué son los Tickets de rifa en AFRUS, cómo venderlos con un widget de producto y cómo enviar a cada comprador sus números en el autoresponder.
 
 *Módulo: Tickets · Menú: **Fundraising > Tickets** · Audiencia: equipos de recaudación, eventos y comunicaciones*
 
@@ -9,8 +9,6 @@ Después de leer esta guía sabrás qué son los Tickets de rifa en Afrus, cómo
 ## Qué son los Tickets
 
 **Un Ticket es una rifa con un rango de números, por ejemplo del 1 al 500.** Cuando la vinculas a un widget de producto, cada persona que compra recibe un número de ticket consecutivo por cada unidad que compra.
-
-> **Importante:** la venta de entradas para eventos con código QR todavía no está disponible. Hoy, **Tickets** se usa para rifas.
 
 ## Para qué sirve
 
@@ -51,11 +49,9 @@ Para vender tickets necesitas dos cosas: la rifa (el Ticket, con su rango de nú
 
 ### Parte 2 — Crea el widget que la vende
 
-7. **Crea un widget nuevo.** Ve a **Fundraising > Widgets** y haz clic en "Nuevo widget". El editor de widgets se abre en una pestaña nueva. Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.
+7. **Crea un widget nuevo.** Ve a **Fundraising > Widgets** y haz clic en "Nuevo widget". El editor de widgets se abre en una pestaña nueva.
 
 8. **Elige el objetivo Producto.** En **Objetivo**, elige **Producto**. Solo los widgets con este objetivo asignan números de ticket.
-
-   > **Pendiente de confirmar:** en qué pantalla exacta del editor se elige el objetivo y se agrega el bloque **Producto**.
 
 9. **Agrega el producto.** Agrega el bloque **Producto** y haz clic en "Agregar Producto". En **Tipo de Producto**, elige **Ticket**.
 
@@ -94,8 +90,6 @@ Al enviarse el correo o el WhatsApp, cada merge tag se reemplaza por el dato de 
 
 > **Importante:** el mapa también muestra "Número de Ticket" y "Fecha de Sorteo", pero no corresponden a ningún merge tag real de rifas. Usa solo los de la tabla.
 
-> **Pendiente de confirmar:** si con algún tipo de pago el autoresponder puede salir antes de que existan los números. Haz una compra de prueba para revisar tu mensaje.
-
 ## Cómo ver quién compró cada número
 
 1. **Abre la rifa.** En **Fundraising > Tickets**, haz clic en el **ID** de la rifa. Se abre **Tickets generados por transacción**.
@@ -115,22 +109,7 @@ Verás una fila por cada número, con **ID de Ticket**, **Nombre**, **Precio**, 
 | **Cantidad** | Siempre 1 por fila: cada ticket comprado es una fila |
 | **Tickets vendidos** (panel del widget) | Tickets vendidos en compras **exitosas** del período |
 
-## Limitaciones conocidas
-
-- **Revisa antes del sorteo.** Se asignan números también a compras cuyo pago fue rechazado; esos números quedan ocupados. Revisa el estado de cada transacción con el enlace **ID de Donación**. Por eso **Tickets vendidos** (solo compras exitosas) puede no coincidir con la lista.
-- **Números repetidos.** Si dos compras ocurren casi al mismo tiempo, pueden recibir el mismo número. Antes del sorteo, revisa que no haya números repetidos en **Tickets generados por transacción**.
-- **La venta no se frena sola al llegar al Número Final.** Pueden asignarse números por encima del rango. Controla el stock del producto en el widget.
-- **Stock del producto** es una unidad menor que la cantidad real del rango (del 1 al 100 muestra 99).
-- **Inactivo no detiene la venta.** Para dejar de vender, quita el producto del widget o desactiva el widget.
-- **Cada rifa tiene su propia numeración.** Identifica un ticket siempre con la rifa y el número.
-- **Precio en US$.** La columna **Precio** de **Tickets generados por transacción** muestra siempre el símbolo de dólar, sea cual sea la moneda del widget.
-- **Solo las 10 rifas más recientes.** **Seleccionar Ticket** muestra solo las 10 rifas creadas más recientemente; las más antiguas no se pueden elegir.
-- **No se puede eliminar una rifa**, solo editarla. Puedes editar el rango aunque ya se hayan vendido números.
-
 ## Preguntas frecuentes
-
-**¿Puedo vender entradas para eventos con QR?**
-Todavía no. Esa función está en desarrollo.
 
 **¿Hay un merge tag con la cantidad de tickets comprados?**
 No. Usa `{{ticket_id}}`, que lista todos los números de la compra.
@@ -142,4 +121,4 @@ No. Cada widget admite una sola rifa.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

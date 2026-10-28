@@ -17,7 +17,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-sirve-procesos-en-ejecucion, como-analizar-procesos-en-ejecucion
 --- CUERPO (HTML) ---
 <p><strong>Procesos en ejecucion es una lista de las acciones que lanzaste sobre un grupo grande de personas, con el avance de cada una.</strong> La encuentras en <strong>Trackers &gt; Procesos en ejecucion</strong>.</p>
-<p>Cuando haces algo sobre muchas personas a la vez, Afrus no lo hace todo en un segundo: va persona por persona, en segundo plano, mientras tú sigues trabajando. Esta pantalla te muestra en qué va cada acción.</p>
+<p>Cuando haces algo sobre muchas personas a la vez, AFRUS no lo hace todo en un segundo: va persona por persona, en segundo plano, mientras tú sigues trabajando. Esta pantalla te muestra en qué va cada acción.</p>
 <p>Aquí aparecen cuatro acciones:</p>
 <ul><li>Poner una etiqueta a un grupo de personas.</li><li>Borrar un grupo de personas.</li><li>Cambiar el permiso de comunicación (opt-in) de un grupo.</li><li>Inscribir un grupo en un flujo de trabajo.</li></ul>
 <p>Las importaciones, las descargas y los envíos de correos no aparecen aquí.</p>
@@ -71,7 +71,7 @@ Relacionados: que-es-procesos-en-ejecucion, para-que-sirve-procesos-en-ejecucion
 </ol>
 <p>La columna <strong>Tipo</strong> aparece en inglés: <em>tag</em> (etiqueta), <em>delete</em> (borrado), <em>opt-in</em> (permiso de comunicación) y <em>workflow_enroll</em> (inscripción en un flujo). Si la hora de <strong>Actualizado en</strong> no cambia durante mucho tiempo, el proceso se detuvo.</p>
 <h2>Qué hacer si un proceso no termina</h2>
-<ul><li><strong>Si era una etiqueta:</strong> vuelve a ponerla al mismo grupo. Nadie queda duplicado.</li><li><strong>Si era un borrado, un cambio de permiso o una inscripción:</strong> anota el <strong>ID</strong> y escribe a soporte de Afrus.</li></ul>
+<ul><li><strong>Si era una etiqueta:</strong> vuelve a ponerla al mismo grupo. Nadie queda duplicado.</li><li><strong>Si era un borrado, un cambio de permiso o una inscripción:</strong> anota el <strong>ID</strong> y escribe a soporte de AFRUS.</li></ul>
 <h2>Preguntas frecuentes</h2>
 <p><strong>Mi etiqueta sigue en "No", ¿qué pasó?</strong> Si alguna persona del grupo no se pudo procesar (por ejemplo, porque se borró), el proceso puede quedarse en "No" aunque las demás sí tengan la etiqueta. Revísala en Data &gt; Tags.</p>
 === FIN ===
@@ -92,7 +92,7 @@ Imagen de portada: pendiente
 Relacionados: what-is-procesos-en-ejecucion-for, how-to-read-procesos-en-ejecucion
 --- CUERPO (HTML) ---
 <p><strong>Procesos en ejecucion (Running processes) is a list of the actions you ran on a large group of people, with the progress of each one.</strong> You'll find it in <strong>Trackers &gt; Procesos en ejecucion</strong>. Labels are shown as they appear in the Spanish version of the console.</p>
-<p>When you do something to many people at once, Afrus goes person by person, in the background, while you keep working. This screen shows how far along each action is.</p>
+<p>When you do something to many people at once, AFRUS goes person by person, in the background, while you keep working. This screen shows how far along each action is.</p>
 <p>Four actions appear here:</p>
 <ul><li>Adding a tag to a group of people.</li><li>Deleting a group of people.</li><li>Changing a group's communication permission (opt-in).</li><li>Enrolling a group in a workflow.</li></ul>
 <p>Imports, downloads and email sends don't appear here.</p>
@@ -146,7 +146,7 @@ Relacionados: what-is-procesos-en-ejecucion, what-is-procesos-en-ejecucion-for
 </ol>
 <p>The <strong>Tipo</strong> (Type) column shows: <em>tag</em>, <em>delete</em>, <em>opt-in</em> (communication permission) and <em>workflow_enroll</em> (workflow enrollment). If the <strong>Actualizado en</strong> (Updated on) time doesn't change for a long time, the process has stopped.</p>
 <h2>What to do if a process doesn't finish</h2>
-<ul><li><strong>If it was a tag:</strong> add it again to the same group. Nobody gets it twice.</li><li><strong>If it was a deletion, a permission change or an enrollment:</strong> write down the <strong>ID</strong> and contact Afrus support.</li></ul>
+<ul><li><strong>If it was a tag:</strong> add it again to the same group. Nobody gets it twice.</li><li><strong>If it was a deletion, a permission change or an enrollment:</strong> write down the <strong>ID</strong> and contact AFRUS support.</li></ul>
 <h2>Frequently asked questions</h2>
 <p><strong>My tag still says "No". What happened?</strong> If someone in the group couldn't be processed (for example, they were deleted), the process can stay on "No" even though everyone else got the tag. Check it in Data &gt; Tags.</p>
 === FIN ===
@@ -167,7 +167,7 @@ Imagen de portada: pendiente
 Relacionados: para-que-serve-procesos-en-ejecucion, como-analisar-procesos-en-ejecucion
 --- CUERPO (HTML) ---
 <p><strong>Procesos en ejecucion (Processos em execução) é uma lista das ações que você fez sobre um grupo grande de pessoas, com o andamento de cada uma.</strong> Fica em <strong>Trackers &gt; Procesos en ejecucion</strong>. Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>Quando você faz algo com muitas pessoas de uma vez, a Afrus vai pessoa por pessoa, em segundo plano, enquanto você continua trabalhando. Esta tela mostra em que ponto está cada ação.</p>
+<p>Quando você faz algo com muitas pessoas de uma vez, a AFRUS vai pessoa por pessoa, em segundo plano, enquanto você continua trabalhando. Esta tela mostra em que ponto está cada ação.</p>
 <p>Aparecem aqui quatro ações:</p>
 <ul><li>Colocar uma etiqueta em um grupo de pessoas.</li><li>Excluir um grupo de pessoas.</li><li>Mudar a permissão de comunicação (opt-in) de um grupo.</li><li>Inscrever um grupo em um fluxo de trabalho.</li></ul>
 <p>Importações, downloads e envios de e-mail não aparecem aqui.</p>
@@ -221,7 +221,7 @@ Relacionados: o-que-e-procesos-en-ejecucion, para-que-serve-procesos-en-ejecucio
 </ol>
 <p>A coluna <strong>Tipo</strong> aparece em inglês: <em>tag</em> (etiqueta), <em>delete</em> (exclusão), <em>opt-in</em> (permissão de comunicação) e <em>workflow_enroll</em> (inscrição em fluxo). Se o horário de <strong>Actualizado en</strong> (Atualizado em) não muda por muito tempo, o processo parou.</p>
 <h2>O que fazer se um processo não termina</h2>
-<ul><li><strong>Se era uma etiqueta:</strong> coloque-a de novo no mesmo grupo. Ninguém fica duplicado.</li><li><strong>Se era uma exclusão, mudança de permissão ou inscrição:</strong> anote o <strong>ID</strong> e fale com o suporte da Afrus.</li></ul>
+<ul><li><strong>Se era uma etiqueta:</strong> coloque-a de novo no mesmo grupo. Ninguém fica duplicado.</li><li><strong>Se era uma exclusão, mudança de permissão ou inscrição:</strong> anote o <strong>ID</strong> e fale com o suporte da AFRUS.</li></ul>
 <h2>Perguntas frequentes</h2>
 <p><strong>Minha etiqueta continua em "No". O que aconteceu?</strong> Se alguma pessoa do grupo não pôde ser processada (por exemplo, foi excluída), o processo pode ficar em "No" mesmo que as outras tenham recebido a etiqueta. Confira em Data &gt; Tags.</p>
 === FIN ===

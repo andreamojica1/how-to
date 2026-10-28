@@ -14,14 +14,14 @@ Com este guia, você vai poder escolher o visual dos e-mails escritos pela IA e 
 
 Há dois tipos:
 
-- **Global:** modelos preparados pela Afrus. Você pode ativá-los ou desativá-los.
+- **Global:** modelos preparados pela AFRUS. Você pode ativá-los ou desativá-los.
 - **Propia** (Próprio): modelos que sua organização cria. Você pode editá-los, duplicá-los ou excluí-los.
 
 ## Para que serve
 
-- **Dar o seu estilo aos e-mails com IA.** Quando um e-mail com IA usa layout de modelo (no Blast de AI e nos autoresponders com IA), a Afrus escolhe ao acaso um dos seus modelos ativos e a IA preenche os textos.
-- **Decidir quais layouts são usados.** Só são usados os modelos ativos: os seus em **Habilitado** e os da Afrus que você não desativou.
-- **Nunca ficar sem layout.** Se nenhum estiver ativo, a Afrus usa um layout padrão.
+- **Dar o seu estilo aos e-mails com IA.** Quando um e-mail com IA usa layout de modelo (no Blast de AI e nos autoresponders com IA), a AFRUS escolhe ao acaso um dos seus modelos ativos e a IA preenche os textos.
+- **Decidir quais layouts são usados.** Só são usados os modelos ativos: os seus em **Habilitado** e os da AFRUS que você não desativou.
+- **Nunca ficar sem layout.** Se nenhum estiver ativo, a AFRUS usa um layout padrão.
 
 ---
 
@@ -36,7 +36,7 @@ Há dois tipos:
 
 2. **Use a chave.** Na coluna **Estado**, ligue para que a IA possa usar esse modelo ou desligue para que não use. Você verá *"Plantilla activada correctamente"* ou *"Plantilla desactivada correctamente"* (modelo ativado / desativado).
 
-Nos modelos da Afrus (**Global**), ativar ou desativar é a única coisa que você pode fazer, e a mudança só afeta a sua organização.
+Nos modelos da AFRUS (**Global**), ativar ou desativar é a única coisa que você pode fazer, e a mudança só afeta a sua organização.
 
 ### Criar seu próprio modelo
 
@@ -70,21 +70,16 @@ Nos modelos **Propia**, você pode:
 
 ---
 
-## Limitações conhecidas
-
-- **Não é possível escolher qual modelo cada envio usa.** A Afrus escolhe ao acaso entre os ativos. Se quiser que só um seja usado, deixe apenas esse ativo.
-- **Os modelos da Afrus (Global)** não podem ser editados, duplicados nem excluídos.
-
 ## Perguntas frequentes
 
 **Preciso ter a IA ativada para usar esta tela?**
-> **Pendente de confirmação.**
+Sim.
 
-**Quantos modelos da Afrus existem?**
-> **Pendente de confirmação.**
+**Existe um limite de modelos que posso criar?**
+Não.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

@@ -10,7 +10,7 @@ With this guide you will be able to create an AI chat for your website that answ
 
 ## What Website Agents are
 
-**An agent is an AI chat you install on your own website.** The visitor leaves their name and email and talks with an assistant that answers with the information your organization uploaded to Afrus.
+**An agent is an AI chat you install on your own website.** The visitor leaves their name and email and talks with an assistant that answers with the information your organization uploaded to AFRUS.
 
 ![Agentes IA list with the Nuevo agente button](img/agentes-para-la-web-01.webp)
 
@@ -18,12 +18,12 @@ With this guide you will be able to create an AI chat for your website that answ
 
 - **Answering visitors' questions at any time.** For example, what your organization does or how to donate.
 - **Leading them to act.** The chat shows a button that goes wherever you want, like your donation form.
-- **Adding contacts to your database.** Whoever chats is registered as a person in Afrus.
+- **Adding contacts to your database.** Whoever chats is registered as a person in AFRUS.
 - **Learning what people ask.** You can review the conversations and their summary later.
 
 ## Before you start
 
-- **Turn on Afrus AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI).
+- **Turn on AFRUS AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI).
 - **Upload at least one document in AI > Entrenamiento [AI RAG].** Without documents, the agent can't be saved.
 - **Have whoever manages your website at hand,** to paste the chat code.
 
@@ -46,15 +46,13 @@ With this guide you will be able to create an AI chat for your website that answ
    - **Instrucciones para el agente IA** (instructions for the AI agent, required): how you want it to talk and what it should prioritize.
    ![Configuración del Agente form with the preview on the right](img/agentes-para-la-web-02.webp)
 
-   > **Important:** even if the screen lets you save with **Texto call to action** empty, Afrus rejects it. Always write a button text.
+   > **Important:** even if the screen lets you save with **Texto call to action** empty, AFRUS rejects it. Always write a button text.
 
 3. **Improve the texts (optional).** "Mejorar respuesta" (Improve answer), next to the description or the instructions, rewrites your text with AI.
 
-4. **Check how it looks.** On the right you have a preview in light or dark mode (**Light** / **Dark**). On the **Organización** tab you'll see the **Resumen de la organización** (organization summary), which Afrus builds automatically from your documents.
+4. **Check how it looks.** On the right you have a preview in light or dark mode (**Light** / **Dark**). On the **Organización** tab you'll see the **Resumen de la organización** (organization summary), which AFRUS builds automatically from your documents.
 
 5. **Save.** Leave **Activar configuración** (Activate setup) on and click "Guardar" (Save). The button becomes active when the required fields are filled in. You'll see *"Configuración creada correctamente"* (Setup created successfully).
-
-> **Pending confirmation:** what changes between **Cerrado** and **Abierto**, and whether the chat on your site uses each agent's instructions and description.
 
 ### Part 2 — Install it on your website
 
@@ -74,13 +72,13 @@ With this guide you will be able to create an AI chat for your website that answ
 ### What happens when someone uses the chat
 
 - The visitor types their **name** and **email** (required) and, if they want, their phone.
-- If their email is already in your database, Afrus recognizes them. If not, it creates them as a new person (as a sign-up, not as a donor).
+- If their email is already in your database, AFRUS recognizes them. If not, it creates them as a new person (as a sign-up, not as a donor).
 - The AI answers with your documents and instructions from **Entrenamiento [AI RAG]** and with the information in your **Business profile** (description, "Sobre nosotros"/About us and FAQs).
 - Each answer can take between 30 seconds and 2 minutes.
 
 ### How to see the conversations
 
-Today conversations don't have a menu button. To see them, type this address in your browser with your Afrus session open: `console.afrus.app/iachat-conversations-index`.
+Today conversations don't have a menu button. To see them, type this address in your browser with your AFRUS session open: `console.afrus.app/iachat-conversations-index`.
 
 There you'll see each conversation with the email, date, agent and a summary. "Ver conversación" (View conversation) opens all the messages and the visitor's contact details.
 
@@ -88,20 +86,10 @@ There you'll see each conversation with the email, date, agent and a summary. "V
 
 ---
 
-## Known limitations
-
-- **Conversations have no menu link.** Use the address above.
-- **Button text:** the counter says 20 characters, but the error message mentions 30. Use 20 or fewer.
-- **If an agent doesn't load when editing it,** the screen doesn't go back to the list by itself: use "Volver a agentes" (Back to agents).
-- **People who come through the chat** are created without terms acceptance and are linked to your default form and default campaign.
-
 ## Frequently asked questions
 
 **What does the visitor see if I turn the agent off?**
-> **Pending confirmation.**
-
-**Do conversations use credits?**
-> **Pending confirmation.**
+Nothing: the chat simply disappears from your site.
 
 **Can the same person have several conversations?**
 No. Each person has one conversation per agent.
@@ -110,4 +98,4 @@ No. Each person has one conversation per agent.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

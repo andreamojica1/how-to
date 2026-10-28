@@ -53,7 +53,7 @@ Al terminar verás *Mensaje enviado* / *"El agradecimiento se ha enviado correct
 
 **Necesitas:**
 - que la transacción esté en estado **Exitoso**;
-- que su pasarela permita reembolsos desde Afrus (si no, la opción **Reembolsar** no aparece);
+- que su pasarela permita reembolsos desde AFRUS (si no, la opción **Reembolsar** no aparece);
 - que tu usuario tenga permiso para hacer operaciones bancarias con transacciones. Si no lo tiene, el reembolso falla: pide a un administrador de tu organización que lo haga.
 
 1. **Abre el menú de la fila.** En **Transacciones**, busca la donación, abre el menú de tres puntos al inicio de la fila y elige **Reembolsar**.
@@ -66,7 +66,10 @@ Al terminar verás *"Reembolsado con éxito."* y la transacción pasará a **Ree
 
 > **¿Se puede deshacer?** No. El dinero se devuelve en la pasarela y no hay opción para revertir el reembolso.
 
-> **Pendiente de confirmar:** cuánto tarda el dinero en llegar al donante y hasta cuántos días después del cobro acepta reembolsos cada pasarela; también si reembolsar un **Cargo** cancela la suscripción. Si quieres detener los cobros futuros, cancela la suscripción en **Suscripciones**.
+> **Ten en cuenta:**
+> - **Cuánto tarda el dinero en llegar al donante:** depende del banco. Algunos hacen la devolución en 3 días y otros pueden tardar hasta 30 días hábiles.
+> - **Plazo para reembolsar:** desde AFRUS puedes hacer reembolsos hasta 24 horas después del cobro. Si ya pasó ese tiempo, escribe a tu proveedor de la pasarela de pagos. Si usas la pasarela de pagos de AFRUS, escribe a soportepagos@afrus.ai y el equipo de AFRUS hará la devolución.
+> - **Suscripciones:** reembolsar un **Cargo** no cancela la suscripción. Si quieres detener los cobros futuros, cancela la suscripción directamente en **Suscripciones**.
 
 ## Cómo marcar como fraude una transacción
 
@@ -79,7 +82,7 @@ Al terminar verás *"Reembolsado con éxito."* y la transacción pasará a **Ree
 
 Al terminar verás *Transacciones marcadas como fraude*. Cada transacción pasa al estado **Fraude**, desaparece de **Transacciones** y aparece en **Follow up > Radar - monitor de fraude**, donde ves su **Estado anterior** y la fecha en **Marcada como fraude el**.
 
-> **Importante:** marcar como fraude solo cambia el estado en Afrus. No reembolsa el pago ni cancela ninguna suscripción en la pasarela.
+> **Importante:** marcar como fraude solo cambia el estado en AFRUS. No reembolsa el pago ni cancela ninguna suscripción en la pasarela.
 
 > **Importante:** solo se marcan las filas seleccionadas en la página actual. Aunque uses "Seleccionar las N transacciones de la base.", esta acción no se aplica a toda la base. Si son muchas, márcalas página por página.
 
@@ -151,31 +154,20 @@ La suscripción en sí (el registro "madre", **Recurrente**) no aparece en esta 
 | **Pendiente de confirmación** | Requiere que tu equipo lo confirme o rechace con **Confirmar transacción** / **Rechazar transacción** |
 | **Fallido** / **Rechazada** | El pago no se completó. Revisa la razón en el detalle |
 | **Reembolsado** | El pago se devolvió al donante |
-| **Propuesta** | Pendiente de confirmar qué significa este estado |
 | "PRENOTIFICATION_OK" | Se muestra así, con texto técnico, para transacciones prenotificadas |
 
 Las transacciones en **Fraude**, **Cancelada** o **Contracargo** no aparecen en **Transacciones**. Las de fraude se ven en **Follow up > Radar - monitor de fraude**.
 
-## Limitaciones conocidas
-
-- **Fraude elimina personas:** las personas asociadas se borran de tu base, aunque tengan otras donaciones válidas.
-- **Fraude solo en la página actual:** "Seleccionar las N transacciones de la base." no aplica a **Marcar como Fraude**.
-- **Exportación siempre en Excel** (.xlsx), aunque elijas otro tipo de archivo, y sin el filtro **CYC**.
-- **Unicas + Cargos a la vez** muestra solo las únicas; deja **Tipo** vacío para ver todo.
-- **Merge tags en el agradecimiento con IA** se envían como texto literal.
-- **Reembolsos** siempre por el monto total y sin opción de deshacer.
-- **"PRENOTIFICATION_OK"** aparece como texto técnico sin traducir.
-
 ## Preguntas frecuentes
 
 **¿Puedo hacer un reembolso parcial?**
-No. Desde Afrus siempre se reembolsa el monto completo de la transacción.
+No. Desde AFRUS siempre se reembolsa el monto completo de la transacción.
 
 **¿Por qué no veo la opción Reembolsar?**
-Aparece solo en transacciones **Exitoso** cuya pasarela permite reembolsos desde Afrus.
+Aparece solo en transacciones **Exitoso** cuya pasarela permite reembolsos desde AFRUS.
 
 **¿Marcar como fraude devuelve el dinero?**
-No. Solo cambia el estado en Afrus. Si además necesitas devolver el pago, reembólsalo antes de marcarlo como fraude.
+No. Solo cambia el estado en AFRUS. Si además necesitas devolver el pago, reembólsalo antes de marcarlo como fraude.
 
 **¿Dónde veo las suscripciones?**
 En **Suscripciones**. En Transacciones ves cada cobro (**Cargo**) que generan.
@@ -184,4 +176,4 @@ En **Suscripciones**. En Transacciones ves cada cobro (**Cargo**) que generan.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

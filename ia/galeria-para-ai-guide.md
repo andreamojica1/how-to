@@ -1,6 +1,6 @@
 # Guía de Galería para AI
 
-Con esta guía vas a poder guardar las imágenes de tu organización en un solo lugar, para que la IA las use en tus correos.
+Con esta guía vas a poder guardar las imágenes de tu organización en un solo lugar, para usarlas en tus correos con IA, landings, blasts de correo y WhatsApp, autoresponders y flujos de trabajo.
 
 *Módulo: AI · Menú: **AI > Galería para AI** (también en el menú de perfil, **AI Media**) · Audiencia: equipos de comunicaciones y diseño*
 
@@ -15,7 +15,7 @@ Puedes agregar imágenes de tres formas: subiéndolas desde tu computadora, busc
 ## Para qué sirve
 
 - **Poner tus fotos en los correos que escribe la IA.** Los correos con IA que usan plantillas (en Blast de AI y en autoresponders con IA) toman de aquí la imagen principal.
-- **Elegir qué tipo de imagen va en cada correo.** Con los atributos (etiquetas) le dices a la IA qué imágenes usar. Afrus elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.
+- **Elegir qué tipo de imagen va en cada correo.** Con los atributos (etiquetas) le dices a la IA qué imágenes usar. AFRUS elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.
 - **Tener tus imágenes a mano en otros lugares.** También aparecen en la pestaña **IA Media** cuando eliges una imagen en el editor de plantillas y en WhatsApp Business.
 
 ---
@@ -59,25 +59,16 @@ Así la IA sabe qué imágenes usar en cada tipo de correo.
 
 ---
 
-## Limitaciones conocidas
-
-- **Solo imágenes, de hasta 5 MB.** La ventana de carga dice que acepta hasta 64 MB y deja elegir documentos (PDF, Word, PowerPoint), pero la galería solo guarda imágenes de hasta 5 MB. Si subes otra cosa, verás un error.
-- **El buscador y los filtros solo revisan lo que ya está en pantalla.** Si no encuentras una imagen, haz clic en "Cargar más" hasta ver todas y vuelve a buscar.
-- **Arrastrar un archivo solo abre la ventana de carga.** Después tienes que elegir el archivo de nuevo.
-
 ## Preguntas frecuentes
 
-**¿Crear imágenes con IA consume créditos?**
-> **Pendiente de confirmar.**
-
 **¿Hay un límite de imágenes?**
-> **Pendiente de confirmar.**
+No, no hay un límite de imágenes.
 
-**¿Estas imágenes se usan en los mensajes de WhatsApp que escribe la IA?**
-> **Pendiente de confirmar.**
+**¿En qué lugares se usan estas imágenes?**
+En muchas partes, por ejemplo en las landings, los blasts (tanto de correo como de WhatsApp), los autoresponders y los flujos de trabajo.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

@@ -10,11 +10,11 @@ Idioma: es
 Título: Qué es el Chat con AI
 Slug: que-es-el-chat-con-ai
 Categoría: AI
-Resumen: Aprende qué es el Chat con AI: el asistente de inteligencia artificial de Afrus para el equipo de tu organización.
+Resumen: Aprende qué es el Chat con AI: el asistente de inteligencia artificial de AFRUS para el equipo de tu organización.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: para-que-sirve-el-chat-con-ai, como-usar-el-chat-con-ai, que-idiomas-tiene-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
+Relacionados: para-que-sirve-el-chat-con-ai, como-usar-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
 --- CUERPO (HTML) ---
 <p><strong>El Chat con AI es un asistente de inteligencia artificial, tipo chat, para el equipo de tu organización.</strong> Le escribes una pregunta o un pedido y te responde.</p>
 <p>Responde con lo que tu organización cargó en <strong>AI &gt; Entrenamiento [AI RAG]</strong>: documentos, páginas web e instrucciones.</p>
@@ -33,7 +33,7 @@ Resumen: Aprende para qué sirve el Chat con AI: pedir ideas de fundraising, esc
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: que-es-el-chat-con-ai, como-usar-el-chat-con-ai, que-idiomas-tiene-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
+Relacionados: que-es-el-chat-con-ai, como-usar-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Pedir ideas de fundraising:</strong> por ejemplo, un plan de campaña.</li>
@@ -49,14 +49,14 @@ Idioma: es
 Título: Cómo usar el Chat con AI
 Slug: como-usar-el-chat-con-ai
 Categoría: AI
-Resumen: Aprende a conversar con el asistente de IA de Afrus, a usar sus respuestas y a retomar tus conversaciones.
+Resumen: Aprende a conversar con el asistente de IA de AFRUS, a usar sus respuestas y a retomar tus conversaciones.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: que-es-el-chat-con-ai, para-que-sirve-el-chat-con-ai, que-idiomas-tiene-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
+Relacionados: que-es-el-chat-con-ai, para-que-sirve-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
-<ul><li><strong>Activa la IA de Afrus.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li>
+<ul><li><strong>Activa la IA de AFRUS.</strong> En el <strong>Business profile</strong> (menú de perfil), crea tu perfil y pulsa "Enviar AI".</li>
 <li><strong>Carga información en AI &gt; Entrenamiento [AI RAG].</strong> Mientras más le cuentes, mejores serán sus respuestas.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
@@ -73,30 +73,14 @@ Relacionados: que-es-el-chat-con-ai, para-que-sirve-el-chat-con-ai, que-idiomas-
 ```text
 === TUTORIAL ===
 Idioma: es
-Título: Qué idiomas tiene el Chat con AI
-Slug: que-idiomas-tiene-el-chat-con-ai
-Categoría: AI
-Resumen: Aprende en qué idiomas responde el Chat con AI de Afrus.
-Tiempo de lectura: 1 min
-Video: no
-Imagen de portada: pendiente
-Relacionados: que-es-el-chat-con-ai, para-que-sirve-el-chat-con-ai, como-usar-el-chat-con-ai, que-restricciones-tiene-el-chat-con-ai
---- CUERPO (HTML) ---
-<p>Está pendiente de confirmar en qué idiomas responde el Chat con AI y si responde en el idioma en que le escribes. Actualizaremos este tutorial cuando esté confirmado.</p>
-=== FIN ===
-```
-
-```text
-=== TUTORIAL ===
-Idioma: es
 Título: Qué restricciones tiene el Chat con AI
 Slug: que-restricciones-tiene-el-chat-con-ai
 Categoría: AI
-Resumen: Aprende qué puede y qué no puede hacer el Chat con AI de Afrus antes de usarlo con tu equipo.
+Resumen: Aprende qué puede y qué no puede hacer el Chat con AI de AFRUS antes de usarlo con tu equipo.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: que-es-el-chat-con-ai, para-que-sirve-el-chat-con-ai, como-usar-el-chat-con-ai, que-idiomas-tiene-el-chat-con-ai
+Relacionados: que-es-el-chat-con-ai, para-que-sirve-el-chat-con-ai, como-usar-el-chat-con-ai
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Solo sabe lo que le enseñaste</strong> en <strong>Entrenamiento [AI RAG]</strong>. No consulta datos de tus donantes, donaciones ni campañas.</li>
@@ -118,11 +102,11 @@ Idioma: en
 Título: What AI Chat (Chat con AI) is
 Slug: what-is-ai-chat
 Categoría: AI
-Resumen: Learn what AI Chat is: Afrus's artificial intelligence assistant for your organization's team.
+Resumen: Learn what AI Chat is: AFRUS's artificial intelligence assistant for your organization's team.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: what-is-ai-chat-for, how-to-use-ai-chat, which-languages-does-ai-chat-have, what-restrictions-does-ai-chat-have
+Relacionados: what-is-ai-chat-for, how-to-use-ai-chat, what-restrictions-does-ai-chat-have
 --- CUERPO (HTML) ---
 <p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
 <p><strong>AI Chat is an artificial intelligence assistant, chat style, for your organization's team.</strong> You write a question or a request and it answers.</p>
@@ -142,7 +126,7 @@ Resumen: Learn what AI Chat is for: getting fundraising ideas, writing texts and
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: what-is-ai-chat, how-to-use-ai-chat, which-languages-does-ai-chat-have, what-restrictions-does-ai-chat-have
+Relacionados: what-is-ai-chat, how-to-use-ai-chat, what-restrictions-does-ai-chat-have
 --- CUERPO (HTML) ---
 <p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
 <ul>
@@ -159,15 +143,15 @@ Idioma: en
 Título: How to use AI Chat
 Slug: how-to-use-ai-chat
 Categoría: AI
-Resumen: Learn how to talk with Afrus's AI assistant, use its answers and pick up your conversations.
+Resumen: Learn how to talk with AFRUS's AI assistant, use its answers and pick up your conversations.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: what-is-ai-chat, what-is-ai-chat-for, which-languages-does-ai-chat-have, what-restrictions-does-ai-chat-have
+Relacionados: what-is-ai-chat, what-is-ai-chat-for, what-restrictions-does-ai-chat-have
 --- CUERPO (HTML) ---
 <p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
 <h2>Before you start</h2>
-<ul><li><strong>Turn on Afrus AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li>
+<ul><li><strong>Turn on AFRUS AI.</strong> In the <strong>Business profile</strong> (profile menu), create your profile and click "Enviar AI" (Send to AI).</li>
 <li><strong>Upload information in AI &gt; Entrenamiento [AI RAG].</strong> The more you tell it, the better its answers.</li></ul>
 <h2>Step by step</h2>
 <ol>
@@ -184,31 +168,14 @@ Relacionados: what-is-ai-chat, what-is-ai-chat-for, which-languages-does-ai-chat
 ```text
 === TUTORIAL ===
 Idioma: en
-Título: Which languages AI Chat has
-Slug: which-languages-does-ai-chat-have
-Categoría: AI
-Resumen: Learn which languages Afrus AI Chat answers in.
-Tiempo de lectura: 1 min
-Video: no
-Imagen de portada: pendiente
-Relacionados: what-is-ai-chat, what-is-ai-chat-for, how-to-use-ai-chat, what-restrictions-does-ai-chat-have
---- CUERPO (HTML) ---
-<p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
-<p>Which languages AI Chat answers in, and whether it answers in the language you write in, is pending confirmation. We'll update this tutorial once it's confirmed.</p>
-=== FIN ===
-```
-
-```text
-=== TUTORIAL ===
-Idioma: en
 Título: What restrictions AI Chat has
 Slug: what-restrictions-does-ai-chat-have
 Categoría: AI
-Resumen: Learn what Afrus AI Chat can and can't do before using it with your team.
+Resumen: Learn what AFRUS AI Chat can and can't do before using it with your team.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: what-is-ai-chat, what-is-ai-chat-for, how-to-use-ai-chat, which-languages-does-ai-chat-have
+Relacionados: what-is-ai-chat, what-is-ai-chat-for, how-to-use-ai-chat
 --- CUERPO (HTML) ---
 <p><em>Labels are shown as they appear in the Spanish version of the console.</em></p>
 <ul>
@@ -231,11 +198,11 @@ Idioma: pt-BR
 Título: O que é o Chat com IA (Chat con AI)
 Slug: o-que-e-o-chat-com-ia
 Categoría: AI
-Resumen: Aprenda o que é o Chat com IA: o assistente de inteligência artificial da Afrus para a equipe da sua organização.
+Resumen: Aprenda o que é o Chat com IA: o assistente de inteligência artificial da AFRUS para a equipe da sua organização.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: para-que-serve-o-chat-com-ia, como-usar-o-chat-com-ia, quais-idiomas-tem-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
+Relacionados: para-que-serve-o-chat-com-ia, como-usar-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
 --- CUERPO (HTML) ---
 <p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
 <p><strong>O Chat com IA é um assistente de inteligência artificial, no formato de chat, para a equipe da sua organização.</strong> Você escreve uma pergunta ou um pedido e ele responde.</p>
@@ -255,7 +222,7 @@ Resumen: Aprenda para que serve o Chat com IA: pedir ideias de captação, escre
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: o-que-e-o-chat-com-ia, como-usar-o-chat-com-ia, quais-idiomas-tem-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
+Relacionados: o-que-e-o-chat-com-ia, como-usar-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
 --- CUERPO (HTML) ---
 <p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
 <ul>
@@ -272,15 +239,15 @@ Idioma: pt-BR
 Título: Como usar o Chat com IA
 Slug: como-usar-o-chat-com-ia
 Categoría: AI
-Resumen: Aprenda a conversar com o assistente de IA da Afrus, usar as respostas e retomar suas conversas.
+Resumen: Aprenda a conversar com o assistente de IA da AFRUS, usar as respostas e retomar suas conversas.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: o-que-e-o-chat-com-ia, para-que-serve-o-chat-com-ia, quais-idiomas-tem-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
+Relacionados: o-que-e-o-chat-com-ia, para-que-serve-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
 --- CUERPO (HTML) ---
 <p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
 <h2>Antes de começar</h2>
-<ul><li><strong>Ative a IA da Afrus.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li>
+<ul><li><strong>Ative a IA da AFRUS.</strong> No <strong>Business profile</strong> (menu de perfil), crie seu perfil e clique em "Enviar AI" (enviar para a IA).</li>
 <li><strong>Envie informações em AI &gt; Entrenamiento [AI RAG].</strong> Quanto mais você contar, melhores as respostas.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
@@ -297,31 +264,14 @@ Relacionados: o-que-e-o-chat-com-ia, para-que-serve-o-chat-com-ia, quais-idiomas
 ```text
 === TUTORIAL ===
 Idioma: pt-BR
-Título: Quais idiomas tem o Chat com IA
-Slug: quais-idiomas-tem-o-chat-com-ia
-Categoría: AI
-Resumen: Aprenda em quais idiomas o Chat com IA da Afrus responde.
-Tiempo de lectura: 1 min
-Video: no
-Imagen de portada: pendiente
-Relacionados: o-que-e-o-chat-com-ia, para-que-serve-o-chat-com-ia, como-usar-o-chat-com-ia, quais-restricoes-tem-o-chat-com-ia
---- CUERPO (HTML) ---
-<p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
-<p>Está pendente de confirmação em quais idiomas o Chat com IA responde e se ele responde no idioma em que você escreve. Vamos atualizar este tutorial quando estiver confirmado.</p>
-=== FIN ===
-```
-
-```text
-=== TUTORIAL ===
-Idioma: pt-BR
 Título: Quais restrições tem o Chat com IA
 Slug: quais-restricoes-tem-o-chat-com-ia
 Categoría: AI
-Resumen: Aprenda o que o Chat com IA da Afrus pode e não pode fazer antes de usá-lo com a sua equipe.
+Resumen: Aprenda o que o Chat com IA da AFRUS pode e não pode fazer antes de usá-lo com a sua equipe.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
-Relacionados: o-que-e-o-chat-com-ia, para-que-serve-o-chat-com-ia, como-usar-o-chat-com-ia, quais-idiomas-tem-o-chat-com-ia
+Relacionados: o-que-e-o-chat-com-ia, para-que-serve-o-chat-com-ia, como-usar-o-chat-com-ia
 --- CUERPO (HTML) ---
 <p><em>Os nomes de tela aparecem como na versão em espanhol do console.</em></p>
 <ul>

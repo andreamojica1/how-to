@@ -10,17 +10,17 @@ After reading this guide you will know what the Business profile is, what it doe
 
 ## What the Business profile is
 
-**The Business profile is your organization's public page on Afrus.** It has its own address, such as `https://afrus.org/business/<your-url>`, and brings together your contact details, social networks, texts, frequently asked questions, logo and colors.
+**The Business profile is your organization's public page on AFRUS.** It has its own address, such as `https://afrus.org/business/<your-url>`, and brings together your contact details, social networks, texts, frequently asked questions, logo and colors.
 
-The same information also feeds Afrus's artificial intelligence, so the AI features know about your organization.
+The same information also feeds AFRUS's artificial intelligence, so the AI features know about your organization.
 
 ## What it is for
 
 - **A page where anyone can donate to you.** As the screen itself says: *"Tu empresa tiene una página donde cualquiera puede pagarte."* ("Your company has a page where anyone can pay you.")
 - **Showing your main widgets.** The page shows the donation widget and the registration widget you have set as default.
-- **Sending payment links.** The payment links you send from Afrus (from **Home** or from a person's profile) point to your Business profile address. Without a Business profile with a URL, a payment link cannot be sent.
+- **Sending payment links.** The payment links you send from AFRUS (from **Home** or from a person's profile) point to your Business profile address. Without a Business profile with a URL, a payment link cannot be sent.
 - **Having your QR code and payment link at hand.** When your Business profile has a URL, **Home** shows a QR code and the **Link de pago** (payment link) form.
-- **Feeding Afrus AI.** With "Enviar AI" (Send to AI), your description, "Sobre nosotros" (About us) text and FAQs are sent to the AI. Some features, such as **Experiences AI**, require an up-to-date Business profile.
+- **Feeding AFRUS AI.** With "Enviar AI" (Send to AI), your description, "Sobre nosotros" (About us) text and FAQs are sent to the AI. Some features, such as **Experiences AI**, require an up-to-date Business profile.
 
 ## Before you start
 
@@ -40,11 +40,11 @@ The Business profile is created with a 7-step wizard: **URL**, **Contacto** (Con
 1. **Open the Business profile.** In the profile menu (top corner), choose **Business profile**. Above the wizard you will see the **Estado** (Status); if you haven't created it yet, it says **Incompleto** (Incomplete).
    ![Profile menu open with the Business profile option](img/como-crear-el-business-profile-01.webp)
 
-2. **Choose your URL.** In the **URL** step, type the last part of the address in the **URL del negocio** (Business URL) field (the start of the address is fixed) and click "Continuar" (Continue). Afrus checks that it is free; if it is taken, you will see *"La URL no está disponible"* (The URL is not available) and you need to choose another.
+2. **Choose your URL.** In the **URL** step, type the last part of the address in the **URL del negocio** (Business URL) field (the start of the address is fixed) and click "Continuar" (Continue). AFRUS checks that it is free; if it is taken, you will see *"La URL no está disponible"* (The URL is not available) and you need to choose another.
 
    > **Important:** after the profile is created, the URL is locked and cannot be changed.
 
-3. **Fill in your contact details.** In the **Contacto** step, fill in **¿Cuál es el nombre de tu organización?** (organization name), **Número de identificación pública** (public ID number), **Teléfono** (phone), **Dirección** (address), **Ciudad** (city) and **Correo electrónico** (email). All are required. The first time, Afrus pre-fills them with your organization's data; check them and click "Continuar".
+3. **Fill in your contact details.** In the **Contacto** step, fill in **¿Cuál es el nombre de tu organización?** (organization name), **Número de identificación pública** (public ID number), **Teléfono** (phone), **Dirección** (address), **Ciudad** (city) and **Correo electrónico** (email). All are required. The first time, AFRUS pre-fills them with your organization's data; check them and click "Continuar".
 
 4. **Add your social networks.** In the **Redes sociales** step, turn on the switch for each network you want to show (Facebook, Instagram, Youtube, WhatsApp, Linkedin, TikTok) and paste its link. With the switch on, the link is required. This way donors can find your channels from the page.
 
@@ -56,7 +56,7 @@ The Business profile is created with a 7-step wizard: **URL**, **Contacto** (Con
 
 8. **Choose a theme and save.** In the **Tema** step, choose one of the 9 color combinations and click "Guardar" (the button becomes active once a theme is chosen).
 
-9. **Send the information to the AI (recommended).** In the same **Tema** step, click "Enviar AI". You will see *"Información enviada correctamente"* (Information sent successfully) and the status changes to **Sincronizado con AI** (Synced with AI). This way Afrus AI features work with your organization's information.
+9. **Send the information to the AI (recommended).** In the same **Tema** step, click "Enviar AI". You will see *"Información enviada correctamente"* (Information sent successfully) and the status changes to **Sincronizado con AI** (Synced with AI). This way AFRUS AI features work with your organization's information.
 
 When you finish you will see *"¡Listo!"* (Done!) with *"Perfil de negocio creado correctamente."* (Business profile created successfully) and the "Continuar" button. The status changes to **Guardado sin enviar a AI** (Saved, not sent to AI), or to **Sincronizado con AI** if you did step 9.
 
@@ -88,7 +88,7 @@ When you finish you will see the star next to the chosen widget's name, and your
 
 > **Can it be undone?** Yes. In the same three-dot menu choose **Quitar predeterminado** (Remove default), or set another widget as default. Keep in mind that if there is no default widget for a goal, the page does not show that widget.
 
-> **Pending confirmation:** what the page does if the default widget is deactivated, and where on the page each widget appears. In the meantime, we recommend setting an active widget as default.
+> **Important:** both widgets, the donation one and the registration one, must be set up for them to show on your Business profile page.
 
 ---
 
@@ -99,15 +99,7 @@ When you finish you will see the star next to the chosen widget's name, and your
 | **Incompleto** (Incomplete) | You haven't created the Business profile yet | Create it following this guide |
 | **Guardado sin enviar a AI** (Saved, not sent to AI) | The profile exists, but its information wasn't sent to the AI | Click "Enviar AI" in the **Tema** step |
 | **Pendiente de sincronización con AI** (Pending AI sync) | You changed the FAQs and they still need to be sent to the AI | Click "Enviar AI" in the **Tema** step |
-| **Sincronizado con AI** (Synced with AI) | The information has been sent to Afrus AI | Nothing; send again if you make changes |
-
-## Known limitations
-
-- **The URL cannot be changed** after the profile is created.
-- **A default widget cannot be deleted** from its menu: first remove its default mark or set another one.
-- **FAQs over 300 characters:** if a question or answer goes over the limit, the error message may appear as technical text instead of a clear message. If you see strange text when saving, shorten the question or answer.
-- **City and TikTok:** they are saved, but they may not show on the public page.
-- **Only these are sent to the AI:** name, description, "Sobre nosotros" text and FAQs.
+| **Sincronizado con AI** (Synced with AI) | The information has been sent to AFRUS AI | Nothing; send again if you make changes |
 
 ## Frequently asked questions
 
@@ -129,4 +121,4 @@ Your Business profile starts showing the new default widget for that goal.
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-26*

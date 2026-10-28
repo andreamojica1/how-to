@@ -78,16 +78,10 @@ Ao configurar um autoresponder com IA, escolha o **Remitente** (Remetente) em **
 Não. Cada usuário tem uma assinatura; se precisar mudar, edite.
 
 **Os envios de Blast de AI usam a assinatura?**
-> **Pendente de confirmação:** hoje só está confirmado que os autoresponders com IA a usam.
-
-**A assinatura aparece no final do e-mail?**
-> **Pendente de confirmação:** está confirmado que o e-mail de envio e a descrição são usados; não se a assinatura aparece no rodapé da mensagem.
-
-**Gerar ou melhorar a descrição com IA consome créditos?**
-> **Pendente de confirmação.**
+Sim. Se você não tiver assinatura, não pode fazer envios com IA nem configurar autoresponders com IA.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

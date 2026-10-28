@@ -1,6 +1,6 @@
 # Guia do Radar - monitor de fraude
 
-Depois de ler este guia, você vai saber o que é o Radar, quando uma transação aparece nele, como revisá-lo e como a Afrus protege você contra fraudes.
+Depois de ler este guia, você vai saber o que é o Radar, quando uma transação aparece nele, como revisá-lo e como a AFRUS protege você contra fraudes.
 
 *Módulo: Follow up · Menu: **Follow up > Radar - monitor de fraude** · Público: equipes de finanças, captação e administração*
 
@@ -35,7 +35,7 @@ Para cada transação você vê, entre outros dados, o **Valor**, **Email**, **N
 Uma transação aparece no Radar quando é marcada como fraude:
 
 - **Pela sua equipe**, com a ação **Marcar como Fraude** em **Transacciones** (Transações), ou
-- **Pela equipe da Afrus**, por exemplo ao carregar uma lista de transações fraudulentas.
+- **Pela equipe da AFRUS**, por exemplo ao carregar uma lista de transações fraudulentas.
 
 O Radar mostra transações de pagamento; não mostra o registro da assinatura em si.
 
@@ -58,26 +58,19 @@ Você verá *"Transacciones marcadas como fraude"* (Transações marcadas como f
 2. **Escolha as datas.** Por padrão aparece o mês atual. Atenção: o filtro usa a **data da transação**, não a data em que foi marcada como fraude.
 3. **Filtre ou busque.** Use os filtros ou a busca para encontrar o que precisa. A tabela mostra 25 linhas por página.
 
-## Quais mecanismos a Afrus tem para combater a fraude
+## Quais mecanismos a AFRUS tem para combater a fraude
 
-A Afrus combina várias proteções. Algumas dependem da configuração de cada organização:
+A AFRUS combina várias proteções. Algumas dependem da configuração de cada organização:
 
 - **Verificação anti-bots (reCAPTCHA)** nos pagamentos com widgets, que pode ser ativada em um formulário quando é detectada atividade anômala.
 - **Limites para tentativas de pagamento repetidas**, para frear quem testa muitos cartões.
-- **Proteção automática de formulários:** diante de uma atividade incomum de pagamentos recusados, a Afrus pode exigir a verificação anti-bots, limitar temporariamente o formulário ou desativá-lo, e avisar você por e-mail.
-- **Verificação por código:** diante de atividade suspeita em um formulário, pode ser pedido ao doador um código de verificação antes da cobrança.
+- **Proteção automática de formulários:** diante de uma atividade incomum de pagamentos recusados, a AFRUS pode exigir a verificação anti-bots, limitar temporariamente o formulário ou desativá-lo, e avisar você por e-mail.
+- **Verificação por código (OTP):** diante de atividade suspeita em um formulário, a AFRUS envia ao doador um código de verificação pelo WhatsApp, que ele precisa informar antes da cobrança.
 - **Bloqueio de e-mails em lista negra** e outros controles em cada pagamento.
 - **Detecção de cadastros automatizados (bots)** nos formulários de cadastro (veja **Follow up > Leads spam**).
 - **Marcação manual de fraude** pela sua equipe, com o Radar para o acompanhamento.
 
-> **Pendente de confirmação:** quais proteções estão ativas para a sua organização. Fale com a gente se quiser revisar.
-
 ---
-
-## Limitações conhecidas
-
-- **Filtro de datas:** usa a data da transação. Uma transação de um mês anterior marcada hoje não aparece no período padrão; amplie o período para vê-la.
-- **Marcar como fraude é definitivo** e exclui as pessoas vinculadas.
 
 ## Perguntas frequentes
 
@@ -91,4 +84,4 @@ Provavelmente ela é de um mês anterior. O filtro usa a data da transação: am
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

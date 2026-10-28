@@ -10,9 +10,9 @@ With this guide you will be able to send automatic emails to your donors and con
 
 ## What an autoresponder is
 
-**An autoresponder is an email that Afrus sends on its own, to one person, when something happens.** For example: when someone signs up, when their donation is confirmed or fails, or when their monthly donation is charged.
+**An autoresponder is an email that AFRUS sends on its own, to one person, when something happens.** For example: when someone signs up, when their donation is confirmed or fails, or when their monthly donation is charged.
 
-You write the email once and Afrus sends it every time that event happens.
+You write the email once and AFRUS sends it every time that event happens.
 
 ## What it is for
 
@@ -23,10 +23,10 @@ You write the email once and Afrus sends it every time that event happens.
 
 ## Before you start
 
-- **An email address to send from.** You can always use Afrus's address. If you want to send from your organization's address (for example, donations@yourorg.org), your domain needs to be verified first. You see this on the card above the autoresponder list.
+- **An email address to send from.** You can always use AFRUS's address. If you want to send from your organization's address (for example, donations@yourorg.org), your domain needs to be verified first. You see this on the card above the autoresponder list.
 - **Know the event.** Think about when you want the email to arrive: on donating, on signing up, when a payment fails…
 
-> **Recommended:** verifying your domain helps your emails reach the inbox. The "Configurar DNS" (Set up DNS) button on the card opens the previous version of Afrus, which is why it looks different. Verification can take up to 48 hours.
+> **Recommended:** verifying your domain helps your emails reach the inbox. The "Configurar DNS" (Set up DNS) button on the card opens the previous version of AFRUS, which is why it looks different. Verification can take up to 48 hours.
 
 ---
 
@@ -84,7 +84,9 @@ When you finish, the autoresponder appears in the list as **Activo** (Active) an
 
 ### Create an autoresponder with AI
 
-If you prefer Afrus to write the email for you:
+If you prefer AFRUS to write the email for you:
+
+> **Important:** to set up AI autoresponders, your user needs a signature created in **AI > Firmas de usuarios**. If you have no user signatures, you can't set up AI autoresponders.
 
 1. **Find the event.** In the **Genérico** tab, find an event that says **No configurado** (Not configured) and click "Configurar" (Set up).
 2. **Choose Con IA.** In **Modo de creación** (Creation mode), choose **Con IA** (With AI).
@@ -106,8 +108,8 @@ If you prefer Afrus to write the email for you:
 ## What to keep in mind if your form is in several languages
 
 - **Each language is a separate email.** To have the English version, switch the language selector to **Inglés (EN)** and create it separately. The same for Portuguese.
-- **Afrus picks the person's language.** If the person has a language, they get the email in that language.
-- **If a language is missing, the generic one is used.** If you don't have the email in the person's language, Afrus sends your **Genérico** autoresponder, even if it's in another language. A thank-you in another language is better than nothing.
+- **AFRUS picks the person's language.** If the person has a language, they get the email in that language.
+- **If a language is missing, the generic one is used.** If you don't have the email in the person's language, AFRUS sends your **Genérico** autoresponder, even if it's in another language. A thank-you in another language is better than nothing.
 - **Campaign and form emails are stricter.** They are only sent in their exact language. If they don't exist in the person's language, the generic one is sent.
 
 **Recommendation:** if your form receives donations in several languages, create the autoresponder in each of them, starting with the **Genérico** one.
@@ -120,7 +122,7 @@ If you prefer Afrus to write the email for you:
 | **Por campaña** (By campaign) | When a campaign needs its own message | "Thank you for supporting our Christmas campaign" |
 | **Por formulario** (By form) | When a specific form needs its own message | A special email for people who donate from your emergency page |
 
-**How Afrus chooses which email to send:** it looks for the most specific one first and, if there isn't one, the most general. The order is: campaign and form together, then campaign, then form and, finally, **Genérico**. Only **Activo** emails count.
+**How AFRUS chooses which email to send:** it looks for the most specific one first and, if there isn't one, the most general. The order is: campaign and form together, then campaign, then form and, finally, **Genérico**. Only **Activo** emails count.
 
 **Recommendation:** create the **Genérico** email for each important event first. That way nobody goes without a reply, even if a campaign or form doesn't have its own email.
 
@@ -137,7 +139,7 @@ If you prefer Afrus to write the email for you:
 
 ## When the email arrives
 
-Afrus checks for new events every 5 minutes, so the email usually arrives within a few minutes of the event.
+AFRUS checks for new events every 5 minutes, so the email usually arrives within a few minutes of the event.
 
 ## Keep in mind
 
@@ -149,19 +151,16 @@ Afrus checks for new events every 5 minutes, so the email usually arrives within
 ## Frequently asked questions
 
 **Which address do my autoresponders come from?**
-From Afrus's address, until you verify your domain. After that you can choose the addresses of your organization's users that end in your domain.
+From AFRUS's address, until you verify your domain. After that you can choose the addresses of your organization's users that end in your domain.
 
 **Can I include the donor's name in the email?**
 Yes. Use the "Mapa de mergetags" to copy the detail you want, for example the name, and paste it in the subject or body.
 
 **Are autoresponders sent to people who unsubscribed or whose email bounces?**
-> **Pending confirmation:** whether those people are excluded.
-
-**Which users can create autoresponders?**
-> **Pending confirmation:** which user profiles have permission.
+Yes. AFRUS leaves those people out.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

@@ -1,6 +1,6 @@
 # Guia do Peer to peer
 
-Depois de ler este guia, você vai saber o que é a captação entre pares (peer to peer) na Afrus, para que serve, como trocar suas imagens, o que acontece com um apoiador depois de se cadastrar e como revisar, aprovar e acompanhar as páginas dos seus captadores.
+Depois de ler este guia, você vai saber o que é a captação entre pares (peer to peer) na AFRUS, para que serve, como trocar suas imagens, o que acontece com um apoiador depois de se cadastrar e como revisar, aprovar e acompanhar as páginas dos seus captadores.
 
 *Módulo: Peer to peer · Menu: **Fundraising > Peer to peer fundraisers** · Público: equipes de captação e de comunidade*
 
@@ -95,8 +95,6 @@ Existem dois formulários diferentes: o de cadastro, preenchido por quem quer se
 3. **Soma no total da página.** Quando a doação é aprovada, ela soma no **Total recaudado** (Total arrecadado) mostrado na página pública do captador.
 4. **Página de agradecimento.** Depois de doar, o doador vê a página de agradecimento ou redirecionamento configurada no widget.
 
-> **Pendente de confirmação:** se o captador ou a sua organização recebem um e-mail a cada doação feita na página de um captador.
-
 ## Como ver quem está fazendo Peer to peer, aprovar um captador e saber quanto ele arrecadou
 
 ### Parte 1 — Ver quem está captando
@@ -158,18 +156,6 @@ Toda página nova começa como **Pendiente** e precisa da sua aprovação: não 
 | **Rechazada** (Rejeitada) | Não aparece | Rejeitada; a página publicada foi excluída | Encerrar |
 | **Finalizada** (Encerrada) | Finalizada | Encerrada pela sua organização; a página publicada foi excluída | Nada |
 
-## Limitações conhecidas
-
-- **Total arrecadado no console:** os detalhes de cada página mostram sempre $0, e o painel do captador mostra 0 doações e $0. Para ver o valor arrecadado, abra a página pública com "Ver página".
-- **Sem busca nem filtro por status** na lista do console: só dá para ordenar por **ID**, **Campaña** e **Meta**.
-- **Símbolo "$":** a coluna **Meta** e o bloco **Total recaudado** do console usam sempre "$", seja qual for a moeda da sua organização.
-- **Meta "(en USD)":** o formulário de cadastro pede a meta em USD, mas a página pública a mostra e compara na moeda da sua organização.
-- **Fecha Inicio** na lista é a data de criação da sua campanha. A data real do cadastro do captador está nos detalhes, em **Fecha creación de la campaña**.
-- **Páginas já publicadas:** mudanças posteriores nas imagens ou no widget da campanha não chegam a elas, e o captador não pode editar a página depois de publicar.
-- **Detalhes incompletos:** o campo **Widget** costuma mostrar *No proporcionado* (Não informado) e **Detalle de la fuente** abre vazio.
-- **Mensagens de erro:** se o recorte de uma imagem falhar, o aviso pode aparecer como texto técnico; se aprovar, rejeitar ou encerrar falhar, a mensagem pode sair em inglês.
-- **E-mails de aprovação e rejeição** para o captador são sempre enviados em espanhol.
-
 ## Perguntas frequentes
 
 **Preciso aprovar cada página?**
@@ -177,8 +163,6 @@ Sim. Toda página nova começa como **Pendiente** e não há aprovação automá
 
 **Como consigo o link de cadastro para enviar aos meus apoiadores?**
 Hoje ele é acessado pelo botão "Crea tu campaña" dos widgets de doação da campanha.
-
-> **Pendente de confirmação:** se existe outra forma de obter o link de cadastro de captadores pelo console.
 
 **O captador pode mudar a página depois de publicar?**
 Não. No painel dele não há opção para editar uma página já publicada.
@@ -193,4 +177,4 @@ Sim. São doações da campanha e contam nos números gerais dela.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

@@ -1,6 +1,6 @@
 # AI Chat guide (Chat con AI)
 
-With this guide you will be able to use Afrus's AI assistant to ask for ideas, texts and answers about your organization.
+With this guide you will be able to use AFRUS's AI assistant to ask for ideas, texts and answers about your organization.
 
 *Module: AI · Menu: **AI > Chat con AI** · Audience: the whole organization team*
 
@@ -24,7 +24,7 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 
 ## Before you start
 
-- **Turn on Afrus AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). If you haven't, you'll see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile).
+- **Turn on AFRUS AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). If you haven't, you'll see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile).
 - **Upload information in AI > Entrenamiento [AI RAG].** The more you tell the AI, the better its answers. From the chat you get there with the "Configurar" (Set up) button.
 
 ---
@@ -45,15 +45,7 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 
 5. **Pick up a conversation.** Your conversations are saved on the left, in **Historial de conversaciones** (Conversation history).
 
-**Extra options:** next to the message box you can choose the AI model and turn on "Interacción avanzada" (Advanced interaction).
-
-> **Pending confirmation:** what exactly "Interacción avanzada" changes.
-
 **Tip:** be specific. "Write a 150-word email asking for donations for our scholarship campaign, in a warm tone" works better than "write an email".
-
-## Which languages it has
-
-> **Pending confirmation:** which languages AI Chat answers in and whether it answers in the language you write in.
 
 ## What restrictions it has
 
@@ -67,10 +59,6 @@ It answers with the information your organization uploaded in **AI > Entrenamien
 
 ---
 
-## Known limitations
-
-- When you don't have conversations yet, the sidebar may show technical text instead of "No hay conversaciones" (No conversations). It doesn't affect the chat.
-
 ## Frequently asked questions
 
 **Does the AI know my donors?**
@@ -80,10 +68,10 @@ No. It only uses what you uploaded in **Entrenamiento [AI RAG]**.
 No. Each user sees their own.
 
 **Does using the chat cost anything?**
-> **Pending confirmation:** whether chat use is deducted from any balance of your organization.
+Yes, you need to buy tokens. For more information, write to us at billing@afrus.ai.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

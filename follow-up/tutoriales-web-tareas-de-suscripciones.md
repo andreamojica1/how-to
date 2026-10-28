@@ -10,13 +10,13 @@ Idioma: es
 Título: Qué son las Tareas de suscripciones
 Slug: que-son-las-tareas-de-suscripciones
 Categoría: Follow up
-Resumen: Aprende qué son las Tareas de suscripciones: la lista que Afrus crea cuando falla el cobro de una donación recurrente.
+Resumen: Aprende qué son las Tareas de suscripciones: la lista que AFRUS crea cuando falla el cobro de una donación recurrente.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirven-las-tareas-de-suscripciones, cada-cuanto-se-actualizan-las-tareas-de-suscripciones, la-tarea-sale-de-la-lista-cuando-la-suscripcion-se-cobra, estados-de-las-tareas-de-suscripciones, que-hacer-en-cada-estado-de-las-tareas-de-suscripciones
 --- CUERPO (HTML) ---
-<p><strong>Las Tareas de suscripciones son una lista de seguimiento que Afrus crea automáticamente cuando falla el cobro de una suscripción.</strong> Cada tarea es un caso para que tu equipo contacte al donante y recupere su donación recurrente.</p>
+<p><strong>Las Tareas de suscripciones son una lista de seguimiento que AFRUS crea automáticamente cuando falla el cobro de una suscripción.</strong> Cada tarea es un caso para que tu equipo contacte al donante y recupere su donación recurrente.</p>
 <p>La encuentras en <strong>Follow up &gt; Tareas de suscripciones</strong>. La pantalla se llama <strong>Tareas de Suscripciones</strong> y muestra, para cada caso, las columnas <strong>ID</strong>, <strong>Nombre</strong>, <strong>Tipo</strong>, <strong>Completada</strong>, <strong>Suscripción</strong>, <strong>Monto</strong>, <strong>Pasarela</strong>, <strong>Persona</strong>, <strong>Responsable</strong>, <strong>Razón de fallo</strong> y <strong>Fecha</strong>.</p>
 <h2>Antes de empezar</h2>
 <ul>
@@ -44,7 +44,7 @@ Relacionados: que-son-las-tareas-de-suscripciones, cada-cuanto-se-actualizan-las
 <li><strong>Repartir el trabajo.</strong> Asigna cada caso a un <strong>Responsable</strong> de tu equipo.</li>
 <li><strong>Llevar el control de lo resuelto.</strong> Marca la tarea como <strong>Completada</strong> cuando terminaste la gestión.</li>
 <li><strong>Tener el contexto a mano.</strong> Ves <strong>Monto</strong>, <strong>Pasarela</strong>, <strong>Persona</strong> y <strong>Razón de fallo</strong>, y abres la suscripción desde la columna <strong>Suscripción</strong>.</li>
-<li><strong>Trabajar la lista fuera de Afrus.</strong> Selecciona tareas, pulsa "Acciones" y elige <strong>Exportar</strong>; el archivo queda en <strong>Descargas</strong>.</li>
+<li><strong>Trabajar la lista fuera de AFRUS.</strong> Selecciona tareas, pulsa "Acciones" y elige <strong>Exportar</strong>; el archivo queda en <strong>Descargas</strong>.</li>
 </ul>
 === FIN ===
 ```
@@ -62,9 +62,9 @@ Imagen de portada: pendiente
 Relacionados: que-son-las-tareas-de-suscripciones, para-que-sirven-las-tareas-de-suscripciones, la-tarea-sale-de-la-lista-cuando-la-suscripcion-se-cobra, estados-de-las-tareas-de-suscripciones
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Las tareas se crean en el momento.</strong> Afrus crea la tarea en cuanto procesa el cobro fallido; no espera a una revisión diaria.</li>
-<li><strong>Aviso al equipo.</strong> Al crearse una tarea nueva, los usuarios con rol owner o admin de tu organización reciben una notificación en Afrus.</li>
-<li><strong>Una tarea por suscripción.</strong> Si la suscripción ya tenía una tarea, Afrus no crea otra: reabre la existente (vuelve a <strong>Pendiente</strong>) y le quita el <strong>Responsable</strong>.</li>
+<li><strong>Las tareas se crean en el momento.</strong> AFRUS crea la tarea en cuanto procesa el cobro fallido; no espera a una revisión diaria.</li>
+<li><strong>Aviso al equipo.</strong> Al crearse una tarea nueva, los usuarios con rol owner o admin de tu organización reciben una notificación en AFRUS.</li>
+<li><strong>Una tarea por suscripción.</strong> Si la suscripción ya tenía una tarea, AFRUS no crea otra: reabre la existente (vuelve a <strong>Pendiente</strong>) y le quita el <strong>Responsable</strong>.</li>
 <li><strong>La pantalla no se refresca sola.</strong> Los datos se cargan al abrirla y al cambiar fechas, búsqueda, filtro, orden o página. Recarga la página para ver los casos nuevos.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
@@ -114,7 +114,7 @@ Relacionados: que-son-las-tareas-de-suscripciones, la-tarea-sale-de-la-lista-cua
 </ul>
 <p>Además, cada tarea tiene un <strong>Tipo</strong>, que puedes cambiar a mano:</p>
 <ul>
-<li><strong>General:</strong> el tipo con el que Afrus crea las tareas automáticamente.</li>
+<li><strong>General:</strong> el tipo con el que AFRUS crea las tareas automáticamente.</li>
 <li><strong>Fallo Mensual</strong> y <strong>Cancelada por el Sistema:</strong> etiquetas disponibles para clasificar el caso a mano.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
@@ -161,14 +161,14 @@ Idioma: en
 Título: What Subscription tasks are
 Slug: what-are-subscription-tasks
 Categoría: Follow up
-Resumen: Learn what Subscription tasks are: the list Afrus creates when a recurring donation charge fails.
+Resumen: Learn what Subscription tasks are: the list AFRUS creates when a recurring donation charge fails.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-subscription-tasks-for, how-often-subscription-tasks-update, does-the-task-leave-the-list-when-the-subscription-is-charged, subscription-task-statuses, what-to-do-in-each-subscription-task-status
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
-<p><strong>Subscription tasks are a follow-up list that Afrus creates automatically when a subscription charge fails.</strong> Each task is a case for your team to contact the donor and recover their recurring donation.</p>
+<p><strong>Subscription tasks are a follow-up list that AFRUS creates automatically when a subscription charge fails.</strong> Each task is a case for your team to contact the donor and recover their recurring donation.</p>
 <p>You'll find it in <strong>Follow up &gt; Tareas de suscripciones</strong>. The screen is called <strong>Tareas de Suscripciones</strong> (Subscription tasks) and shows, for each case, <strong>ID</strong>, <strong>Nombre</strong> (name), <strong>Tipo</strong> (type), <strong>Completada</strong> (completed), <strong>Suscripción</strong> (subscription), <strong>Monto</strong> (amount), <strong>Pasarela</strong> (gateway), <strong>Persona</strong> (person), <strong>Responsable</strong> (owner), <strong>Razón de fallo</strong> (failure reason) and <strong>Fecha</strong> (date).</p>
 <h2>Before you start</h2>
 <ul>
@@ -197,7 +197,7 @@ Relacionados: what-are-subscription-tasks, how-often-subscription-tasks-update, 
 <li><strong>Share out the work.</strong> Assign each case to a <strong>Responsable</strong> (owner) on your team.</li>
 <li><strong>Keep track of what's solved.</strong> Mark the task as <strong>Completada</strong> (Completed) when you've finished.</li>
 <li><strong>Have the context at hand.</strong> You see <strong>Monto</strong>, <strong>Pasarela</strong>, <strong>Persona</strong> and <strong>Razón de fallo</strong>, and open the subscription from the <strong>Suscripción</strong> column.</li>
-<li><strong>Work the list outside Afrus.</strong> Select tasks, click "Acciones" (Actions) and choose <strong>Exportar</strong> (Export); the file goes to <strong>Descargas</strong> (Downloads).</li>
+<li><strong>Work the list outside AFRUS.</strong> Select tasks, click "Acciones" (Actions) and choose <strong>Exportar</strong> (Export); the file goes to <strong>Descargas</strong> (Downloads).</li>
 </ul>
 === FIN ===
 ```
@@ -216,9 +216,9 @@ Relacionados: what-are-subscription-tasks, what-are-subscription-tasks-for, does
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <ul>
-<li><strong>Tasks are created right away.</strong> Afrus creates the task as soon as it processes the failed charge; it doesn't wait for a daily check.</li>
-<li><strong>Your team is notified.</strong> When a new task is created, users with the owner or admin role in your organization get a notification in Afrus.</li>
-<li><strong>One task per subscription.</strong> If the subscription already had a task, Afrus doesn't create another: it reopens the existing one (back to <strong>Pendiente</strong>, Pending) and removes its <strong>Responsable</strong>.</li>
+<li><strong>Tasks are created right away.</strong> AFRUS creates the task as soon as it processes the failed charge; it doesn't wait for a daily check.</li>
+<li><strong>Your team is notified.</strong> When a new task is created, users with the owner or admin role in your organization get a notification in AFRUS.</li>
+<li><strong>One task per subscription.</strong> If the subscription already had a task, AFRUS doesn't create another: it reopens the existing one (back to <strong>Pendiente</strong>, Pending) and removes its <strong>Responsable</strong>.</li>
 <li><strong>The screen doesn't refresh on its own.</strong> Data loads when you open it and when you change dates, search, filter, sort or page. Reload the page to see new cases.</li>
 </ul>
 <h2>Frequently asked questions</h2>
@@ -270,7 +270,7 @@ Relacionados: what-are-subscription-tasks, does-the-task-leave-the-list-when-the
 </ul>
 <p>Each task also has a <strong>Tipo</strong> (type), which you can change by hand:</p>
 <ul>
-<li><strong>General:</strong> the type Afrus uses when it creates tasks automatically.</li>
+<li><strong>General:</strong> the type AFRUS uses when it creates tasks automatically.</li>
 <li><strong>Fallo Mensual</strong> (Monthly failure) and <strong>Cancelada por el Sistema</strong> (Cancelled by the system): labels you can use to classify the case by hand.</li>
 </ul>
 <h2>Frequently asked questions</h2>
@@ -318,14 +318,14 @@ Idioma: pt-BR
 Título: O que são as Tarefas de assinaturas
 Slug: o-que-sao-as-tarefas-de-assinaturas
 Categoría: Follow up
-Resumen: Aprenda o que são as Tarefas de assinaturas: a lista que a Afrus cria quando falha a cobrança de uma doação recorrente.
+Resumen: Aprenda o que são as Tarefas de assinaturas: a lista que a AFRUS cria quando falha a cobrança de uma doação recorrente.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-servem-as-tarefas-de-assinaturas, com-que-frequencia-as-tarefas-de-assinaturas-sao-atualizadas, a-tarefa-sai-da-lista-quando-a-assinatura-e-cobrada, status-das-tarefas-de-assinaturas, o-que-fazer-em-cada-status-das-tarefas-de-assinaturas
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p><strong>As Tarefas de assinaturas são uma lista de acompanhamento que a Afrus cria automaticamente quando a cobrança de uma assinatura falha.</strong> Cada tarefa é um caso para sua equipe entrar em contato com o doador e recuperar a doação recorrente.</p>
+<p><strong>As Tarefas de assinaturas são uma lista de acompanhamento que a AFRUS cria automaticamente quando a cobrança de uma assinatura falha.</strong> Cada tarefa é um caso para sua equipe entrar em contato com o doador e recuperar a doação recorrente.</p>
 <p>Você a encontra em <strong>Follow up &gt; Tareas de suscripciones</strong>. A tela se chama <strong>Tareas de Suscripciones</strong> (Tarefas de assinaturas) e mostra, para cada caso, <strong>ID</strong>, <strong>Nombre</strong> (nome), <strong>Tipo</strong>, <strong>Completada</strong> (concluída), <strong>Suscripción</strong> (assinatura), <strong>Monto</strong> (valor), <strong>Pasarela</strong> (gateway), <strong>Persona</strong> (pessoa), <strong>Responsable</strong> (responsável), <strong>Razón de fallo</strong> (motivo da falha) e <strong>Fecha</strong> (data).</p>
 <h2>Antes de começar</h2>
 <ul>
@@ -354,7 +354,7 @@ Relacionados: o-que-sao-as-tarefas-de-assinaturas, com-que-frequencia-as-tarefas
 <li><strong>Dividir o trabalho.</strong> Atribua cada caso a um <strong>Responsable</strong> (responsável) da sua equipe.</li>
 <li><strong>Controlar o que já foi resolvido.</strong> Marque a tarefa como <strong>Completada</strong> (Concluída) quando terminar.</li>
 <li><strong>Ter o contexto à mão.</strong> Você vê <strong>Monto</strong>, <strong>Pasarela</strong>, <strong>Persona</strong> e <strong>Razón de fallo</strong>, e abre a assinatura pela coluna <strong>Suscripción</strong>.</li>
-<li><strong>Trabalhar a lista fora da Afrus.</strong> Selecione tarefas, clique em "Acciones" (Ações) e escolha <strong>Exportar</strong>; o arquivo fica em <strong>Descargas</strong> (Downloads).</li>
+<li><strong>Trabalhar a lista fora da AFRUS.</strong> Selecione tarefas, clique em "Acciones" (Ações) e escolha <strong>Exportar</strong>; o arquivo fica em <strong>Descargas</strong> (Downloads).</li>
 </ul>
 === FIN ===
 ```
@@ -373,9 +373,9 @@ Relacionados: o-que-sao-as-tarefas-de-assinaturas, para-que-servem-as-tarefas-de
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <ul>
-<li><strong>As tarefas são criadas na hora.</strong> A Afrus cria a tarefa assim que processa a cobrança que falhou; não espera uma revisão diária.</li>
-<li><strong>Aviso para a equipe.</strong> Quando uma tarefa nova é criada, os usuários com papel owner ou admin da sua organização recebem uma notificação na Afrus.</li>
-<li><strong>Uma tarefa por assinatura.</strong> Se a assinatura já tinha uma tarefa, a Afrus não cria outra: reabre a existente (volta para <strong>Pendiente</strong>, Pendente) e remove o <strong>Responsable</strong>.</li>
+<li><strong>As tarefas são criadas na hora.</strong> A AFRUS cria a tarefa assim que processa a cobrança que falhou; não espera uma revisão diária.</li>
+<li><strong>Aviso para a equipe.</strong> Quando uma tarefa nova é criada, os usuários com papel owner ou admin da sua organização recebem uma notificação na AFRUS.</li>
+<li><strong>Uma tarefa por assinatura.</strong> Se a assinatura já tinha uma tarefa, a AFRUS não cria outra: reabre a existente (volta para <strong>Pendiente</strong>, Pendente) e remove o <strong>Responsable</strong>.</li>
 <li><strong>A tela não se atualiza sozinha.</strong> Os dados são carregados ao abrir e ao mudar datas, busca, filtro, ordem ou página. Recarregue a página para ver os casos novos.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
@@ -427,7 +427,7 @@ Relacionados: o-que-sao-as-tarefas-de-assinaturas, a-tarefa-sai-da-lista-quando-
 </ul>
 <p>Cada tarefa também tem um <strong>Tipo</strong>, que você pode mudar manualmente:</p>
 <ul>
-<li><strong>General</strong> (Geral): o tipo com que a Afrus cria as tarefas automaticamente.</li>
+<li><strong>General</strong> (Geral): o tipo com que a AFRUS cria as tarefas automaticamente.</li>
 <li><strong>Fallo Mensual</strong> (Falha mensal) e <strong>Cancelada por el Sistema</strong> (Cancelada pelo sistema): etiquetas disponíveis para classificar o caso manualmente.</li>
 </ul>
 <h2>Perguntas frequentes</h2>

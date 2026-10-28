@@ -48,7 +48,7 @@ La pantalla **Follow up > Links de pago** no tiene botón para crear: sirve para
 
 3. **Revisa el canal de envío.** En **Envíar por** queda marcado **Correo electrónico**. Por ahora los links se envían solo por correo.
 
-4. **Agrega el teléfono (opcional).** En **Teléfono**; Afrus valida el formato.
+4. **Agrega el teléfono (opcional).** En **Teléfono**; AFRUS valida el formato.
 
 5. **Elige la frecuencia.** En **Seleccionar la frecuencia**, marca **Único** o **Mensual**.
 
@@ -82,30 +82,16 @@ Al terminar verás *"¡Link de pago creado con éxito!"* con el correo de destin
 
 La lista muestra **ID**, correo, monto (o "Abierto" si es de valor abierto), fecha de creación, **Enviado** (Si/No), **Language Code**, **Estado** y acciones.
 
-## Limitaciones conocidas
-
-- **Solo se envía por correo electrónico.** WhatsApp y **Mensaje de texto** aparecen deshabilitados.
-- **Vencimiento en otro mes:** si eliges una fecha de vencimiento en un mes posterior pero en un día del mes menor al de hoy (por ejemplo, vence el 5 del mes siguiente y hoy es 11), el link puede marcarse o mostrarse como **Expirado** antes de tiempo. Lo mismo puede pasar con la hora elegida. Por ahora no hay una alternativa dentro de Afrus, salvo enviar el link sin fecha de vencimiento.
-- **Hora de creación en la lista:** en lugar de los minutos se muestra el mes. Usa la fecha como referencia.
-- **La opción "Caducar enalce"** tiene un error de tipeo en la pantalla: es la opción para que el enlace caduque.
-- **Si la donación falla,** el link sigue en **Creado**.
-
 ## Preguntas frecuentes
 
 **¿Puedo enviar el link por WhatsApp?**
-No por ahora. Afrus envía los links de pago solo por correo electrónico.
+No por ahora. AFRUS envía los links de pago solo por correo electrónico.
 
 **¿El link sirve para una donación mensual?**
 Sí. En **Seleccionar la frecuencia** elige **Mensual**.
-
-**¿Qué ve la persona si abre un link que ya usó?**
-> **Pendiente de confirmar:** qué muestra el formulario al abrir un link **Finalizado**.
-
-**¿En qué idioma llega el correo?**
-> **Pendiente de confirmar:** Afrus elige la plantilla según el tipo de organización y el idioma; no está verificado cada caso.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

@@ -23,9 +23,10 @@ Tú eliges a quién enviarlo, cuál es el objetivo y qué quieres decir. La IA e
 
 ## Antes de empezar
 
-- **Activa la IA de Afrus** desde el **Business profile** (menú de perfil): crea tu perfil y pulsa "Enviar AI". Sin ese paso, la lista de objetivos no carga y no podrás avanzar.
+- **Activa la IA de AFRUS** desde el **Business profile** (menú de perfil): crea tu perfil y pulsa "Enviar AI". Sin ese paso, la lista de objetivos no carga y no podrás avanzar.
 - **Carga información en AI > Entrenamiento [AI RAG].** Es lo que la IA usa para escribir.
 - **Ten lista tu cuenta de correo de envío y tus créditos,** igual que para un Blast normal.
+- **Crea tu firma en AI > Firmas de usuarios.** Sin firma no puedes hacer envíos con IA.
 - **Opcional:** si quieres correos con diseño e imágenes, revisa **AI > Plantillas AI Email** y **AI > Galería para AI**.
 
 ---
@@ -74,7 +75,7 @@ Al terminar verás *"Blast IA enviado con éxito"* y el botón "Ver blast IA". L
 
 > **¿Se puede deshacer?** Revisa todo antes de pulsar "Finalizar".
 >
-> **Pendiente de confirmar:** si se puede cancelar un Blast de AI programado antes de su hora.
+> Un Blast de AI programado no se puede eliminar, ni siquiera antes de su hora.
 
 ### Cómo ver los resultados
 
@@ -82,29 +83,19 @@ En **Interacciones > Blast**, tus Blast de AI llevan la etiqueta **AI**. Pulsa "
 
 ---
 
-## Limitaciones conocidas
-
-- **Solo se envía por correo.** La opción de WhatsApp no está disponible por ahora.
-- **Solo segmentos predefinidos o etiquetas.** Los segmentos avanzados no se pueden usar.
-- **Si algo falla al guardar o enviar, no aparece ningún aviso:** la pantalla simplemente no avanza. Si te pasa, revisa que todos los campos estén completos y escríbenos.
-- **Al editar un Blast de AI** tienes que volver a escribir el enlace y las instrucciones.
-- **No se puede duplicar** un Blast de AI.
-- **Con Plantillas AI Email, carga imágenes en la Galería para AI.** Si está vacía, la imagen principal del correo sale rota.
-- **La lista de objetivos** a veces muestra el nombre en inglés junto a la descripción.
-
 ## Preguntas frecuentes
 
 **¿Puedo ver el correo que recibirá cada persona antes de enviarlo?**
 No. La IA lo escribe en el momento del envío.
 
-**¿Cuesta algo adicional?**
-> **Pendiente de confirmar:** si cada correo escrito con IA tiene un costo extra.
-
 **¿Se excluyen las personas que no se pueden contactar?**
-> **Pendiente de confirmar.**
+Sí.
+
+**¿Con qué plantilla se envía mi correo?**
+Con alguna de las plantillas que tengas habilitadas en **AI > Plantillas AI Email**.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

@@ -1,16 +1,16 @@
-# Guía de Plantillas Afrus
+# Guía de Plantillas AFRUS
 
-Con esta guía vas a poder encontrar diseños listos para tus correos y páginas, crear tus propias plantillas y reconocer cuáles son tuyas y cuáles trae Afrus.
+Con esta guía vas a poder encontrar diseños listos para tus correos y páginas, crear tus propias plantillas y reconocer cuáles son tuyas y cuáles trae AFRUS.
 
-*Módulo: Plantillas Afrus · Menú: **Interacciones > Plantillas Afrus** · Audiencia: equipos de comunicaciones y diseño*
+*Módulo: Plantillas AFRUS · Menú: **Interacciones > Plantillas AFRUS** · Audiencia: equipos de comunicaciones y diseño*
 
 ---
 
-## Qué son las Plantillas Afrus
+## Qué son las Plantillas AFRUS
 
-**Las Plantillas Afrus son una biblioteca de diseños listos para usar:** correos, páginas (landings), archivos adjuntos y certificados.
+**Las Plantillas AFRUS son una biblioteca de diseños listos para usar:** correos, páginas (landings), archivos adjuntos y certificados.
 
-Algunas las trae Afrus y están disponibles para todas las organizaciones. Otras son las que crea tu equipo para tu organización.
+Algunas las trae AFRUS y están disponibles para todas las organizaciones. Otras son las que crea tu equipo para tu organización.
 
 ## Para qué sirven
 
@@ -24,8 +24,8 @@ Algunas las trae Afrus y están disponibles para todas las organizaciones. Otras
 
 ## Qué tipos de plantillas hay
 
-Al entrar a **Interacciones > Plantillas Afrus** verás una tabla con todas tus plantillas.
-![Lista de Plantillas Afrus con los filtros Tipo, Objetivo y Estado y las columnas Estado, Nombre, Tipo, Objetivo, Propietario e Idioma](img/plantillas-afrus-01.webp)
+Al entrar a **Interacciones > Plantillas AFRUS** verás una tabla con todas tus plantillas.
+![Lista de Plantillas AFRUS con los filtros Tipo, Objetivo y Estado y las columnas Estado, Nombre, Tipo, Objetivo, Propietario e Idioma](img/plantillas-afrus-01.webp)
 
 **Por tipo:**
 
@@ -42,8 +42,8 @@ Puedes filtrar la tabla por tipo, objetivo y estado para encontrar lo que buscas
 
 ## Cómo crear una nueva plantilla
 
-1. **Abre las plantillas.** Ve a **Interacciones > Plantillas Afrus** y haz clic en "Crear plantilla Afrus".
-   ![Formulario Crear plantilla Afrus con Información general: Nombre de plantilla, Estado, Tipo de plantilla, Objetivo e Idioma](img/plantillas-afrus-02.webp)
+1. **Abre las plantillas.** Ve a **Interacciones > Plantillas AFRUS** y haz clic en "Crear plantilla AFRUS".
+   ![Formulario Crear plantilla AFRUS con Información general: Nombre de plantilla, Estado, Tipo de plantilla, Objetivo e Idioma](img/plantillas-afrus-02.webp)
 
 2. **Completa la información general.**
    - **Nombre de plantilla** (obligatorio): un nombre que tu equipo reconozca.
@@ -54,21 +54,20 @@ Puedes filtrar la tabla por tipo, objetivo y estado para encontrar lo que buscas
 
 3. **Diseña el contenido.** En **Contenido de la plantilla**, haz clic en "Abrir Editor Visual" para diseñarla sin código. Si tienes el diseño en HTML, también puedes pegarlo ahí.
 
-4. **Guarda.** Haz clic en "Crear". Verás *"Plantilla Afrus creada exitosamente"*.
+4. **Guarda.** Haz clic en "Crear". Verás *"Plantilla AFRUS creada exitosamente"*.
 
-**¿Tienes diseños en la versión anterior de Afrus?** Con "Importar diseños de Afrus Classic" puedes traerlos al formulario de creación.
+**¿Tienes diseños en la versión anterior de AFRUS?** Con "Importar diseños de AFRUS Classic" puedes traerlos al formulario de creación.
 
 **Para editar una plantilla tuya:** en su fila, usa "Editar plantilla", haz los cambios y haz clic en "Guardar cambios".
 
 > **¿Se puede deshacer?** Eliminar una plantilla ("Eliminar plantilla") la quita de tu biblioteca.
-> **Pendiente de confirmar:** si una plantilla eliminada se puede recuperar.
 
-## Cómo diferenciar tus plantillas de las que trae Afrus
+## Cómo diferenciar tus plantillas de las que trae AFRUS
 
 Mira la columna **Propietario**:
 
 - **Organización:** la creó tu equipo. Puedes editarla, activarla o desactivarla y eliminarla.
-- **Genérica:** la trae Afrus y la comparten todas las organizaciones. No se puede editar ni eliminar.
+- **Genérica:** la trae AFRUS y la comparten todas las organizaciones. No se puede editar ni eliminar.
 
 **¿Quieres cambiar una plantilla genérica?** Usa "Duplicar plantilla en mi organización". Se crea una copia que es tuya (**Organización**) y esa sí la puedes editar.
 
@@ -89,17 +88,14 @@ En las galerías de correo aparecen las plantillas de tipo **Email**: las genér
 
 ## Preguntas frecuentes
 
-**¿Puedo editar una plantilla de Afrus?**
+**¿Puedo editar una plantilla de AFRUS?**
 No directamente. Duplícala en tu organización y edita la copia.
 
 **¿Mis plantillas las ven otras organizaciones?**
-No. Las plantillas de **Organización** son solo tuyas. Las **Genéricas** son las que comparte Afrus con todos.
-
-**¿Qué usuarios pueden crear plantillas?**
-> **Pendiente de confirmar:** qué perfiles de usuario tienen permiso.
+No. Las plantillas de **Organización** son solo tuyas. Las **Genéricas** son las que comparte AFRUS con todos.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

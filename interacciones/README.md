@@ -25,14 +25,14 @@ También disponible en [inglés](./blast-guide.en.md) y [portugués](./blast-gui
 - Rebotes: dónde verlos y cómo sacarlos de la base
 - Cómo limpiar la base, evitar el spam y buenas prácticas de envío masivo
 
-### [Guía de Plantillas Afrus](./plantillas-afrus-guide.md)
+### [Guía de Plantillas AFRUS](./plantillas-afrus-guide.md)
 
 También disponible en [inglés](./plantillas-afrus-guide.en.md) y [portugués](./plantillas-afrus-guide.pt.md).
 
-- Qué son las Plantillas Afrus y para qué sirven
+- Qué son las Plantillas AFRUS y para qué sirven
 - Qué tipos de plantillas hay
 - Cómo crear una nueva plantilla y cómo usarla
-- Cómo diferenciar tus plantillas de las que trae Afrus
+- Cómo diferenciar tus plantillas de las que trae AFRUS
 
 ## Audiencia
 

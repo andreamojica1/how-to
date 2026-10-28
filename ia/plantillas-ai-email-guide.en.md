@@ -14,14 +14,14 @@ With this guide you can choose the design of the emails the AI writes and create
 
 There are two kinds:
 
-- **Global:** templates prepared by Afrus. You can turn them on or off.
+- **Global:** templates prepared by AFRUS. You can turn them on or off.
 - **Propia** (Own): templates your organization creates. You can edit, duplicate or delete them.
 
 ## What it is for
 
-- **Giving the AI emails your style.** When an AI email uses a template design (in AI Blast and AI autoresponders), Afrus picks one of your active templates at random and the AI fills in the texts.
-- **Deciding which designs are used.** Only active templates are used: your templates set to **Habilitado** (Enabled) and the Afrus ones you haven't turned off.
-- **Never running out of a design.** If none is active, Afrus uses a standard design.
+- **Giving the AI emails your style.** When an AI email uses a template design (in AI Blast and AI autoresponders), AFRUS picks one of your active templates at random and the AI fills in the texts.
+- **Deciding which designs are used.** Only active templates are used: your templates set to **Habilitado** (Enabled) and the AFRUS ones you haven't turned off.
+- **Never running out of a design.** If none is active, AFRUS uses a standard design.
 
 ---
 
@@ -36,7 +36,7 @@ There are two kinds:
 
 2. **Use the switch.** In the **Estado** column, turn it on so the AI can use that template, or off so it doesn't. You will see *"Plantilla activada correctamente"* or *"Plantilla desactivada correctamente"* (template turned on / off).
 
-For Afrus templates (**Global**), turning them on or off is the only thing you can do, and the change only affects your organization.
+For AFRUS templates (**Global**), turning them on or off is the only thing you can do, and the change only affects your organization.
 
 ### Create your own template
 
@@ -70,21 +70,16 @@ On **Propia** templates you can:
 
 ---
 
-## Known limitations
-
-- **You can't choose which template each send uses.** Afrus picks at random among the active ones. If you want only one to be used, leave only that one active.
-- **Afrus templates (Global)** can't be edited, duplicated or deleted.
-
 ## Frequently asked questions
 
 **Do I need the AI turned on to use this screen?**
-> **Pending confirmation.**
+Yes.
 
-**How many Afrus templates are there?**
-> **Pending confirmation.**
+**Is there a limit on how many templates I can create?**
+No.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

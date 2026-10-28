@@ -64,7 +64,7 @@ El nuevo nombre se ve en todas las personas que tienen ese tag.
 
 > **¿Se puede deshacer?** No. Si borras un tag, no lo puedes recuperar.
 
-> **Importante:** un tag que se está usando en otras partes de Afrus (por ejemplo, en una secuencia, un newsletter o una etiqueta automática) no se puede borrar. En ese caso aparece un error que no explica el motivo. Si te pasa, revisa dónde estás usando ese tag y quítalo de ahí primero.
+> **Importante:** un tag que se está usando en otras partes de AFRUS (por ejemplo, en una secuencia, un newsletter o una etiqueta automática) no se puede borrar. En ese caso aparece un error que no explica el motivo. Si te pasa, revisa dónde estás usando ese tag y quítalo de ahí primero.
 
 ## Estadísticas de tags
 
@@ -108,7 +108,7 @@ Si marcas varias categorías, el tag se le pone a quien cumpla **cualquiera** de
 ## Preguntas frecuentes
 
 **¿Puedo tener dos tags con el mismo nombre?**
-> **Pendiente de confirmar:** si Afrus permite dos tags con el mismo nombre. Te recomendamos usar nombres distintos para no confundirte.
+Sí.
 
 **¿Dónde veo los tags de una persona?**
 En su perfil, sección **Etiquetas**, y en la columna **Tags** de **Personas**.
@@ -117,4 +117,4 @@ En su perfil, sección **Etiquetas**, y en la columna **Tags** de **Personas**.
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

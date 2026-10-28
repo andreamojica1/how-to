@@ -1,6 +1,6 @@
 # Guía de Entrenamiento [AI RAG]
 
-Con esta guía vas a poder enseñarle a la IA de Afrus quién es tu organización: subir documentos, agregar páginas web y escribirle instrucciones.
+Con esta guía vas a poder enseñarle a la IA de AFRUS quién es tu organización: subir documentos, agregar páginas web y escribirle instrucciones.
 
 *Módulo: AI · Menú: **AI > Entrenamiento [AI RAG]** · Audiencia: equipos de comunicaciones y recaudación*
 
@@ -8,7 +8,7 @@ Con esta guía vas a poder enseñarle a la IA de Afrus quién es tu organizació
 
 ## Qué es el Entrenamiento [AI RAG]
 
-**Es el lugar donde le das a la IA de Afrus la información de tu organización.** Aquí subes documentos, agregas páginas web y escribes instrucciones.
+**Es el lugar donde le das a la IA de AFRUS la información de tu organización.** Aquí subes documentos, agregas páginas web y escribes instrucciones.
 
 La IA usa todo eso para responder en **Chat con AI** y en los **Agentes para la web** (el chat que puedes poner en tu sitio). Mientras mejor sea la información que le das, mejores serán sus respuestas.
 
@@ -24,7 +24,7 @@ La pantalla tiene tres pestañas: **Documentos**, **Instrucciones** y **URL'S**.
 
 ## Antes de empezar
 
-- **Activa la IA de Afrus.** Se activa desde el **Business profile** (menú de perfil, esquina superior): crea tu perfil y, en el último paso, pulsa "Enviar AI". Si no lo has hecho, al entrar verás el aviso *"¡Ups! Parece que no tienes un Business Profile"* con el botón "Crear Business Profile".
+- **Activa la IA de AFRUS.** Se activa desde el **Business profile** (menú de perfil, esquina superior): crea tu perfil y, en el último paso, pulsa "Enviar AI". Si no lo has hecho, al entrar verás el aviso *"¡Ups! Parece que no tienes un Business Profile"* con el botón "Crear Business Profile".
 
 ---
 
@@ -35,8 +35,6 @@ La pantalla tiene tres pestañas: **Documentos**, **Instrucciones** y **URL'S**.
 En **Documentos** subes los archivos que describen a tu organización: informes de impacto, presentaciones institucionales, preguntas frecuentes, descripciones de tus programas o campañas.
 
 **Tipos de archivo aceptados:** PDF, DOC, DOCX, CSV, TXT y PPTX. La pantalla indica un máximo de 10 MB por archivo.
-
-> **Pendiente de confirmar:** si el límite de 10 MB se aplica siempre.
 
 1. **Abre la pestaña Documentos.** Entra a **AI > Entrenamiento [AI RAG]** y elige **Documentos**.
    ![Pestaña Documentos con la zona Suelta aquí tus documentos y el botón Nuevo](img/entrenamiento-ai-02.webp)
@@ -72,7 +70,7 @@ Por ejemplo: "Somos una fundación que protege bosques en Colombia. Habla de for
 
 Las instrucciones valen para toda tu organización, y la IA las usa junto con los documentos de ese tema.
 
-> **Ten en cuenta:** los temas (atributos) los define Afrus; no puedes crear temas nuevos aquí.
+> **Ten en cuenta:** los temas (atributos) los define AFRUS; no puedes crear temas nuevos aquí.
 
 **Atajos de conversación:** en esta misma pestaña verás **Atajos de conversación**, para guardar preguntas frecuentes como botones del chat. Hoy esos botones no aparecen en **Chat con AI**, así que por ahora no hace falta configurarlos.
 
@@ -88,8 +86,6 @@ En **URL'S** agregas páginas web de tu organización para que la IA las lea: po
 3. **Completa los datos.** Escribe la dirección en **URL:** (obligatoria). Si quieres, elige **Atributos** y escribe etiquetas en **Escribe tu Tag**.
 
 4. **Guarda.** Pulsa "Guardar cambios". Verás *"¡URL guardada con éxito!"*
-
-> **Pendiente de confirmar:** si la IA lee solo esa página o también las páginas que cuelgan de ella. Por ahora, agrega una por una las páginas más importantes.
 
 **Ten en cuenta:** si pulsas "Guardar cambios" sin haber cambiado nada, puede aparecer un aviso con texto técnico. No pasa nada: tu información ya estaba guardada.
 
@@ -108,12 +104,6 @@ En **URL'S** agregas páginas web de tu organización para que la IA las lea: po
 
 ---
 
-## Limitaciones conocidas
-
-- El buscador de **Documentos guardados** no filtra.
-- Los atajos de conversación no aparecen en el chat.
-- Algunos errores al subir o borrar documentos aparecen con texto técnico. Si ves uno, escríbenos.
-
 ## Preguntas frecuentes
 
 **¿Cuánto tarda la IA en usar un documento nuevo?**
@@ -122,11 +112,8 @@ Lo puede usar apenas termina la carga.
 **¿Qué pasa si subo un documento sin elegir tema?**
 Sirve para todos los temas.
 
-**¿Las etiquetas cambian cómo responde la IA?**
-> **Pendiente de confirmar:** hoy se guardan, pero no está confirmado que cambien las respuestas.
-
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

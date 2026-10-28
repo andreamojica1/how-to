@@ -10,17 +10,17 @@ Depois de ler este guia, você vai saber o que é o Business profile, para que e
 
 ## O que é o Business profile
 
-**O Business profile é a página pública da sua organização na Afrus.** Ele tem um endereço próprio, do tipo `https://afrus.org/business/<sua-url>`, e reúne seus dados de contato, redes sociais, textos, perguntas frequentes, logotipo e cores.
+**O Business profile é a página pública da sua organização na AFRUS.** Ele tem um endereço próprio, do tipo `https://afrus.org/business/<sua-url>`, e reúne seus dados de contato, redes sociais, textos, perguntas frequentes, logotipo e cores.
 
-As mesmas informações também alimentam a inteligência artificial da Afrus, para que as funções de IA conheçam a sua organização.
+As mesmas informações também alimentam a inteligência artificial da AFRUS, para que as funções de IA conheçam a sua organização.
 
 ## Para que serve
 
 - **Ter uma página onde qualquer pessoa pode fazer uma doação.** Como diz a própria tela: *"Tu empresa tiene una página donde cualquiera puede pagarte."* ("Sua empresa tem uma página onde qualquer pessoa pode pagar você.")
 - **Mostrar seus widgets principais.** A página mostra o widget de doação e o widget de cadastro que você marcou como padrão.
-- **Enviar links de pagamento.** Os links de pagamento que você envia pela Afrus (pela **Home** ou pelo perfil de uma pessoa) apontam para o endereço do seu Business profile. Sem Business profile com URL, o link de pagamento não pode ser enviado.
+- **Enviar links de pagamento.** Os links de pagamento que você envia pela AFRUS (pela **Home** ou pelo perfil de uma pessoa) apontam para o endereço do seu Business profile. Sem Business profile com URL, o link de pagamento não pode ser enviado.
 - **Ter seu QR code e seu link de pagamento à mão.** Quando o Business profile tem URL, a **Home** mostra um QR code e o formulário de **Link de pago** (link de pagamento).
-- **Alimentar a IA da Afrus.** Com "Enviar AI" (enviar para a IA), a descrição, o texto "Sobre nosotros" (Sobre nós) e as perguntas frequentes são enviados para a IA. Algumas funções, como **Experiences AI**, pedem que o Business profile esteja atualizado.
+- **Alimentar a IA da AFRUS.** Com "Enviar AI" (enviar para a IA), a descrição, o texto "Sobre nosotros" (Sobre nós) e as perguntas frequentes são enviados para a IA. Algumas funções, como **Experiences AI**, pedem que o Business profile esteja atualizado.
 
 ## Antes de começar
 
@@ -40,11 +40,11 @@ O Business profile é criado com um assistente de 7 etapas: **URL**, **Contacto*
 1. **Abra o Business profile.** No menu de perfil (canto superior), escolha **Business profile**. Acima do assistente você verá o **Estado** (Status); se ainda não criou, ele mostra **Incompleto**.
    ![Menu de perfil aberto com a opção Business profile](img/como-crear-el-business-profile-01.webp)
 
-2. **Escolha sua URL.** Na etapa **URL**, digite a parte final do endereço no campo **URL del negocio** (URL do negócio) — o início do endereço é fixo — e clique em "Continuar". A Afrus verifica se ela está livre; se já estiver em uso, você verá *"La URL no está disponible"* (A URL não está disponível) e precisará escolher outra.
+2. **Escolha sua URL.** Na etapa **URL**, digite a parte final do endereço no campo **URL del negocio** (URL do negócio) — o início do endereço é fixo — e clique em "Continuar". A AFRUS verifica se ela está livre; se já estiver em uso, você verá *"La URL no está disponible"* (A URL não está disponível) e precisará escolher outra.
 
    > **Importante:** depois de criar o perfil, a URL fica bloqueada e não pode ser alterada.
 
-3. **Preencha seus dados de contato.** Na etapa **Contacto**, preencha **¿Cuál es el nombre de tu organización?** (nome da organização), **Número de identificación pública** (número de identificação pública), **Teléfono** (telefone), **Dirección** (endereço), **Ciudad** (cidade) e **Correo electrónico** (e-mail). Todos são obrigatórios. Na primeira vez, a Afrus preenche com os dados da sua organização; confira e clique em "Continuar".
+3. **Preencha seus dados de contato.** Na etapa **Contacto**, preencha **¿Cuál es el nombre de tu organización?** (nome da organização), **Número de identificación pública** (número de identificação pública), **Teléfono** (telefone), **Dirección** (endereço), **Ciudad** (cidade) e **Correo electrónico** (e-mail). Todos são obrigatórios. Na primeira vez, a AFRUS preenche com os dados da sua organização; confira e clique em "Continuar".
 
 4. **Adicione suas redes sociais.** Na etapa **Redes sociales**, ative a chave de cada rede que quer mostrar (Facebook, Instagram, Youtube, WhatsApp, Linkedin, TikTok) e cole o link. Com a chave ativa, o link é obrigatório. Assim seus doadores encontram seus canais pela página.
 
@@ -56,7 +56,7 @@ O Business profile é criado com um assistente de 7 etapas: **URL**, **Contacto*
 
 8. **Escolha um tema e salve.** Na etapa **Tema**, escolha uma das 9 combinações de cores e clique em "Guardar" (o botão fica ativo quando há um tema escolhido).
 
-9. **Envie as informações para a IA (recomendado).** Na mesma etapa **Tema**, clique em "Enviar AI". Você verá *"Información enviada correctamente"* (Informação enviada com sucesso) e o status mudará para **Sincronizado con AI** (Sincronizado com a IA). Assim as funções de IA da Afrus trabalham com as informações da sua organização.
+9. **Envie as informações para a IA (recomendado).** Na mesma etapa **Tema**, clique em "Enviar AI". Você verá *"Información enviada correctamente"* (Informação enviada com sucesso) e o status mudará para **Sincronizado con AI** (Sincronizado com a IA). Assim as funções de IA da AFRUS trabalham com as informações da sua organização.
 
 Ao terminar, você verá a mensagem *"¡Listo!"* (Pronto!) com *"Perfil de negocio creado correctamente."* (Perfil de negócio criado com sucesso) e o botão "Continuar". O status muda para **Guardado sin enviar a AI** (Salvo sem enviar para a IA), ou para **Sincronizado con AI** se você fez a etapa 9.
 
@@ -88,7 +88,7 @@ Ao terminar, você verá a estrela ao lado do nome do widget escolhido, e o seu 
 
 > **Dá para desfazer?** Sim. No mesmo menu de três pontos, escolha **Quitar predeterminado** (Remover padrão) ou marque outro widget como padrão. Lembre-se: se não houver widget padrão para um objetivo, a página não mostra esse widget.
 
-> **Pendente de confirmação:** o que a página faz se o widget padrão estiver desativado, e em que parte da página aparece cada widget. Enquanto isso, recomendamos marcar como padrão um widget ativo.
+> **Importante:** os dois widgets, o de doação e o de cadastro, precisam estar configurados para aparecer na página do seu Business profile.
 
 ---
 
@@ -99,15 +99,7 @@ Ao terminar, você verá a estrela ao lado do nome do widget escolhido, e o seu 
 | **Incompleto** | Você ainda não criou o Business profile | Crie seguindo este guia |
 | **Guardado sin enviar a AI** (Salvo sem enviar para a IA) | O perfil existe, mas as informações não foram enviadas para a IA | Clique em "Enviar AI" na etapa **Tema** |
 | **Pendiente de sincronización con AI** (Sincronização pendente) | Você alterou as perguntas frequentes e falta enviá-las para a IA | Clique em "Enviar AI" na etapa **Tema** |
-| **Sincronizado con AI** (Sincronizado com a IA) | As informações foram enviadas para a IA da Afrus | Nada; envie de novo se fizer mudanças |
-
-## Limitações conhecidas
-
-- **A URL não pode ser alterada** depois que o perfil é criado.
-- **Um widget padrão não pode ser excluído** pelo seu menu: primeiro remova a marca de padrão ou marque outro.
-- **Perguntas frequentes com mais de 300 caracteres:** se uma pergunta ou resposta passar do limite, o aviso de erro pode aparecer como um texto técnico em vez de uma mensagem clara. Se aparecer um texto estranho ao salvar, encurte a pergunta ou a resposta.
-- **Cidade e TikTok:** são salvos, mas podem não aparecer na página pública.
-- **Para a IA são enviados apenas** o nome, a descrição, o texto "Sobre nosotros" e as perguntas frequentes.
+| **Sincronizado con AI** (Sincronizado com a IA) | As informações foram enviadas para a IA da AFRUS | Nada; envie de novo se fizer mudanças |
 
 ## Perguntas frequentes
 
@@ -129,4 +121,4 @@ Seu Business profile passa a mostrar o novo widget padrão daquele objetivo.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-26*

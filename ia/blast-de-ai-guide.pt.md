@@ -22,10 +22,11 @@ Você escolhe quem recebe, o objetivo e o que quer dizer. A IA escreve um e-mail
 - **Personalizar cada mensagem.** Cada pessoa recebe um texto escrito para ela.
 - **Enviar para um grupo específico.** Você escolhe um segmento ou uma etiqueta.
 - **Medir resultados.** Você vê aberturas, cliques e rejeições, como em um Blast comum.
+- **Crie sua assinatura em AI > Firmas de usuarios.** Sem assinatura você não consegue fazer envios com IA.
 
 ## Antes de começar
 
-- **Ative a IA da Afrus** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Sem isso, a lista de objetivos não carrega e você não consegue avançar.
+- **Ative a IA da AFRUS** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Sem isso, a lista de objetivos não carrega e você não consegue avançar.
 - **Envie informações em AI > Entrenamiento [AI RAG].** É isso que a IA usa para escrever.
 - **Tenha prontos sua conta de e-mail de envio e seus créditos,** como em um Blast comum.
 - **Opcional:** se quiser e-mails com design e imagens, revise **AI > Plantillas AI Email** e **AI > Galería para AI**.
@@ -76,7 +77,7 @@ Ao terminar, você verá *"Blast IA enviado con éxito"* (Blast de IA enviado co
 
 > **Dá para desfazer?** Revise tudo antes de clicar em "Finalizar".
 >
-> **Pendente de confirmação:** se um Blast de IA agendado pode ser cancelado antes do horário.
+> Um Blast de IA agendado não pode ser excluído, nem mesmo antes do horário.
 
 ### Como ver os resultados
 
@@ -84,29 +85,19 @@ Em **Interacciones > Blast**, seus Blasts de IA têm a etiqueta **AI**. Clique e
 
 ---
 
-## Limitações conhecidas
-
-- **Só por e-mail.** A opção de WhatsApp não está disponível por enquanto.
-- **Só segmentos predefinidos ou etiquetas.** Segmentos avançados não podem ser usados.
-- **Se algo falhar ao salvar ou enviar, nenhum aviso aparece:** a tela simplesmente não avança. Se acontecer, confira se todos os campos estão preenchidos e fale com a gente.
-- **Ao editar um Blast de IA** você precisa escrever de novo o link e as instruções.
-- **Não é possível duplicar** um Blast de IA.
-- **Com Plantillas AI Email, envie imagens para a Galería para AI.** Se ela estiver vazia, a imagem principal do e-mail aparece quebrada.
-- **A lista de objetivos** às vezes mostra o nome em inglês ao lado da descrição.
-
 ## Perguntas frequentes
 
 **Posso ver o e-mail que cada pessoa vai receber antes de enviar?**
 Não. A IA o escreve no momento do envio.
 
-**Tem custo adicional?**
-> **Pendente de confirmação:** se cada e-mail escrito com IA tem um custo extra.
-
 **As pessoas que não podem ser contatadas ficam de fora?**
-> **Pendente de confirmação.**
+Sim.
+
+**Com qual modelo meu e-mail é enviado?**
+Com algum dos modelos que você tem habilitados em **AI > Plantillas AI Email**.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

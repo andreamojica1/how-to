@@ -8,9 +8,9 @@ Con esta guía vas a poder enviar correos automáticos a tus donantes y contacto
 
 ## Qué es un autoresponder
 
-**Un autoresponder es un correo que Afrus envía solo, a una persona, cuando pasa algo.** Por ejemplo: cuando alguien se registra, cuando su donación se confirma o falla, o cuando se le cobra su donación mensual.
+**Un autoresponder es un correo que AFRUS envía solo, a una persona, cuando pasa algo.** Por ejemplo: cuando alguien se registra, cuando su donación se confirma o falla, o cuando se le cobra su donación mensual.
 
-Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento.
+Tú escribes el correo una vez y AFRUS lo envía cada vez que ocurre ese evento.
 
 ## Para qué sirve
 
@@ -21,10 +21,10 @@ Tú escribes el correo una vez y Afrus lo envía cada vez que ocurre ese evento.
 
 ## Antes de empezar
 
-- **Un correo desde el cual enviar.** Siempre puedes usar el correo de Afrus. Si quieres enviar desde el correo de tu organización (por ejemplo, donaciones@tuorg.org), primero hay que verificar tu dominio. Lo ves en la tarjeta que aparece arriba de la lista de autoresponders.
+- **Un correo desde el cual enviar.** Siempre puedes usar el correo de AFRUS. Si quieres enviar desde el correo de tu organización (por ejemplo, donaciones@tuorg.org), primero hay que verificar tu dominio. Lo ves en la tarjeta que aparece arriba de la lista de autoresponders.
 - **Tener claro el evento.** Piensa en qué momento quieres que llegue el correo: al donar, al registrarse, al fallar un pago…
 
-> **Recomendado:** verificar tu dominio ayuda a que tus correos lleguen a la bandeja de entrada. El botón "Configurar DNS" de la tarjeta abre la versión anterior de Afrus, por eso se ve distinta. La verificación puede tardar hasta 48 horas.
+> **Recomendado:** verificar tu dominio ayuda a que tus correos lleguen a la bandeja de entrada. El botón "Configurar DNS" de la tarjeta abre la versión anterior de AFRUS, por eso se ve distinta. La verificación puede tardar hasta 48 horas.
 
 ---
 
@@ -82,7 +82,9 @@ Al terminar, el autoresponder aparece en la lista como **Activo** y se envía ca
 
 ### Crear un autoresponder con IA
 
-Si prefieres que Afrus escriba el correo por ti:
+Si prefieres que AFRUS escriba el correo por ti:
+
+> **Importante:** para configurar autoresponders con IA, tu usuario necesita tener una firma creada en **AI > Firmas de usuarios**. Si no tienes firmas de usuario, no podrás configurar autoresponders con IA.
 
 1. **Busca el evento.** En la pestaña **Genérico**, busca un evento que diga **No configurado** y haz clic en "Configurar".
 2. **Elige Con IA.** En **Modo de creación**, elige **Con IA**.
@@ -104,8 +106,8 @@ Si prefieres que Afrus escriba el correo por ti:
 ## Qué tener en cuenta si tienes un formulario en varios idiomas
 
 - **Cada idioma es un correo distinto.** Para tener la versión en inglés, cambia el selector de idioma a **Inglés (EN)** y créala aparte. Lo mismo para portugués.
-- **Afrus elige el idioma de la persona.** Si la persona tiene un idioma, recibe el correo en ese idioma.
-- **Si falta un idioma, se usa el genérico.** Si no tienes el correo en el idioma de la persona, Afrus le envía tu autoresponder **Genérico**, aunque esté en otro idioma. Es mejor recibir un agradecimiento en otro idioma que no recibir nada.
+- **AFRUS elige el idioma de la persona.** Si la persona tiene un idioma, recibe el correo en ese idioma.
+- **Si falta un idioma, se usa el genérico.** Si no tienes el correo en el idioma de la persona, AFRUS le envía tu autoresponder **Genérico**, aunque esté en otro idioma. Es mejor recibir un agradecimiento en otro idioma que no recibir nada.
 - **Los de campaña y de formulario son más estrictos.** Solo se envían en su idioma exacto. Si no existen en el idioma de la persona, le llega el genérico.
 
 **Recomendación:** si tu formulario recibe donaciones en varios idiomas, crea el autoresponder en cada uno de esos idiomas, empezando por el **Genérico**.
@@ -118,7 +120,7 @@ Si prefieres que Afrus escriba el correo por ti:
 | **Por campaña** | Cuando una campaña necesita un mensaje propio | "Gracias por apoyar nuestra campaña de Navidad" |
 | **Por formulario** | Cuando un formulario concreto necesita un mensaje propio | Un correo especial para quienes donan desde tu página de emergencias |
 
-**Cómo elige Afrus qué correo enviar:** busca primero el más específico y, si no lo hay, el más general. El orden es: campaña y formulario juntos, después campaña, después formulario y, al final, el **Genérico**. Solo cuenta lo que esté **Activo**.
+**Cómo elige AFRUS qué correo enviar:** busca primero el más específico y, si no lo hay, el más general. El orden es: campaña y formulario juntos, después campaña, después formulario y, al final, el **Genérico**. Solo cuenta lo que esté **Activo**.
 
 **Recomendación:** crea primero el **Genérico** de cada evento importante. Así nadie se queda sin respuesta, aunque una campaña o un formulario no tenga su propio correo.
 
@@ -135,7 +137,7 @@ Si prefieres que Afrus escriba el correo por ti:
 
 ## Cuándo llega el correo
 
-Afrus revisa los eventos nuevos cada 5 minutos, así que el correo suele llegar a los pocos minutos de que pase el evento.
+AFRUS revisa los eventos nuevos cada 5 minutos, así que el correo suele llegar a los pocos minutos de que pase el evento.
 
 ## Para tener en cuenta
 
@@ -147,19 +149,16 @@ Afrus revisa los eventos nuevos cada 5 minutos, así que el correo suele llegar 
 ## Preguntas frecuentes
 
 **¿Desde qué correo salen mis autoresponders?**
-Desde el correo de Afrus, hasta que verifiques tu dominio. Después podrás elegir los correos de los usuarios de tu organización que terminen en tu dominio.
+Desde el correo de AFRUS, hasta que verifiques tu dominio. Después podrás elegir los correos de los usuarios de tu organización que terminen en tu dominio.
 
 **¿Puedo poner el nombre del donante en el correo?**
 Sí. Usa el "Mapa de mergetags" para copiar el dato que quieras, por ejemplo el nombre, y pégalo en el asunto o en el cuerpo del correo.
 
 **¿Los autoresponders se envían a personas que se dieron de baja o cuyo correo rebota?**
-> **Pendiente de confirmar:** si se excluyen esas personas.
-
-**¿Qué usuarios pueden crear autoresponders?**
-> **Pendiente de confirmar:** qué perfiles de usuario tienen permiso.
+Sí. AFRUS deja fuera a esas personas.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

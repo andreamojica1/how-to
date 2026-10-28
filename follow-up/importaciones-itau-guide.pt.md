@@ -1,6 +1,6 @@
 # Guia de Importações Itaú
 
-Depois de ler este guia, você vai saber o que é **Importaciones - itaú** (Importações Itaú), para que serve e como carregar o arquivo de retorno do banco Itaú para que a Afrus registre as doações dos boletos pagos.
+Depois de ler este guia, você vai saber o que é **Importaciones - itaú** (Importações Itaú), para que serve e como carregar o arquivo de retorno do banco Itaú para que a AFRUS registre as doações dos boletos pagos.
 
 *Módulo: Follow up · Menu: **Follow up > Importaciones - itaú** · Público: equipes de captação e financeiro de organizações no Brasil*
 
@@ -10,7 +10,7 @@ Depois de ler este guia, você vai saber o que é **Importaciones - itaú** (Imp
 
 ## O que são as Importações Itaú
 
-**Importaciones - itaú é onde você carrega o arquivo de retorno que o banco Itaú entrega (formato CNAB 400) depois de processar seus boletos, para que a Afrus registre como doações os boletos pagos.**
+**Importaciones - itaú é onde você carrega o arquivo de retorno que o banco Itaú entrega (formato CNAB 400) depois de processar seus boletos, para que a AFRUS registre como doações os boletos pagos.**
 
 É o último passo do caminho do **Follow up > Boleto Itaú**: você gera os boletos, envia ao banco, o banco devolve o resultado e você o carrega aqui.
 
@@ -22,7 +22,7 @@ Depois de ler este guia, você vai saber o que é **Importaciones - itaú** (Imp
 
 ## Antes de começar
 
-- **Tenha o arquivo de retorno do banco** (CNAB 400) de boletos gerados pela Afrus.
+- **Tenha o arquivo de retorno do banco** (CNAB 400) de boletos gerados pela AFRUS.
 - **Tenha uma campanha ativa** onde registrar as doações.
 - **Confira os dados das pessoas.** Para registrar a doação, cada pessoa precisa de CEP, tipo de documento e número de documento.
 
@@ -49,11 +49,9 @@ Você verá o diálogo **Importación en proceso** (Importação em andamento): 
 
 > **Importante:** esse diálogo pode aparecer mesmo que o envio do arquivo tenha falhado. Confirme sempre que a sua importação aparece na lista de **Follow up > Importaciones - itaú**.
 
-> **Dá para desfazer?** **Pendente de confirmação:** se uma importação pode ser cancelada. Confira a campanha e o arquivo antes de clicar em "Importar".
+### O que a AFRUS faz com o arquivo
 
-### O que a Afrus faz com o arquivo
-
-Para cada linha do arquivo, a Afrus identifica a pessoa do boleto. Se ela tiver CEP, tipo e número de documento, a Afrus registra uma **doação com sucesso** pelo valor do boleto, em reais (BRL), com método boleto, na campanha e no widget escolhidos. Se faltarem esses dados, a linha fica com **Error** e o boleto aparece como **Pagado - no registrado** (Pago - não registrado) em **Follow up > Boleto Itaú**.
+Para cada linha do arquivo, a AFRUS identifica a pessoa do boleto. Se ela tiver CEP, tipo e número de documento, a AFRUS registra uma **doação com sucesso** pelo valor do boleto, em reais (BRL), com método boleto, na campanha e no widget escolhidos. Se faltarem esses dados, a linha fica com **Error** e o boleto aparece como **Pagado - no registrado** (Pago - não registrado) em **Follow up > Boleto Itaú**.
 
 A importação fica finalizada quando todas as linhas terminam de ser processadas.
 
@@ -88,20 +86,10 @@ A importação fica finalizada quando todas as linhas terminam de ser processada
 - **O processamento acontece em segundo plano** e leva alguns minutos, segundo a mensagem da tela.
 - **A tela não se atualiza sozinha.** Recarregue para ver o avanço.
 
-## Limitações conhecidas
-
-- **O diálogo "Importación en proceso" aparece mesmo que o envio tenha falhado.** Confira se a importação aparece na lista.
-- **Os status da importação aparecem em inglês.**
-- **Só serve para boletos Itaú (Brasil)**, embora o menu apareça para todas as organizações.
-
 ## Perguntas frequentes
 
 **O que acontece com os boletos que o banco rejeitou?**
 Eles aparecem como **Rechazado** (Rejeitado) em **Follow up > Boleto Itaú**.
-> **Pendente de confirmação:** como a importação trata as linhas de boletos rejeitados. Fale com a gente se encontrar uma doação que não deveria estar lá.
-
-**O que acontece se eu carregar o mesmo arquivo duas vezes?**
-> **Pendente de confirmação.** Enquanto isso, confira a lista antes de carregar um arquivo de novo.
 
 **Posso usar uma campanha inativa?**
 Não. Só aparecem campanhas ativas.
@@ -110,4 +98,4 @@ Não. Só aparecem campanhas ativas.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

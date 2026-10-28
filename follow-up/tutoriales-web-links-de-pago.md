@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es un link de pago
 Slug: que-es-un-link-de-pago
 Categoría: Follow up
-Resumen: Aprende qué es un link de pago en Afrus: un enlace personalizado que envías por correo para que una persona done.
+Resumen: Aprende qué es un link de pago en AFRUS: un enlace personalizado que envías por correo para que una persona done.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -47,7 +47,7 @@ Relacionados: que-es-un-link-de-pago, desde-donde-se-crean-los-links-de-pago, co
 <li><strong>Reenviar un link</strong> desde la lista con "Reenviar", si la persona no lo encuentra.</li>
 </ul>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo enviar el link por WhatsApp?</strong> No por ahora. Afrus envía los links de pago solo por correo electrónico.</p>
+<p><strong>¿Puedo enviar el link por WhatsApp?</strong> No por ahora. AFRUS envía los links de pago solo por correo electrónico.</p>
 === FIN ===
 ```
 
@@ -57,7 +57,7 @@ Idioma: es
 Título: Desde dónde se crean los links de pago
 Slug: desde-donde-se-crean-los-links-de-pago
 Categoría: Follow up
-Resumen: Aprende desde qué pantallas de Afrus puedes crear y enviar un link de pago.
+Resumen: Aprende desde qué pantallas de AFRUS puedes crear y enviar un link de pago.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -121,7 +121,7 @@ Idioma: en
 Título: What a payment link is
 Slug: what-is-a-payment-link
 Categoría: Follow up
-Resumen: Learn what a payment link is in Afrus: a personalized link you email to a person so they can donate.
+Resumen: Learn what a payment link is in AFRUS: a personalized link you email to a person so they can donate.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -159,7 +159,7 @@ Relacionados: what-is-a-payment-link, where-payment-links-are-created, how-to-cr
 <li><strong>Resending a link</strong> from the list with "Reenviar" (Resend), if the person can't find it.</li>
 </ul>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I send the link by WhatsApp?</strong> Not for now. Afrus sends payment links by email only.</p>
+<p><strong>Can I send the link by WhatsApp?</strong> Not for now. AFRUS sends payment links by email only.</p>
 === FIN ===
 ```
 
@@ -169,7 +169,7 @@ Idioma: en
 Título: Where payment links are created
 Slug: where-payment-links-are-created
 Categoría: Follow up
-Resumen: Learn which Afrus screens you can use to create and send a payment link.
+Resumen: Learn which AFRUS screens you can use to create and send a payment link.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -234,7 +234,7 @@ Idioma: pt-BR
 Título: O que é um link de pagamento
 Slug: o-que-e-um-link-de-pagamento
 Categoría: Follow up
-Resumen: Aprenda o que é um link de pagamento na Afrus: um link personalizado que você envia por e-mail para uma pessoa doar.
+Resumen: Aprenda o que é um link de pagamento na AFRUS: um link personalizado que você envia por e-mail para uma pessoa doar.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -272,7 +272,7 @@ Relacionados: o-que-e-um-link-de-pagamento, onde-sao-criados-os-links-de-pagamen
 <li><strong>Reenviar um link</strong> pela lista com "Reenviar", se a pessoa não o encontrar.</li>
 </ul>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso enviar o link pelo WhatsApp?</strong> Por enquanto não. A Afrus envia os links de pagamento só por e-mail.</p>
+<p><strong>Posso enviar o link pelo WhatsApp?</strong> Por enquanto não. A AFRUS envia os links de pagamento só por e-mail.</p>
 === FIN ===
 ```
 
@@ -282,7 +282,7 @@ Idioma: pt-BR
 Título: Onde são criados os links de pagamento
 Slug: onde-sao-criados-os-links-de-pagamento
 Categoría: Follow up
-Resumen: Aprenda em quais telas da Afrus você pode criar e enviar um link de pagamento.
+Resumen: Aprenda em quais telas da AFRUS você pode criar e enviar um link de pagamento.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente

@@ -22,7 +22,7 @@ The pages you create here live only in **Fundraising > Experiences AI**: they ar
 
 ## Before you start
 
-- **Activate Afrus AI.** If it isn't active, you will see the notice *"Activación necesaria para usar afrus experience"* (Activation required to use afrus experience) with the button "Ir a business profile" (Go to business profile). To activate it, complete your **Business profile** (profile menu, top corner) and, in the last step, click "Enviar AI" (Send to AI). When the profile status says **Sincronizado con AI** (Synced with AI), you can use the module.
+- **Activate AFRUS AI.** If it isn't active, you will see the notice *"Activación necesaria para usar afrus experience"* (Activation required to use afrus experience) with the button "Ir a business profile" (Go to business profile). To activate it, complete your **Business profile** (profile menu, top corner) and, in the last step, click "Enviar AI" (Send to AI). When the profile status says **Sincronizado con AI** (Synced with AI), you can use the module.
 - **Have a donation widget created** if you are going to make a **Donación** (Donation) page.
 
 ---
@@ -60,7 +60,7 @@ When you finish, your page is online at the address shown in **URL de tu web:** 
 
 ## How to change my landing page's template
 
-When the experience is created, Afrus randomly assigns one of the templates available for its type. You can change it whenever you like.
+When the experience is created, AFRUS randomly assigns one of the templates available for its type. You can change it whenever you like.
 
 1. **Open the editor.** In **Fundraising > Experiences AI**, click the experience's pencil icon.
 2. **Change the design.** In the top bar, click "Cambiar diseño" (Change design). Each click moves to the next available template of the same type (Donation or Thank you); after the last one, it goes back to the first. Your existing texts are kept and fit into the new design.
@@ -111,8 +111,6 @@ The page's frequently asked questions are the ones in the **Preguntas Frecuentes
 
 > **Important:** the FAQs are the same for all your organization's experiences; there are no per-experience FAQs.
 
-> **Pending confirmation:** whether every template has an FAQ section. If you don't see the questions on your page, try another template with "Cambiar diseño".
-
 > **Can it be undone?** Deleting a question is immediate and has no confirmation; to get it back, write it again.
 
 ---
@@ -124,18 +122,6 @@ The page's frequently asked questions are the ones in the **Preguntas Frecuentes
 | **Borrador** (Draft) | Created but never published. It has no public link | Open it with the pencil and click "Publicar" |
 | **Habilitado** (Enabled) | Published at least once | Copy the link, view the page and download the QR code |
 | **Deshabilitado** (Disabled) | Marked as disabled in the list | Turn it back on with the **Estado** (Status) switch |
-
-> **Pending confirmation:** whether the public page stops showing when you disable or delete an experience.
-
-## Known limitations
-
-- **Goal and currency:** they can't be set or changed from this module. The experience stores a default goal of 10,000. For now there is no alternative within Afrus.
-- **Only two types:** you can create **Donación** or **Agradecimiento**. Although "Registro" (Registration) appears in some texts and in the **Tipos** (Types) filter, it can't be created; and the **Tipos** filter has no option for Thank you.
-- **Label on Thank you pages:** in the **Configuracion** tab of a Thank you experience, the top label says "Registro".
-- **"Editar con IA" on Thank you pages:** it doesn't generate anything and the preview may keep loading. Reload the page and edit the text by hand.
-- **Type column in English:** the list shows `donation` or `gratitude`.
-- **Untranslated texts:** some editor buttons look the same in every language ("Recolor", "Aplicar", "Logo", "Widget afrus:", "Google tag manager", "Editar con IA", "Copiar link", "Descargar QR", "Eliminar").
-- **Same address as a landing:** if you publish a landing from the **Landings** module and an experience on the same domain and path, the latest publication replaces the other one. Use different paths.
 
 ## Frequently asked questions
 
@@ -155,4 +141,4 @@ Yes. In the top bar, "Regenerar" (Regenerate) rewrites all the texts with AI usi
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

@@ -8,7 +8,7 @@ Cada carpeta tiene un `README.md` con su índice, la guía en los tres idiomas (
 
 ### [Business profile](./business-profile/)
 
-La página pública de tu organización en Afrus, desde donde cualquiera puede donar.
+La página pública de tu organización en AFRUS, desde donde cualquiera puede donar.
 
 - [Guía de Business profile](./business-profile/business-profile-guide.md)
 
@@ -32,7 +32,7 @@ La lista de las donaciones recurrentes de tu organización.
 
 ### [WhatsApp Business](./whatsapp-business/)
 
-Envíos masivos con plantillas aprobadas por Meta y respuesta a tus contactos desde Afrus.
+Envíos masivos con plantillas aprobadas por Meta y respuesta a tus contactos desde AFRUS.
 
 - [Guía de WhatsApp Business](./whatsapp-business/whatsapp-business-guide.md)
 
@@ -56,7 +56,7 @@ Agrupa las donaciones y registros de tus widgets bajo un objetivo de recaudació
 
 ### [Widgets](./widgets/)
 
-Los formularios de Afrus para recibir donaciones, registros y pagos desde tu sitio web.
+Los formularios de AFRUS para recibir donaciones, registros y pagos desde tu sitio web.
 
 - [Guía de Widgets](./widgets/widgets-guide.md)
 
@@ -107,7 +107,7 @@ Las herramientas para organizar, importar, descargar y analizar la información 
 
 ### [AI](./ia/)
 
-Las herramientas de inteligencia artificial de Afrus: entrenamiento, envíos, chat, agentes, firmas, galería y plantillas.
+Las herramientas de inteligencia artificial de AFRUS: entrenamiento, envíos, chat, agentes, firmas, galería y plantillas.
 
 - [Guía de Entrenamiento (AI RAG)](./ia/entrenamiento-ai-guide.md)
 - [Guía de Blast de AI](./ia/blast-de-ai-guide.md)
@@ -123,11 +123,11 @@ Los correos automáticos, los envíos masivos y las plantillas de tu organizaci�
 
 - [Guía de Autoresponders](./interacciones/autoresponders-guide.md)
 - [Guía de Blast](./interacciones/blast-guide.md)
-- [Guía de Plantillas Afrus](./interacciones/plantillas-afrus-guide.md)
+- [Guía de Plantillas AFRUS](./interacciones/plantillas-afrus-guide.md)
 
 ### [Trackers](./trackers/)
 
-Las pantallas para revisar qué está procesando Afrus y qué se envió.
+Las pantallas para revisar qué está procesando AFRUS y qué se envió.
 
 - [Guía de Procesos en ejecucion](./trackers/procesos-en-ejecucion-guide.md)
 - [Guía de Logs de interacciones](./trackers/logs-de-interacciones-guide.md)

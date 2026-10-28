@@ -10,7 +10,7 @@ Con esta guía vas a poder regalar algo a quienes donan desde cierto monto, crea
 
 **Un incentivo es un regalo que tu organización ofrece a quien dona desde un monto mínimo.** Por ejemplo: un libro, un calendario o un certificado digital.
 
-Los incentivos se configuran dentro de una campaña y aparecen en tus formularios de donación (widgets). En Afrus también los vas a ver con el nombre de **obsequio**, **regalo** o **recompensa**: todos son lo mismo.
+Los incentivos se configuran dentro de una campaña y aparecen en tus Widgets de Transacción. En AFRUS también los vas a ver con el nombre de **obsequio**, **regalo** o **recompensa**: todos son lo mismo.
 
 Hay dos tipos:
 
@@ -21,7 +21,7 @@ Hay dos tipos:
 
 - **Motivar donaciones más altas.** El donante ve qué regalo gana con cada monto y cuánto le falta para el siguiente.
 - **Ganar más donantes mensuales.** Puedes pedir un monto distinto para quien dona una vez y para quien dona cada mes.
-- **Entregar regalos digitales sin trabajo manual.** Afrus los envía solo por correo.
+- **Entregar regalos digitales sin trabajo manual.** AFRUS los envía solo por correo.
 - **Organizar los envíos de regalos físicos.** Tienes una lista con quién debe recibir cada regalo, a qué dirección y si ya se lo enviaste.
 - **Permitir regalar a otra persona.** Un donante puede donar en nombre de alguien (por un cumpleaños o un homenaje, por ejemplo) y esa persona recibe una tarjeta.
 - **Hacer promociones con cupones.** Un cupón hace que el regalo sea más fácil de conseguir.
@@ -31,7 +31,7 @@ Hay dos tipos:
 1. **Tú configuras** los regalos dentro de la campaña y eliges en qué formularios aparecen.
 2. **El donante elige** su monto y su regalo en el formulario.
 3. **El pago se confirma.**
-4. **Afrus asigna el regalo,** descuenta una unidad del stock y lo agrega a la lista de entregas.
+4. **AFRUS asigna el regalo,** descuenta una unidad del stock y lo agrega a la lista de entregas.
 5. **Tú entregas** el regalo físico (los digitales llegan solos) y marcas cada envío.
 
 El regalo solo se asigna cuando el pago está confirmado. Si el pago falla, no se descuenta nada y no queda nada por entregar.
@@ -39,7 +39,7 @@ El regalo solo se asigna cuando el pago está confirmado. Si el pago falla, no s
 ## Antes de empezar
 
 - **Una campaña creada** en **Fundraising > Campañas**.
-- **Al menos un formulario de donación** (widget con selector de monto).
+- **Al menos un Widget de Transacción** (widget con selector de monto).
 - **Una foto de cada regalo:** en JPG, PNG o WEBP, de hasta 2 MB y de al menos 800 × 800 píxeles. Sin foto, el regalo no se muestra.
 - **Si vas a ofrecer regalos digitales o regalos para otra persona:** un flujo de trabajo de entrega. Te explicamos cómo en "Para qué crear un workflow en los incentivos".
 
@@ -117,7 +117,7 @@ Como los regalos aparecen apenas guardas, lo más seguro es probarlos con una co
 
 > **Importante:** la página de prueba es real. Si completas una donación ahí, se cobra. Para revisar el diseño basta con mirar y cambiar montos.
 
-**¿No aparecen los regalos?** Revisa que el interruptor **Incentivos** esté encendido, que el formulario esté marcado y guardado, que sea un formulario de donación y que haya al menos un regalo activo, con foto y con unidades disponibles.
+**¿No aparecen los regalos?** Revisa que el interruptor **Incentivos** esté encendido, que el formulario esté marcado y guardado, que sea un Widget de Transacción y que haya al menos un regalo activo, con foto y con unidades disponibles.
 
 ## Para qué son los cupones
 
@@ -154,7 +154,7 @@ Con esta opción, el donante dona en nombre de otra persona, por ejemplo por un 
 
 1. **Prepara el envío de la tarjeta.** La tarjeta sale por un flujo de trabajo. Créalo primero, como se explica en "Para qué crear un workflow en los incentivos".
 2. **Activa la opción.** En la pestaña **Incentivos** de la campaña, enciende el interruptor **Para terceros**.
-3. **Elige una etiqueta.** Selecciona el **Tag de segmentación para terceros**. Es obligatorio; si no tienes una, créala desde ahí. Afrus se la pone a cada persona que recibe un regalo, para que luego puedas encontrarlas.
+3. **Elige una etiqueta.** Selecciona el **Tag de segmentación para terceros**. Es obligatorio; si no tienes una, créala desde ahí. AFRUS se la pone a cada persona que recibe un regalo, para que luego puedas encontrarlas.
 
 Al terminar, tus formularios mostrarán la opción **Donar a nombre de otra persona**. Si no eliges la etiqueta, la opción no aparece.
 
@@ -182,7 +182,7 @@ También puede programar la tarjeta para un día especial: desde mañana y hasta
 
 ## Qué tipos de widgets pueden tener incentivos
 
-- **Solo los formularios de donación**, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.
+- **Solo los Widgets de transacción**, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.
 - **Cada formulario puede estar en una sola campaña con regalos.** Si ya lo usas en otra, aparece como "En uso en la campaña…" y no lo puedes elegir.
 - **Los regalos se ofrecen en la moneda de tu organización.** Si el formulario acepta otras monedas, quien done en otra moneda hace una donación normal, sin regalo.
 
@@ -198,7 +198,7 @@ Solo uno puede ser el **destacado** de la campaña.
 
 **El flujo de trabajo (workflow) es el que envía los regalos digitales y las tarjetas para otra persona.** Sin él, esos regalos no llegan.
 
-Se crea una sola vez y funciona solo: cada vez que se confirma una donación con regalo, Afrus envía el correo. Puedes adjuntar, por ejemplo, un certificado en PDF.
+Se crea una sola vez y funciona solo: cada vez que se confirma una donación con regalo, AFRUS envía el correo. Puedes adjuntar, por ejemplo, un certificado en PDF.
 
 Para crearlo:
 
@@ -208,7 +208,7 @@ Para crearlo:
 4. **Agrega un solo paso.** Elige **Enviar correo**, escribe tu mensaje y adjunta el archivo si lo necesitas. Con un solo paso funciona mejor.
 5. **Activa el flujo antes de publicar** tus regalos.
 
-> **Importante:** si no hay un flujo activo, la entrega queda **Con problema**. Afrus lo vuelve a intentar varias veces durante las siguientes horas, así que, si lo creas a tiempo, el regalo llega.
+> **Importante:** si no hay un flujo activo, la entrega queda **Con problema**. AFRUS lo vuelve a intentar varias veces durante las siguientes horas, así que, si lo creas a tiempo, el regalo llega.
 
 ## Qué tipos de incentivos requieren un workflow
 
@@ -248,7 +248,7 @@ Para crearlo:
 
 ## Lo que ve el donante
 
-![Formulario de donación con montos, barra de regalos, regalo elegido, cupón y opción de donar en nombre de otra persona](img/lo-que-ve-el-donante-01.webp)
+![Widget de Transacción con montos, barra de regalos, regalo elegido, cupón y opción de donar en nombre de otra persona](img/lo-que-ve-el-donante-01.webp)
 
 *Imagen de referencia con datos de ejemplo: tu pantalla puede verse un poco distinta.*
 
@@ -275,7 +275,6 @@ Para crearlo:
 - **Pagos que tardan en confirmarse** (como boleto o Pix): el regalo se asigna cuando llega la confirmación.
 - **Reembolsos:** la donación queda marcada como revertida, pero el stock no vuelve solo y el regalo no se recupera automáticamente. Tu equipo decide qué hacer.
 - **Pagos que se confirman mucho después:** por privacidad, la dirección se borra pasado un tiempo. Si el pago llega después, el regalo queda **Con problema** y hay que resolverlo a mano.
-  > **Pendiente de confirmar:** cuántos días se guardan esos datos.
 - **Si cambias un regalo** (monto, stock o etiquetas), el cambio vale para las donaciones nuevas. Los regalos ya asignados no cambian.
 - **Si un regalo ya fue asignado,** no puede pasar de físico a digital ni al revés. Crea uno nuevo.
 
@@ -298,13 +297,12 @@ Apaga el interruptor **Incentivos** de la campaña. Tus formularios vuelven a ve
 
 **¿Qué pasa si el donante tarda más de 60 minutos en pagar?**
 El regalo queda reservado 60 minutos.
-> **Pendiente de confirmar:** qué ve el donante cuando pasa ese tiempo.
 
 **¿Funciona con todos los medios de pago?**
-> **Pendiente de confirmar:** con qué pasarelas y medios de pago funciona el regalo.
+Sí.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

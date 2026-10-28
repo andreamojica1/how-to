@@ -1,6 +1,6 @@
 # AI gallery guide
 
-With this guide you can keep your organization's images in one place, so the AI can use them in your emails.
+With this guide you can keep your organization's images in one place, to use them in your AI emails, landings, email and WhatsApp blasts, autoresponders and workflows.
 
 *Module: AI · Menu: **AI > Galería para AI** (AI gallery; also in the profile menu as **AI Media**) · Audience: communications and design teams*
 
@@ -17,7 +17,7 @@ You can add images in three ways: uploading them from your computer, finding the
 ## What it is for
 
 - **Putting your photos in the emails the AI writes.** AI emails that use templates (in AI Blast and AI autoresponders) take their main image from here.
-- **Choosing which kind of image goes in each email.** With attributes (labels) you tell the AI which images to use. Afrus picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.
+- **Choosing which kind of image goes in each email.** With attributes (labels) you tell the AI which images to use. AFRUS picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.
 - **Having your images at hand elsewhere.** They also appear in the **IA Media** tab when you choose an image in the template editor and in WhatsApp Business.
 
 ---
@@ -61,25 +61,16 @@ This way the AI knows which images to use in each kind of email.
 
 ---
 
-## Known limitations
-
-- **Images only, up to 5 MB.** The upload window says it accepts up to 64 MB and lets you pick documents (PDF, Word, PowerPoint), but the gallery only keeps images up to 5 MB. If you upload anything else, you will see an error.
-- **Search and filters only check what is already on screen.** If you can't find an image, click "Cargar más" until you see them all and search again.
-- **Dragging a file only opens the upload window.** You then need to choose the file again.
-
 ## Frequently asked questions
 
-**Does creating images with AI use credits?**
-> **Pending confirmation.**
-
 **Is there a limit on the number of images?**
-> **Pending confirmation.**
+No, there is no limit on the number of images.
 
-**Are these images used in the WhatsApp messages the AI writes?**
-> **Pending confirmation.**
+**Where are these images used?**
+In many places, for example in landings, blasts (both email and WhatsApp), autoresponders and workflows.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

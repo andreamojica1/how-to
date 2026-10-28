@@ -25,9 +25,10 @@ You choose who receives it, the goal and what you want to say. The AI writes a d
 
 ## Before you start
 
-- **Turn on Afrus AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). Without it, the goals list doesn't load and you can't move forward.
+- **Turn on AFRUS AI** from the **Business profile** (profile menu): create your profile and click "Enviar AI" (Send to AI). Without it, the goals list doesn't load and you can't move forward.
 - **Upload information in AI > Entrenamiento [AI RAG].** That's what the AI uses to write.
 - **Have your sending email account and your credits ready,** just like for a regular Blast.
+- **Create your signature in AI > Firmas de usuarios.** Without a signature you can't send with AI.
 - **Optional:** if you want designed emails with images, check **AI > Plantillas AI Email** and **AI > Galería para AI**.
 
 ---
@@ -76,7 +77,7 @@ When you finish you'll see *"Blast IA enviado con éxito"* (AI Blast sent succes
 
 > **Can it be undone?** Check everything before clicking "Finalizar".
 >
-> **Pending confirmation:** whether a scheduled AI Blast can be cancelled before its time.
+> A scheduled AI Blast can't be deleted, not even before its time.
 
 ### How to see the results
 
@@ -84,29 +85,19 @@ In **Interacciones > Blast**, your AI Blasts have the **AI** label. Click "Detal
 
 ---
 
-## Known limitations
-
-- **Email only.** The WhatsApp option isn't available for now.
-- **Only predefined segments or tags.** Advanced segments can't be used.
-- **If something fails when saving or sending, no message appears:** the screen simply doesn't move forward. If it happens, check that all fields are filled in and contact us.
-- **When editing an AI Blast** you have to type the link and instructions again.
-- **An AI Blast can't be duplicated.**
-- **With Plantillas AI Email, upload images to Galería para AI.** If it's empty, the email's main image appears broken.
-- **The goals list** sometimes shows the English name next to the description.
-
 ## Frequently asked questions
 
 **Can I see the email each person will get before sending it?**
 No. The AI writes it at the moment of sending.
 
-**Does it cost extra?**
-> **Pending confirmation:** whether each AI-written email has an extra cost.
-
 **Are people who can't be contacted left out?**
-> **Pending confirmation.**
+Yes.
+
+**Which template is my email sent with?**
+With one of the templates you have enabled in **AI > Plantillas AI Email**.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

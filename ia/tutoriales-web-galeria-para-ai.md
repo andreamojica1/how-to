@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué es la Galería para AI
 Slug: que-es-la-galeria-para-ai
 Categoría: AI
-Resumen: Aprende qué es la Galería para AI: el banco de imágenes de tu organización que la IA usa en tus correos.
+Resumen: Aprende qué es la Galería para AI: el banco de imágenes de tu organización para tus correos con IA, landings, blasts, autoresponders y flujos de trabajo.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -36,7 +36,7 @@ Relacionados: que-es-la-galeria-para-ai, como-usar-la-galeria-para-ai
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Poner tus fotos en los correos que escribe la IA.</strong> Los correos con IA que usan plantillas (en Blast de AI y en autoresponders con IA) toman de aquí la imagen principal.</li>
-<li><strong>Elegir qué tipo de imagen va en cada correo.</strong> Con los atributos (etiquetas) le dices a la IA qué imágenes usar. Afrus elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.</li>
+<li><strong>Elegir qué tipo de imagen va en cada correo.</strong> Con los atributos (etiquetas) le dices a la IA qué imágenes usar. AFRUS elige una al azar entre las que tienen el atributo indicado; si ninguna lo tiene, usa cualquier imagen de la galería.</li>
 <li><strong>Tener tus imágenes a mano.</strong> También aparecen en la pestaña <strong>IA Media</strong> al elegir una imagen en el editor de plantillas y en WhatsApp Business.</li>
 </ul>
 === FIN ===
@@ -77,7 +77,7 @@ Idioma: en
 Título: What the AI gallery is
 Slug: what-is-the-ai-gallery
 Categoría: AI
-Resumen: Learn what the AI gallery is: your organization's image bank that the AI uses in your emails.
+Resumen: Learn what the AI gallery is: your organization's image bank for your AI emails, landings, blasts, autoresponders and workflows.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -103,7 +103,7 @@ Relacionados: what-is-the-ai-gallery, how-to-use-the-ai-gallery
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Putting your photos in the emails the AI writes.</strong> AI emails that use templates (in AI Blast and AI autoresponders) take their main image from here.</li>
-<li><strong>Choosing which kind of image goes in each email.</strong> With attributes (labels) you tell the AI which images to use. Afrus picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.</li>
+<li><strong>Choosing which kind of image goes in each email.</strong> With attributes (labels) you tell the AI which images to use. AFRUS picks one at random among those with the right attribute; if none has it, it uses any image in the gallery.</li>
 <li><strong>Having your images at hand.</strong> They also appear in the <strong>IA Media</strong> tab when you choose an image in the template editor and in WhatsApp Business.</li>
 </ul>
 === FIN ===
@@ -145,7 +145,7 @@ Idioma: pt-BR
 Título: O que é a Galeria para IA
 Slug: o-que-e-a-galeria-para-ia
 Categoría: AI
-Resumen: Aprenda o que é a Galeria para IA: o banco de imagens da sua organização que a IA usa nos seus e-mails.
+Resumen: Aprenda o que é a Galeria para IA: o banco de imagens da sua organização para seus e-mails com IA, landings, blasts, autoresponders e fluxos de trabalho.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -171,7 +171,7 @@ Relacionados: o-que-e-a-galeria-para-ia, como-usar-a-galeria-para-ia
 --- CUERPO (HTML) ---
 <ul>
 <li><strong>Colocar suas fotos nos e-mails escritos pela IA.</strong> Os e-mails com IA que usam modelos (no Blast de AI e nos autoresponders com IA) pegam daqui a imagem principal.</li>
-<li><strong>Escolher que tipo de imagem vai em cada e-mail.</strong> Com os atributos (etiquetas), você diz à IA quais imagens usar. A Afrus escolhe uma ao acaso entre as que têm o atributo indicado; se nenhuma tiver, usa qualquer imagem da galeria.</li>
+<li><strong>Escolher que tipo de imagem vai em cada e-mail.</strong> Com os atributos (etiquetas), você diz à IA quais imagens usar. A AFRUS escolhe uma ao acaso entre as que têm o atributo indicado; se nenhuma tiver, usa qualquer imagem da galeria.</li>
 <li><strong>Ter suas imagens à mão.</strong> Elas também aparecem na aba <strong>IA Media</strong> ao escolher uma imagem no editor de modelos e no WhatsApp Business.</li>
 </ul>
 === FIN ===

@@ -1,6 +1,6 @@
 # Guia de Treinamento da IA (Entrenamiento [AI RAG])
 
-Com este guia você vai poder ensinar à IA da Afrus quem é a sua organização: enviar documentos, adicionar páginas web e escrever instruções.
+Com este guia você vai poder ensinar à IA da AFRUS quem é a sua organização: enviar documentos, adicionar páginas web e escrever instruções.
 
 *Módulo: AI · Menu: **AI > Entrenamiento [AI RAG]** · Público: equipes de comunicação e captação*
 
@@ -10,7 +10,7 @@ Com este guia você vai poder ensinar à IA da Afrus quem é a sua organização
 
 ## O que é o Treinamento da IA
 
-**É o lugar onde você dá à IA da Afrus as informações da sua organização.** Aqui você envia documentos, adiciona páginas web e escreve instruções.
+**É o lugar onde você dá à IA da AFRUS as informações da sua organização.** Aqui você envia documentos, adiciona páginas web e escreve instruções.
 
 A IA usa tudo isso para responder no **Chat con AI** (chat com IA) e nos **Agentes para la web** (o chat que você pode colocar no seu site). Quanto melhores as informações, melhores as respostas.
 
@@ -26,7 +26,7 @@ A tela tem três abas: **Documentos**, **Instrucciones** (Instruções) e **URL'
 
 ## Antes de começar
 
-- **Ative a IA da Afrus.** Ela é ativada pelo **Business profile** (menu de perfil, canto superior): crie seu perfil e, na última etapa, clique em "Enviar AI" (enviar para a IA). Se ainda não fez isso, ao entrar você verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile) com o botão "Crear Business Profile" (Criar Business Profile).
+- **Ative a IA da AFRUS.** Ela é ativada pelo **Business profile** (menu de perfil, canto superior): crie seu perfil e, na última etapa, clique em "Enviar AI" (enviar para a IA). Se ainda não fez isso, ao entrar você verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile) com o botão "Crear Business Profile" (Criar Business Profile).
 
 ---
 
@@ -37,8 +37,6 @@ A tela tem três abas: **Documentos**, **Instrucciones** (Instruções) e **URL'
 Em **Documentos** você envia os arquivos que descrevem a sua organização: relatórios de impacto, apresentações institucionais, perguntas frequentes, descrições dos seus programas ou campanhas.
 
 **Tipos de arquivo aceitos:** PDF, DOC, DOCX, CSV, TXT e PPTX. A tela indica um máximo de 10 MB por arquivo.
-
-> **Pendente de confirmação:** se o limite de 10 MB é sempre aplicado.
 
 1. **Abra a aba Documentos.** Acesse **AI > Entrenamiento [AI RAG]** e escolha **Documentos**.
    ![Aba Documentos com a área Suelta aquí tus documentos e o botão Nuevo](img/entrenamiento-ai-02.webp)
@@ -74,7 +72,7 @@ Por exemplo: "Somos uma fundação que protege florestas na Colômbia. Fale de f
 
 As instruções valem para toda a sua organização, e a IA as usa junto com os documentos desse tema.
 
-> **Fique atento:** os temas (atributos) são definidos pela Afrus; não é possível criar novos aqui.
+> **Fique atento:** os temas (atributos) são definidos pela AFRUS; não é possível criar novos aqui.
 
 **Atalhos de conversa:** nesta mesma aba você verá **Atajos de conversación** (Atalhos de conversa), para salvar perguntas frequentes como botões do chat. Hoje esses botões não aparecem no **Chat con AI**, então por enquanto não é preciso configurá-los.
 
@@ -90,8 +88,6 @@ Em **URL'S** você adiciona páginas web da sua organização para a IA ler: por
 3. **Preencha os dados.** Escreva o endereço em **URL:** (obrigatório). Se quiser, escolha **Atributos** e escreva etiquetas em **Escribe tu Tag** (Escreva sua tag).
 
 4. **Salve.** Clique em "Guardar cambios" (Salvar alterações). Você verá *"¡URL guardada con éxito!"* (URL salva com sucesso!)
-
-> **Pendente de confirmação:** se a IA lê só essa página ou também as páginas que estão abaixo dela. Por enquanto, adicione uma a uma as páginas mais importantes.
 
 **Fique atento:** se você clicar em "Guardar cambios" sem ter mudado nada, pode aparecer um aviso com texto técnico. Não há problema: suas informações já estavam salvas.
 
@@ -110,12 +106,6 @@ Em **URL'S** você adiciona páginas web da sua organização para a IA ler: por
 
 ---
 
-## Limitações conhecidas
-
-- A busca de **Documentos guardados** não filtra.
-- Os atalhos de conversa não aparecem no chat.
-- Alguns erros ao enviar ou apagar documentos aparecem com texto técnico. Se vir um, fale com a gente.
-
 ## Perguntas frequentes
 
 **Quanto tempo a IA leva para usar um documento novo?**
@@ -124,11 +114,8 @@ Ela pode usá-lo assim que o envio termina.
 **O que acontece se eu enviar um documento sem escolher tema?**
 Ele serve para todos os temas.
 
-**As etiquetas mudam como a IA responde?**
-> **Pendente de confirmação:** hoje elas são salvas, mas não está confirmado que mudam as respostas.
-
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

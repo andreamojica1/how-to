@@ -12,7 +12,7 @@ With this guide you will know whether an action you ran on many people at once (
 
 **It is a list of the actions you ran on a large group of people, with the progress of each one.**
 
-When you do something to many people at once, Afrus doesn't do it all in one second: it goes person by person, in the background, while you keep working. This screen shows how far along each of those actions is.
+When you do something to many people at once, AFRUS doesn't do it all in one second: it goes person by person, in the background, while you keep working. This screen shows how far along each of those actions is.
 
 Four actions appear here:
 
@@ -71,22 +71,16 @@ Imports, downloads and email sends do not appear here.
 
 > **Tip:** if the **Actualizado en** time doesn't change for a long time, the process has stopped.
 
-When a tagging action finishes, Afrus also leaves a notice in your notifications: *"Tag Leads Process for tag: '…' finished"*.
+When a tagging action finishes, AFRUS also leaves a notice in your notifications: *"Tag Leads Process for tag: '…' finished"*.
 
 ## What to do if a process doesn't finish
 
 If, after reloading, **Finalizado** still says "No" and **Total de leads procesados** isn't moving, the process has stopped. This screen has no retry button.
 
 - **If it was a tag:** add it again to the same group. People who already have the tag won't get it twice.
-- **If it was a deletion, a permission change or a workflow enrollment:** write down the process **ID** and contact Afrus support.
+- **If it was a deletion, a permission change or a workflow enrollment:** write down the process **ID** and contact AFRUS support.
 
 ---
-
-## Known limitations
-
-- **A tag can stay on "No" forever.** If someone in the group couldn't be processed (for example, because they were deleted in the meantime), the process can stay on **Finalizado** "No" even though everyone else got the tag. To check, look at the tag in **Data > Tags**.
-- **The Tipo column is in English.**
-- **Only the four actions in this guide appear.** Imports, downloads and sends have their own screens.
 
 ## Frequently asked questions
 
@@ -96,11 +90,8 @@ No. Reload it to see the progress.
 **Why don't I see my import here?**
 Because imports are not shown on this screen. This list only shows tags, deletions, permission changes and workflow enrollments.
 
-**How long is the history kept?**
-> **Pending confirmation:** how long the process history is kept.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

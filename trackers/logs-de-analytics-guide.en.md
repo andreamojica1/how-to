@@ -12,7 +12,7 @@ With this guide you will be able to check that your donation forms are notifying
 
 **It is the record of every notice your donation forms sent to Google Analytics 4, Meta or Google Tag Manager.**
 
-If one of those tools is connected to a form (widget), every time a person opens the form, moves forward a step or completes their donation, Afrus notifies that tool. Each notice is called an **event**. This screen shows each event, what was sent and what the tool answered.
+If one of those tools is connected to a form (widget), every time a person opens the form, moves forward a step or completes their donation, AFRUS notifies that tool. Each notice is called an **event**. This screen shows each event, what was sent and what the tool answered.
 
 If your form has none of those tools set up, nothing is sent and this screen stays empty.
 
@@ -56,37 +56,29 @@ If your form has none of those tools set up, nothing is sent and this screen sta
 
 - **Meta:** if it worked, you'll see what Meta returned. If it failed, you'll see `success: false` and a message with the reason, for example that the form is missing the Pixel details.
 - **Google Analytics 4:** if you see `missing_ga_credentials`, the form is missing its GA4 connection details and **the event was not sent**. If you see `success: false`, Google answered with an error. If there's no error, Google received the notice; to confirm it recorded it, check GA4's real-time report.
-- **Google Tag Manager:** it's normal to see `logged_only: true`. Afrus only notes the event here; Tag Manager receives it directly from the person's browser.
+- **Google Tag Manager:** it's normal to see `logged_only: true`. AFRUS only notes the event here; Tag Manager receives it directly from the person's browser.
 
-If you have Meta conversions from Afrus turned on, you'll also see `FACEBOOK-…` rows created by Afrus after each payment.
+If you have Meta conversions from AFRUS turned on, you'll also see `FACEBOOK-…` rows created by AFRUS after each payment.
 
 ---
 
-## Known limitations
+## Learn more about analytics tracking
 
-- **The Google Analytics filter shows nothing.** In the **Plataforma** (Platform) filter, the **Google Analytics** option returns no results. To see only GA4 events, don't use that filter: type `google` and the event in the search box (for example `google purchase`) and click the magnifying glass.
-- **Some event types always come back empty.** In **Tipo de evento** (Event type), only **Start** / **View Content**, **Add to Cart**, **Begin Checkout** / **Initiate Checkout**, **Add Payment Info** and **Purchase** find results. The other options are empty because the forms don't send events with those names.
-- **The time doesn't say whether it's morning or afternoon.** It's shown in 12-hour format without AM/PM.
-- **The ID de Campaña (Campaign ID) column is always empty.**
-- **When you use a filter, the dates switch to "ALL"** (all dates).
-- **If you change a second filter and the list doesn't change,** click the magnifying glass to reload.
-- **The list starts with the oldest events** in the chosen range.
-- **If you delete a form,** its events stop being recorded here.
-- **The screen doesn't refresh by itself.**
+To understand in depth how AFRUS records your donors' actions and how to set up your analytics tools, check these tutorials:
+
+- [How does AFRUS record your donors' actions? (Part 1 of 3)](https://www.afrus.ai/en/howto/como-registra-afrus-las-acciones-de-tus-donantes-parte-1-de-3)
+- [GTM, setup and deduplication (Part 2 of 3)](https://www.afrus.ai/en/howto/gtm-configuracion-y-deduplicacion-parte-2-de-3)
+- [Benefits, verification and FAQ (Part 3 of 3)](https://www.afrus.ai/en/howto/beneficios-verificacion-y-faq-parte-3-de-3)
+
+---
 
 ## Frequently asked questions
 
 **I don't see any rows for my form. What's wrong?**
 Most likely the form doesn't have Google Analytics 4, the Meta Pixel or Google Tag Manager set up. Without that setup nothing is sent.
 
-**How long does an event take to appear?**
-> **Pending confirmation:** there is no fixed time.
-
-**How long are these records kept?**
-> **Pending confirmation:** how long the history is kept.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

@@ -39,7 +39,7 @@ Relacionados: que-son-las-transacciones-abandonadas, cada-cuanto-se-actualizan-l
 <li><strong>Recuperar donaciones a medio camino.</strong> Son personas que ya mostraron intención de donar: un buen recordatorio puede convertirlas.</li>
 <li><strong>Saber dónde se quedaron.</strong> Ves con qué <strong>Widget</strong> y <strong>Campaña</strong> empezaron, para revisar si algo de ese formulario frena a tus donantes.</li>
 <li><strong>Tener los datos de contacto a mano.</strong> <strong>Email</strong> y teléfono, listos para escribirles o llamarles.</li>
-<li><strong>Trabajar la lista fuera de Afrus.</strong> Exporta la lista; el archivo queda en <strong>Descargas</strong>.</li>
+<li><strong>Trabajar la lista fuera de AFRUS.</strong> Exporta la lista; el archivo queda en <strong>Descargas</strong>.</li>
 </ul>
 <h2>Paso a paso: exportar</h2>
 <ol>
@@ -57,14 +57,14 @@ Idioma: es
 Título: Cada cuánto se actualizan las Transacciones abandonadas
 Slug: cada-cuanto-se-actualizan-las-transacciones-abandonadas
 Categoría: Follow up
-Resumen: Aprende cada cuánto Afrus registra las transacciones abandonadas y cuánto tarda en aparecer un caso.
+Resumen: Aprende cada cuánto AFRUS registra las transacciones abandonadas y cuánto tarda en aparecer un caso.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-son-las-transacciones-abandonadas, para-que-sirven-las-transacciones-abandonadas, cuando-una-transaccion-se-considera-abandonada
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Afrus revisa los abandonos cada hora, en punto.</strong></li>
+<li><strong>AFRUS revisa los abandonos cada hora, en punto.</strong></li>
 <li><strong>Una donación aparece como abandonada entre 15 minutos y aproximadamente 1 hora y 15 minutos</strong> después de que la persona dejó de avanzar.</li>
 <li><strong>La pantalla no se refresca sola.</strong> Los datos se cargan al abrirla y al cambiar fechas, orden o página. Recarga la página para ver los casos nuevos.</li>
 </ul>
@@ -79,14 +79,14 @@ Idioma: es
 Título: Cuándo una transacción se considera abandonada
 Slug: cuando-una-transaccion-se-considera-abandonada
 Categoría: Follow up
-Resumen: Aprende qué tiene que pasar para que Afrus registre una donación como transacción abandonada.
+Resumen: Aprende qué tiene que pasar para que AFRUS registre una donación como transacción abandonada.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: que-son-las-transacciones-abandonadas, cada-cuanto-se-actualizan-las-transacciones-abandonadas, para-que-sirven-las-transacciones-abandonadas
 --- CUERPO (HTML) ---
 <ol>
-<li><strong>La persona inicia una donación en un widget y llega al paso de pago.</strong> En ese momento Afrus la marca como "en proceso de donar".</li>
+<li><strong>La persona inicia una donación en un widget y llega al paso de pago.</strong> En ese momento AFRUS la marca como "en proceso de donar".</li>
 <li><strong>Si la donación termina, no es un abandono.</strong> Tanto si el pago sale exitoso como si falla, esa marca se borra.</li>
 <li><strong>Si la marca sigue activa, la revisión horaria la registra como abandonada</strong> cuando la última actividad de la persona fue hace entre 15 minutos y 1 hora y 15 minutos.</li>
 <li><strong>Debe existir el registro de inicio de donación</strong> para ese widget y esa campaña.</li>
@@ -134,7 +134,7 @@ Relacionados: what-are-abandoned-transactions, how-often-abandoned-transactions-
 <li><strong>Recover half-finished donations.</strong> These people already showed they wanted to give: a good reminder can convert them.</li>
 <li><strong>Know where they stopped.</strong> You see which <strong>Widget</strong> and <strong>Campaña</strong> they started with, so you can check whether something in that form is holding donors back.</li>
 <li><strong>Have contact details at hand.</strong> <strong>Email</strong> and phone, ready to write or call.</li>
-<li><strong>Work the list outside Afrus.</strong> Export the list; the file goes to <strong>Descargas</strong> (Downloads).</li>
+<li><strong>Work the list outside AFRUS.</strong> Export the list; the file goes to <strong>Descargas</strong> (Downloads).</li>
 </ul>
 <h2>Step by step: export</h2>
 <ol>
@@ -152,7 +152,7 @@ Idioma: en
 Título: How often Abandoned transactions update
 Slug: how-often-abandoned-transactions-update
 Categoría: Follow up
-Resumen: Learn how often Afrus records abandoned transactions and how long it takes for a case to appear.
+Resumen: Learn how often AFRUS records abandoned transactions and how long it takes for a case to appear.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -160,7 +160,7 @@ Relacionados: what-are-abandoned-transactions, what-are-abandoned-transactions-f
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <ul>
-<li><strong>Afrus checks for abandonments every hour, on the hour.</strong></li>
+<li><strong>AFRUS checks for abandonments every hour, on the hour.</strong></li>
 <li><strong>A donation shows up as abandoned between 15 minutes and about 1 hour 15 minutes</strong> after the person stopped moving forward.</li>
 <li><strong>The screen doesn't refresh on its own.</strong> Data loads when you open it and when you change dates, sort or page. Reload the page to see new cases.</li>
 </ul>
@@ -175,7 +175,7 @@ Idioma: en
 Título: When a transaction is considered abandoned
 Slug: when-is-a-transaction-considered-abandoned
 Categoría: Follow up
-Resumen: Learn what has to happen for Afrus to record a donation as an abandoned transaction.
+Resumen: Learn what has to happen for AFRUS to record a donation as an abandoned transaction.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -183,7 +183,7 @@ Relacionados: what-are-abandoned-transactions, how-often-abandoned-transactions-
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <ol>
-<li><strong>The person starts a donation in a widget and reaches the payment step.</strong> At that moment Afrus marks them as "in the process of donating".</li>
+<li><strong>The person starts a donation in a widget and reaches the payment step.</strong> At that moment AFRUS marks them as "in the process of donating".</li>
 <li><strong>If the donation finishes, it's not an abandonment.</strong> Whether the payment succeeds or fails, that mark is cleared.</li>
 <li><strong>If the mark is still active, the hourly check records it as abandoned</strong> when the person's last activity was between 15 minutes and 1 hour 15 minutes earlier.</li>
 <li><strong>The donation-start record must exist</strong> for that widget and campaign.</li>
@@ -231,7 +231,7 @@ Relacionados: o-que-sao-as-transacoes-abandonadas, com-que-frequencia-as-transac
 <li><strong>Recuperar doações pela metade.</strong> São pessoas que já mostraram intenção de doar: um bom lembrete pode convertê-las.</li>
 <li><strong>Saber onde pararam.</strong> Você vê com qual <strong>Widget</strong> e <strong>Campaña</strong> começaram, para conferir se algo nesse formulário está travando seus doadores.</li>
 <li><strong>Ter os dados de contato à mão.</strong> <strong>Email</strong> e telefone, prontos para escrever ou ligar.</li>
-<li><strong>Trabalhar a lista fora da Afrus.</strong> Exporte a lista; o arquivo fica em <strong>Descargas</strong> (Downloads).</li>
+<li><strong>Trabalhar a lista fora da AFRUS.</strong> Exporte a lista; o arquivo fica em <strong>Descargas</strong> (Downloads).</li>
 </ul>
 <h2>Passo a passo: exportar</h2>
 <ol>
@@ -249,7 +249,7 @@ Idioma: pt-BR
 Título: Com que frequência as Transações abandonadas são atualizadas
 Slug: com-que-frequencia-as-transacoes-abandonadas-sao-atualizadas
 Categoría: Follow up
-Resumen: Aprenda com que frequência a Afrus registra as transações abandonadas e quanto tempo um caso leva para aparecer.
+Resumen: Aprenda com que frequência a AFRUS registra as transações abandonadas e quanto tempo um caso leva para aparecer.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -257,7 +257,7 @@ Relacionados: o-que-sao-as-transacoes-abandonadas, para-que-servem-as-transacoes
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <ul>
-<li><strong>A Afrus verifica os abandonos a cada hora, na hora cheia.</strong></li>
+<li><strong>A AFRUS verifica os abandonos a cada hora, na hora cheia.</strong></li>
 <li><strong>Uma doação aparece como abandonada entre 15 minutos e cerca de 1 hora e 15 minutos</strong> depois que a pessoa parou de avançar.</li>
 <li><strong>A tela não se atualiza sozinha.</strong> Os dados são carregados ao abrir e ao mudar datas, ordem ou página. Recarregue a página para ver os casos novos.</li>
 </ul>
@@ -272,7 +272,7 @@ Idioma: pt-BR
 Título: Quando uma transação é considerada abandonada
 Slug: quando-uma-transacao-e-considerada-abandonada
 Categoría: Follow up
-Resumen: Aprenda o que precisa acontecer para a Afrus registrar uma doação como transação abandonada.
+Resumen: Aprenda o que precisa acontecer para a AFRUS registrar uma doação como transação abandonada.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -280,7 +280,7 @@ Relacionados: o-que-sao-as-transacoes-abandonadas, com-que-frequencia-as-transac
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <ol>
-<li><strong>A pessoa inicia uma doação em um widget e chega à etapa de pagamento.</strong> Nesse momento a Afrus a marca como "em processo de doação".</li>
+<li><strong>A pessoa inicia uma doação em um widget e chega à etapa de pagamento.</strong> Nesse momento a AFRUS a marca como "em processo de doação".</li>
 <li><strong>Se a doação termina, não é abandono.</strong> Seja o pagamento aprovado ou recusado, essa marca é apagada.</li>
 <li><strong>Se a marca continua ativa, a verificação de hora em hora a registra como abandonada</strong> quando a última atividade da pessoa foi entre 15 minutos e 1 hora e 15 minutos antes.</li>
 <li><strong>Precisa existir o registro de início da doação</strong> para esse widget e essa campanha.</li>

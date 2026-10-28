@@ -10,7 +10,7 @@ Depois de ler este guia, você vai saber o que são as Tarefas de assinaturas, q
 
 ## O que são as Tarefas de assinaturas
 
-**As Tarefas de assinaturas são uma lista de acompanhamento que a Afrus cria automaticamente quando a cobrança de uma assinatura falha.** Cada tarefa é um caso para sua equipe entrar em contato com o doador e recuperar a doação recorrente.
+**As Tarefas de assinaturas são uma lista de acompanhamento que a AFRUS cria automaticamente quando a cobrança de uma assinatura falha.** Cada tarefa é um caso para sua equipe entrar em contato com o doador e recuperar a doação recorrente.
 
 A tela se chama **Tareas de Suscripciones** (Tarefas de assinaturas) e mostra, para cada caso, a assinatura, o valor, o gateway de pagamento, a pessoa, o responsável e a data.
 
@@ -20,7 +20,7 @@ A tela se chama **Tareas de Suscripciones** (Tarefas de assinaturas) e mostra, p
 - **Dividir o trabalho.** Atribua cada caso a um **Responsable** (responsável) da sua equipe.
 - **Controlar o que já foi resolvido.** Marque a tarefa como **Completada** (Concluída) quando terminar.
 - **Ter o contexto à mão.** Você vê **Monto** (valor), **Pasarela** (gateway), **Persona** (pessoa) e **Razón de fallo** (motivo da falha), e abre a assinatura pela coluna **Suscripción**.
-- **Trabalhar a lista fora da Afrus.** Exporte todas as tarefas ou uma seleção; o arquivo fica em **Descargas** (Downloads).
+- **Trabalhar a lista fora da AFRUS.** Exporte todas as tarefas ou uma seleção; o arquivo fica em **Descargas** (Downloads).
 
 ## Antes de começar
 
@@ -33,9 +33,9 @@ A tela se chama **Tareas de Suscripciones** (Tarefas de assinaturas) e mostra, p
 
 ## Com que frequência é atualizado
 
-- **As tarefas são criadas na hora.** A Afrus cria a tarefa assim que processa a cobrança que falhou; não espera uma revisão diária.
-- **Quando uma tarefa nova é criada**, os usuários com papel owner ou admin da sua organização recebem uma notificação na Afrus.
-- **Se a assinatura já tinha uma tarefa**, a Afrus não cria outra: reabre a existente (volta para **Pendiente**, Pendente) e remove o **Responsable**, para que alguém a retome.
+- **As tarefas são criadas na hora.** A AFRUS cria a tarefa assim que processa a cobrança que falhou; não espera uma revisão diária.
+- **Quando uma tarefa nova é criada**, os usuários com papel owner ou admin da sua organização recebem uma notificação na AFRUS.
+- **Se a assinatura já tinha uma tarefa**, a AFRUS não cria outra: reabre a existente (volta para **Pendiente**, Pendente) e remove o **Responsable**, para que alguém a retome.
 - **A tela não se atualiza sozinha.** Os dados são carregados ao abrir e ao mudar datas, busca, filtro, ordem ou página. Se você espera um caso novo, recarregue a página.
 
 ## Quando a assinatura volta a ser cobrada com sucesso, a tarefa sai da lista?
@@ -57,11 +57,9 @@ Cada tarefa também tem um **Tipo**, que você pode mudar manualmente:
 
 | Tipo | O que significa |
 |---|---|
-| **General** (Geral) | O tipo com que a Afrus cria as tarefas automaticamente. |
+| **General** (Geral) | O tipo com que a AFRUS cria as tarefas automaticamente. |
 | **Fallo Mensual** (Falha mensal) | Etiqueta disponível para classificar o caso manualmente. |
 | **Cancelada por el Sistema** (Cancelada pelo sistema) | Etiqueta disponível para classificar o caso manualmente. |
-
-> **Pendente de confirmação:** se algum processo da Afrus atribui automaticamente os tipos **Fallo Mensual** e **Cancelada por el Sistema**.
 
 ## O que posso fazer em cada status
 
@@ -94,25 +92,19 @@ A tabela mostra 25 tarefas por página (você pode mudar para 10, 50 ou 100), da
 
 ---
 
-## Limitações conhecidas
-
-- **Só alguns gateways aparecem.** A tela lista as tarefas de assinaturas com gateway **Recurrent Payments** ou **PTESA**. As de outros gateways não aparecem aqui; confira em **Suscripciones**.
-- **O motivo da falha pode aparecer vazio** ("-"). Nesse caso, procure a cobrança que falhou em **Transacciones** (Transações) e abra o detalhe: o motivo da falha aparece ali.
-- **Não há filtro por status.** A lista mostra juntas as tarefas **Pendiente** e **Completada**; ordene ou exporte para separá-las.
-
 ## Perguntas frequentes
 
 **São criadas tarefas para doações únicas que falham?**
 Não. Elas só são criadas quando falha a cobrança de uma assinatura.
 
 **Por que uma tarefa concluída voltou para Pendente e sem responsável?**
-Porque a assinatura teve uma nova falha de cobrança. A Afrus reabre a mesma tarefa em vez de criar outra.
+Porque a assinatura teve uma nova falha de cobrança. A AFRUS reabre a mesma tarefa em vez de criar outra.
 
 **Quem recebe o aviso de uma tarefa nova?**
-Os usuários com papel owner ou admin da sua organização, com uma notificação na Afrus.
+Os usuários com papel owner ou admin da sua organização, com uma notificação na AFRUS.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-20*
+*Última atualização: 2026-10-27*

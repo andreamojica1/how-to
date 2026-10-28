@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué son las firmas de usuarios
 Slug: que-son-las-firmas-de-usuarios
 Categoría: AI
-Resumen: Aprende qué es una firma de usuario en Afrus: la tarjeta de presentación de tu equipo en los correos que escribe la IA.
+Resumen: Aprende qué es una firma de usuario en AFRUS: la tarjeta de presentación de tu equipo en los correos que escribe la IA.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -78,7 +78,7 @@ Idioma: en
 Título: What user signatures are
 Slug: what-are-user-signatures
 Categoría: AI
-Resumen: Learn what a user signature is in Afrus: your team's business card in the emails the AI writes.
+Resumen: Learn what a user signature is in AFRUS: your team's business card in the emails the AI writes.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -147,7 +147,7 @@ Idioma: pt-BR
 Título: O que são as assinaturas de usuários
 Slug: o-que-sao-as-assinaturas-de-usuarios
 Categoría: AI
-Resumen: Aprenda o que é a assinatura de usuário na Afrus: o cartão de visita da sua equipe nos e-mails escritos pela IA.
+Resumen: Aprenda o que é a assinatura de usuário na AFRUS: o cartão de visita da sua equipe nos e-mails escritos pela IA.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente

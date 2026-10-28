@@ -1,6 +1,6 @@
 # AI Training guide (Entrenamiento [AI RAG])
 
-With this guide you will be able to teach Afrus AI about your organization: upload documents, add web pages and write instructions for it.
+With this guide you will be able to teach AFRUS AI about your organization: upload documents, add web pages and write instructions for it.
 
 *Module: AI · Menu: **AI > Entrenamiento [AI RAG]** · Audience: communications and fundraising teams*
 
@@ -10,7 +10,7 @@ With this guide you will be able to teach Afrus AI about your organization: uplo
 
 ## What AI Training is
 
-**It is where you give Afrus AI your organization's information.** Here you upload documents, add web pages and write instructions.
+**It is where you give AFRUS AI your organization's information.** Here you upload documents, add web pages and write instructions.
 
 The AI uses all of it to answer in **Chat con AI** (AI chat) and in the **Agentes para la web** (the chat you can put on your website). The better the information you give it, the better its answers.
 
@@ -26,7 +26,7 @@ The screen has three tabs: **Documentos** (Documents), **Instrucciones** (Instru
 
 ## Before you start
 
-- **Turn on Afrus AI.** It is turned on from the **Business profile** (profile menu, top corner): create your profile and, in the last step, click "Enviar AI" (Send to AI). If you haven't, you will see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile) with the "Crear Business Profile" (Create Business Profile) button.
+- **Turn on AFRUS AI.** It is turned on from the **Business profile** (profile menu, top corner): create your profile and, in the last step, click "Enviar AI" (Send to AI). If you haven't, you will see the notice *"¡Ups! Parece que no tienes un Business Profile"* (Oops! It looks like you don't have a Business Profile) with the "Crear Business Profile" (Create Business Profile) button.
 
 ---
 
@@ -37,8 +37,6 @@ The screen has three tabs: **Documentos** (Documents), **Instrucciones** (Instru
 In **Documentos** you upload the files that describe your organization: impact reports, institutional presentations, FAQs, descriptions of your programs or campaigns.
 
 **Accepted file types:** PDF, DOC, DOCX, CSV, TXT and PPTX. The screen shows a maximum of 10 MB per file.
-
-> **Pending confirmation:** whether the 10 MB limit is always applied.
 
 1. **Open the Documents tab.** Go to **AI > Entrenamiento [AI RAG]** and choose **Documentos**.
    ![Documentos tab with the Suelta aquí tus documentos drop area and the Nuevo button](img/entrenamiento-ai-02.webp)
@@ -74,7 +72,7 @@ For example: "We are a foundation that protects forests in Colombia. Speak in a 
 
 Instructions apply to your whole organization, and the AI uses them together with that topic's documents.
 
-> **Keep in mind:** topics (attributes) are defined by Afrus; you can't create new ones here.
+> **Keep in mind:** topics (attributes) are defined by AFRUS; you can't create new ones here.
 
 **Conversation shortcuts:** on this same tab you'll see **Atajos de conversación** (Conversation shortcuts), to save common questions as chat buttons. Today those buttons don't appear in **Chat con AI**, so for now you don't need to set them up.
 
@@ -90,8 +88,6 @@ In **URL'S** you add your organization's web pages for the AI to read: for examp
 3. **Fill in the details.** Type the address in **URL:** (required). If you want, choose **Atributos** and type labels in **Escribe tu Tag** (Write your tag).
 
 4. **Save.** Click "Guardar cambios" (Save changes). You will see *"¡URL guardada con éxito!"* (URL saved successfully!)
-
-> **Pending confirmation:** whether the AI reads only that page or also the pages linked under it. For now, add your most important pages one by one.
 
 **Keep in mind:** if you click "Guardar cambios" without changing anything, a notice with technical text may appear. Nothing is wrong: your information was already saved.
 
@@ -110,12 +106,6 @@ In **URL'S** you add your organization's web pages for the AI to read: for examp
 
 ---
 
-## Known limitations
-
-- The **Documentos guardados** search doesn't filter.
-- Conversation shortcuts don't appear in the chat.
-- Some errors when uploading or deleting documents appear as technical text. If you see one, contact us.
-
 ## Frequently asked questions
 
 **How long until the AI uses a new document?**
@@ -124,11 +114,8 @@ It can use it as soon as the upload finishes.
 **What if I upload a document without choosing a topic?**
 It is used for all topics.
 
-**Do labels change how the AI answers?**
-> **Pending confirmation:** they are saved today, but it isn't confirmed that they change the answers.
-
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

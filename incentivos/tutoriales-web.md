@@ -10,14 +10,14 @@ Idioma: es
 Título: Qué son los incentivos
 Slug: que-son-los-incentivos
 Categoría: Incentivos
-Resumen: Aprende qué son los incentivos de Afrus: regalos que tu organización ofrece a quien dona desde un monto mínimo.
+Resumen: Aprende qué son los incentivos de AFRUS: regalos que tu organización ofrece a quien dona desde un monto mínimo.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirven-los-incentivos, como-crear-incentivos, para-que-son-los-cupones-de-incentivos, como-configurar-un-incentivo-para-un-tercero, que-widgets-pueden-tener-incentivos, cuantos-incentivos-puedo-configurar, para-que-crear-un-workflow-en-los-incentivos, que-incentivos-requieren-un-workflow, ocasiones-para-donar-un-incentivo-a-terceros, que-pasa-si-un-incentivo-no-tiene-stock, como-hacer-seguimiento-a-los-incentivos-donados
 --- CUERPO (HTML) ---
 <p><strong>Un incentivo es un regalo que tu organización ofrece a quien dona desde un monto mínimo.</strong> Por ejemplo: un libro, un calendario o un certificado digital.</p>
-<p>Los incentivos se configuran dentro de una campaña y aparecen en tus formularios de donación (widgets). En Afrus también los vas a ver con el nombre de <strong>obsequio</strong>, <strong>regalo</strong> o <strong>recompensa</strong>: todos son lo mismo.</p>
+<p>Los incentivos se configuran dentro de una campaña y aparecen en tus Widgets de Transacción. En AFRUS también los vas a ver con el nombre de <strong>obsequio</strong>, <strong>regalo</strong> o <strong>recompensa</strong>: todos son lo mismo.</p>
 <h2>Hay dos tipos</h2>
 <ul>
 <li><strong>Físico:</strong> algo que envías a una dirección, como un libro o una camiseta.</li>
@@ -28,7 +28,7 @@ Relacionados: para-que-sirven-los-incentivos, como-crear-incentivos, para-que-so
 <li><strong>Tú configuras</strong> los regalos dentro de la campaña y eliges en qué formularios aparecen.</li>
 <li><strong>El donante elige</strong> su monto y su regalo en el formulario.</li>
 <li><strong>El pago se confirma.</strong></li>
-<li><strong>Afrus asigna el regalo,</strong> descuenta una unidad del stock y lo agrega a la lista de entregas.</li>
+<li><strong>AFRUS asigna el regalo,</strong> descuenta una unidad del stock y lo agrega a la lista de entregas.</li>
 <li><strong>Tú entregas</strong> el regalo físico (los digitales llegan solos) y marcas cada envío.</li>
 </ol>
 <p>El regalo solo se asigna cuando el pago está confirmado. Si el pago falla, no se descuenta nada y no queda nada por entregar.</p>
@@ -52,7 +52,7 @@ Relacionados: que-son-los-incentivos, como-crear-incentivos, como-configurar-un-
 <ul>
 <li><strong>Motivar donaciones más altas.</strong> El donante ve qué regalo gana con cada monto y cuánto le falta para el siguiente.</li>
 <li><strong>Ganar más donantes mensuales.</strong> Puedes pedir un monto distinto para quien dona una vez y para quien dona cada mes.</li>
-<li><strong>Entregar regalos digitales sin trabajo manual.</strong> Afrus los envía solo por correo.</li>
+<li><strong>Entregar regalos digitales sin trabajo manual.</strong> AFRUS los envía solo por correo.</li>
 <li><strong>Organizar los envíos de regalos físicos.</strong> Tienes una lista con quién debe recibir cada regalo, a qué dirección y si ya se lo enviaste.</li>
 <li><strong>Permitir regalar a otra persona.</strong> Un donante puede donar en nombre de alguien (por un cumpleaños o un homenaje, por ejemplo) y esa persona recibe una tarjeta.</li>
 <li><strong>Hacer promociones con cupones.</strong> Un cupón hace que el regalo sea más fácil de conseguir.</li>
@@ -75,7 +75,7 @@ Relacionados: que-son-los-incentivos, para-que-son-los-cupones-de-incentivos, qu
 <h2>Antes de empezar</h2>
 <ul>
 <li><strong>Una campaña creada</strong> en <strong>Fundraising &gt; Campañas</strong>.</li>
-<li><strong>Al menos un formulario de donación</strong> (widget con montos para elegir).</li>
+<li><strong>Al menos un Widget de Transacción</strong> (widget con montos para elegir).</li>
 <li><strong>Una foto de cada regalo:</strong> en JPG, PNG o WEBP, de hasta 2 MB y de al menos 800 × 800 píxeles. Sin foto, el regalo no se muestra.</li>
 <li><strong>Importante:</strong> los regalos aparecen en tus formularios apenas guardas; no hay borrador. Si quieres probar antes, hazlo con una copia de tu formulario.</li>
 </ul>
@@ -148,7 +148,7 @@ Relacionados: que-son-los-incentivos, ocasiones-para-donar-un-incentivo-a-tercer
 <ol>
 <li><strong>Prepara el envío de la tarjeta.</strong> La tarjeta sale por un flujo de trabajo. Créalo primero (mira el tutorial "Para qué crear un workflow en los incentivos").</li>
 <li><strong>Activa la opción.</strong> En la pestaña <strong>Incentivos</strong> de la campaña, enciende el interruptor <strong>Para terceros</strong>.</li>
-<li><strong>Elige una etiqueta.</strong> Selecciona el <strong>Tag de segmentación para terceros</strong>. Es obligatorio; si no tienes una, créala desde ahí. Afrus se la pone a cada persona que recibe un regalo, para que luego puedas encontrarlas.</li>
+<li><strong>Elige una etiqueta.</strong> Selecciona el <strong>Tag de segmentación para terceros</strong>. Es obligatorio; si no tienes una, créala desde ahí. AFRUS se la pone a cada persona que recibe un regalo, para que luego puedas encontrarlas.</li>
 </ol>
 <p>Al terminar, tus formularios mostrarán la opción <strong>Donar a nombre de otra persona</strong>. Si no eliges la etiqueta, la opción no aparece.</p>
 <h2>Lo que llena el donante</h2>
@@ -172,7 +172,7 @@ Imagen de portada: pendiente
 Relacionados: que-son-los-incentivos, como-crear-incentivos, cuantos-incentivos-puedo-configurar, para-que-sirven-los-incentivos
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Solo los formularios de donación</strong>, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.</li>
+<li><strong>Solo los Widgets de transacción</strong>, es decir, los que tienen montos para elegir. Los de producto, de peer to peer u otros tipos no aparecen en la lista.</li>
 <li><strong>Cada formulario puede estar en una sola campaña con regalos.</strong> Si ya lo usas en otra, aparece como "En uso en la campaña…" y no lo puedes elegir.</li>
 <li><strong>Los regalos se ofrecen en la moneda de tu organización.</strong> Si el formulario acepta otras monedas, quien done en otra moneda hace una donación normal, sin regalo.</li>
 </ul>
@@ -211,7 +211,7 @@ Imagen de portada: pendiente
 Relacionados: que-son-los-incentivos, que-incentivos-requieren-un-workflow, como-configurar-un-incentivo-para-un-tercero, como-hacer-seguimiento-a-los-incentivos-donados
 --- CUERPO (HTML) ---
 <p><strong>El flujo de trabajo (workflow) es el que envía los regalos digitales y las tarjetas para otra persona.</strong> Sin él, esos regalos no llegan.</p>
-<p>Se crea una sola vez y funciona solo: cada vez que se confirma una donación con regalo, Afrus envía el correo. Puedes adjuntar, por ejemplo, un certificado en PDF.</p>
+<p>Se crea una sola vez y funciona solo: cada vez que se confirma una donación con regalo, AFRUS envía el correo. Puedes adjuntar, por ejemplo, un certificado en PDF.</p>
 <h2>Paso a paso</h2>
 <ol>
 <li><strong>Crea un flujo nuevo.</strong> Ve a <strong>Interacciones &gt; Flujos de trabajo</strong>.</li>
@@ -221,7 +221,7 @@ Relacionados: que-son-los-incentivos, que-incentivos-requieren-un-workflow, como
 <li><strong>Activa el flujo antes de publicar</strong> tus regalos.</li>
 </ol>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Qué pasa si no tengo el flujo activo?</strong> La entrega queda <strong>Con problema</strong>. Afrus lo vuelve a intentar varias veces durante las siguientes horas, así que, si lo creas a tiempo, el regalo llega.</p>
+<p><strong>¿Qué pasa si no tengo el flujo activo?</strong> La entrega queda <strong>Con problema</strong>. AFRUS lo vuelve a intentar varias veces durante las siguientes horas, así que, si lo creas a tiempo, el regalo llega.</p>
 === FIN ===
 ```
 
@@ -344,7 +344,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-incentives-for, how-to-create-incentives, what-are-incentive-coupons-for, how-to-set-up-an-incentive-for-a-third-party, which-widgets-can-have-incentives, how-many-incentives-can-i-set-up, why-create-a-workflow-for-incentives, which-incentives-require-a-workflow, third-party-occasions-for-donating-an-incentive, what-happens-when-an-incentive-is-out-of-stock, how-to-track-donated-incentives
 --- CUERPO (HTML) ---
 <p><strong>An incentive is a gift your organization offers to people who donate from a minimum amount.</strong> For example: a book, a calendar or a digital certificate.</p>
-<p>Incentives are set up inside a campaign and appear on your donation forms (widgets). In Afrus you will also see them called <strong>gift</strong> or <strong>reward</strong>: they are all the same thing.</p>
+<p>Incentives are set up inside a campaign and appear on your Transacción (Transaction) widgets. In AFRUS you will also see them called <strong>gift</strong> or <strong>reward</strong>: they are all the same thing.</p>
 <h2>Two types of gifts</h2>
 <ul>
 <li><strong>Physical:</strong> something you send to an address, like a book or a T-shirt.</li>
@@ -355,7 +355,7 @@ Relacionados: what-are-incentives-for, how-to-create-incentives, what-are-incent
 <li><strong>You set up</strong> the gifts inside the campaign and choose which forms show them.</li>
 <li><strong>The donor chooses</strong> an amount and a gift on the form.</li>
 <li><strong>The payment is confirmed.</strong></li>
-<li><strong>Afrus assigns the gift,</strong> takes one unit off the stock and adds it to the delivery list.</li>
+<li><strong>AFRUS assigns the gift,</strong> takes one unit off the stock and adds it to the delivery list.</li>
 <li><strong>You deliver</strong> the physical gift (digital gifts arrive on their own) and mark each shipment.</li>
 </ol>
 <p>The gift is assigned only when the payment is confirmed. If the payment fails, nothing is taken off the stock and there is nothing to deliver.</p>
@@ -379,7 +379,7 @@ Relacionados: what-are-incentives, how-to-create-incentives, how-to-set-up-an-in
 <ul>
 <li><strong>Encourage bigger donations.</strong> Donors see which gift they get with each amount and how much more they need for the next one.</li>
 <li><strong>Get more monthly donors.</strong> You can ask for a different amount for one-time donors and for monthly donors.</li>
-<li><strong>Deliver digital gifts with no manual work.</strong> Afrus sends them by email on its own.</li>
+<li><strong>Deliver digital gifts with no manual work.</strong> AFRUS sends them by email on its own.</li>
 <li><strong>Organize the shipping of physical gifts.</strong> You get a list of who should receive each gift, at which address, and whether you already sent it.</li>
 <li><strong>Let donors give to someone else.</strong> A donor can donate in someone's name (for a birthday or a tribute, for example) and that person receives a card.</li>
 <li><strong>Run promotions with coupons.</strong> A coupon makes the gift easier to get.</li>
@@ -402,7 +402,7 @@ Relacionados: what-are-incentives, what-are-incentive-coupons-for, which-widgets
 <p>Labels are shown as they appear in the console in English; when we don't have the English name confirmed, the Spanish label comes with a translation.</p>
 <h2>Before you start</h2>
 <ul>
-<li><strong>A campaign</strong> and at least one donation form (a widget with amounts to choose from).</li>
+<li><strong>A campaign</strong> and at least one Transacción (Transaction) widget (with amounts to choose from).</li>
 <li><strong>A photo of each gift:</strong> JPG, PNG or WEBP, up to 2 MB and at least 800 × 800 pixels. Without a photo, the gift is not shown.</li>
 <li><strong>Important:</strong> gifts appear on your forms as soon as you save; there is no draft.</li>
 </ul>
@@ -476,7 +476,7 @@ Relacionados: what-are-incentives, third-party-occasions-for-donating-an-incenti
 <ol>
 <li><strong>Prepare the card delivery.</strong> The card is sent by a workflow. Create it first (see "Why create a workflow for incentives").</li>
 <li><strong>Turn on the option.</strong> In the campaign's <strong>Incentives</strong> tab, turn on the <strong>For third parties</strong> switch.</li>
-<li><strong>Choose a tag.</strong> Select the "Tag de segmentación para terceros" (Third-party segmentation tag). It's required; if you don't have one, create it there. Afrus adds it to each person who receives a gift, so you can find them later.</li>
+<li><strong>Choose a tag.</strong> Select the "Tag de segmentación para terceros" (Third-party segmentation tag). It's required; if you don't have one, create it there. AFRUS adds it to each person who receives a gift, so you can find them later.</li>
 </ol>
 <p>When you finish, your forms will show the option to donate in someone else's name. If you don't choose the tag, the option doesn't appear.</p>
 <h2>What the donor fills in</h2>
@@ -500,7 +500,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-incentives, how-to-create-incentives, how-many-incentives-can-i-set-up, what-are-incentives-for
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Only donation forms</strong>, that is, forms with amounts to choose from. Product, peer to peer and other form types don't appear in the list.</li>
+<li><strong>Only Transacción (Transaction) widgets</strong>, that is, forms with amounts to choose from. Product, peer to peer and other form types don't appear in the list.</li>
 <li><strong>Each form can be in only one campaign with gifts.</strong> If you already use it in another one, it shows as "En uso en la campaña…" (In use in the campaign…) and you can't choose it.</li>
 <li><strong>Gifts are offered in your organization's currency.</strong> If the form accepts other currencies, people who donate in another currency make a regular donation, without a gift.</li>
 </ul>
@@ -539,7 +539,7 @@ Imagen de portada: pendiente
 Relacionados: what-are-incentives, which-incentives-require-a-workflow, how-to-set-up-an-incentive-for-a-third-party, how-to-track-donated-incentives
 --- CUERPO (HTML) ---
 <p><strong>The workflow is what sends digital gifts and cards for someone else.</strong> Without it, those gifts don't arrive.</p>
-<p>You create it once and it works on its own: every time a donation with a gift is confirmed, Afrus sends the email. You can attach, for example, a PDF certificate.</p>
+<p>You create it once and it works on its own: every time a donation with a gift is confirmed, AFRUS sends the email. You can attach, for example, a PDF certificate.</p>
 <h2>Step by step</h2>
 <ol>
 <li><strong>Create a new workflow.</strong> Go to <strong>Interacciones &gt; Flujos de trabajo</strong> (Interactions &gt; Workflows).</li>
@@ -549,7 +549,7 @@ Relacionados: what-are-incentives, which-incentives-require-a-workflow, how-to-s
 <li><strong>Turn on the workflow before you publish</strong> your gifts.</li>
 </ol>
 <h2>Frequently asked questions</h2>
-<p><strong>What happens if I don't have the workflow?</strong> The delivery shows as "Con problema" (With a problem). Afrus tries again several times over the following hours, so if you create it in time, the gift arrives.</p>
+<p><strong>What happens if I don't have the workflow?</strong> The delivery shows as "Con problema" (With a problem). AFRUS tries again several times over the following hours, so if you create it in time, the gift arrives.</p>
 === FIN ===
 ```
 
@@ -658,14 +658,14 @@ Idioma: pt-BR
 Título: O que são os incentivos
 Slug: o-que-sao-os-incentivos
 Categoría: Incentivos
-Resumen: Aprenda o que são os incentivos da Afrus: presentes físicos ou digitais para quem doa a partir de um valor mínimo em uma campanha.
+Resumen: Aprenda o que são os incentivos da AFRUS: presentes físicos ou digitais para quem doa a partir de um valor mínimo em uma campanha.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-servem-os-incentivos, como-criar-incentivos, para-que-servem-os-cupons-de-incentivos, como-configurar-um-incentivo-para-um-terceiro, quais-widgets-podem-ter-incentivos, quantos-incentivos-posso-configurar, para-que-criar-um-workflow-nos-incentivos, quais-incentivos-exigem-um-workflow, ocasioes-para-doar-um-incentivo-a-terceiros, o-que-acontece-se-o-incentivo-ficar-sem-estoque, como-acompanhar-os-incentivos-doados
 --- CUERPO (HTML) ---
 <p><strong>Um incentivo é um presente que sua organização oferece a quem doa a partir de um valor mínimo.</strong> Por exemplo: um livro, um calendário ou um certificado digital.</p>
-<p>Os incentivos são configurados dentro de uma campanha e aparecem nos seus formulários de doação (widgets). Na Afrus, você também vai vê-los com o nome de brinde, presente ou recompensa: é tudo a mesma coisa.</p>
+<p>Os incentivos são configurados dentro de uma campanha e aparecem nos seus widgets de Transacción (Transação). Na AFRUS, você também vai vê-los com o nome de brinde, presente ou recompensa: é tudo a mesma coisa.</p>
 <h2>Os dois tipos</h2>
 <ul>
 <li><strong>Físico:</strong> algo que você envia para um endereço, como um livro ou uma camiseta.</li>
@@ -676,7 +676,7 @@ Relacionados: para-que-servem-os-incentivos, como-criar-incentivos, para-que-ser
 <li><strong>Você configura</strong> os presentes na campanha e escolhe em quais formulários aparecem.</li>
 <li><strong>O doador escolhe</strong> o valor e o presente no formulário.</li>
 <li><strong>O pagamento é confirmado.</strong></li>
-<li><strong>A Afrus atribui o presente</strong> e desconta uma unidade do estoque.</li>
+<li><strong>A AFRUS atribui o presente</strong> e desconta uma unidade do estoque.</li>
 <li><strong>Você entrega</strong> o presente físico (os digitais chegam sozinhos).</li>
 </ol>
 <p>O presente só é atribuído quando o pagamento está confirmado. Se o pagamento falhar, não fica nada para entregar.</p>
@@ -699,7 +699,7 @@ Relacionados: o-que-sao-os-incentivos, como-criar-incentivos, como-configurar-um
 <ul>
 <li><strong>Estimular doações maiores.</strong> O doador vê qual presente ganha com cada valor e quanto falta para o próximo.</li>
 <li><strong>Conquistar mais doadores mensais.</strong> Você pode pedir um valor diferente para quem doa uma vez e para quem doa todo mês.</li>
-<li><strong>Entregar presentes digitais sem trabalho manual.</strong> A Afrus envia sozinha por e-mail.</li>
+<li><strong>Entregar presentes digitais sem trabalho manual.</strong> A AFRUS envia sozinha por e-mail.</li>
 <li><strong>Organizar o envio dos presentes físicos.</strong> Você tem uma lista de quem deve receber cada presente, em qual endereço e se você já enviou.</li>
 <li><strong>Permitir presentear outra pessoa.</strong> Um doador pode doar em nome de alguém, por um aniversário ou uma homenagem, e essa pessoa recebe um cartão.</li>
 <li><strong>Fazer promoções com cupons.</strong> Um cupom deixa o presente mais fácil de conseguir.</li>
@@ -722,7 +722,7 @@ Relacionados: o-que-sao-os-incentivos, para-que-servem-os-cupons-de-incentivos, 
 <p>Os incentivos são criados dentro de uma campanha. Os nomes de tela aparecem como no console; quando não conhecemos o nome em português, mostramos o nome em espanhol com a tradução.</p>
 <h2>Antes de começar</h2>
 <ul>
-<li><strong>Uma campanha criada</strong> e pelo menos um formulário de doação (com valores para escolher).</li>
+<li><strong>Uma campanha criada</strong> e pelo menos um widget de Transacción (Transação) (com valores para escolher).</li>
 <li><strong>Uma foto de cada presente</strong> (JPG, PNG ou WEBP, até 2 MB, mínimo 800 × 800 pixels). Sem foto, o presente não aparece.</li>
 <li><strong>Importante:</strong> os presentes aparecem nos formulários assim que você salva; não existe rascunho.</li>
 </ul>
@@ -799,7 +799,7 @@ Relacionados: o-que-sao-os-incentivos, ocasioes-para-doar-um-incentivo-a-terceir
 <ol>
 <li><strong>Abra a aba Incentivos</strong> da sua campanha.</li>
 <li><strong>Ative a opção.</strong> Ligue a chave <strong>Para terceiros</strong>.</li>
-<li><strong>Escolha uma etiqueta.</strong> Selecione a etiqueta para terceiros (é obrigatória; se não tiver, crie-a ali mesmo). A Afrus a coloca em cada pessoa que recebe um presente, para você encontrá-las depois.</li>
+<li><strong>Escolha uma etiqueta.</strong> Selecione a etiqueta para terceiros (é obrigatória; se não tiver, crie-a ali mesmo). A AFRUS a coloca em cada pessoa que recebe um presente, para você encontrá-las depois.</li>
 </ol>
 <p>Ao terminar, seus formulários vão mostrar a opção de doar em nome de outra pessoa. Sem a etiqueta, a opção não aparece.</p>
 <h2>O que o doador preenche</h2>
@@ -822,7 +822,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-sao-os-incentivos, como-criar-incentivos, quantos-incentivos-posso-configurar, para-que-servem-os-incentivos
 --- CUERPO (HTML) ---
 <ul>
-<li><strong>Só os formulários de doação</strong>, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.</li>
+<li><strong>Só os widgets de Transacción (Transação)</strong>, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.</li>
 <li><strong>Cada formulário pode estar em uma única campanha com presentes.</strong> Se você já o usa em outra, ele aparece como "em uso" e não pode ser escolhido.</li>
 <li><strong>Os presentes são oferecidos na moeda da sua organização.</strong> Se o formulário aceita outras moedas, quem doar em outra moeda faz uma doação normal, sem presente.</li>
 </ul>
@@ -861,7 +861,7 @@ Imagen de portada: pendiente
 Relacionados: o-que-sao-os-incentivos, quais-incentivos-exigem-um-workflow, como-configurar-um-incentivo-para-um-terceiro, como-acompanhar-os-incentivos-doados
 --- CUERPO (HTML) ---
 <p><strong>O fluxo de trabalho (workflow) é o que envia os presentes digitais e os cartões para outra pessoa.</strong> Sem ele, esses presentes não chegam.</p>
-<p>Ele é criado uma vez só e funciona sozinho: sempre que uma doação com presente é confirmada, a Afrus envia o e-mail. Você pode anexar, por exemplo, um certificado em PDF.</p>
+<p>Ele é criado uma vez só e funciona sozinho: sempre que uma doação com presente é confirmada, a AFRUS envia o e-mail. Você pode anexar, por exemplo, um certificado em PDF.</p>
 <h2>Passo a passo</h2>
 <ol>
 <li><strong>Crie um fluxo novo.</strong> Acesse <strong>Interacciones &gt; Flujos de trabajo</strong> (Interações &gt; Fluxos de trabalho).</li>
@@ -871,7 +871,7 @@ Relacionados: o-que-sao-os-incentivos, quais-incentivos-exigem-um-workflow, como
 <li><strong>Ative o fluxo antes de publicar</strong> seus presentes.</li>
 </ol>
 <h2>Perguntas frequentes</h2>
-<p><strong>E se eu esquecer de criar o fluxo?</strong> A entrega fica com problema. A Afrus tenta de novo várias vezes nas horas seguintes; então, se você criar o fluxo a tempo, o presente chega.</p>
+<p><strong>E se eu esquecer de criar o fluxo?</strong> A entrega fica com problema. A AFRUS tenta de novo várias vezes nas horas seguintes; então, se você criar o fluxo a tempo, o presente chega.</p>
 === FIN ===
 ```
 

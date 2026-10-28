@@ -55,7 +55,7 @@ When you finish you will see *Mensaje enviado* / *"El agradecimiento se ha envia
 
 **You need:**
 - the transaction to be in **Exitoso** status;
-- its gateway to allow refunds from Afrus (otherwise the **Reembolsar** (Refund) option does not appear);
+- its gateway to allow refunds from AFRUS (otherwise the **Reembolsar** (Refund) option does not appear);
 - your user to have permission for banking operations on transactions. Without it the refund fails: ask an administrator in your organization to do it.
 
 1. **Open the row menu.** In **Transacciones**, find the donation, open the three-dot menu at the start of the row and choose **Reembolsar**.
@@ -68,7 +68,10 @@ When you finish you will see *"Reembolsado con éxito."* (Refunded successfully)
 
 > **Can it be undone?** No. The money is returned through the gateway and there is no option to reverse the refund.
 
-> **Pending confirmation:** how long the money takes to reach the donor and how many days after the charge each gateway accepts refunds; also whether refunding a **Cargo** (charge) cancels the subscription. If you want to stop future charges, cancel the subscription in **Suscripciones**.
+> **Keep in mind:**
+> - **How long the money takes to reach the donor:** it depends on the bank. Some return it in 3 days and others can take up to 30 business days.
+> - **Refund window:** from AFRUS you can refund up to 24 hours after the charge. After that, write to your payment gateway provider. If you use the AFRUS payment gateway, write to soportepagos@afrus.ai and the AFRUS team will make the refund.
+> - **Subscriptions:** refunding a **Cargo** (charge) doesn't cancel the subscription. If you want to stop future charges, cancel the subscription directly in **Suscripciones**.
 
 ## How to mark a transaction as fraud
 
@@ -81,7 +84,7 @@ When you finish you will see *"Reembolsado con éxito."* (Refunded successfully)
 
 When you finish you will see *Transacciones marcadas como fraude* (Transactions marked as fraud). Each transaction changes to **Fraude** status, disappears from **Transacciones** and appears in **Follow up > Radar - monitor de fraude** (fraud monitor), where you see its **Estado anterior** (Previous status) and the date under **Marcada como fraude el** (Marked as fraud on).
 
-> **Important:** marking as fraud only changes the status in Afrus. It does not refund the payment or cancel any subscription at the gateway.
+> **Important:** marking as fraud only changes the status in AFRUS. It does not refund the payment or cancel any subscription at the gateway.
 
 > **Important:** only the rows selected on the current page are marked. Even if you use "Seleccionar las N transacciones de la base." (Select all N transactions), this action does not apply to the whole database. If there are many, mark them page by page.
 
@@ -153,31 +156,20 @@ The subscription itself (the "parent" record, **Recurrente**) does not appear in
 | **Pendiente de confirmación** (Awaiting confirmation) | Your team must confirm or reject it with **Confirmar transacción** / **Rechazar transacción** |
 | **Fallido** / **Rechazada** (Failed / Rejected) | The payment did not go through. Check the reason in the details |
 | **Reembolsado** (Refunded) | The payment was returned to the donor |
-| **Propuesta** (Proposal) | Pending confirmation of what this status means |
 | "PRENOTIFICATION_OK" | Shown like this, as technical text, for pre-notified transactions |
 
 Transactions in **Fraude**, **Cancelada** or **Contracargo** (Fraud, Cancelled, Chargeback) do not appear in **Transacciones**. Fraud ones are in **Follow up > Radar - monitor de fraude**.
 
-## Known limitations
-
-- **Fraud deletes people:** linked people are removed from your database, even if they have other valid donations.
-- **Fraud only on the current page:** "Seleccionar las N transacciones de la base." does not apply to **Marcar como Fraude**.
-- **Exports are always Excel** (.xlsx), whatever file type you choose, and without the **CYC** filter.
-- **Unicas + Cargos together** shows only one-time donations; leave **Tipo** empty to see everything.
-- **Merge tags in the AI thank-you** are sent as literal text.
-- **Refunds** are always for the full amount and cannot be undone.
-- **"PRENOTIFICATION_OK"** appears as untranslated technical text.
-
 ## Frequently asked questions
 
 **Can I make a partial refund?**
-No. From Afrus the full transaction amount is always refunded.
+No. From AFRUS the full transaction amount is always refunded.
 
 **Why don't I see the Reembolsar option?**
-It only appears on **Exitoso** transactions whose gateway allows refunds from Afrus.
+It only appears on **Exitoso** transactions whose gateway allows refunds from AFRUS.
 
 **Does marking as fraud return the money?**
-No. It only changes the status in Afrus. If you also need to return the payment, refund it before marking it as fraud.
+No. It only changes the status in AFRUS. If you also need to return the payment, refund it before marking it as fraud.
 
 **Where do I see subscriptions?**
 In **Suscripciones**. In Transactions you see each charge (**Cargo**) they generate.
@@ -186,4 +178,4 @@ In **Suscripciones**. In Transactions you see each charge (**Cargo**) they gener
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-27*

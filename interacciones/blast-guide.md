@@ -25,7 +25,7 @@ Desde la misma pantalla también se pueden hacer envíos por WhatsApp Business. 
 ## Antes de empezar
 
 - **Ten listo tu grupo de destinatarios.** Puede ser un segmento guardado (en **Data > Segmentos > Avanzado** o **Básico**) o una etiqueta.
-- **Verifica tu dominio de correo (recomendado).** Así tus correos salen con la dirección de tu organización y no desde una cuenta de Afrus. Lo explicamos en "Cómo evitar que mis correos lleguen a spam".
+- **Verifica tu dominio de correo (recomendado).** Así tus correos salen con la dirección de tu organización y no desde una cuenta de AFRUS. Lo explicamos en "Cómo evitar que mis correos lleguen a spam".
 - **Revisa que tu cuenta no esté bloqueada.** Si lo está, verás *"Cuenta bloqueada, no puedes enviar interacciones…"* y tendrás que escribir a soporte.
 
 ---
@@ -41,14 +41,14 @@ Desde la misma pantalla también se pueden hacer envíos por WhatsApp Business. 
 
 2. **Ponle un nombre.** La pantalla muestra una fila por dato (**Nombre**, **Canal**, **Destinatario**, **Campaña (Opcional)** y **Etiqueta (Opcional)**), cada una con su botón "Agregar". En **Nombre**, haz clic en "Agregar" y escribe el **Nombre del envío**. Solo lo ves tú; te ayuda a encontrarlo después.
 
-3. **Elige los destinatarios.** En **Destinatario**, haz clic en "Agregar". En **Enviar a**, abre **Seleccionar segmento** y elige tu grupo en una de las pestañas: **Segmentos** (grupos que Afrus ya trae), **Mis segmentos** (los que guardaste) o **Etiquetas**. Haz clic en "Aceptar".
+3. **Elige los destinatarios.** En **Destinatario**, haz clic en "Agregar". En **Enviar a**, abre **Seleccionar segmento** y elige tu grupo en una de las pestañas: **Segmentos** (grupos que AFRUS ya trae), **Mis segmentos** (los que guardaste) o **Etiquetas**. Haz clic en "Aceptar".
    ![Selector de Enviar a abierto con las pestañas Segmentos, Mis segmentos y Etiquetas](img/como-enviar-un-blast-03.webp)
 
-   Verás cuántas personas pueden recibirlo, por ejemplo *"N entregables de M Destinatarios"*. Afrus deja fuera a quien no puede recibir correos (por ejemplo, quien se dio de baja o tiene un correo que no existe).
+   Verás cuántas personas pueden recibirlo, por ejemplo *"N entregables de M Destinatarios"*. AFRUS deja fuera a quien no puede recibir correos (por ejemplo, quien se dio de baja o tiene un correo que no existe).
 
 4. **Elige el canal.** Marca **Correo**.
 
-5. **Agrega campaña y etiqueta (opcional).** Si eliges una **Etiqueta**, Afrus se la pone a cada persona que recibe el correo. Así luego puedes encontrar a quienes recibieron este envío.
+5. **Agrega campaña y etiqueta (opcional).** Si eliges una **Etiqueta**, AFRUS se la pone a cada persona que recibe el correo. Así luego puedes encontrar a quienes recibieron este envío.
 
 6. **Continúa.** Haz clic en "Continuar".
 
@@ -118,18 +118,18 @@ Qué hacer:
 
 1. **Abre el detalle.** En la **Lista de envíos**, haz clic en "Detalles" del envío.
 2. **Revisa el error.** Mira la sección **Incidencias** y los **Estados de emails**. Con "Ver Eventos" ves qué pasó con el correo de cada persona.
-3. **Reenvía.** Si el envío está **Fallido**, aparece el botón "Reenviar" (*"¿Reenviar blast?"*). Afrus vuelve a intentar con las personas que tuvieron error.
+3. **Reenvía.** Si el envío está **Fallido**, aparece el botón "Reenviar" (*"¿Reenviar blast?"*). AFRUS vuelve a intentar con las personas que tuvieron error.
    <!-- captura pendiente: por-que-mi-blast-tiene-estado-fallido-03 — detalle de un envío fallido con el botón Reenviar -->
 
-> **Pendiente de confirmar:** cuáles son las causas más comunes de un envío **Fallido**.
+> **Causa más común:** la cuenta queda bloqueada por tener demasiados rebotes (bounces) y hay que asignarle créditos. Para resolverlo, escribe al correo de soporte.
 
-**¿Y si dice Bloqueado?** Afrus detuvo el resto del envío porque hubo demasiados rebotes o quejas. Te llega un correo de aviso y una notificación en la consola. Un envío bloqueado no se puede volver a enviar desde la pantalla, para no mandar el correo dos veces a quienes ya lo recibieron: escribe a soporte.
+**¿Y si dice Bloqueado?** AFRUS detuvo el resto del envío porque hubo demasiados rebotes o quejas. Te llega un correo de aviso y una notificación en la consola. Un envío bloqueado no se puede volver a enviar desde la pantalla, para no mandar el correo dos veces a quienes ya lo recibieron: escribe a soporte.
 
 ## Dónde ver los correos rebotados
 
 Un correo **rebota** cuando no llega a la persona. Hay dos tipos:
 
-- **Hard Bounce (rebote duro):** la dirección no existe. Afrus deja de enviarle correos a esa persona.
+- **Hard Bounce (rebote duro):** la dirección no existe. AFRUS deja de enviarle correos a esa persona.
 - **Soft Bounce (rebote blando):** un problema temporal, por ejemplo la bandeja llena. Esa persona sigue recibiendo correos.
 
 Puedes verlos en tres lugares:
@@ -141,11 +141,21 @@ Puedes verlos en tres lugares:
 
 3. **En el perfil de cada persona.** En **Personas**, el correo de cada persona tiene un ícono con su estado. En el perfil verás *"Tiene Hard Bounce"* o *"Tiene Soft Bounce"*, y en la pestaña **Eventos**, el detalle de cada correo.
 
-> **Pendiente de confirmar:** si hay una forma de sacar en un solo listado todos los correos que rebotaron.
+### Ver en un solo listado todos los correos de un envío
+
+Para ver todos los rebotes de un envío juntos:
+
+1. **Abre el detalle del envío.** En **Interacciones > Blast**, haz clic en "Detalles".
+2. **Haz clic en "Ver más".** Lo encuentras en la sección **Últimos eventos**.
+   ![Sección Últimos eventos del detalle de un envío, con el botón Ver más](img/donde-ver-los-correos-rebotados-04.webp)
+3. **Revisa el listado.** Se abre **Eventos de emails**, una pantalla con todas las personas a las que se les envió el correo, su estado y la fecha.
+4. **Filtra por Estado.** Abre **Estado**, marca **Click**, **Open**, **Complain**, **Hard Bounce**, **Opt Out**, **Rendering Failure**, **Soft Bounce** o **Sent** y pulsa "Aplicar". Por ejemplo, marca **Hard Bounce** para ver solo los rebotes duros.
+   ![Pantalla Eventos de emails con el filtro Estado abierto](img/donde-ver-los-correos-rebotados-05.webp)
+5. **Exporta la base si quieres analizarla.** Pulsa **Exportar datos** para descargar la base de las personas a las que se envió el correo, con sus distintos estados. Así la analizas más fácilmente y decides qué acciones tomar para luego llevarlas a AFRUS.
 
 ## Cómo eliminar los soft y hard bounces
 
-**Primero, una buena noticia:** no necesitas borrar a nadie para dejar de enviarles. Afrus ya deja fuera de tus envíos a las personas con **Hard Bounce**, a quienes se dieron de baja (**Opt Out**) y a quienes tienen el correo deshabilitado. Las personas con **Soft Bounce** sí siguen recibiendo, porque su problema suele ser temporal.
+**Primero, una buena noticia:** no necesitas borrar a nadie para dejar de enviarles. AFRUS ya deja fuera de tus envíos a las personas con **Hard Bounce**, a quienes se dieron de baja (**Opt Out**) y a quienes tienen el correo deshabilitado. Las personas con **Soft Bounce** sí siguen recibiendo, porque su problema suele ser temporal.
 
 Si aun así quieres sacarlas de tu base:
 
@@ -153,13 +163,11 @@ Si aun así quieres sacarlas de tu base:
 
 2. **Elimínalas.** Abre el perfil de la persona y haz clic en "Borrar". Para borrar varias a la vez, en **Personas** márcalas, abre **Acciones** y elige **Eliminar**.
 
-> **Pendiente de confirmar:** si existe un filtro o segmento que reúna a todas las personas con rebote, para borrarlas de una vez.
-
-> **¿Se puede deshacer?** No. Eliminar una persona es definitivo: también se borran sus donaciones, suscripciones y todo su historial. Si la persona dona o tiene una suscripción activa, piénsalo dos veces: Afrus ya no le envía correos si tiene **Hard Bounce**.
+> **¿Se puede deshacer?** No. Eliminar una persona es definitivo: también se borran sus donaciones, suscripciones y todo su historial. Si la persona dona o tiene una suscripción activa, piénsalo dos veces: AFRUS ya no le envía correos si tiene **Hard Bounce**.
 
 ## Cómo limpiar mi base para que no me bloqueen el envío
 
-Afrus cuida tu cuenta de correo. Mientras sale un envío, revisa cuántos correos rebotan y cuántas personas lo marcan como spam:
+AFRUS cuida tu cuenta de correo. Mientras sale un envío, revisa cuántos correos rebotan y cuántas personas lo marcan como spam:
 
 - Si pasan del límite de aviso, el envío queda en **Alerta**.
 - Si pasan del límite de bloqueo, el resto del envío se detiene y queda **Bloqueado**. Te llega un aviso por correo y en la consola.
@@ -179,10 +187,10 @@ Si tu cuenta queda bloqueada, no podrás hacer más envíos hasta escribir a sop
 
 ## Cómo evitar que mis correos lleguen a spam
 
-Estas son las acciones que Afrus te permite hacer para mejorar la llegada de tus correos:
+Estas son las acciones que AFRUS te permite hacer para mejorar la llegada de tus correos:
 
-1. **Verifica tu dominio de correo.** Así tus correos salen con la dirección de tu organización (por ejemplo, de @tuorg.org) y no desde una cuenta de Afrus. La propia pantalla lo recomienda para *"mejorar la entregabilidad"*.
-   - Arriba de **Interacciones > Blast** verás si tu dominio está verificado. Si no, haz clic en "Configurar DNS". Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.
+1. **Verifica tu dominio de correo.** Así tus correos salen con la dirección de tu organización (por ejemplo, de @tuorg.org) y no desde una cuenta de AFRUS. La propia pantalla lo recomienda para *"mejorar la entregabilidad"*.
+   - Arriba de **Interacciones > Blast** verás si tu dominio está verificado. Si no, haz clic en "Configurar DNS". Esta pantalla se abre en la versión anterior de AFRUS, por eso se ve distinta.
    - Sigue los 4 pasos: escribe tu dominio y agrega en tu proveedor de dominio los registros que te muestra la pantalla. Si no sabes hacerlo, pídele ayuda a quien maneja tu sitio web.
    - La verificación puede tardar hasta 48 horas. Con "Comprobar estado" vuelves a revisar.
    ![Tarjeta Dominio verificado arriba de la Lista de envíos de Blast](img/como-evitar-que-mis-correos-lleguen-a-spam-01.webp)
@@ -191,17 +199,17 @@ Estas son las acciones que Afrus te permite hacer para mejorar la llegada de tus
 
 3. **Mantén tu base limpia.** Menos rebotes y menos quejas ayudan a que tus correos lleguen. Sigue "Cómo limpiar mi base para que no me bloqueen el envío".
 
-4. **Deja que la gente se dé de baja.** Todos los correos de Afrus llevan un enlace para darse de baja; si tu diseño no lo trae, Afrus lo agrega al final. Es mejor que alguien se dé de baja a que marque tu correo como spam.
+4. **Deja que la gente se dé de baja.** Todos los correos de AFRUS llevan un enlace para darse de baja; si tu diseño no lo trae, AFRUS lo agrega al final. Es mejor que alguien se dé de baja a que marque tu correo como spam.
 
 5. **Envíate una prueba siempre** y revisa que el asunto y el contenido se vean bien.
 
-> **Pendiente de confirmar:** otras recomendaciones de contenido (asunto, imágenes, enlaces) propias de Afrus.
+6. **No envíes correos hechos solo de imágenes.** Procura que el correo tenga al menos un 60 % de texto y un 40 % de imágenes; si tiene más texto, mucho mejor. Para los filtros de spam, un correo que es una sola imagen con poco o nada de texto es una señal típica de spam. Como referencia, escribe al menos unos 500 caracteres de texto.
 
 ## Buenas prácticas para envíos masivos
 
-Algunas las hace Afrus por ti; otras te las recomendamos.
+Algunas las hace AFRUS por ti; otras te las recomendamos.
 
-**Lo que Afrus ya hace por ti:**
+**Lo que AFRUS ya hace por ti:**
 - Solo envía a personas que aceptaron recibir correos y que no se dieron de baja.
 - Deja fuera a quienes tienen el correo inválido (**Hard Bounce**), a quienes lo marcaron como spam y a quienes se dieron de baja.
 - Agrega un enlace para darse de baja en todos los correos.
@@ -227,10 +235,10 @@ No. Solo puedes editar envíos en **Borrador** o **Programado**.
 Sí. En **Contenido**, elige **Correos enviados**. También puedes usar "Duplicar" en la lista de envíos.
 
 **¿Por qué el número de destinatarios es menor que el de mi segmento?**
-Porque Afrus deja fuera a quien no puede recibir correos: rebotes duros, bajas, correos deshabilitados, personas sin aceptación de términos y personas marcadas como spam.
+Porque AFRUS deja fuera a quien no puede recibir correos: rebotes duros, bajas, correos deshabilitados, personas sin aceptación de términos y personas marcadas como spam.
 
 **¿Mis segmentos se actualizan cada 24 horas?**
-La pestaña **Mis segmentos** lo dice, pero Afrus calcula a quién enviar con los datos del momento del envío.
+La pestaña **Mis segmentos** lo dice, pero AFRUS calcula a quién enviar con los datos del momento del envío.
 
 **¿A qué hora sale un envío programado?**
 A la hora que elijas, según la zona horaria de tu computador. Puede salir unos minutos después.
@@ -239,4 +247,4 @@ A la hora que elijas, según la zona horaria de tu computador. Puede salir unos 
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

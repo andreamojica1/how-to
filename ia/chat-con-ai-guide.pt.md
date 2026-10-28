@@ -1,6 +1,6 @@
 # Guia do Chat com IA (Chat con AI)
 
-Com este guia você vai poder usar o assistente de IA da Afrus para pedir ideias, textos e respostas sobre a sua organização.
+Com este guia você vai poder usar o assistente de IA da AFRUS para pedir ideias, textos e respostas sobre a sua organização.
 
 *Módulo: AI · Menu: **AI > Chat con AI** · Público: toda a equipe da organização*
 
@@ -24,7 +24,7 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 
 ## Antes de começar
 
-- **Ative a IA da Afrus** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Se não fez isso, verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile).
+- **Ative a IA da AFRUS** pelo **Business profile** (menu de perfil): crie seu perfil e clique em "Enviar AI" (enviar para a IA). Se não fez isso, verá o aviso *"¡Ups! Parece que no tienes un Business Profile"* (Ops! Parece que você não tem um Business Profile).
 - **Envie informações em AI > Entrenamiento [AI RAG].** Quanto mais você contar à IA, melhores serão as respostas. Do chat você chega lá pelo botão "Configurar".
 
 ---
@@ -45,15 +45,7 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 
 5. **Retome uma conversa.** Suas conversas ficam salvas à esquerda, em **Historial de conversaciones** (Histórico de conversas).
 
-**Opções extras:** ao lado da caixa de mensagem você pode escolher o modelo de IA e ativar "Interacción avanzada" (Interação avançada).
-
-> **Pendente de confirmação:** o que exatamente muda com a "Interacción avanzada".
-
 **Dica:** seja específico. "Escreva um e-mail de 150 palavras pedindo doações para nossa campanha de bolsas, em tom próximo" funciona melhor que "escreva um e-mail".
-
-## Quais idiomas tem
-
-> **Pendente de confirmação:** em quais idiomas o Chat com IA responde e se ele responde no idioma em que você escreve.
 
 ## Quais restrições tem
 
@@ -67,10 +59,6 @@ Ele responde com as informações que a sua organização enviou em **AI > Entre
 
 ---
 
-## Limitações conhecidas
-
-- Quando você ainda não tem conversas, a barra lateral pode mostrar um texto técnico em vez de "No hay conversaciones" (Não há conversas). Isso não afeta o uso do chat.
-
 ## Perguntas frequentes
 
 **A IA conhece meus doadores?**
@@ -80,10 +68,10 @@ Não. Ela só usa o que você enviou em **Entrenamiento [AI RAG]**.
 Não. Cada usuário vê as suas.
 
 **Usar o chat tem custo?**
-> **Pendente de confirmação:** se o uso do chat é descontado de algum saldo da sua organização.
+Sim, você precisa adquirir tokens. Para mais informações, escreva para billing@afrus.ai.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

@@ -1,6 +1,6 @@
 # Business profile
 
-Documentación del módulo **Business profile**: la página pública de tu organización en Afrus, desde donde cualquiera puede donar.
+Documentación del módulo **Business profile**: la página pública de tu organización en AFRUS, desde donde cualquiera puede donar.
 
 > **[Volver al índice general](../README.md)**
 

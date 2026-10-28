@@ -78,16 +78,10 @@ When you set up an AI autoresponder, choose the **Remitente** (Sender) in **Conf
 No. Each user has one signature; if you need to change it, edit it.
 
 **Do AI Blast sends use the signature?**
-> **Pending confirmation:** today it is only confirmed that AI autoresponders use it.
-
-**Does the signature appear at the bottom of the email?**
-> **Pending confirmation:** it is confirmed that the sending email and the description are used; not whether the signature is shown at the foot of the message.
-
-**Does generating or improving the description with AI use credits?**
-> **Pending confirmation.**
+Yes. If you don't have a signature, you can't send with AI or set up AI autoresponders.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

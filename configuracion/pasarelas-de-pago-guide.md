@@ -1,8 +1,8 @@
 # Guía de Pasarelas de pago
 
-Con esta guía vas a entender qué son las pasarelas de pago en Afrus, para qué las necesitas y cómo activar Cover Your Cost para que tus donantes puedan cubrir la comisión.
+Con esta guía vas a entender qué son las pasarelas de pago en AFRUS, para qué las necesitas y cómo activar Cover Your Cost para que tus donantes puedan cubrir la comisión.
 
-*Módulo: Configuración · Menú: **Configuración > Pagos > Pasarelas de pago** · Audiencia: administración y equipos de recaudación*
+*Módulo: Configuración · Menú: **Ajustes de Organización > Pasarelas de pago** · Audiencia: administración y equipos de recaudación*
 
 ---
 
@@ -10,7 +10,7 @@ Con esta guía vas a entender qué son las pasarelas de pago en Afrus, para qué
 
 **Una pasarela de pago es el servicio que cobra las donaciones de tu organización.** Es la que procesa la tarjeta, el Pix, el boleto u otro medio de pago que use el donante.
 
-Las pasarelas se configuran una vez para toda tu organización, en **Configuración > Pagos > Pasarelas de pago**. También llegas ahí desde el menú de perfil (esquina superior), opción **Ajustes de organización**.
+Las pasarelas se configuran una vez para toda tu organización, en **Ajustes de Organización > Pasarelas de pago**. **Ajustes de Organización** está en el menú de perfil (esquina superior).
 
 ![Pantalla Pasarelas de pago con la lista de pasarelas, su estado y el botón Configurar](img/que-son-las-pasarelas-de-pago-01.webp)
 
@@ -22,9 +22,8 @@ Las pasarelas se configuran una vez para toda tu organización, en **Configuraci
 - **Permitir que el donante cubra la comisión (Cover Your Cost).** Se configura en cada pasarela.
 
 **Para tener en cuenta sobre los medios de pago:**
-- Pix, boleto y efectivo solo se ofrecen para donaciones únicas. La excepción es Pix con InfoPago, que también admite donaciones mensuales.
+- Pix, boleto y efectivo son medios de pago de Brasil y solo se ofrecen para donaciones únicas. La excepción es Pix con InfoPago, que también admite donaciones mensuales.
 - Algunos medios de pago quedan **pendientes** hasta que la pasarela o el banco confirman el pago. Por eso una donación puede aparecer primero como pendiente y cambiar después.
-- En los formularios de registro con pago (objetivo **Sign up**) solo se ofrecen Stripe y Niubiz.
 
 Después de tener una pasarela conectada, la eliges en cada formulario, en el bloque **Medio de pago** del editor. Te lo explicamos en la guía de Widgets.
 
@@ -36,14 +35,14 @@ Después de tener una pasarela conectada, la eliges en cada formulario, en el bl
 
 Con Cover Your Cost, el donante puede pagar un poco más para cubrir la comisión de la pasarela. Así tu organización recibe el monto completo de la donación.
 
-**Antes de empezar:** Afrus tiene que activar Cover Your Cost para tu organización. Si no ves la sección **Cover Your Cost** al abrir una pasarela, escríbenos para activarla.
+**Antes de empezar:** AFRUS tiene que activar Cover Your Cost para tu organización. Si no ves la sección **Cover Your Cost** al abrir una pasarela, escríbenos para activarla.
 
-1. **Abre la pasarela.** Ve a **Configuración > Pagos > Pasarelas de pago** y abre la pasarela donde quieres ofrecerlo.
+1. **Abre la pasarela.** Ve a **Ajustes de Organización > Pasarelas de pago** y abre la pasarela donde quieres ofrecerlo.
    ![Ventana de la pasarela con la sección Cover Your Cost y el interruptor Activar Cover Your Cost](img/como-activar-o-desactivar-cover-your-cost-01.webp)
 
 2. **Enciende la opción.** En la sección **Cover Your Cost**, activa **Activar Cover Your Cost**.
 
-3. **Escribe la comisión de la pasarela.** En **Comisión de pasarela (%)** pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La **Comisión Afrus (%)** aparece solo para que la veas; no se cambia.
+3. **Escribe la comisión de la pasarela.** En **Comisión de pasarela (%)** pon el porcentaje que te cobra esa pasarela (mínimo 0.01). La **Comisión AFRUS (%)** aparece solo para que la veas; no se cambia.
 
 4. **Elige cómo la ve el donante.** Con **Preseleccionar la opción para el donante** encendido, el donante la ve ya activada y puede quitarla. Apagado, la ve desactivada y la activa si quiere.
 
@@ -57,14 +56,14 @@ Al terminar, cuando el donante paga con esa pasarela, en el último paso del for
 
 **Ten en cuenta:**
 - Se configura en cada pasarela, no en cada formulario.
-- La comisión de la pasarela más la comisión de Afrus tienen que sumar menos de 80 %.
-- Si ves *"No se pudo cargar la comisión de Afrus. Inténtalo de nuevo."*, la pasarela no se puede guardar en ese momento. Vuelve a intentarlo.
+- La comisión de la pasarela más la comisión de AFRUS tienen que sumar menos de 80 %.
+- Si ves *"No se pudo cargar la comisión de AFRUS. Inténtalo de nuevo."*, la pasarela no se puede guardar en ese momento. Vuelve a intentarlo.
 
 ---
 
 ## Conectar una pasarela
 
-> **Pendiente de confirmar:** si tu organización puede conectar una pasarela por su cuenta, qué datos pide cada una y cuáles son los pasos para AvalPay, Stripe, Payments Way, Pagar.me, InfoPago, Niubiz, PayPal y Conekta. Mientras tanto, si necesitas conectar una pasarela nueva, escribe a soporte de Afrus.
+Para activar una pasarela de pagos, escribe a support@afrus.ai. El equipo de AFRUS te ayuda con la activación y te guía en la configuración.
 
 ## Preguntas frecuentes
 
@@ -75,10 +74,10 @@ En cada país del formulario solo aparecen las pasarelas conectadas que aceptan 
 Solo con InfoPago. Con las demás pasarelas, Pix es solo para donaciones únicas.
 
 **¿Cover Your Cost se activa en el formulario?**
-No. Se activa en cada pasarela, en **Configuración > Pagos > Pasarelas de pago**.
+No. Se activa en cada pasarela, en **Ajustes de Organización > Pasarelas de pago**.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

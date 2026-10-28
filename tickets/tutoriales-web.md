@@ -10,7 +10,7 @@ Idioma: es
 Título: Qué son los Tickets
 Slug: que-son-los-tickets
 Categoría: Tickets
-Resumen: Aprende qué son los Tickets en Afrus: rifas con un rango de números que vendes desde un widget y que se asignan a cada comprador.
+Resumen: Aprende qué son los Tickets en AFRUS: rifas con un rango de números que vendes desde un widget y que se asignan a cada comprador.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -20,7 +20,6 @@ Relacionados: para-que-sirven-los-tickets, cada-cuanto-se-actualizan-los-tickets
 <p>Los encuentras en <strong>Fundraising &gt; Tickets</strong>. Desde ahí creas la rifa con su <strong>Nombre</strong>, <strong>Descripción</strong>, <strong>Estado</strong> y <strong>Rango</strong> (<strong>Número Inicial</strong> y <strong>Número Final</strong>), y ves quién compró cada número.</p>
 <p>Cada número se muestra con ceros a la izquierda hasta el largo del Número Final: con un rango hasta 500, el ticket 42 se ve como 042.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo vender entradas para eventos con QR?</strong> Todavía no. Esa función está en desarrollo; hoy Tickets se usa para rifas.</p>
 === FIN ===
 ```
 
@@ -53,7 +52,7 @@ Idioma: es
 Título: Cada cuánto se actualizan los Tickets
 Slug: cada-cuanto-se-actualizan-los-tickets
 Categoría: Tickets
-Resumen: Aprende cuándo se asignan los números de rifa y cuándo se actualizan las pantallas de Tickets en Afrus.
+Resumen: Aprende cuándo se asignan los números de rifa y cuándo se actualizan las pantallas de Tickets en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -87,7 +86,7 @@ Relacionados: que-son-los-tickets, cada-cuanto-se-actualizan-los-tickets, como-i
 <li><strong>Crea la rifa.</strong> Ve a <strong>Fundraising &gt; Tickets</strong> y haz clic en "Crear Ticket".</li>
 <li><strong>Completa los datos.</strong> Escribe <strong>Nombre</strong> (hasta 25 caracteres para poder usarla en un widget) y <strong>Descripción</strong> (hasta 80; si la dejas vacía verás <em>"Error al crear ticket"</em>). Deja <strong>Estado</strong> en <strong>Activo</strong>.</li>
 <li><strong>Define el rango.</strong> En <strong>Rango</strong>, indica <strong>Número Inicial</strong> y <strong>Número Final</strong> y haz clic en "Crear Ticket".</li>
-<li><strong>Crea un widget.</strong> Ve a <strong>Fundraising &gt; Widgets</strong> y haz clic en "Nuevo widget". El editor se abre en otra pestaña, en la versión anterior de Afrus.</li>
+<li><strong>Crea un widget.</strong> Ve a <strong>Fundraising &gt; Widgets</strong> y haz clic en "Nuevo widget". El editor se abre en otra pestaña.</li>
 <li><strong>Elige el objetivo Producto.</strong> En <strong>Objetivo</strong>, elige <strong>Producto</strong>.</li>
 <li><strong>Agrega el ticket.</strong> Agrega el bloque <strong>Producto</strong>, haz clic en "Agregar Producto" y en <strong>Tipo de Producto</strong> elige <strong>Ticket</strong>.</li>
 <li><strong>Elige la rifa y el precio.</strong> En <strong>Seleccionar Ticket</strong>, elige tu rifa y escribe el <strong>Precio del producto</strong> (precio de cada ticket). Haz clic en "Agregar Producto".</li>
@@ -146,7 +145,7 @@ Idioma: en
 Título: What Tickets are
 Slug: what-are-tickets
 Categoría: Tickets
-Resumen: Learn what Tickets are in Afrus: raffles with a number range that you sell from a widget and that are assigned to each buyer.
+Resumen: Learn what Tickets are in AFRUS: raffles with a number range that you sell from a widget and that are assigned to each buyer.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -156,7 +155,6 @@ Relacionados: what-are-tickets-for, how-often-do-tickets-update, how-to-create-a
 <p>You'll find them in <strong>Fundraising &gt; Tickets</strong>. There you create the raffle with its <strong>Nombre</strong> (Name), <strong>Descripción</strong> (Description), <strong>Estado</strong> (Status) and <strong>Rango</strong> (Range: <strong>Número Inicial</strong> and <strong>Número Final</strong>), and see who bought each number. Labels are shown as they appear in the Spanish version of the console.</p>
 <p>Each number is shown with leading zeros up to the length of the end number: with a range up to 500, ticket 42 shows as 042.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I sell event tickets with QR codes?</strong> Not yet. That feature is in development; today Tickets is used for raffles.</p>
 === FIN ===
 ```
 
@@ -189,7 +187,7 @@ Idioma: en
 Título: How often Tickets update
 Slug: how-often-do-tickets-update
 Categoría: Tickets
-Resumen: Learn when raffle numbers are assigned and when the Tickets screens update in Afrus.
+Resumen: Learn when raffle numbers are assigned and when the Tickets screens update in AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -223,7 +221,7 @@ Relacionados: what-are-tickets, how-often-do-tickets-update, how-to-include-the-
 <li><strong>Create the raffle.</strong> Go to <strong>Fundraising &gt; Tickets</strong> and click "Crear Ticket" (Create ticket).</li>
 <li><strong>Fill in the details.</strong> Type the <strong>Nombre</strong> (Name — up to 25 characters so it can be used in a widget) and <strong>Descripción</strong> (Description — up to 80; if you leave it empty you'll see <em>"Error al crear ticket"</em>). Leave <strong>Estado</strong> as <strong>Activo</strong> (Active).</li>
 <li><strong>Set the range.</strong> In <strong>Rango</strong> (Range), enter <strong>Número Inicial</strong> (start) and <strong>Número Final</strong> (end) and click "Crear Ticket".</li>
-<li><strong>Create a widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and click "Nuevo widget" (New widget). The editor opens in another tab, in the previous version of Afrus.</li>
+<li><strong>Create a widget.</strong> Go to <strong>Fundraising &gt; Widgets</strong> and click "Nuevo widget" (New widget). The editor opens in another tab.</li>
 <li><strong>Choose the Product goal.</strong> In <strong>Objetivo</strong> (Goal), choose <strong>Producto</strong>.</li>
 <li><strong>Add the ticket.</strong> Add the <strong>Producto</strong> block, click "Agregar Producto" (Add product) and in <strong>Tipo de Producto</strong> (Product type) choose <strong>Ticket</strong>.</li>
 <li><strong>Choose the raffle and price.</strong> In <strong>Seleccionar Ticket</strong> (Select ticket), choose your raffle and type the <strong>Precio del producto</strong> (price of each ticket). Click "Agregar Producto".</li>
@@ -282,7 +280,7 @@ Idioma: pt-BR
 Título: O que são os Tickets
 Slug: o-que-sao-os-tickets
 Categoría: Tickets
-Resumen: Aprenda o que são os Tickets na Afrus: rifas com uma faixa de números que você vende por um widget e que são atribuídos a cada comprador.
+Resumen: Aprenda o que são os Tickets na AFRUS: rifas com uma faixa de números que você vende por um widget e que são atribuídos a cada comprador.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -292,7 +290,6 @@ Relacionados: para-que-servem-os-tickets, com-que-frequencia-os-tickets-sao-atua
 <p>Você os encontra em <strong>Fundraising &gt; Tickets</strong>. Ali você cria a rifa com <strong>Nombre</strong> (Nome), <strong>Descripción</strong> (Descrição), <strong>Estado</strong> (Status) e <strong>Rango</strong> (Faixa: <strong>Número Inicial</strong> e <strong>Número Final</strong>), e vê quem comprou cada número. Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <p>Cada número aparece com zeros à esquerda até o tamanho do Número Final: com uma faixa até 500, o ticket 42 aparece como 042.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso vender ingressos para eventos com QR code?</strong> Ainda não. Essa função está em desenvolvimento; hoje Tickets é usado para rifas.</p>
 === FIN ===
 ```
 
@@ -325,7 +322,7 @@ Idioma: pt-BR
 Título: Com que frequência os Tickets são atualizados
 Slug: com-que-frequencia-os-tickets-sao-atualizados
 Categoría: Tickets
-Resumen: Aprenda quando os números de rifa são atribuídos e quando as telas de Tickets são atualizadas na Afrus.
+Resumen: Aprenda quando os números de rifa são atribuídos e quando as telas de Tickets são atualizadas na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -359,7 +356,7 @@ Relacionados: o-que-sao-os-tickets, com-que-frequencia-os-tickets-sao-atualizado
 <li><strong>Crie a rifa.</strong> Acesse <strong>Fundraising &gt; Tickets</strong> e clique em "Crear Ticket" (Criar ticket).</li>
 <li><strong>Preencha os dados.</strong> Digite o <strong>Nombre</strong> (Nome — até 25 caracteres para poder usá-la em um widget) e a <strong>Descripción</strong> (Descrição — até 80; se ficar vazia, você verá <em>"Error al crear ticket"</em>). Deixe <strong>Estado</strong> como <strong>Activo</strong> (Ativo).</li>
 <li><strong>Defina a faixa.</strong> Em <strong>Rango</strong> (Faixa), informe <strong>Número Inicial</strong> e <strong>Número Final</strong> e clique em "Crear Ticket".</li>
-<li><strong>Crie um widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e clique em "Nuevo widget" (Novo widget). O editor abre em outra aba, na versão anterior da Afrus.</li>
+<li><strong>Crie um widget.</strong> Acesse <strong>Fundraising &gt; Widgets</strong> e clique em "Nuevo widget" (Novo widget). O editor abre em outra aba.</li>
 <li><strong>Escolha o objetivo Produto.</strong> Em <strong>Objetivo</strong>, escolha <strong>Producto</strong>.</li>
 <li><strong>Adicione o ticket.</strong> Adicione o bloco <strong>Producto</strong>, clique em "Agregar Producto" (Adicionar produto) e em <strong>Tipo de Producto</strong> escolha <strong>Ticket</strong>.</li>
 <li><strong>Escolha a rifa e o preço.</strong> Em <strong>Seleccionar Ticket</strong> (Selecionar ticket), escolha sua rifa e digite o <strong>Precio del producto</strong> (preço de cada ticket). Clique em "Agregar Producto".</li>

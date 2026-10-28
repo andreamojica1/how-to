@@ -10,17 +10,18 @@ Idioma: es
 Título: Qué es la moneda de la organización
 Slug: que-es-la-moneda-de-la-organizacion
 Categoría: Configuración
-Resumen: Aprende qué es la moneda de tu organización en Afrus y dónde la encuentras.
+Resumen: Aprende qué es la moneda de tu organización en AFRUS y dónde la encuentras.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirve-la-moneda-de-la-organizacion
 --- CUERPO (HTML) ---
-<p><strong>Es la moneda principal de tu organización en Afrus.</strong> Afrus la usa para mostrar tus totales, tus metas y tus reportes en una sola moneda, aunque recibas donaciones en varias.</p>
-<p>Se encuentra en <strong>Configuración &gt; Organización &gt; Moneda predeterminada</strong>. Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.</p>
-<p><strong>Ojo:</strong> cada país de un formulario (widget) tiene su propia moneda, que es la que ve el donante. La de tu organización es la que usa Afrus para sumar y comparar.</p>
+<p><strong>Es la moneda principal de tu organización en AFRUS.</strong> AFRUS la usa para mostrar tus totales, tus metas y tus reportes en una sola moneda, aunque recibas donaciones en varias.</p>
+<p>Se encuentra en <strong>Ajustes de Organización &gt; Moneda predeterminada</strong>.</p>
+<p><strong>Ojo:</strong> cada país de un formulario (widget) tiene su propia moneda, que es la que ve el donante. La de tu organización es la que usa AFRUS para sumar y comparar.</p>
 <h2>Preguntas frecuentes</h2>
-<p><strong>¿Puedo recibir donaciones en otras monedas?</strong> Sí. Cada país de tu formulario tiene su propia moneda, y Afrus convierte esos montos a la moneda de tu organización para mostrar tus totales.</p>
+<p><strong>¿Puedo cambiar la moneda de mi organización?</strong> No. Después de la primera transacción ya no se puede cambiar.</p>
+<p><strong>¿Puedo recibir donaciones en otras monedas?</strong> Sí. Cada país de tu formulario tiene su propia moneda, y AFRUS convierte esos montos a la moneda de tu organización para mostrar tus totales.</p>
 === FIN ===
 ```
 
@@ -30,7 +31,7 @@ Idioma: es
 Título: Para qué sirve la moneda de la organización
 Slug: para-que-sirve-la-moneda-de-la-organizacion
 Categoría: Configuración
-Resumen: Aprende en qué partes de Afrus se usa la moneda de tu organización: transacciones, filtros, metas, reportes e incentivos.
+Resumen: Aprende en qué partes de AFRUS se usa la moneda de tu organización: transacciones, filtros, metas, reportes e incentivos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -54,17 +55,18 @@ Idioma: en
 Título: What the organization currency is
 Slug: what-is-the-organization-currency
 Categoría: Configuración
-Resumen: Learn what your organization's currency is in Afrus and where to find it.
+Resumen: Learn what your organization's currency is in AFRUS and where to find it.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-is-the-organization-currency-for
 --- CUERPO (HTML) ---
-<p><strong>It is your organization's main currency in Afrus.</strong> Afrus uses it to show your totals, goals and reports in a single currency, even if you receive donations in several. Labels are shown as they appear in the Spanish version of the console.</p>
-<p>You find it in <strong>Configuración &gt; Organización &gt; Moneda predeterminada</strong> (Settings &gt; Organization &gt; Default currency). This screen opens in the previous version of Afrus, which is why it looks different.</p>
-<p><strong>Note:</strong> each country of a form (widget) has its own currency, which is what the donor sees. Your organization's currency is the one Afrus uses to add up and compare.</p>
+<p><strong>It is your organization's main currency in AFRUS.</strong> AFRUS uses it to show your totals, goals and reports in a single currency, even if you receive donations in several. Labels are shown as they appear in the Spanish version of the console.</p>
+<p>You find it in <strong>Ajustes de Organización &gt; Moneda predeterminada</strong> (Organization settings &gt; Default currency).</p>
+<p><strong>Note:</strong> each country of a form (widget) has its own currency, which is what the donor sees. Your organization's currency is the one AFRUS uses to add up and compare.</p>
 <h2>Frequently asked questions</h2>
-<p><strong>Can I receive donations in other currencies?</strong> Yes. Each country of your form has its own currency, and Afrus converts those amounts to your organization's currency to show your totals.</p>
+<p><strong>Can I change my organization's currency?</strong> No. It can't be changed after the first transaction.</p>
+<p><strong>Can I receive donations in other currencies?</strong> Yes. Each country of your form has its own currency, and AFRUS converts those amounts to your organization's currency to show your totals.</p>
 === FIN ===
 ```
 
@@ -74,7 +76,7 @@ Idioma: en
 Título: What the organization currency is for
 Slug: what-is-the-organization-currency-for
 Categoría: Configuración
-Resumen: Learn where Afrus uses your organization's currency: transactions, filters, goals, reports and incentives.
+Resumen: Learn where AFRUS uses your organization's currency: transactions, filters, goals, reports and incentives.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
@@ -98,17 +100,18 @@ Idioma: pt-BR
 Título: O que é a moeda da organização
 Slug: o-que-e-a-moeda-da-organizacao
 Categoría: Configuración
-Resumen: Aprenda o que é a moeda da sua organização na Afrus e onde encontrá-la.
+Resumen: Aprenda o que é a moeda da sua organização na AFRUS e onde encontrá-la.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-serve-a-moeda-da-organizacao
 --- CUERPO (HTML) ---
-<p><strong>É a moeda principal da sua organização na Afrus.</strong> A Afrus a usa para mostrar seus totais, metas e relatórios em uma única moeda, mesmo que você receba doações em várias. Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>Ela fica em <strong>Configuración &gt; Organización &gt; Moneda predeterminada</strong> (Configurações &gt; Organização &gt; Moeda padrão). Esta tela abre na versão anterior da Afrus, por isso tem uma aparência diferente.</p>
-<p><strong>Atenção:</strong> cada país de um formulário (widget) tem sua própria moeda, que é a que o doador vê. A da sua organização é a que a Afrus usa para somar e comparar.</p>
+<p><strong>É a moeda principal da sua organização na AFRUS.</strong> A AFRUS a usa para mostrar seus totais, metas e relatórios em uma única moeda, mesmo que você receba doações em várias. Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>Ela fica em <strong>Ajustes de Organización &gt; Moneda predeterminada</strong> (Ajustes da organização &gt; Moeda padrão).</p>
+<p><strong>Atenção:</strong> cada país de um formulário (widget) tem sua própria moeda, que é a que o doador vê. A da sua organização é a que a AFRUS usa para somar e comparar.</p>
 <h2>Perguntas frequentes</h2>
-<p><strong>Posso receber doações em outras moedas?</strong> Sim. Cada país do seu formulário tem sua própria moeda, e a Afrus converte esses valores para a moeda da sua organização para mostrar seus totais.</p>
+<p><strong>Posso mudar a moeda da minha organização?</strong> Não. Depois da primeira transação, ela não pode mais ser alterada.</p>
+<p><strong>Posso receber doações em outras moedas?</strong> Sim. Cada país do seu formulário tem sua própria moeda, e a AFRUS converte esses valores para a moeda da sua organização para mostrar seus totais.</p>
 === FIN ===
 ```
 
@@ -118,7 +121,7 @@ Idioma: pt-BR
 Título: Para que serve a moeda da organização
 Slug: para-que-serve-a-moeda-da-organizacao
 Categoría: Configuración
-Resumen: Aprenda onde a Afrus usa a moeda da sua organização: transações, filtros, metas, relatórios e incentivos.
+Resumen: Aprenda onde a AFRUS usa a moeda da sua organização: transações, filtros, metas, relatórios e incentivos.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente

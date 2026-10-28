@@ -1,6 +1,6 @@
 # Guía de Descargas
 
-Con esta guía vas a saber dónde encontrar los archivos que exportas en Afrus y qué significa cada ícono de la lista.
+Con esta guía vas a saber dónde encontrar los archivos que exportas en AFRUS y qué significa cada ícono de la lista.
 
 *Módulo: Data · Menú: **Data > Descargas** · Audiencia: equipos de recaudación, datos y administración*
 
@@ -8,9 +8,9 @@ Con esta guía vas a saber dónde encontrar los archivos que exportas en Afrus y
 
 ## Qué es Descargas
 
-**Descargas es la lista de todos los archivos que tu organización exporta en Afrus.**
+**Descargas es la lista de todos los archivos que tu organización exporta en AFRUS.**
 
-Cuando pides exportar datos (por ejemplo, tus personas o tus transacciones), Afrus prepara el archivo mientras sigues trabajando. Cuando está listo, lo descargas desde aquí.
+Cuando pides exportar datos (por ejemplo, tus personas o tus transacciones), AFRUS prepara el archivo mientras sigues trabajando. Cuando está listo, lo descargas desde aquí.
 
 También la encuentras en **Trackers > Descargas**: es la misma pantalla.
 
@@ -58,7 +58,7 @@ En la columna **Acciones** de cada fila ves un ícono que te dice en qué estado
 | Lo que ves | Qué significa | Qué puedes hacer |
 |---|---|---|
 | **Botón de descarga** | El archivo está listo | Púlsalo para bajarlo |
-| **Círculo girando** | Afrus está preparando el archivo | Esperar unos minutos |
+| **Círculo girando** | AFRUS está preparando el archivo | Esperar unos minutos |
 | **Signo de exclamación** | Hubo un error al preparar el archivo | Pasa el mouse por encima para ver el detalle y vuelve a pedir la exportación |
 | **Reloj** | Pasaron más de 7 días | Ya no se puede bajar desde aquí; vuelve a exportarlo |
 | **Sin ícono** | El archivo está en espera | Esperar: todavía no empezó a prepararse |
@@ -80,12 +80,11 @@ La lista muestra primero los archivos más nuevos. Cada fila tiene el **Nombre**
 
 ## Preguntas frecuentes
 
-**¿Afrus vuelve a intentar una exportación que falló?**
+**¿AFRUS vuelve a intentar una exportación que falló?**
 No. Vuelve a pedirla desde la pantalla donde la hiciste.
 
 **¿Los archivos se borran después de 7 días?**
 Después de 7 días ya no los puedes bajar desde esta pantalla.
-> **Pendiente de confirmar:** si los archivos se borran después de ese plazo.
 
 **¿Los datos de Personas están al día?**
 Al exportar Personas eliges la fuente: **Base de datos en tiempo real** trae los datos actuales y **Datos analizados** se actualizan cada 24 horas.
@@ -94,4 +93,4 @@ Al exportar Personas eliges la fuente: **Base de datos en tiempo real** trae los
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

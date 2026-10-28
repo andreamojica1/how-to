@@ -1,6 +1,6 @@
 # Onboarding automation guide: your email domain
 
-This guide helps you set up your DNS so Afrus sends your emails with your organization's domain (for example, `yourorg.org`).
+This guide helps you set up your DNS so AFRUS sends your emails with your organization's domain (for example, `yourorg.org`).
 
 *Module: Settings · Opens from the "Configurar DNS" (Set up DNS) button in **Interacciones > Autoresponders**, **Interacciones > Blast** or **Interacciones > Flujos de trabajo** · Audience: admin, communications and whoever manages the domain*
 
@@ -10,11 +10,9 @@ This guide helps you set up your DNS so Afrus sends your emails with your organi
 
 ## What it is
 
-**It is the step where you authorize Afrus to send emails with your organization's domain.** To do this, you create some records (DNS) at the provider where your domain is hosted.
+**It is the step where you authorize AFRUS to send emails with your organization's domain.** To do this, you create some records (DNS) at the provider where your domain is hosted.
 
-Until you set it up, your emails are sent from an Afrus account.
-
-The screen is called **Dominios de correo electrónico** (Email domains) and opens in the previous version of Afrus, which is why it looks different.
+Until you set it up, your emails are sent from an AFRUS account.
 
 ## What it is for
 
@@ -30,7 +28,7 @@ At the top of **Interacciones > Autoresponders** and **Interacciones > Blast** y
 | Card | What it means |
 |---|---|
 | **Dominio verificado** (Verified domain) | Ready: your emails go out with your domain |
-| **No tienes un dominio verificado para Email** (No verified email domain) | Your emails go out from an Afrus account |
+| **No tienes un dominio verificado para Email** (No verified email domain) | Your emails go out from an AFRUS account |
 | **Error en registros DNS** (DNS record error) | There is a problem with the records; they need fixing |
 
 ![Sending-domain card at the top of Autoresponders with the Configurar DNS button](img/que-es-la-automatizacion-onboarding-01.webp)
@@ -39,11 +37,11 @@ At the top of **Interacciones > Autoresponders** and **Interacciones > Blast** y
 
 # Step by step
 
-## How to set up my DNS in Afrus
+## How to set up my DNS in AFRUS
 
 **Before you start:**
 - **Have access to your domain provider's panel** (where you bought the domain), or ask whoever manages it on your team.
-- **Your organization's sending account must be set up by Afrus.** If you see *"Hubo un error al crear el dominio"* (There was an error creating the domain) when you start, write to us.
+- **Your organization's sending account must be set up by AFRUS.** If you see *"Hubo un error al crear el dominio"* (There was an error creating the domain) when you start, write to us.
 
 1. **Open the setup.** In **Interacciones > Autoresponders** or **Interacciones > Blast**, click "Configurar DNS" on the domain card.
 
@@ -61,31 +59,22 @@ When you finish, the screen shows your domain and its status: **Pendiente** (Pen
 
 **To check the status:** the status updates when you open the screen or when you click "Comprobar estado" (Check status).
 
-> **Can it be undone?** The delete icon next to the domain removes it. If you delete it, your emails go back to being sent from an Afrus account.
-> **Pending confirmation:** whether deleting the domain asks for confirmation.
+> **Can it be undone?** The delete icon next to the domain removes it. If you delete it, your emails go back to being sent from an AFRUS account.
 
 **To send from a specific address** (for example `donations@yourorg.org`): that address has to belong to a user of your organization.
 
 ---
-
-## Known limitations
-
-- If your organization never set up a domain, the card may show **Error en registros DNS** instead of "No tienes un dominio verificado". In that case, just follow the steps in this guide.
-- The status doesn't update by itself while the screen is open: use "Comprobar estado".
 
 ## Frequently asked questions
 
 **How long does verification take?**
 Up to 48 hours, although it is usually much faster.
 
-**Does Afrus let me know when it's done?**
-> **Pending confirmation:** whether Afrus sends an email when validation finishes.
-
-**Where is "Onboarding automation" in the menu?**
-> **Pending confirmation:** whether there is a menu option with that name. Today you reach this screen with the "Configurar DNS" button.
+**Does AFRUS let me know when it's done?**
+No, it doesn't. You need to check whether the domain was validated: once it is, you will see the verified domain in **Interacciones > Blast** or in **Interacciones > Autoresponders**.
 
 ---
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

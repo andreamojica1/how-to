@@ -1,6 +1,6 @@
 # Guia de Importações
 
-Com este guia você vai poder subir para a Afrus, de uma só vez, uma lista de contatos ou de doações que você tem em Excel ou em outro sistema.
+Com este guia você vai poder subir para a AFRUS, de uma só vez, uma lista de contatos ou de doações que você tem em Excel ou em outro sistema.
 
 *Módulo: Data · Menu: **Data > Importaciones** · Público: equipes de dados, captação e administração*
 
@@ -10,28 +10,26 @@ Com este guia você vai poder subir para a Afrus, de uma só vez, uma lista de c
 
 ## O que são as importações
 
-**Importar é subir para a Afrus muitos dados de uma vez a partir de um arquivo**, em vez de cadastrá-los um por um.
+**Importar é subir para a AFRUS muitos dados de uma vez a partir de um arquivo**, em vez de cadastrá-los um por um.
 
 Em **Data > Importaciones** (Importações) você pode subir dois tipos de listas:
 
 - **Leads:** seus contatos (pessoas).
-- **Transacciones** (Transações): doações que você recebeu antes ou fora da Afrus.
-
-Esta tela abre na versão anterior da Afrus, por isso tem outra aparência.
+- **Transacciones** (Transações): doações que você recebeu antes ou fora da AFRUS.
 
 > Se sua organização está no Brasil e você quer subir o arquivo de boletos pagos do banco, isso é feito em outra tela. Veja o [guia de Importaciones - itaú](../follow-up/importaciones-itau-guide.pt.md).
 
 ## Para que servem
 
 - **Trazer seus contatos de outro sistema** sem digitá-los.
-- **Carregar seu histórico de doações,** para ter na Afrus a informação completa de cada doador.
-- **Atualizar pessoas que você já tem.** Se uma pessoa do arquivo já existe na Afrus, ela é atualizada com os dados novos.
+- **Carregar seu histórico de doações,** para ter na AFRUS a informação completa de cada doador.
+- **Atualizar pessoas que você já tem.** Se uma pessoa do arquivo já existe na AFRUS, ela é atualizada com os dados novos.
 - **Agrupar o que você importa.** Você pode colocar uma tag em todas as pessoas do arquivo para encontrá-las depois.
 
 ## Antes de começar
 
 - **Seu arquivo em Excel ou CSV** (`.xlsx`, `.xls` ou `.csv`), de até 20 MB.
-- **Para importar doações:** sua organização precisa ter ativo o gateway "Simple Afrus" na moeda dessas doações. Se não tiver, fale com a gente.
+- **Para importar doações:** sua organização precisa ter ativo o gateway "Simple AFRUS" na moeda dessas doações. Se não tiver, fale com a gente.
 - **Revise seu arquivo** com a lista "O que considerar ao importar" deste guia. Isso evita erros.
 
 ---
@@ -50,12 +48,12 @@ Esta tela abre na versão anterior da Afrus, por isso tem outra aparência.
 
 4. **Confirme a permissão dos seus contatos (só Leads).** Marque a caixa *"Certifico que cuento con el consentimiento de las personas incluidas en este archivo para importar sus datos y enviarles comunicaciones multicanal (email, WhatsApp, SMS)."* (Certifico que tenho o consentimento das pessoas deste arquivo para importar seus dados e enviar comunicações multicanal) e clique em "Importar".
 
-5. **Ligue cada coluna ao seu campo na Afrus.** Para cada coluna do seu arquivo ("Datos archivos importados", dados dos arquivos importados), escolha a qual dado da Afrus ela corresponde ("Campos de Afrus", campos da Afrus). Por exemplo: sua coluna "Mail" vai com e-mail. Assim a Afrus sabe onde guardar cada dado.
-   <!-- captura pendente: como-importar-um-arquivo-05 — tela para ligar as colunas do arquivo aos campos da Afrus -->
+5. **Ligue cada coluna ao seu campo na AFRUS.** Para cada coluna do seu arquivo ("Datos archivos importados", dados dos arquivos importados), escolha a qual dado da AFRUS ela corresponde ("Campos de AFRUS", campos da AFRUS). Por exemplo: sua coluna "Mail" vai com e-mail. Assim a AFRUS sabe onde guardar cada dado.
+   <!-- captura pendente: como-importar-um-arquivo-05 — tela para ligar as colunas do arquivo aos campos da AFRUS -->
 
 6. **Coloque uma tag (opcional).** Em **Tag** você pode escrever uma etiqueta para todas as pessoas do arquivo, por exemplo o nome do evento onde você as conheceu.
 
-7. **Só para doações, preencha:** a moeda (**Selección de moneda**), o status das doações (**Estatus de la transacción**: Exitosa/Bem-sucedida, Pendiente/Pendente, Fallida/Falhou ou Reembolsado) e a **Campaña** (Campanha) a que pertencem. A caixa **Disparar eventos** já vem marcada; deixe assim se quiser que essas doações sejam compartilhadas com os sistemas conectados à Afrus.
+7. **Só para doações, preencha:** a moeda (**Selección de moneda**), o status das doações (**Estatus de la transacción**: Exitosa/Bem-sucedida, Pendiente/Pendente, Fallida/Falhou ou Reembolsado) e a **Campaña** (Campanha) a que pertencem. A caixa **Disparar eventos** já vem marcada; deixe assim se quiser que essas doações sejam compartilhadas com os sistemas conectados à AFRUS.
 
 8. **Envie.** Clique em "Siguiente" (Próximo) e depois em "Enviar". Você verá *"¡Listo!"* (Pronto!); clique em "Aceptar" (OK).
 
@@ -67,7 +65,7 @@ Ao terminar, sua importação aparece na lista. Primeiro ela mostra **En cola** 
 
 **Sobre o arquivo:**
 
-- **Use só a primeira planilha.** Se seu Excel tem várias abas, a Afrus só lê a primeira.
+- **Use só a primeira planilha.** Se seu Excel tem várias abas, a AFRUS só lê a primeira.
 - **A primeira linha deve ter os títulos** de cada coluna (Nome, E-mail, Valor…).
 - **Escreva as datas como dia/mês/ano**, por exemplo 25/10/2026.
 
@@ -82,24 +80,30 @@ Se faltar o e-mail, a tela deixa você continuar, mas todas as linhas falham. Co
 
 **Sobre nomes, telefones e documentos:**
 
-- **Nome e sobrenome:** você pode usar uma só coluna com o nome completo ou colunas separadas para nome e sobrenome. A Afrus aceita as duas formas.
-  > **Pendente de confirmação:** se é melhor separar nome e sobrenome para a Afrus guardá-los melhor.
-- **Telefones:**
-  > **Pendente de confirmação:** em que formato devem estar os telefones (por exemplo, com o código do país e o sinal "+").
-- **Tipo de documento:**
-  > **Pendente de confirmação:** como deve ser escrito o tipo de documento (por exemplo, com um número ou código equivalente).
+- **Nome e sobrenome:** você pode usar uma só coluna com o nome completo ou colunas separadas para nome e sobrenome. A AFRUS aceita as duas formas. Para que as informações fiquem salvas corretamente na AFRUS, o melhor é sempre enviar nome e sobrenome em colunas separadas.
+- **Telefones:** devem ter o código do país e o sinal "+".
+- **Tipo de documento:** escreva o número que corresponde a cada tipo:
+  - National Identification Document: **4**
+  - CPF: **8** (Brasil)
+  - CNPJ: **9**
+  - NIE: **13** (Espanha)
+  - NIF: **14** (Espanha)
+  - Passport: **1**
+  - Cédula de ciudadanía: **16**
+  - Cédula de extranjería: **17**
+  - RUC: **18**
 
 **Pessoas repetidas:**
 
-- A Afrus reconhece cada pessoa pelo **e-mail**. Se ela já existe, é **atualizada** com os dados do arquivo que não estejam vazios. Se não existe, é criada.
+- A AFRUS reconhece cada pessoa pelo **e-mail**. Se ela já existe, é **atualizada** com os dados do arquivo que não estejam vazios. Se não existe, é criada.
 
 **Doações repetidas:**
 
 - Cada linha cria uma doação nova. **Se você subir o mesmo arquivo duas vezes, as doações ficam duplicadas.**
 
-> **Importante, permissões de contato:** ao importar, a Afrus marca cada pessoa do arquivo como **aceitando comunicações por todos os canais**, mesmo que antes tenha pedido para sair. Por isso, inclua só pessoas que deram permissão e tire do arquivo quem pediu para não receber mensagens.
+> **Importante, permissões de contato:** ao importar, a AFRUS marca cada pessoa do arquivo como **aceitando comunicações por todos os canais**, mesmo que antes tenha pedido para sair. Por isso, inclua só pessoas que deram permissão e tire do arquivo quem pediu para não receber mensagens.
 
-**O que a Afrus adiciona sozinha:**
+**O que a AFRUS adiciona sozinha:**
 
 - Cada pessoa importada recebe uma tag automática com a data e a hora da importação (começa com "import-"). Assim você sempre sabe de qual importação ela veio.
 - As doações importadas não enviam avisos para sua equipe.
@@ -112,7 +116,7 @@ Na lista de **Data > Importaciones** você vê todas as suas importações com o
 | Status | O que significa |
 |---|---|
 | **En cola** (Na fila) | Esperando a vez |
-| **Procesando** (Processando) | A Afrus está carregando |
+| **Procesando** (Processando) | A AFRUS está carregando |
 | **Finalizado** | Terminou sem erros |
 | **Finalizado con errores** (com erros) | Algumas linhas (ou todas) não puderam ser carregadas |
 
@@ -130,11 +134,7 @@ Cada usuário vê só as importações que ele fez. Se não encontrar uma, pergu
 ## Perguntas frequentes
 
 **Quantas linhas posso subir?**
-O arquivo pode ter até 20 MB.
-> **Pendente de confirmação:** se há um limite de linhas.
-
-**Os contatos importados recebem meus e-mails automáticos?**
-> **Pendente de confirmação:** se as pessoas ou doações importadas ativam seus autoresponders ou fluxos de trabalho.
+O arquivo pode ter até 20 MB. Não há limite de linhas.
 
 **Recebo um e-mail quando a importação termina?**
 Não. O aviso *"Importación finalizada"* aparece dentro do console.
@@ -143,4 +143,4 @@ Não. O aviso *"Importación finalizada"* aparece dentro do console.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

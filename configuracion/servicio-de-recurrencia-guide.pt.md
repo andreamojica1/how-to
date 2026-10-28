@@ -2,7 +2,7 @@
 
 Com este guia você vai saber o que é o Serviço de recorrência, para que ele serve e quais opções pode configurar nele.
 
-*Módulo: Configuración (Configurações) · Menu: **Configuración > Pagos > Servicio de recurrencia** · Público: administradores da organização*
+*Módulo: Configuración (Configurações) · Menu: **Ajustes de Organización > Servicio de recurrencia** · Público: administradores da organização*
 
 > **Sobre os nomes de tela neste guia:** botões, campos e menus estão escritos exatamente como aparecem na versão em espanhol do console, com a explicação em português quando ajuda.
 
@@ -10,11 +10,11 @@ Com este guia você vai saber o que é o Serviço de recorrência, para que ele 
 
 ## O que é o Serviço de recorrência
 
-**É a tela onde você configura como a Afrus faz as cobranças automáticas das suas doações mensais e recorrentes.** Na tela, o título é **Configuración del Motor de Recurrencia** (Configuração do motor de recorrência).
+**É a tela onde você configura como a AFRUS faz as cobranças automáticas das suas doações mensais e recorrentes.** Na tela, o título é **Configuración del Motor de Recurrencia** (Configuração do motor de recorrência).
 
 Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o que fazer quando uma cobrança falha.
 
-> **Importante:** esta configuração vale para as doações recorrentes que a Afrus cobra. Se o seu gateway de pagamento cobra as assinaturas por conta própria (por exemplo Stripe, PayU ou Pagar.me), é o gateway que decide quando cobrar.
+> **Importante:** esta configuração vale para as doações recorrentes que a AFRUS cobra. Se o seu gateway de pagamento cobra as assinaturas por conta própria (por exemplo Stripe, PayU ou Pagar.me), é o gateway que decide quando cobrar.
 
 ## Para que serve
 
@@ -22,8 +22,6 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 - **Decidir o que acontece se uma cobrança falhar:** quantas vezes ela é tentada de novo e em quais datas.
 - **Escolher os dias de cobrança**, se você usa o modo **Charities**.
 - **Voltar à configuração original** com um só botão, se algo não convencer você.
-
-> **Pendente de confirmação:** que as mudanças nesta tela alteram as cobranças reais. Antes de mudar algo importante, fale com a equipe da Afrus.
 
 ## Antes de começar
 
@@ -36,7 +34,7 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 
 ## Como configurar o Serviço de recorrência
 
-1. **Abra a tela.** Acesse **Configuración > Pagos > Servicio de recurrencia**. Você verá o título **Configuración del Motor de Recurrencia**.
+1. **Abra a tela.** Acesse **Ajustes de Organización > Servicio de recurrencia**. Você verá o título **Configuración del Motor de Recurrencia**.
    ![Tela Configuración del Motor de Recurrencia com a configuração atual e os campos Modo mejorado, Periodicidad e Modo de reintento](img/como-configurar-el-servicio-de-recurrencia-01.webp)
 
 2. **Escolha o modo.** Em **Modo mejorado** (Modo aprimorado), escolha **Standard** ou **Charities**. Com **Charities**, você também pode escolher os dias de cobrança.
@@ -56,25 +54,17 @@ Ali você escolhe, por exemplo, a cada quanto tempo a doação é cobrada e o qu
 
 7. **Salve as mudanças.** Elas serão aplicadas aos próximos ciclos de cobrança.
 
-> **Pendente de confirmação:** o nome exato do botão de salvar.
-
 > **Dá para desfazer?** Sim. Você pode mudar as opções quando quiser, ou clicar em "Restaurar valores por defecto" (Restaurar valores padrão) para voltar à configuração original.
 
 ---
 
-## Limitações conhecidas
-
-- **Gateways que cobram por conta própria:** com Stripe, PayU ou Pagar.me, o gateway decide quando cobrar; esta tela não muda essas cobranças.
-- **Efeito nas cobranças reais:** ainda não está confirmado que esta configuração muda as cobranças. Fale com a equipe da Afrus antes de fazer mudanças.
-- **Periodicidades diferentes de mensal e anual:** não está confirmado como **Trimestral** e **Semestral** são calculadas.
-
 ## Perguntas frequentes
 
 **A que horas as cobranças são feitas?**
-> **Pendente de confirmação:** o horário das cobranças automáticas.
+Começam às 5h da manhã, mas são processadas em filas e o horário pode variar um pouco.
 
 **Quantas vezes uma cobrança que falhou é tentada de novo antes de a assinatura ser cancelada?**
-> **Pendente de confirmação:** o número de novas tentativas e quando uma assinatura é cancelada automaticamente.
+Por padrão, a cobrança é tentada 3 vezes por mês durante 12 meses antes de a recorrência ser cancelada. Você pode ajustar as novas tentativas nesta tela, em **Modo de reintento** (Modo de nova tentativa).
 
 **As mudanças afetam as assinaturas que já existem?**
 A tela indica que as mudanças valem para os próximos ciclos de cobrança.
@@ -83,4 +73,4 @@ A tela indica que as mudanças valem para os próximos ciclos de cobrança.
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

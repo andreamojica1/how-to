@@ -1,6 +1,6 @@
 # Downloads guide
 
-With this guide you will know where to find the files you export in Afrus and what each icon in the list means.
+With this guide you will know where to find the files you export in AFRUS and what each icon in the list means.
 
 *Module: Data · Menu: **Data > Descargas** (Downloads) · Audience: fundraising, data and admin teams*
 
@@ -10,9 +10,9 @@ With this guide you will know where to find the files you export in Afrus and wh
 
 ## What Downloads is
 
-**Descargas (Downloads) is the list of every file your organization exports in Afrus.**
+**Descargas (Downloads) is the list of every file your organization exports in AFRUS.**
 
-When you ask to export data (for example, your people or your transactions), Afrus prepares the file while you keep working. When it's ready, you download it from here.
+When you ask to export data (for example, your people or your transactions), AFRUS prepares the file while you keep working. When it's ready, you download it from here.
 
 You can also find it in **Trackers > Descargas**: it's the same screen.
 
@@ -60,7 +60,7 @@ In the **Acciones** (Actions) column of each row you see an icon that tells you 
 | What you see | What it means | What you can do |
 |---|---|---|
 | **Download button** | The file is ready | Click it to download |
-| **Spinning circle** | Afrus is preparing the file | Wait a few minutes |
+| **Spinning circle** | AFRUS is preparing the file | Wait a few minutes |
 | **Exclamation mark** | Something went wrong preparing the file | Hover over it to see the detail, and request the export again |
 | **Clock** | More than 7 days have passed | It can no longer be downloaded here; export it again |
 | **No icon** | The file is waiting in line | Wait: it hasn't started yet |
@@ -82,12 +82,11 @@ The newest files are shown first. Each row has the file's **Nombre** (Name), **F
 
 ## Frequently asked questions
 
-**Does Afrus retry an export that failed?**
+**Does AFRUS retry an export that failed?**
 No. Request it again from the screen where you made it.
 
 **Are files deleted after 7 days?**
 After 7 days you can no longer download them from this screen.
-> **Pending confirmation:** whether files are deleted after that period.
 
 **Is the People data up to date?**
 When you export People you choose the source: **Base de datos en tiempo real** (Real-time database) brings current data, and **Datos analizados** (Analyzed data) is updated every 24 hours.
@@ -96,4 +95,4 @@ When you export People you choose the source: **Base de datos en tiempo real** (
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

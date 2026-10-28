@@ -10,14 +10,14 @@ Idioma: es
 Título: Qué son los campos personalizados
 Slug: que-son-los-campos-personalizados
 Categoría: Configuración
-Resumen: Aprende qué son los campos personalizados: datos extra que tu organización guarda de cada persona en Afrus.
+Resumen: Aprende qué son los campos personalizados: datos extra que tu organización guarda de cada persona en AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-sirven-los-campos-personalizados, como-incluir-un-campo-personalizado-en-mi-widget, donde-se-guardan-los-campos-personalizados, donde-ver-los-campos-personalizados
 --- CUERPO (HTML) ---
-<p><strong>Son datos extra que tu organización quiere guardar de cada persona, además de los que Afrus ya trae</strong> (nombre, correo, teléfono, documento, dirección…). Por ejemplo: "¿Cómo nos conociste?" o "Área de interés".</p>
-<p>Se definen en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>. Esta pantalla se abre en la versión anterior de Afrus, por eso se ve distinta.</p>
+<p><strong>Son datos extra que tu organización quiere guardar de cada persona, además de los que AFRUS ya trae</strong> (nombre, correo, teléfono, documento, dirección…). Por ejemplo: "¿Cómo nos conociste?" o "Área de interés".</p>
+<p>Se definen en <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</p>
 === FIN ===
 ```
 
@@ -38,7 +38,7 @@ Relacionados: que-son-los-campos-personalizados, como-incluir-un-campo-personali
 <li><strong>Pedir esos datos en tus formularios.</strong> Puedes agregar el campo a tus formularios de donación o de registro.</li>
 <li><strong>Completarlos a mano.</strong> También los llenas al crear o editar una persona.</li>
 <li><strong>Usarlos en tus correos.</strong> En los autoresponders puedes insertar el valor de un campo con un merge tag.</li>
-<li><strong>Analizarlos fuera de Afrus.</strong> Cada campo sale como una columna al descargar tu lista de personas.</li>
+<li><strong>Analizarlos fuera de AFRUS.</strong> Cada campo sale como una columna al descargar tu lista de personas.</li>
 </ul>
 === FIN ===
 ```
@@ -56,10 +56,10 @@ Imagen de portada: pendiente
 Relacionados: que-son-los-campos-personalizados, para-que-sirven-los-campos-personalizados, donde-se-guardan-los-campos-personalizados, donde-ver-los-campos-personalizados
 --- CUERPO (HTML) ---
 <h2>Antes de empezar</h2>
-<ul><li><strong>El campo ya tiene que existir</strong> en <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>.</li></ul>
+<ul><li><strong>El campo ya tiene que existir</strong> en <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Paso a paso</h2>
 <ol>
-<li><strong>Abre el editor del formulario.</strong> En <strong>Fundraising &gt; Widgets</strong>, edita el formulario. El editor se abre en la versión anterior de Afrus.</li>
+<li><strong>Abre el editor del formulario.</strong> En <strong>Fundraising &gt; Widgets</strong>, edita el formulario.</li>
 <li><strong>Agrega el bloque.</strong> Haz clic en "Agregar" y elige <strong>Campo personalizado</strong>.</li>
 <li><strong>Configúralo.</strong> Haz clic sobre el bloque y configúralo en <strong>Configuración del snippet</strong>.</li>
 <li><strong>Ordénalo.</strong> Arrástralo hasta el lugar donde quieres que aparezca.</li>
@@ -121,14 +121,14 @@ Idioma: en
 Título: What custom fields are
 Slug: what-are-custom-fields
 Categoría: Configuración
-Resumen: Learn what custom fields are: extra details your organization keeps about each person in Afrus.
+Resumen: Learn what custom fields are: extra details your organization keeps about each person in AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: what-are-custom-fields-for, how-to-add-a-custom-field-to-my-widget, where-custom-fields-are-stored, where-to-see-custom-fields
 --- CUERPO (HTML) ---
-<p><strong>They are extra details your organization wants to keep about each person, on top of the ones Afrus already has</strong> (name, email, phone, ID, address…). For example: "How did you hear about us?" or "Area of interest". Labels are shown as they appear in the Spanish version of the console.</p>
-<p>They are defined in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong> (Settings &gt; Advanced &gt; Custom fields). This screen opens in the previous version of Afrus, which is why it looks different.</p>
+<p><strong>They are extra details your organization wants to keep about each person, on top of the ones AFRUS already has</strong> (name, email, phone, ID, address…). For example: "How did you hear about us?" or "Area of interest". Labels are shown as they appear in the Spanish version of the console.</p>
+<p>They are defined in <strong>Ajustes de Organización &gt; Campos personalizados</strong> (Organization settings &gt; Custom fields).</p>
 === FIN ===
 ```
 
@@ -149,7 +149,7 @@ Relacionados: what-are-custom-fields, how-to-add-a-custom-field-to-my-widget, wh
 <li><strong>Asking for them in your forms.</strong> You can add the field to your donation or registration forms.</li>
 <li><strong>Filling them in by hand.</strong> You can also fill them in when you create or edit a person.</li>
 <li><strong>Using them in your emails.</strong> In autoresponders you can insert a field's value with a merge tag.</li>
-<li><strong>Analyzing them outside Afrus.</strong> Each field comes out as a column when you download your list of people.</li>
+<li><strong>Analyzing them outside AFRUS.</strong> Each field comes out as a column when you download your list of people.</li>
 </ul>
 === FIN ===
 ```
@@ -168,10 +168,10 @@ Relacionados: what-are-custom-fields, what-are-custom-fields-for, where-custom-f
 --- CUERPO (HTML) ---
 <p>Labels are shown as they appear in the Spanish version of the console.</p>
 <h2>Before you start</h2>
-<ul><li><strong>The field must already exist</strong> in <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>.</li></ul>
+<ul><li><strong>The field must already exist</strong> in <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Step by step</h2>
 <ol>
-<li><strong>Open the form editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, edit the form. The editor opens in the previous version of Afrus.</li>
+<li><strong>Open the form editor.</strong> In <strong>Fundraising &gt; Widgets</strong>, edit the form.</li>
 <li><strong>Add the block.</strong> Click "Agregar" (Add) and choose <strong>Campo personalizado</strong> (Custom field).</li>
 <li><strong>Set it up.</strong> Click the block and set it up in <strong>Configuración del snippet</strong> (Snippet settings).</li>
 <li><strong>Place it.</strong> Drag it to where you want it to appear.</li>
@@ -234,14 +234,14 @@ Idioma: pt-BR
 Título: O que são os campos personalizados
 Slug: o-que-sao-os-campos-personalizados
 Categoría: Configuración
-Resumen: Aprenda o que são os campos personalizados: dados extras que sua organização guarda de cada pessoa na Afrus.
+Resumen: Aprenda o que são os campos personalizados: dados extras que sua organização guarda de cada pessoa na AFRUS.
 Tiempo de lectura: 1 min
 Video: no
 Imagen de portada: pendiente
 Relacionados: para-que-servem-os-campos-personalizados, como-incluir-um-campo-personalizado-no-meu-widget, onde-ficam-salvos-os-campos-personalizados, onde-ver-os-campos-personalizados
 --- CUERPO (HTML) ---
-<p><strong>São dados extras que sua organização quer guardar de cada pessoa, além dos que a Afrus já tem</strong> (nome, e-mail, telefone, documento, endereço…). Por exemplo: "Como você nos conheceu?" ou "Área de interesse". Os nomes de tela aparecem como na versão em espanhol do console.</p>
-<p>Eles são definidos em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong> (Configurações &gt; Avançado &gt; Campos personalizados). Esta tela abre na versão anterior da Afrus, por isso tem uma aparência diferente.</p>
+<p><strong>São dados extras que sua organização quer guardar de cada pessoa, além dos que a AFRUS já tem</strong> (nome, e-mail, telefone, documento, endereço…). Por exemplo: "Como você nos conheceu?" ou "Área de interesse". Os nomes de tela aparecem como na versão em espanhol do console.</p>
+<p>Eles são definidos em <strong>Ajustes de Organización &gt; Campos personalizados</strong> (Ajustes da organização &gt; Campos personalizados).</p>
 === FIN ===
 ```
 
@@ -262,7 +262,7 @@ Relacionados: o-que-sao-os-campos-personalizados, como-incluir-um-campo-personal
 <li><strong>Pedir esses dados nos seus formulários.</strong> Você pode adicionar o campo aos formulários de doação ou de cadastro.</li>
 <li><strong>Preenchê-los à mão.</strong> Você também os preenche ao criar ou editar uma pessoa.</li>
 <li><strong>Usá-los nos seus e-mails.</strong> Nos autoresponders você pode inserir o valor de um campo com um merge tag.</li>
-<li><strong>Analisá-los fora da Afrus.</strong> Cada campo sai como uma coluna ao baixar sua lista de pessoas.</li>
+<li><strong>Analisá-los fora da AFRUS.</strong> Cada campo sai como uma coluna ao baixar sua lista de pessoas.</li>
 </ul>
 === FIN ===
 ```
@@ -281,10 +281,10 @@ Relacionados: o-que-sao-os-campos-personalizados, para-que-servem-os-campos-pers
 --- CUERPO (HTML) ---
 <p>Os nomes de tela aparecem como na versão em espanhol do console.</p>
 <h2>Antes de começar</h2>
-<ul><li><strong>O campo já precisa existir</strong> em <strong>Configuración &gt; Avanzado &gt; Campos personalizados</strong>.</li></ul>
+<ul><li><strong>O campo já precisa existir</strong> em <strong>Ajustes de Organización &gt; Campos personalizados</strong>.</li></ul>
 <h2>Passo a passo</h2>
 <ol>
-<li><strong>Abra o editor do formulário.</strong> Em <strong>Fundraising &gt; Widgets</strong>, edite o formulário. O editor abre na versão anterior da Afrus.</li>
+<li><strong>Abra o editor do formulário.</strong> Em <strong>Fundraising &gt; Widgets</strong>, edite o formulário.</li>
 <li><strong>Adicione o bloco.</strong> Clique em "Agregar" (Adicionar) e escolha <strong>Campo personalizado</strong>.</li>
 <li><strong>Configure.</strong> Clique no bloco e configure-o em <strong>Configuración del snippet</strong> (Configuração do snippet).</li>
 <li><strong>Posicione.</strong> Arraste-o até o lugar onde quer que apareça.</li>

@@ -35,10 +35,10 @@ Cada lote prepara un boleto por persona, en reales (BRL), y produce el archivo "
 
 El recorrido completo tiene cuatro momentos:
 
-1. **Generas el lote** en Afrus (pasos de abajo).
-2. **Descargas el archivo remessa** y lo envías al banco Itaú. Este envío se hace fuera de Afrus.
+1. **Generas el lote** en AFRUS (pasos de abajo).
+2. **Descargas el archivo remessa** y lo envías al banco Itaú. Este envío se hace fuera de AFRUS.
 3. **El banco te entrega un archivo de retorno** con el resultado de cada boleto.
-4. **Cargas ese archivo** en **Follow up > Importaciones - itaú**: Afrus registra las donaciones pagadas y actualiza los indicadores de esta pantalla (ver la guía de Importaciones - itaú).
+4. **Cargas ese archivo** en **Follow up > Importaciones - itaú**: AFRUS registra las donaciones pagadas y actualiza los indicadores de esta pantalla (ver la guía de Importaciones - itaú).
 
 ### Parte 1 — Generar el lote
 
@@ -52,8 +52,6 @@ El recorrido completo tiene cuatro momentos:
 4. **Crea el archivo.** Pulsa "Crear archivo de remessa".
 
 Verás *"El archivo de Remessa se está generando. En unos minutos podrás descargar el archivo."* con el botón "Ver procesos". Se crea un lote en **Procesos de generación de boleto**.
-
-> **¿Se puede deshacer?** **Pendiente de confirmar:** si un lote generado se puede anular. Revisa bien el segmento, el monto y el vencimiento antes de crear el archivo.
 
 ### Parte 2 — Descargar y seguir el lote
 
@@ -73,7 +71,7 @@ Se muestran en general en la lista y por lote en el detalle.
 |---|---|
 | **Generados** | Total de boletos generados |
 | **Emitidos sin error** | Boletos generados correctamente, sin error en los datos de la persona ni de la pasarela |
-| **Efectivamente cobrados** | Boletos que, al cargar el archivo de retorno del banco, quedaron confirmados como donación en Afrus. Incluye el monto cobrado |
+| **Efectivamente cobrados** | Boletos que, al cargar el archivo de retorno del banco, quedaron confirmados como donación en AFRUS. Incluye el monto cobrado |
 | **Rechazados** | Boletos que el banco reportó como rechazados en el archivo de retorno |
 | **Sin retorno todavía** | Boletos emitidos para los que todavía no se cargó un archivo de retorno |
 
@@ -82,12 +80,10 @@ Se muestran en general en la lista y por lote en el detalle.
 | Estado | Qué significa | Qué puedes hacer |
 |---|---|---|
 | **Sin retorno** | Aún no se cargó la respuesta del banco para este boleto | Cargar el archivo de retorno cuando el banco lo entregue |
-| **Cobrado** | El banco lo confirmó y quedó como donación en Afrus | Nada |
+| **Cobrado** | El banco lo confirmó y quedó como donación en AFRUS | Nada |
 | **Rechazado** | El banco lo rechazó | Revisar el caso con la persona |
 | **Pagado - no registrado** | El banco lo confirmó como pagado, pero no quedó como donación, normalmente por datos incompletos (CEP o documento) | Completar los datos de la persona |
 | **Otro** | Otra respuesta del banco | Revisar el detalle |
-
-> **Pendiente de confirmar:** cómo registrar una donación de un boleto **Pagado - no registrado** después de completar los datos.
 
 ## Estados de un lote
 
@@ -99,25 +95,13 @@ Se muestran en inglés tal cual: `created` (creado), `queued` (en cola), `pendin
 - **La pantalla no se refresca sola.** Carga al abrirla y al cambiar de página.
 - **Los indicadores de cobro** cambian cuando se carga el archivo de retorno del banco en **Follow up > Importaciones - itaú**.
 
-## Limitaciones conocidas
-
-- **Solo para organizaciones de Brasil**, aunque el menú aparece para todas.
-- **Los estados del lote se muestran en inglés.**
-- **Al generar no se puede elegir campaña ni widget.** La campaña y el widget se eligen después, al cargar el archivo de retorno.
-
 ## Preguntas frecuentes
 
-**¿Afrus envía el archivo al banco?**
-No. Descargas el archivo remessa y lo envías al banco por fuera de Afrus.
-
-**¿Qué datos bancarios usa el archivo y quién los configura?**
-> **Pendiente de confirmar:** qué datos bancarios de la organización (agencia, cuenta, cartera) usa el archivo y cómo se configuran. Escríbenos para revisarlo.
-
-**¿Al generar el boleto se crea una transacción pendiente?**
-> **Pendiente de confirmar.**
+**¿AFRUS envía el archivo al banco?**
+No. Descargas el archivo remessa y lo envías al banco por fuera de AFRUS.
 
 ---
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-20*
+*Última actualización: 2026-10-27*

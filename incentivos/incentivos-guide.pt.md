@@ -12,7 +12,7 @@ Com este guia, você vai poder dar um presente a quem doa a partir de um certo v
 
 **Um incentivo é um presente que sua organização oferece a quem doa a partir de um valor mínimo.** Por exemplo: um livro, um calendário ou um certificado digital.
 
-Os incentivos são configurados dentro de uma campanha e aparecem nos seus formulários de doação (widgets). Na Afrus, você também vai vê-los com o nome de **brinde**, **presente** ou **recompensa**: é tudo a mesma coisa.
+Os incentivos são configurados dentro de uma campanha e aparecem nos seus widgets de Transacción (Transação). Na AFRUS, você também vai vê-los com o nome de **brinde**, **presente** ou **recompensa**: é tudo a mesma coisa.
 
 Existem dois tipos:
 
@@ -23,7 +23,7 @@ Existem dois tipos:
 
 - **Estimular doações maiores.** O doador vê qual presente ganha com cada valor e quanto falta para o próximo.
 - **Conquistar mais doadores mensais.** Você pode pedir um valor diferente para quem doa uma vez e para quem doa todo mês.
-- **Entregar presentes digitais sem trabalho manual.** A Afrus envia sozinha por e-mail.
+- **Entregar presentes digitais sem trabalho manual.** A AFRUS envia sozinha por e-mail.
 - **Organizar o envio dos presentes físicos.** Você tem uma lista de quem deve receber cada presente, em qual endereço e se você já enviou.
 - **Permitir presentear outra pessoa.** Um doador pode doar em nome de alguém (por um aniversário ou uma homenagem, por exemplo) e essa pessoa recebe um cartão.
 - **Fazer promoções com cupons.** Um cupom deixa o presente mais fácil de conseguir.
@@ -33,7 +33,7 @@ Existem dois tipos:
 1. **Você configura** os presentes dentro da campanha e escolhe em quais formulários eles aparecem.
 2. **O doador escolhe** o valor e o presente no formulário.
 3. **O pagamento é confirmado.**
-4. **A Afrus atribui o presente,** desconta uma unidade do estoque e o inclui na lista de entregas.
+4. **A AFRUS atribui o presente,** desconta uma unidade do estoque e o inclui na lista de entregas.
 5. **Você entrega** o presente físico (os digitais chegam sozinhos) e marca cada envio.
 
 O presente só é atribuído quando o pagamento está confirmado. Se o pagamento falhar, nada é descontado e não fica nada para entregar.
@@ -41,7 +41,7 @@ O presente só é atribuído quando o pagamento está confirmado. Se o pagamento
 ## Antes de começar
 
 - **Uma campanha criada** em **Fundraising > Campañas** (Campanhas).
-- **Pelo menos um formulário de doação** (widget com seletor de valor).
+- **Pelo menos um widget de Transacción (Transação)** (widget com seletor de valor).
 - **Uma foto de cada presente:** em JPG, PNG ou WEBP, de até 2 MB e com pelo menos 800 × 800 pixels. Sem foto, o presente não aparece.
 - **Se você for oferecer presentes digitais ou presentes para outra pessoa:** um fluxo de trabalho de entrega. Explicamos como em "Para que criar um workflow nos incentivos".
 
@@ -119,7 +119,7 @@ Como os presentes aparecem assim que você salva, o mais seguro é testá-los co
 
 > **Importante:** a página de teste é real. Se você concluir uma doação ali, ela é cobrada. Para revisar o visual, basta olhar e mudar os valores.
 
-**Os presentes não aparecem?** Confira se a chave **Incentivos** está ligada, se o formulário está marcado e salvo, se é um formulário de doação e se há pelo menos um presente ativo, com foto e com unidades disponíveis.
+**Os presentes não aparecem?** Confira se a chave **Incentivos** está ligada, se o formulário está marcado e salvo, se é um widget de Transacción (Transação) e se há pelo menos um presente ativo, com foto e com unidades disponíveis.
 
 ## Para que servem os cupons
 
@@ -156,7 +156,7 @@ Com esta opção, o doador doa em nome de outra pessoa, por exemplo por um anive
 
 1. **Prepare o envio do cartão.** O cartão sai por um fluxo de trabalho. Crie-o primeiro, como explicamos em "Para que criar um workflow nos incentivos".
 2. **Ative a opção.** Na aba **Incentivos** da campanha, ligue a chave **Para terceiros**.
-3. **Escolha uma etiqueta.** Selecione o **Tag de segmentación para terceros** (Tag de segmentação para terceiros). É obrigatório; se você não tiver uma, crie-a ali mesmo. A Afrus coloca essa etiqueta em cada pessoa que recebe um presente, para você encontrá-las depois.
+3. **Escolha uma etiqueta.** Selecione o **Tag de segmentación para terceros** (Tag de segmentação para terceiros). É obrigatório; se você não tiver uma, crie-a ali mesmo. A AFRUS coloca essa etiqueta em cada pessoa que recebe um presente, para você encontrá-las depois.
 
 Ao terminar, seus formulários vão mostrar a opção **Donar a nombre de otra persona** (Doar em nome de outra pessoa). Se você não escolher a etiqueta, a opção não aparece.
 
@@ -184,7 +184,7 @@ Ele também pode programar o cartão para um dia especial: a partir de amanhã e
 
 ## Quais widgets podem ter incentivos
 
-- **Só os formulários de doação**, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.
+- **Só os widgets de Transacción (Transação)**, ou seja, os que têm valores para escolher. Os de produto, de peer to peer ou de outros tipos não aparecem na lista.
 - **Cada formulário pode estar em uma única campanha com presentes.** Se você já o usa em outra, ele aparece como "En uso en la campaña…" (Em uso na campanha…) e não pode ser escolhido.
 - **Os presentes são oferecidos na moeda da sua organização.** Se o formulário aceita outras moedas, quem doar em outra moeda faz uma doação normal, sem presente.
 
@@ -200,7 +200,7 @@ Só um pode ser o **destaque** da campanha.
 
 **O fluxo de trabalho (workflow) é o que envia os presentes digitais e os cartões para outra pessoa.** Sem ele, esses presentes não chegam.
 
-Ele é criado uma vez só e funciona sozinho: sempre que uma doação com presente é confirmada, a Afrus envia o e-mail. Você pode anexar, por exemplo, um certificado em PDF.
+Ele é criado uma vez só e funciona sozinho: sempre que uma doação com presente é confirmada, a AFRUS envia o e-mail. Você pode anexar, por exemplo, um certificado em PDF.
 
 Para criá-lo:
 
@@ -210,7 +210,7 @@ Para criá-lo:
 4. **Adicione um único passo.** Escolha **Enviar correo** (Enviar e-mail), escreva sua mensagem e anexe o arquivo, se precisar. Com um único passo funciona melhor.
 5. **Ative o fluxo antes de publicar** seus presentes.
 
-> **Importante:** se não houver um fluxo ativo, a entrega fica **Con problema** (Com problema). A Afrus tenta de novo várias vezes nas horas seguintes; então, se você criar o fluxo a tempo, o presente chega.
+> **Importante:** se não houver um fluxo ativo, a entrega fica **Con problema** (Com problema). A AFRUS tenta de novo várias vezes nas horas seguintes; então, se você criar o fluxo a tempo, o presente chega.
 
 ## Quais incentivos exigem um workflow
 
@@ -250,7 +250,7 @@ Para criá-lo:
 
 ## O que o doador vê
 
-![Formulário de doação com valores, barra de presentes, presente escolhido, cupom e opção de doar em nome de outra pessoa](img/lo-que-ve-el-donante-01.webp)
+![Widget de Transacción (Transação) com valores, barra de presentes, presente escolhido, cupom e opção de doar em nome de outra pessoa](img/lo-que-ve-el-donante-01.webp)
 
 *Imagem de referência com dados de exemplo: sua tela pode ser um pouco diferente.*
 
@@ -277,7 +277,6 @@ Para criá-lo:
 - **Pagamentos que demoram para ser confirmados** (como boleto ou Pix): o presente é atribuído quando chega a confirmação.
 - **Reembolsos:** a doação fica marcada como revertida, mas o estoque não volta sozinho e o presente não é recuperado automaticamente. Sua equipe decide o que fazer.
 - **Pagamentos confirmados muito depois:** por privacidade, o endereço é apagado depois de um tempo. Se o pagamento chegar depois disso, o presente fica **Con problema** (Com problema) e é preciso resolver à mão.
-  > **Pendente de confirmação:** por quantos dias esses dados ficam guardados.
 - **Se você mudar um presente** (valor, estoque ou etiquetas), a mudança vale para as doações novas. Os presentes já atribuídos não mudam.
 - **Se um presente já foi atribuído,** ele não pode passar de físico para digital nem o contrário. Crie um novo.
 
@@ -300,13 +299,12 @@ Desligue a chave **Incentivos** da campanha. Seus formulários voltam a ficar co
 
 **O que acontece se o doador demorar mais de 60 minutos para pagar?**
 O presente fica reservado por 60 minutos.
-> **Pendente de confirmação:** o que o doador vê quando esse tempo passa.
 
 **Funciona com todos os meios de pagamento?**
-> **Pendente de confirmação:** com quais gateways e meios de pagamento o presente funciona.
+Sim.
 
 ---
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*
