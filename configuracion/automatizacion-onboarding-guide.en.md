@@ -60,7 +60,6 @@ When you finish, the screen shows your domain and its status: **Pendiente** (Pen
 **To check the status:** the status updates when you open the screen or when you click "Comprobar estado" (Check status).
 
 > **Can it be undone?** The delete icon next to the domain removes it. If you delete it, your emails go back to being sent from an AFRUS account.
-> **Pending confirmation:** whether deleting the domain asks for confirmation.
 
 **To send from a specific address** (for example `donations@yourorg.org`): that address has to belong to a user of your organization.
 
@@ -78,4 +77,4 @@ No, it doesn't. You need to check whether the domain was validated: once it is, 
 
 > **[Back to section index](./README.md)** · **[Back to main index](../README.md)**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

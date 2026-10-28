@@ -165,8 +165,6 @@ Se mesmo assim você quiser tirá-las da sua base:
 
 2. **Exclua-as.** Abra o perfil da pessoa e clique em "Borrar" (Excluir). Para excluir várias de uma vez, em **Personas** marque-as, abra **Acciones** (Ações) e escolha **Eliminar** (Excluir).
 
-> **Pendente de confirmação:** se existe um filtro ou segmento que reúna todas as pessoas com devolução, para excluí-las de uma vez.
-
 > **Dá para desfazer?** Não. Excluir uma pessoa é definitivo: também são apagadas as doações, assinaturas e todo o histórico dela. Se a pessoa doa ou tem uma assinatura ativa, pense duas vezes: a AFRUS já não envia e-mails para ela se tiver **Hard Bounce**.
 
 ## Como limpar minha base para não bloquearem meus envios

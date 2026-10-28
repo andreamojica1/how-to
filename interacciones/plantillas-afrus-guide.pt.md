@@ -63,7 +63,6 @@ Você pode filtrar a tabela por tipo, objetivo e status para encontrar o que pro
 **Para editar um modelo seu:** na linha dele, use "Editar plantilla" (Editar modelo), faça as mudanças e clique em "Guardar cambios" (Salvar alterações).
 
 > **Dá para desfazer?** Excluir um modelo ("Eliminar plantilla") o tira da sua biblioteca.
-> **Pendente de confirmação:** se um modelo excluído pode ser recuperado.
 
 ## Como diferenciar seus modelos dos que a AFRUS oferece
 

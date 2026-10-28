@@ -165,8 +165,6 @@ If you still want to remove them from your database:
 
 2. **Delete them.** Open the person's profile and click "Borrar" (Delete). To delete several at once, in **Personas** check them, open **Acciones** (Actions) and choose **Eliminar** (Delete).
 
-> **Pending confirmation:** whether there is a filter or segment that gathers everyone with a bounce, to delete them in one go.
-
 > **Can it be undone?** No. Deleting a person is permanent: their donations, subscriptions and whole history are deleted too. If the person donates or has an active subscription, think twice: AFRUS already stops emailing them if they have a **Hard Bounce**.
 
 ## How to clean my database so sending isn't blocked

@@ -163,8 +163,6 @@ Si aun así quieres sacarlas de tu base:
 
 2. **Elimínalas.** Abre el perfil de la persona y haz clic en "Borrar". Para borrar varias a la vez, en **Personas** márcalas, abre **Acciones** y elige **Eliminar**.
 
-> **Pendiente de confirmar:** si existe un filtro o segmento que reúna a todas las personas con rebote, para borrarlas de una vez.
-
 > **¿Se puede deshacer?** No. Eliminar una persona es definitivo: también se borran sus donaciones, suscripciones y todo su historial. Si la persona dona o tiene una suscripción activa, piénsalo dos veces: AFRUS ya no le envía correos si tiene **Hard Bounce**.
 
 ## Cómo limpiar mi base para que no me bloqueen el envío

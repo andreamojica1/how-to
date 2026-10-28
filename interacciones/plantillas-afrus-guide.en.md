@@ -63,7 +63,6 @@ You can filter the table by type, goal and status to find what you need.
 **To edit one of your templates:** on its row, use "Editar plantilla" (Edit template), make the changes and click "Guardar cambios" (Save changes).
 
 > **Can it be undone?** Deleting a template ("Eliminar plantilla") removes it from your library.
-> **Pending confirmation:** whether a deleted template can be recovered.
 
 ## How to tell your templates from the ones AFRUS provides
 

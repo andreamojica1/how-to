@@ -58,7 +58,6 @@ Al terminar, la pantalla muestra tu dominio y su estado: **Pendiente**, **Exitos
 **Para revisar el estado:** el estado se actualiza cuando abres la pantalla o cuando haces clic en "Comprobar estado".
 
 > **¿Se puede deshacer?** El icono de borrar junto al dominio lo elimina. Si lo borras, tus correos vuelven a salir desde una cuenta de AFRUS.
-> **Pendiente de confirmar:** si al borrar el dominio hay una confirmación.
 
 **Para enviar desde una dirección concreta** (por ejemplo `donaciones@tuorg.org`): esa dirección tiene que ser de un usuario de tu organización.
 
@@ -76,4 +75,4 @@ No, no te avisa. Debes revisar si el dominio quedó validado: cuando lo esté, v
 
 > **[Volver al índice de la sección](./README.md)** · **[Volver al índice general](../README.md)**
 
-*Última actualización: 2026-10-26*
+*Última actualización: 2026-10-27*

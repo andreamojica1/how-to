@@ -60,7 +60,6 @@ Ao terminar, a tela mostra seu domínio e o status: **Pendiente** (Pendente), **
 **Para conferir o status:** ele se atualiza quando você abre a tela ou clica em "Comprobar estado" (Verificar status).
 
 > **Dá para desfazer?** O ícone de excluir ao lado do domínio o remove. Se você excluir, seus e-mails voltam a sair de uma conta da AFRUS.
-> **Pendente de confirmação:** se ao excluir o domínio aparece uma confirmação.
 
 **Para enviar de um endereço específico** (por exemplo `doacoes@suaorg.org`): esse endereço precisa ser de um usuário da sua organização.
 
@@ -78,4 +77,4 @@ Não, não avisa. Você precisa conferir se o domínio foi validado: quando esti
 
 > **[Voltar ao índice da seção](./README.md)** · **[Voltar ao índice geral](../README.md)**
 
-*Última atualização: 2026-10-26*
+*Última atualização: 2026-10-27*

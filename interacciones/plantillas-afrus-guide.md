@@ -61,7 +61,6 @@ Puedes filtrar la tabla por tipo, objetivo y estado para encontrar lo que buscas
 **Para editar una plantilla tuya:** en su fila, usa "Editar plantilla", haz los cambios y haz clic en "Guardar cambios".
 
 > **¿Se puede deshacer?** Eliminar una plantilla ("Eliminar plantilla") la quita de tu biblioteca.
-> **Pendiente de confirmar:** si una plantilla eliminada se puede recuperar.
 
 ## Cómo diferenciar tus plantillas de las que trae AFRUS
 
